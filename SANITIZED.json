@@ -1,0 +1,98 @@
+[
+ {
+  "路径": "05_方法全书/23_倪师推理链_20261007/recall_build_v1.py",
+  "替换处数": 2,
+  "原指纹": "58300cdaf82486b9426bfe138a682ae13d509b9bb40a5b44aac3aa828cf8bdcb",
+  "新指纹": "30e60b67adf4e0435ec21249913d16719ed8ea6da06df19ec72dc846c10a5336"
+ },
+ {
+  "路径": "05_方法全书/23_倪师推理链_20261007/trad_build_v1.py",
+  "替换处数": 2,
+  "原指纹": "ef0237142ee84fdef1118fae99f0b41e4e59e943d0eff0338692c45f67b83412",
+  "新指纹": "d02d0cb1fe3e1bf6ac6522a2936886ca1dd59b7459d7194a9faf2b6c63de8048"
+ },
+ {
+  "路径": "05_方法全书/23_倪师推理链_20261007/types_build_v1.py",
+  "替换处数": 2,
+  "原指纹": "b77b40acf8261a549cc63575c0d9d0dc06026b1fe996e5a854c1fad787b666f0",
+  "新指纹": "764f50c7c8d23190a80cbd65b04e90b75fe620129f7b23b2f86f1385c7bbec70"
+ },
+ {
+  "路径": "05_方法全书/23_倪师推理链_20261007/api_runs/adj_r1_tasks.json",
+  "替换处数": 54,
+  "原指纹": "c5762df0a818a324e368ae6427c009d45ccb6265a941f57e58fa7b7c42aff1e4",
+  "新指纹": "7ef35a7446ade5d9ea5cc83b7c73b1cfbf1c95a5b635f46036a7da46357a17b1"
+ },
+ {
+  "路径": "05_方法全书/23_倪师推理链_20261007/api_runs/coder_r1_tasks.json",
+  "替换处数": 110,
+  "原指纹": "0a941d95372f10296ad65ba2c9171981aef75db72676bd0d132912d839093fdf",
+  "新指纹": "bb962fdd19bad67fe67df3aaedd3047ce4cfec74e3dfbd081bf738551ede65e1"
+ },
+ {
+  "路径": "05_方法全书/23_倪师推理链_20261007/api_runs/m4e_fable_r1_tasks.json",
+  "替换处数": 168,
+  "原指纹": "ba21acb8e734b7f1d7d4b621c4e9d554f1462cd09229d08aff4b2efa0eeee00d",
+  "新指纹": "a805115ff02ed580a0a0be26dd3809dc0c05834308d8455d1261bf0bbcaa5d21"
+ },
+ {
+  "路径": "05_方法全书/23_倪师推理链_20261007/api_runs/m4f_r1_tasks.json",
+  "替换处数": 252,
+  "原指纹": "2e875adb41a03ee7a024a138fbf2dd039e81a5a4933d535803a1ce001e0da3e2",
+  "新指纹": "3ee12498c91177d0c2b7994adf00d20eb00c92a4d7f0d550e4076e025a2e3934"
+ },
+ {
+  "路径": "05_方法全书/23_倪师推理链_20261007/api_runs/pilot_r1_tasks.json",
+  "替换处数": 2,
+  "原指纹": "7bfb786b10d4b075a9e08d2ceb032670a7b08c1b0d5f96062877223d0449c814",
+  "新指纹": "51ecf75b48bd634aa2bf81957a22360fdd3de36ce9b98a4c7ded04fadb0a695d"
+ },
+ {
+  "路径": "05_方法全书/23_倪师推理链_20261007/api_runs/seg_r1_tasks.json",
+  "替换处数": 20,
+  "原指纹": "ed86abd6c41f631075a39dfa72b1cef0769be52b1d5aeacc6dfe3a75b6727a01",
+  "新指纹": "56421767777d4b0f188594bbab195902673be722e4f1be9200004b70caa0b392"
+ },
+ {
+  "路径": "05_方法全书/23_倪师推理链_20261007/api_runs/segadj_r1_tasks.json",
+  "替换处数": 9,
+  "原指纹": "df6b175da7331dd433da109955fd73abd42b577cebfa4b0b23409491889eab31",
+  "新指纹": "0443fc1dc3ace5bd6b8009086f6f923237fd0881925029a5cd412e775a9669b0"
+ },
+ {
+  "路径": "05_方法全书/23_倪师推理链_20261007/chain_returns_v2/_misclaimed_20261007/K10_乙.audit.json",
+  "替换处数": 4,
+  "原指纹": "e59d3727a4ea863b5d8d08ca04e95df6c124431dfa5b4ccf5c6ef0bcc9437e62",
+  "新指纹": "4b398e26652602e19700981c93b3382c801da810d4498fabf3d8bbb6d8cec300"
+ },
+ {
+  "路径": "05_方法全书/23_倪师推理链_20261007/chain_returns_v2/_misclaimed_20261007/K10_甲.audit.json",
+  "替换处数": 4,
+  "原指纹": "71e0e67dd0851267dd91cf5f0fae8f545f348c9b2bbbe1dc33d9e656ba8b5e51",
+  "新指纹": "f8d7d9cb3dd4d03b1726fcf74abc02e419072ea6c12a9e88c3e9033a5fd987f4"
+ },
+ {
+  "路径": "05_方法全书/23_倪师推理链_20261007/types_v1/formal_returns/B06_乙.audit.json",
+  "替换处数": 1,
+  "原指纹": "2e5e259950f56e0b46b05b0aa655b6bfe445fb831af2d63a41128b2dbc0cb17a",
+  "新指纹": "e56d54a17ecefcd92c7122461999518be5b02cc84548a0652175bb17521c976f"
+ },
+ {
+  "路径": "05_方法全书/21_倪师断法引擎_20261005/m4_build_v2.py",
+  "替换处数": 2,
+  "原指纹": "06785a0b3525f2f93f1ee0bc7fba8fb76ebf7f90d91ebdcf9ab65b81f68011ce",
+  "新指纹": "d316145fc8dfd5ad81aa5eb78c9a8c55be7b1b9655ceebc19150dc34333beed6"
+ },
+ {
+  "路径": "05_方法全书/21_倪师断法引擎_20261005/save_m4_returns_v3.py",
+  "替换处数": 1,
+  "原指纹": "c82bfc959a69fb0af132896591753718a9f904a24a71a7e4a7dd28c60b19abeb",
+  "新指纹": "af8edf96f39ff3d4303b3be9190e45d870124fe470de74046762379a7feaa960"
+ },
+ {
+  "路径": "05_方法全书/02_全书分包/manifest.json",
+  "替换处数": 12,
+  "原指纹": "7910632ecdc3c2080b8118354c4e41b33cd6e0db73cb22cd471d5d2862330373",
+  "新指纹": "be7766ba73c1b9af76c4bf6b04b8a022d14acedb4cae90b7e69c069a14d7c2da"
+ }
+]

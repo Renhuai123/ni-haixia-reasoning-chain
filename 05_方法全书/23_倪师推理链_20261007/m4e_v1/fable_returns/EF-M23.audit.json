@@ -1,0 +1,31 @@
+{
+ "name": "EF-M23",
+ "id": "EF-M23",
+ "role": null,
+ "rerun": 0,
+ "ok": true,
+ "why_not_ok": [],
+ "custom_id": "EF-M23",
+ "batch_id": "msgbatch_018BBnuCB5Fi2CEugBkDXffX",
+ "model": "claude-fable-5-1",
+ "message_id": "msg_011Cfp49E3wMzqRabDKtPdEX",
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 7800,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 0,
+  "cache_creation": {
+   "ephemeral_5m_input_tokens": 0,
+   "ephemeral_1h_input_tokens": 0
+  },
+  "output_tokens": 1762,
+  "output_tokens_details": {
+   "thinking_tokens": 1061
+  },
+  "service_tier": "batch",
+  "inference_geo": "global"
+ },
+ "花费美元": 0.083,
+ "prompt_sha256": "9e3fcd8f49020e48fc5320eb03870fca3818427aec22b1f274046db2f9743c4c",
+ "material_dir": "m4e_v1/judge_packets_平/M23"
+}

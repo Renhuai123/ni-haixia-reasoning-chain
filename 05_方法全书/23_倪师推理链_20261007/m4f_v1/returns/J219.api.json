@@ -1,0 +1,43 @@
+{
+ "custom_id": "J219",
+ "result": {
+  "type": "succeeded",
+  "message": {
+   "model": "claude-fable-5-1",
+   "id": "msg_011Cfp3CLJSiB6AGBFZf8Eqc",
+   "type": "message",
+   "role": "assistant",
+   "content": [
+    {
+     "type": "thinking",
+     "thinking": "",
+     "signature": "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"
+    },
+    {
+     "type": "text",
+     "text": "{\n \"包\": \"J219\",\n \"答案\": [\n  {\n   \"题\": \"题01\",\n   \"最符合\": \"B\",\n   \"排序\": [\n    \"B\",\n    \"D\",\n    \"C\",\n    \"A\"\n   ],\n   \"理由\": {\n    \"A\": \"命宫断为公正廉明、厚道、文武双全、事业做大，与凶悍泼妇式的性格不符；没有偏房、形小之断，仅子女宫有「无子」一项勉强相符，整体最不符。\",\n    \"B\": \"命宫直断偏房格、做偏房、形小娇小玲珑、刚强凶星、唠叨太吵、口舌是非、大怒犯大错、男人受不了，与个子小、作偏房、为人凶恶爱骂人高度相符；不足处是子女宫断「没问题、先有孩子」与无子不合，父母宫未明显点出被领养。\",\n    \"C\": \"命宫断瘦高高挑与个子很小相反，个性温和厚道不苟言笑与泼妇骂街不合，夫妻宫断二婚离婚与一直未婚不符；仅「与父亲相隔」「无子」两项相符。\",\n    \"D\": \"命宫有偏房格、做偏房、个子矮形小、唠叨太吵、口舌是非，与偏房与小个子相符；但命宫个性断平和、文官带，子女宫断一子二子，与凶恶脾气和无子相矛盾，故次于B。\"\n   }\n  }\n ]\n}"
+    }
+   ],
+   "container": null,
+   "stop_reason": "end_turn",
+   "stop_sequence": null,
+   "stop_details": null,
+   "usage": {
+    "input_tokens": 19356,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 1364,
+    "output_tokens_details": {
+     "thinking_tokens": 866
+    },
+    "service_tier": "batch",
+    "inference_geo": "global"
+   },
+   "diagnostics": null
+  }
+ }
+}

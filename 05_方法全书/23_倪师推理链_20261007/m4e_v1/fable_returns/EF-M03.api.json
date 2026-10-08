@@ -1,0 +1,43 @@
+{
+ "custom_id": "EF-M03",
+ "result": {
+  "type": "succeeded",
+  "message": {
+   "model": "claude-fable-5-1",
+   "id": "msg_011Cfp49E7fAeNWbQnMMvhDm",
+   "type": "message",
+   "role": "assistant",
+   "content": [
+    {
+     "type": "thinking",
+     "thinking": "",
+     "signature": "CAQS7QoKEAgSGAI4AUIIdGhpbmtpbmcSDJ/lSv6my2Fljq8qdBoMVBPHHMDzSTT4wB/TIjCR4697phfnm12m03U2Fs443dLiReEeDp/i1vY3+5XMdVX/MqOC0coeFVzlFUXfCEEqigrG3GDFduuF8HzWf7YXQ9FlwRcYOA8lOreUfYXyu7Xp6jq+Cct4meB1pkU0rwKOuuBmcj6q4DnceDga8QdZvWbO2lzzNd8QRu/nOeYZvpD4ryzDSjiqZv/jmvk0vROQmnsJxJAyU46TLHqg7dc7iox1eG4YWNTsgINmeF1rs7ZVBG+r62XrSSBFRwhIt7wmLrkqdbK1HTGUfk16zm6/W0yvcaime+yfKGYcqrdPebuSK9dEdDRGhf0j/A4a6E62SQnL4MZD/TGGHPh/TgOxv703XogMz/6ayP+yEEVeS1yOzJWnlBK3P/5S+GnPd1ulWLLL4kd98ahNRhX/QVD7Rdm3500nptjcGgBny8XjapJ0L0RhZXwjWfD9aSMef50P7Gp6aUnY5+V+P2RPJLqfo37gD3UbHkJVShihzViFYoaIt+QDOMV0S6pZq1oor8meloPhKhvjz4gXtH8iHqDXZMenyB0l7mmuZC4MotNbpONt60wdUZ9Pk6I/q5PHdtGUtZyDFRIsT3F1Yq40nkqXm5VvL3jeO0+QvAfi3pNAM9Af8MDFfsUA/QycDEuik3zptAU+MWXfV6KEc5+Z806J2BO3PA+rxQAQfc5XvbLBhxyQMxon+rG+Y5EpXzUODGY4t5Gf4k19xOCIzugzzzwi50APrKWHAaMVaMqpUhL4vvqXNKyOpwsIQxfdq+5ATBaG7wPAYsL0G1Lz4HMATl9vIIgAzLAQDJsOEWuTN2d0VG4x6DEh+jLLes2T4eFGR4aZxzE7m1HpAuhaEXYiPIWvJCmrJSYmHJDSFMMjNWvtLGCeUkIuPn9PHiV0Zj36na5YtNNshsJUOpfIWtPix8IGAhVrZ+9jZvp+1RE2dYq7rdbLxDWUVEGbdmuW9SHD6Kvi3DMpX1SjYFdkhv8CHfozZGv+mf7OX51st3kMTbnD8J51NETncwRc49srn5Qf4zGXFwoMCslOaQR2KHMxq53rygSw+T5xhKTxpQ8tVZVjCr7nVX8lNlUZkgTVTNDfxQU6utmhXItbrXhZpZr4/Nj09X1E7t009mrqW/Ts8u8JGs17BrXRzGvnNs13JF7Z/qhe9ZzRNg8yNNHjuGQgK+V9tanLZ4DYgTkTcJl58UK57RN2OXaZLSf1tJMH/d/jLmnWHp6D7F+AZh0lD7z1CQj+kqf5w9GqCtu2N01h8wQtI6INk+wRIEwXOXPfuq5FbYdK1SGgMDw/QWwlbT972ZfF7vjccs1Fd9oqrsrFxOhk7I3yYIWyhDx4KohFULRPch8SlLY+WkRs78/kQZhqH5fdV9bGzaOrenyULWwLYjXUQomlsAUeDXwNhshgkxIMHbRZ1ZIk+pln2KIvFUHP8CHUNvqDxVLfGQ8zyqCmpUul5wL9mfNLElflX2FU3YL3VKOgrbnkDoNpElU0w8Ku6MG+SX3/+m7yTm5GkfoKjLZ38Q/5aroZuf+qX8eubBSdWNifEax0crHLcFJ6qc8FOyJm50GKvx6rrZpEy7teBXjfiUDQak8sSGXDerwfso9c9r+unKVyM4sqQ+stD5qHwz5hYzax0N4bJr1nN1ZxsMau+WbdejvWv22ZjWwKH+Ga28vbW18vn2p6w8RyXt0oPlQV4hfsAMDWND8d5GC+5EcQ9k2FU0DSC8LL/BIhGJ8JhRr+34UTqPOluy1rDgcnsxnd6hki+VytM+Sf+bts3EGTAVu4Jp1Yf+f0Sn2rvU4YAQ=="
+    },
+    {
+     "type": "text",
+     "text": "{\n \"包\": \"M03\",\n \"答案\": [\n  {\n   \"题\": \"题03\",\n   \"最符合\": \"D\",\n   \"排序\": [\n    \"D\",\n    \"B\",\n    \"C\",\n    \"A\"\n   ],\n   \"理由\": {\n    \"A\": \"命宫仅言婚姻难有着落，夫妻宫重在配偶血光开刀，与丈夫远行聚少散多、分开之事无直接对应，相符最少。\",\n    \"B\": \"夫妻宫为身宫，配偶离乡走天下、婚姻不好，福德多婚，可呼应丈夫在外与分开，但未明言聚少散多。\",\n    \"C\": \"命宫言婚姻不容易遇到好的、中年先生有问题，与33岁前即分开的时点不尽相合，配偶离乡的描述也不在夫妻宫。\",\n    \"D\": \"命宫直接断聚少散多、做偏房、六亲不靠，身宫在迁移主一去不回，最契合丈夫远行、看不到丈夫、终必分开的陈述，仅夫妻宫婚姻好一项略有矛盾。\"\n   }\n  }\n ]\n}"
+    }
+   ],
+   "container": null,
+   "stop_reason": "end_turn",
+   "stop_sequence": null,
+   "stop_details": null,
+   "usage": {
+    "input_tokens": 7695,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 763,
+    "output_tokens_details": {
+     "thinking_tokens": 379
+    },
+    "service_tier": "batch",
+    "inference_geo": "global"
+   },
+   "diagnostics": null
+  }
+ }
+}

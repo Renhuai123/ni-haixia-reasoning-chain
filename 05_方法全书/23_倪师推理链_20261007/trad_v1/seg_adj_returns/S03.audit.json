@@ -1,0 +1,31 @@
+{
+ "name": "S03",
+ "id": "S03",
+ "role": null,
+ "rerun": 0,
+ "ok": true,
+ "why_not_ok": [],
+ "custom_id": "S03_ADJ",
+ "batch_id": "msgbatch_01QKFBjPcxvxxp2Rc2z1npWJ",
+ "model": "claude-fable-5-1",
+ "message_id": "msg_011Cfp1cuEnX76SNeik67Rdo",
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 17739,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 0,
+  "cache_creation": {
+   "ephemeral_5m_input_tokens": 0,
+   "ephemeral_1h_input_tokens": 0
+  },
+  "output_tokens": 2503,
+  "output_tokens_details": {
+   "thinking_tokens": 1111
+  },
+  "service_tier": "batch",
+  "inference_geo": "global"
+ },
+ "花费美元": 0.1513,
+ "prompt_sha256": "78899115fe29bc9b5a4e27e5fd40ba6cc9e0fe67d7c3a339c4ff1d91823572d5",
+ "material_dir": "trad_v1/seg_adj/S03"
+}

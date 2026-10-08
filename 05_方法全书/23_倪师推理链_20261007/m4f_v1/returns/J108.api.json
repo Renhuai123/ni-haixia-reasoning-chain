@@ -1,0 +1,43 @@
+{
+ "custom_id": "J108",
+ "result": {
+  "type": "succeeded",
+  "message": {
+   "model": "claude-fable-5-1",
+   "id": "msg_011Cfp3CKxc2iz1txeXuS8B3",
+   "type": "message",
+   "role": "assistant",
+   "content": [
+    {
+     "type": "thinking",
+     "thinking": "",
+     "signature": "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"
+    },
+    {
+     "type": "text",
+     "text": "{\n \"包\": \"J108\",\n \"答案\": [\n  {\n   \"题\": \"题01\",\n   \"最符合\": \"A\",\n   \"排序\": [\n    \"A\",\n    \"D\",\n    \"B\",\n    \"C\"\n   ],\n   \"理由\": {\n    \"A\": \"命宫正财直接推出「帮人做事领薪水」，官禄「没有官带、不会当官、当官不容易」与到私人公司当助手相合，兄弟宫有佐才；夫妻宫正财、官带、文官带、校长老师公务员，配偶能力强，夫妻宫凶星灾星、吵架与婆媳不和的家庭纷争亦可呼应；福德宫一世不顺、很累、福德宫凶，与53岁中风后半身瘫痪一生不顺相合。不足处是命宫未直接写出本人健康血光。\",\n    \"D\": \"命宫正财推「帮人做事领薪水」，本人健康有开刀、见血光、要注意本人健康安全，能对上中风；但同时断巨贾、大富、富可敌国、公家单位银行界，与私人企业当助手不合，且夫妻宫「忌由先生而来」、「男人受不了」、仆役「没有名分的先生」等显示是女命盘，与本人为丈夫的陈述矛盾。\",\n    \"B\": \"夫妻宫（身宫）正财、大财星、当校长，配偶能力强可对上；但命宫断文采风流、科甲、专业技术、作家画家、到外地发展、离祖、六亲不靠，没有领薪水当助手的路线，又有「做偏房」、「母亲待她好」等女命迹象，与陈述不符较多。\",\n    \"C\": \"命宫武官星推军人、将军、威震边疆、大吉、男命最好，财帛家财万贯，迁移到海外发展，与领薪水当私人公司助手完全相反；虽疾厄有开刀血光、福德宫凶、夫妻宫配偶最好可勉强对上健康与配偶，但主线路线与成就矛盾最大。\"\n   }\n  }\n ]\n}"
+    }
+   ],
+   "container": null,
+   "stop_reason": "end_turn",
+   "stop_sequence": null,
+   "stop_details": null,
+   "usage": {
+    "input_tokens": 17762,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 2333,
+    "output_tokens_details": {
+     "thinking_tokens": 1633
+    },
+    "service_tier": "batch",
+    "inference_geo": "global"
+   },
+   "diagnostics": null
+  }
+ }
+}

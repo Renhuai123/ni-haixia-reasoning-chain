@@ -1,0 +1,43 @@
+{
+ "custom_id": "E3-M23",
+ "result": {
+  "type": "succeeded",
+  "message": {
+   "model": "claude-fable-5-1",
+   "id": "msg_011Cfp49EL4GFp4AyZLypMjz",
+   "type": "message",
+   "role": "assistant",
+   "content": [
+    {
+     "type": "thinking",
+     "thinking": "",
+     "signature": "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"
+    },
+    {
+     "type": "text",
+     "text": "{\n \"包\": \"M23\",\n \"答案\": [\n  {\n   \"题\": \"题23\",\n   \"最符合\": \"B\",\n   \"排序\": [\n    \"B\",\n    \"A\",\n    \"D\",\n    \"C\"\n   ],\n   \"理由\": {\n    \"A\": \"有坐牢、是非官司、身宫在夫妻故后天被婚姻影响很大、婚姻不好、意外车祸等与入狱、妻死、横祸相合，但命主路线是做巨贾大生意、父母宫‘日月同亮旺父母、很孝顺’与母亲是他小人、作奸犯科的陈述明显相悖。\",\n    \"B\": \"天梁坐命正派厚道却耳根软、命中小人多、家里一票小人、想不开、事与愿违，祖业很大合家里有钱，官禄文官公务人员、老师合‘本该在公家单位领薪水’，官司纠纷、劫杀意外横祸合坐牢与38岁横祸，父母宫‘姻缘由父母掌握、父母帮挑’‘离散父母’且父母性刚主见强，正合母亲包办18岁婚姻、母亲执迷不悟，夫妻宫巨门主是非纠纷与妻子悲剧亦相应，几乎处处吻合。\",\n    \"C\": \"太阳坐命个性火爆、巨富富可敌国、一定做主管，且带旺夫、偏房格、与合伙人同居等女命论断，与温厚男命主、坐牢受制的陈述完全不合，仅‘小人多、耳根软、有祖业’略合。\",\n    \"D\": \"夫妻宫化忌主破财、官司、劫杀、孤单、二婚可对应妻子早逝之祸，但命主武曲五短、火爆刚强、文武双全、必去当官，与‘最温驯温厚、没有反抗力’相反，父母宫又旺父母、很孝顺，与母亲是小人、母子对抗相悖。\"\n   }\n  }\n ]\n}"
+    }
+   ],
+   "container": null,
+   "stop_reason": "end_turn",
+   "stop_sequence": null,
+   "stop_details": null,
+   "usage": {
+    "input_tokens": 11467,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 1513,
+    "output_tokens_details": {
+     "thinking_tokens": 842
+    },
+    "service_tier": "batch",
+    "inference_geo": "global"
+   },
+   "diagnostics": null
+  }
+ }
+}

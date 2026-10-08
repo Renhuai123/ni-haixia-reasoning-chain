@@ -1,0 +1,43 @@
+{
+ "custom_id": "Q17_ADJ",
+ "result": {
+  "type": "succeeded",
+  "message": {
+   "model": "claude-fable-5-1",
+   "id": "msg_011Cfp3b3EAwUsFUxDw83K81",
+   "type": "message",
+   "role": "assistant",
+   "content": [
+    {
+     "type": "thinking",
+     "thinking": "",
+     "signature": "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"
+    },
+    {
+     "type": "text",
+     "text": "{\n \"批\": \"Q17\",\n \"裁定\": [\n  {\n   \"编号\": \"qs-1-48-22:s001#2\",\n   \"项\": \"C2\",\n   \"裁定\": \"是\",\n   \"依据\": \"吉曜\",\n   \"理由\": \"原文不以星名而以「吉曜」这一吉凶性质、类别称呼所会之星，并把「兼吉曜」当作「巍巍富贵列三公」的理由，合于 C2「说出星的性质、类别、吉凶，把它当理由」。\"\n  },\n  {\n   \"编号\": \"qs-3-20-193:s001#5\",\n   \"项\": \"C4\",\n   \"裁定\": \"否\",\n   \"依据\": \"\",\n   \"理由\": \"本条条件只是「申酉宫」这一位置，「多忌限」是结论所说之事而非得出结论的依据，原文并未把大限、流年等时机当作理由，故 C4 不成立。\"\n  }\n ]\n}"
+    }
+   ],
+   "container": null,
+   "stop_reason": "end_turn",
+   "stop_sequence": null,
+   "stop_details": null,
+   "usage": {
+    "input_tokens": 28517,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 1233,
+    "output_tokens_details": {
+     "thinking_tokens": 921
+    },
+    "service_tier": "batch",
+    "inference_geo": "global"
+   },
+   "diagnostics": null
+  }
+ }
+}

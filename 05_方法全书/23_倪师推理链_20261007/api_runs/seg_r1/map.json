@@ -1,0 +1,188 @@
+{
+ "kind": "segmenter",
+ "model": "claude-fable-5-1",
+ "effort": "high",
+ "max_tokens": 64000,
+ "tasks": {
+  "S01_A": {
+   "name": "S01_甲",
+   "id": "S01",
+   "role": "甲",
+   "rerun": 0,
+   "dir": "trad_v1/seg/S01",
+   "instructions": null,
+   "prompt_sha256": "9fc055966aff2d012d36119cc8b57f3676e5cf004343a559394a4dc3495d5cf9"
+  },
+  "S01_B": {
+   "name": "S01_乙",
+   "id": "S01",
+   "role": "乙",
+   "rerun": 0,
+   "dir": "trad_v1/seg/S01",
+   "instructions": null,
+   "prompt_sha256": "9fc055966aff2d012d36119cc8b57f3676e5cf004343a559394a4dc3495d5cf9"
+  },
+  "S02_A": {
+   "name": "S02_甲",
+   "id": "S02",
+   "role": "甲",
+   "rerun": 0,
+   "dir": "trad_v1/seg/S02",
+   "instructions": null,
+   "prompt_sha256": "a2bd74a8094e67b7a6462e4233ba9b61db77185227b0a06c36a85337befb3a5c"
+  },
+  "S02_B": {
+   "name": "S02_乙",
+   "id": "S02",
+   "role": "乙",
+   "rerun": 0,
+   "dir": "trad_v1/seg/S02",
+   "instructions": null,
+   "prompt_sha256": "a2bd74a8094e67b7a6462e4233ba9b61db77185227b0a06c36a85337befb3a5c"
+  },
+  "S03_A": {
+   "name": "S03_甲",
+   "id": "S03",
+   "role": "甲",
+   "rerun": 0,
+   "dir": "trad_v1/seg/S03",
+   "instructions": null,
+   "prompt_sha256": "0b4954f89c88014f0703a312077ddea699c81f69316b8525f21dbee8da9ae290"
+  },
+  "S03_B": {
+   "name": "S03_乙",
+   "id": "S03",
+   "role": "乙",
+   "rerun": 0,
+   "dir": "trad_v1/seg/S03",
+   "instructions": null,
+   "prompt_sha256": "0b4954f89c88014f0703a312077ddea699c81f69316b8525f21dbee8da9ae290"
+  },
+  "S04_A": {
+   "name": "S04_甲",
+   "id": "S04",
+   "role": "甲",
+   "rerun": 0,
+   "dir": "trad_v1/seg/S04",
+   "instructions": null,
+   "prompt_sha256": "439986283e916f6c432f78b45134bf1ba6a8ecd00d1b4de2a9fbe512531c5c15"
+  },
+  "S04_B": {
+   "name": "S04_乙",
+   "id": "S04",
+   "role": "乙",
+   "rerun": 0,
+   "dir": "trad_v1/seg/S04",
+   "instructions": null,
+   "prompt_sha256": "439986283e916f6c432f78b45134bf1ba6a8ecd00d1b4de2a9fbe512531c5c15"
+  },
+  "S05_A": {
+   "name": "S05_甲",
+   "id": "S05",
+   "role": "甲",
+   "rerun": 0,
+   "dir": "trad_v1/seg/S05",
+   "instructions": null,
+   "prompt_sha256": "2c07979060f3b866e31755dca7c270858d94b219dfe037eb6a8266126de82e23"
+  },
+  "S05_B": {
+   "name": "S05_乙",
+   "id": "S05",
+   "role": "乙",
+   "rerun": 0,
+   "dir": "trad_v1/seg/S05",
+   "instructions": null,
+   "prompt_sha256": "2c07979060f3b866e31755dca7c270858d94b219dfe037eb6a8266126de82e23"
+  },
+  "S06_A": {
+   "name": "S06_甲",
+   "id": "S06",
+   "role": "甲",
+   "rerun": 0,
+   "dir": "trad_v1/seg/S06",
+   "instructions": null,
+   "prompt_sha256": "4866926e069f54193292cf6f09cede0c713d239f0802d71fac022a4266c89925"
+  },
+  "S06_B": {
+   "name": "S06_乙",
+   "id": "S06",
+   "role": "乙",
+   "rerun": 0,
+   "dir": "trad_v1/seg/S06",
+   "instructions": null,
+   "prompt_sha256": "4866926e069f54193292cf6f09cede0c713d239f0802d71fac022a4266c89925"
+  },
+  "S07_A": {
+   "name": "S07_甲",
+   "id": "S07",
+   "role": "甲",
+   "rerun": 0,
+   "dir": "trad_v1/seg/S07",
+   "instructions": null,
+   "prompt_sha256": "74ffc5569b45da512dd1af6d08d860d2ec0dc6cac5e93c68bb772ec39cca3204"
+  },
+  "S07_B": {
+   "name": "S07_乙",
+   "id": "S07",
+   "role": "乙",
+   "rerun": 0,
+   "dir": "trad_v1/seg/S07",
+   "instructions": null,
+   "prompt_sha256": "74ffc5569b45da512dd1af6d08d860d2ec0dc6cac5e93c68bb772ec39cca3204"
+  },
+  "S08_A": {
+   "name": "S08_甲",
+   "id": "S08",
+   "role": "甲",
+   "rerun": 0,
+   "dir": "trad_v1/seg/S08",
+   "instructions": null,
+   "prompt_sha256": "77b5527506b50bdb267b16c134d5580feb550b96e0ff9e428607e5f859743544"
+  },
+  "S08_B": {
+   "name": "S08_乙",
+   "id": "S08",
+   "role": "乙",
+   "rerun": 0,
+   "dir": "trad_v1/seg/S08",
+   "instructions": null,
+   "prompt_sha256": "77b5527506b50bdb267b16c134d5580feb550b96e0ff9e428607e5f859743544"
+  },
+  "S09_A": {
+   "name": "S09_甲",
+   "id": "S09",
+   "role": "甲",
+   "rerun": 0,
+   "dir": "trad_v1/seg/S09",
+   "instructions": null,
+   "prompt_sha256": "e2d60a4bff58022c1cfdeeb2b2c41cb6e4a5145b1e0f32088cdfcace2e036b39"
+  },
+  "S09_B": {
+   "name": "S09_乙",
+   "id": "S09",
+   "role": "乙",
+   "rerun": 0,
+   "dir": "trad_v1/seg/S09",
+   "instructions": null,
+   "prompt_sha256": "e2d60a4bff58022c1cfdeeb2b2c41cb6e4a5145b1e0f32088cdfcace2e036b39"
+  },
+  "S10_A": {
+   "name": "S10_甲",
+   "id": "S10",
+   "role": "甲",
+   "rerun": 0,
+   "dir": "trad_v1/seg/S10",
+   "instructions": null,
+   "prompt_sha256": "544c2cddba3be9d0c8554f3af1d1d647224ff1661ffbe847824a2888a364a0d0"
+  },
+  "S10_B": {
+   "name": "S10_乙",
+   "id": "S10",
+   "role": "乙",
+   "rerun": 0,
+   "dir": "trad_v1/seg/S10",
+   "instructions": null,
+   "prompt_sha256": "544c2cddba3be9d0c8554f3af1d1d647224ff1661ffbe847824a2888a364a0d0"
+  }
+ }
+}

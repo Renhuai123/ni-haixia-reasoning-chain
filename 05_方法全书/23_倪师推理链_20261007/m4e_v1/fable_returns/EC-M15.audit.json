@@ -1,0 +1,31 @@
+{
+ "name": "EC-M15",
+ "id": "EC-M15",
+ "role": null,
+ "rerun": 0,
+ "ok": true,
+ "why_not_ok": [],
+ "custom_id": "EC-M15",
+ "batch_id": "msgbatch_018BBnuCB5Fi2CEugBkDXffX",
+ "model": "claude-fable-5-1",
+ "message_id": "msg_011Cfp49DUi2DP3UHVbP5ZcP",
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 19800,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 0,
+  "cache_creation": {
+   "ephemeral_5m_input_tokens": 0,
+   "ephemeral_1h_input_tokens": 0
+  },
+  "output_tokens": 2364,
+  "output_tokens_details": {
+   "thinking_tokens": 1665
+  },
+  "service_tier": "batch",
+  "inference_geo": "global"
+ },
+ "花费美元": 0.1581,
+ "prompt_sha256": "9bd2481c2529d8dbcccf68c5833354f77c0e767f9a217d9c3a895262a2c5224d",
+ "material_dir": "m4e_v1/judge_packets_链/M15"
+}

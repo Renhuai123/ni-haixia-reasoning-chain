@@ -1,0 +1,43 @@
+{
+ "custom_id": "J204",
+ "result": {
+  "type": "succeeded",
+  "message": {
+   "model": "claude-fable-5-1",
+   "id": "msg_011Cfp3CJiwej9XA3SfTKZiH",
+   "type": "message",
+   "role": "assistant",
+   "content": [
+    {
+     "type": "thinking",
+     "thinking": "",
+     "signature": "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"
+    },
+    {
+     "type": "text",
+     "text": "{\n \"包\": \"J204\",\n \"答案\": [\n  {\n   \"题\": \"题01\",\n   \"最符合\": \"B\",\n   \"排序\": [\n    \"B\",\n    \"D\",\n    \"A\",\n    \"C\"\n   ],\n   \"理由\": {\n    \"A\": \"夫妻宫断大吉、本人以武官军警为主线，与偏房、教职都不合；仅福德「多婚」、命宫「害到自己」略能呼应偏房与自误，相符少。\",\n    \"B\": \"命宫直接断偏房格、做偏房，兄弟宫杀星并提醒兄弟健康安全（合兄弟夭折），命宫与迁移宫皆断当老师，个性心眼多、智慧高、拗、自以为有理合她想法成熟固执；仅「当公务员、公家单位」一项与陈述不合，整体相符最多。\",\n    \"D\": \"无兄弟并提醒兄弟安危、父母是非口舌、与父亲相隔、当老师、不做家庭主妇与主见强自决婚姻，可对上夭折、父母离散、教职与母兼父职；但命宫断婚姻好、招贵夫、会结婚，与「做偏房」正面矛盾。\",\n    \"C\": \"断婚姻无事、早婚、母亲待她好、合伙吉，与偏房、父母离散相反，仅兄弟宫当老师一项勉强沾边，内容又最稀少，最不相符。\"\n   }\n  }\n ]\n}"
+    }
+   ],
+   "container": null,
+   "stop_reason": "end_turn",
+   "stop_sequence": null,
+   "stop_details": null,
+   "usage": {
+    "input_tokens": 14645,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 1366,
+    "output_tokens_details": {
+     "thinking_tokens": 875
+    },
+    "service_tier": "batch",
+    "inference_geo": "global"
+   },
+   "diagnostics": null
+  }
+ }
+}

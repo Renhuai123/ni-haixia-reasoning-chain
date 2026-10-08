@@ -1,0 +1,43 @@
+{
+ "custom_id": "J221",
+ "result": {
+  "type": "succeeded",
+  "message": {
+   "model": "claude-fable-5-1",
+   "id": "msg_011Cfp3CLrSGhQz91QRYqHwU",
+   "type": "message",
+   "role": "assistant",
+   "content": [
+    {
+     "type": "thinking",
+     "thinking": "",
+     "signature": "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"
+    },
+    {
+     "type": "text",
+     "text": "{\n \"包\": \"J221\",\n \"答案\": [\n  {\n   \"题\": \"题01\",\n   \"最符合\": \"D\",\n   \"排序\": [\n    \"D\",\n    \"C\",\n    \"A\",\n    \"B\"\n   ],\n   \"理由\": {\n    \"A\": \"命宫有能做事业、智慧高，配偶灾星可勉强对应享不到夫福；但长相断头脸大、五官挤在一起而非眯眯眼，无祖业、置产相关判断，整体偏重武官血光官非，与经商置产的女老板形象不贴。\",\n    \"B\": \"聪明、智慧高、反应快与「人很聪明」相符；但命宫正财、帮人做事领薪水、当公务员、财帛宫不做生意，与「一定自己做事业当老板、做事业很强」直接矛盾，故排最后。\",\n    \"C\": \"事业做得很大、巨贾、私人企业或自己做事业、生有祖业、中年先生有问题，与经商、祖业、夫福不佳有相符处；但命宫又断不做生意、宜为人手下、旺夫让先生无后顾之忧，且长相为眼睛大、眼圆，与笑起来眼睛看不到的眯眯眼不合。\",\n    \"D\": \"眯眯眼、未言先笑、智慧高、很厉害对应「人很聪明、笑起来眼睛看不到」；做生意、当老板、能做事业、主财对应自己经商当老板且事业很强；生有祖业对应祖业可能传到她身上；个性强→先生不好、女命不行、婆媳不和对应一辈子享不到丈夫的福，相符最多、矛盾最少。\"\n   }\n  }\n ]\n}"
+    }
+   ],
+   "container": null,
+   "stop_reason": "end_turn",
+   "stop_sequence": null,
+   "stop_details": null,
+   "usage": {
+    "input_tokens": 17467,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 1067,
+    "output_tokens_details": {
+     "thinking_tokens": 499
+    },
+    "service_tier": "batch",
+    "inference_geo": "global"
+   },
+   "diagnostics": null
+  }
+ }
+}

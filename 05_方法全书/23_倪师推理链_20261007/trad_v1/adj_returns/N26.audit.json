@@ -1,0 +1,31 @@
+{
+ "name": "N26",
+ "id": "N26",
+ "role": null,
+ "rerun": 0,
+ "ok": true,
+ "why_not_ok": [],
+ "custom_id": "N26_ADJ",
+ "batch_id": "msgbatch_018GYjN73iAwTRGBzA8Sdz2B",
+ "model": "claude-fable-5-1",
+ "message_id": "msg_011Cfp3b3J93wDDfeZjwajGW",
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 32400,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 0,
+  "cache_creation": {
+   "ephemeral_5m_input_tokens": 0,
+   "ephemeral_1h_input_tokens": 0
+  },
+  "output_tokens": 4263,
+  "output_tokens_details": {
+   "thinking_tokens": 2579
+  },
+  "service_tier": "batch",
+  "inference_geo": "global"
+ },
+ "花费美元": 0.2686,
+ "prompt_sha256": "2cd4849f19ebb1b03fd81892bdeb2271f6860891facb8e80d7c62ec47dbc75fb",
+ "material_dir": "trad_v1/adjudicate/N26"
+}

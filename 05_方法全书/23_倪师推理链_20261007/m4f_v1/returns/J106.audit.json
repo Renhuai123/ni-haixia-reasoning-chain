@@ -1,0 +1,31 @@
+{
+ "name": "J106",
+ "id": "J106",
+ "role": null,
+ "rerun": 0,
+ "ok": true,
+ "why_not_ok": [],
+ "custom_id": "J106",
+ "batch_id": "msgbatch_01XUZisTMhFtLCgCh4P9VkN7",
+ "model": "claude-fable-5-1",
+ "message_id": "msg_011Cfp3CKMPiZGoQCcHgcjMX",
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 17177,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 0,
+  "cache_creation": {
+   "ephemeral_5m_input_tokens": 0,
+   "ephemeral_1h_input_tokens": 0
+  },
+  "output_tokens": 2428,
+  "output_tokens_details": {
+   "thinking_tokens": 1797
+  },
+  "service_tier": "batch",
+  "inference_geo": "global"
+ },
+ "花费美元": 0.1466,
+ "prompt_sha256": "fae8480a44c8f6a3794580ac12604c7139a4f4d88a793609181b81cc46c732da",
+ "material_dir": "m4f_v1/packets/J106"
+}

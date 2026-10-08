@@ -1,0 +1,31 @@
+{
+ "name": "N19_乙",
+ "id": "N19",
+ "role": "乙",
+ "rerun": 0,
+ "ok": true,
+ "why_not_ok": [],
+ "custom_id": "N19_B",
+ "batch_id": "msgbatch_01NVFCc2Q9UGQHBdYMjtvvjy",
+ "model": "claude-fable-5-1",
+ "message_id": "msg_011Cfp2XdxzfgWFY9TEse7VW",
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 21765,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 0,
+  "cache_creation": {
+   "ephemeral_5m_input_tokens": 0,
+   "ephemeral_1h_input_tokens": 0
+  },
+  "output_tokens": 14032,
+  "output_tokens_details": {
+   "thinking_tokens": 6201
+  },
+  "service_tier": "batch",
+  "inference_geo": "global"
+ },
+ "花费美元": 0.4596,
+ "prompt_sha256": "095df6e13d5cc3774ac3d90e3d6653f27f656514774a99a78675446505860074",
+ "material_dir": "trad_v1/formal/N19"
+}

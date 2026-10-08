@@ -1,0 +1,31 @@
+{
+ "name": "J229",
+ "id": "J229",
+ "role": null,
+ "rerun": 0,
+ "ok": true,
+ "why_not_ok": [],
+ "custom_id": "J229",
+ "batch_id": "msgbatch_01XUZisTMhFtLCgCh4P9VkN7",
+ "model": "claude-fable-5-1",
+ "message_id": "msg_011Cfp3CK4Y7XMbcGgC2UcWC",
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 17828,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 0,
+  "cache_creation": {
+   "ephemeral_5m_input_tokens": 0,
+   "ephemeral_1h_input_tokens": 0
+  },
+  "output_tokens": 1274,
+  "output_tokens_details": {
+   "thinking_tokens": 758
+  },
+  "service_tier": "batch",
+  "inference_geo": "global"
+ },
+ "花费美元": 0.121,
+ "prompt_sha256": "c858b6760f7ac16ef47d2c4c622b7accbe00e9eed2e21326026c14d6ab51a2b7",
+ "material_dir": "m4f_v1/packets/J229"
+}

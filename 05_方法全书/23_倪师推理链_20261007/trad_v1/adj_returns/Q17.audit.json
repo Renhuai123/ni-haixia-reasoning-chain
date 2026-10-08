@@ -1,0 +1,31 @@
+{
+ "name": "Q17",
+ "id": "Q17",
+ "role": null,
+ "rerun": 0,
+ "ok": true,
+ "why_not_ok": [],
+ "custom_id": "Q17_ADJ",
+ "batch_id": "msgbatch_018GYjN73iAwTRGBzA8Sdz2B",
+ "model": "claude-fable-5-1",
+ "message_id": "msg_011Cfp3b3EAwUsFUxDw83K81",
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 28517,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 0,
+  "cache_creation": {
+   "ephemeral_5m_input_tokens": 0,
+   "ephemeral_1h_input_tokens": 0
+  },
+  "output_tokens": 1233,
+  "output_tokens_details": {
+   "thinking_tokens": 921
+  },
+  "service_tier": "batch",
+  "inference_geo": "global"
+ },
+ "花费美元": 0.1734,
+ "prompt_sha256": "ea97dbde02a5fadbd0c3c13c2d4ccd0e4d82eb677f9b5dc897ff9040268920b1",
+ "material_dir": "trad_v1/adjudicate/Q17"
+}

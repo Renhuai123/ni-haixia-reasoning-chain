@@ -1,0 +1,43 @@
+{
+ "custom_id": "J022",
+ "result": {
+  "type": "succeeded",
+  "message": {
+   "model": "claude-fable-5-1",
+   "id": "msg_011Cfp3CKfzfdkRBrSwuokfA",
+   "type": "message",
+   "role": "assistant",
+   "content": [
+    {
+     "type": "thinking",
+     "thinking": "",
+     "signature": "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"
+    },
+    {
+     "type": "text",
+     "text": "{\n \"包\": \"J022\",\n \"答案\": [\n  {\n   \"题\": \"题01\",\n   \"最符合\": \"C\",\n   \"排序\": [\n    \"C\",\n    \"B\",\n    \"D\",\n    \"A\"\n   ],\n   \"理由\": {\n    \"A\": \"夫妻宫在身宫，配偶武官星、奔波，勉强可对应丈夫在外奔走，但只断「后天受婚姻影响大」，没有分离、聚少散多等与陈述相符的婚姻判断。\",\n    \"B\": \"福德身宫断多婚、命宫断不容易遇到好的、夫妻宫吉处藏凶在劫难逃，可对应婚姻必定分开，但没有聚少散多或丈夫在外的描述，与陈述三不甚相符。\",\n    \"C\": \"命宫直接断「聚少散多」「做偏房」「六亲不靠」，夫妻宫断孤单、停滞、要注意配偶健康安全、婚姻受该宫之人左右，迁移身宫又断到外地海外发展，最能同时对应丈夫聚少散多（海员）及三十多岁后无夫、终必分开。\",\n    \"D\": \"夫妻宫武官星、奔波、要注意配偶健康安全，父母宫断早婚，可对应丈夫在外及早年即与丈夫分开，但缺乏聚少散多与分离的直接判断，命宫重心在佐才、不得重用，与陈述关联较弱。\"\n   }\n  }\n ]\n}"
+    }
+   ],
+   "container": null,
+   "stop_reason": "end_turn",
+   "stop_sequence": null,
+   "stop_details": null,
+   "usage": {
+    "input_tokens": 12789,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 1024,
+    "output_tokens_details": {
+     "thinking_tokens": 524
+    },
+    "service_tier": "batch",
+    "inference_geo": "global"
+   },
+   "diagnostics": null
+  }
+ }
+}

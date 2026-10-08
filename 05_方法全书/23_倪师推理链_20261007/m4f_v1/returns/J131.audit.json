@@ -1,0 +1,31 @@
+{
+ "name": "J131",
+ "id": "J131",
+ "role": null,
+ "rerun": 0,
+ "ok": true,
+ "why_not_ok": [],
+ "custom_id": "J131",
+ "batch_id": "msgbatch_01XUZisTMhFtLCgCh4P9VkN7",
+ "model": "claude-fable-5-1",
+ "message_id": "msg_011Cfp3CJPMG1FQhDBnPnbXP",
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 19865,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 0,
+  "cache_creation": {
+   "ephemeral_5m_input_tokens": 0,
+   "ephemeral_1h_input_tokens": 0
+  },
+  "output_tokens": 1661,
+  "output_tokens_details": {
+   "thinking_tokens": 1093
+  },
+  "service_tier": "batch",
+  "inference_geo": "global"
+ },
+ "花费美元": 0.1409,
+ "prompt_sha256": "64d410610601cee4fb809a8b8504f7ce595efb0f1a7eba4ce48b5f685d6dfa4e",
+ "material_dir": "m4f_v1/packets/J131"
+}

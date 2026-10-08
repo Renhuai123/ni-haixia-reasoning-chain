@@ -1,0 +1,43 @@
+{
+ "custom_id": "S05_ADJ",
+ "result": {
+  "type": "succeeded",
+  "message": {
+   "model": "claude-fable-5-1",
+   "id": "msg_011Cfp1ctJixeXNqxnpytWjn",
+   "type": "message",
+   "role": "assistant",
+   "content": [
+    {
+     "type": "thinking",
+     "thinking": "",
+     "signature": "CAQSjAoKEAgSGAI4AUIIdGhpbmtpbmcSDOTFITyhjEXAhzhUiRoMT5kxKRQzz6Y8f6T/IjC5u+ZR9fr7doB224cWxPqZGy1HFgqaLNoKczyU4JziJ3ICfSsnjL38k2PjOoTQTvAqqQnkwWLRX/mu69EujqY+J5S/KUsiqAmLuSU28+KU5BCwQBmfnl+edCdhqgO3mV6IYw3aadC6RBcv/CoNNukB5AoQpJ+P50UYS59mpdQqGk4A3FGtz3RwQZfnDIO2V3h1VWvGKeBMnKcWsiGIV8+bT6KerW+RpmJPqN9xuuI5P5rJqvu9HUT/75Pr3mbT0wbb4nT0FxhRICdPoV7GtTIzHDAxnYF1LPhOgBZ9KtjgyzLHkqyezBm+UxaK6eTEL2M908hnN5os9ojSY73zLW7lBWuFVBLvlX8R2PJZ6+gUu7WE1GxxE4CLvYNLIIdrq2T9Tibm5R/JTcswgpEF5bZgGN3vVbfkn57OKga/5/vTyQyDkvx/vBq6LGGHUmB0c8MKXkM7N1YDa69KZGG3iWqCznbWJhzRtDHGMyRYe8WrYoPhtGfbhynfVKjfuZq1GQW6EDE+ZBu7PBQtQQgoPxMnlJWEFOn10M+w32m+vItCJL5N63XcoPm3tWwkVrOp4sk6+KKJXCIRq3NrBuL7BMIdaqQOH6pPQEDpNieZMMcjztH9Brtsz8Jv4CJs6hBxVJ9RGwPyGa9FB+LNBKhvnoCgSUcSZmAhUp93mv4sgrQcWf2RJQQVnz5k5JkBm4yb1YA0FBSzyWu5dZ7YHwixuFe/FmCPh1M5XlMyXdz9cVhloy5jLZFgrF1lod3cgaoeCZt+BnrOeR40BA66Gg1CNQ1jyAk1OkFR3MgASr7RJTZkaYzHUFce9FE7TJaFp+8gfpDZ13FAFZsfsZerkbmQorCGfc7jIuWXnYo0JWVAXAggFip7MnrcZwK3bBZFUkQtbG9aGHdIaG55zGp+nWE1WwCLbjQEmseJiOeIpLoXQoaxYVmKeglW2U4NuR1l3g8L0vP0IwL6EnlXd+caacQZT8uYnVoIAaKgG0Ou4R4zLXQmhgnHF0PC7GEeWX0rHfj5gxPeNsWKkFycU6blkRPYnSC4j2zXmJwekPZwSwz/i8XO6eDcc2SDDbKbu2q7hqROS09GkO90Hsou9FmoT1gqrf4ee1guTKzW3kMotXoO1puADNiP4a2z5agUiDvS5BhWh3UD3iycMqEliG4wX6dLvjkJPl/mNOJDDWrXrQRtLpmUabM9HCgqPJG5kVcd2eWsCQ648XyuGUy0IuIY1Ws7hVzxU7dmi7Jse5lLGyv9TGwpejxXVmujujX3Xm+0nTNo6fFGErEQLVei1BJ+La2vefxVNTpEDlMoAndS+RVVJ00IHSCdo3Vcokmr80d5Pq3V1BTxsmkRMuqk4tQeZurwRJPTRwsVq+Js48dt3NjjucyS7OkG8nFSqE+ueMRUkeEZLMJgcYVUkaZFlwncVTEcesSE958K5c6/TwWqj0q+JhKIXFcRMk7ebyJ708gG4uHj53kj7hmOahdYQw6V5Ub6qmZ1GL3SBNsxq+2NFh4wUSfV2YX/T3NyWmhyPUSyS0R7+ayfsX8IIBPPts7XbnQgNm6DeYdD2+cBKl+zP24EHTwexkoxsHaKZ/7HrOhLXbXYJJkDwfXJouDbgXHG7WDB8Xs8OZ3Ufb/x6DlnvVnZW672gE7Z0+xS03463cyLPhgB"
+    },
+    {
+     "type": "text",
+     "text": "{\n \"批\": \"S05\",\n \"裁定\": [\n  {\n   \"编号\": \"qs-1-4-5:s004\",\n   \"断语\": [\n    {\n     \"条件原文\": \"若会紫府\",\n     \"判断原文\": \"魁星拱斗\"\n    },\n    {\n     \"条件原文\": \"加以天机木贪狼木\",\n     \"判断原文\": \"谓之变景\"\n    },\n    {\n     \"条件原文\": \"加以天机木贪狼木\",\n     \"判断原文\": \"愈加奇特\"\n    }\n   ],\n   \"理由\": \"甲乙仅在第一条是否带连词「则」上不同。「则」是连接条件与判断的虚词，不属于判断内容本身，按「抄到判断说完为止，不加不减」的规则，判断原文取「魁星拱斗」，采乙；其余两条两人一致。\"\n  },\n  {\n   \"编号\": \"qs-1-6-13:s002\",\n   \"断语\": [\n    {\n     \"条件原文\": \"玄媪三宫\",\n     \"判断原文\": \"邪淫而耽酒\"\n    }\n   ],\n   \"理由\": \"分歧仅在判断原文是否含连词「则」。「则」只起承接作用，不是判断内容，判断原文取「邪淫而耽酒」，采乙，与本批其他含「则」句子的处理保持一致。\"\n  },\n  {\n   \"编号\": \"qs-3-7-1:s003\",\n   \"断语\": [\n    {\n     \"条件原文\": \"反此\",\n     \"判断原文\": \"少遂\"\n    }\n   ],\n   \"理由\": \"分歧仅在判断原文是否含连词「则」。「反此」为条件，「少遂」为判断，「则」为承接虚词不计入判断原文，采乙，与前两句处理一致。\"\n  }\n ]\n}"
+    }
+   ],
+   "container": null,
+   "stop_reason": "end_turn",
+   "stop_sequence": null,
+   "stop_details": null,
+   "usage": {
+    "input_tokens": 15435,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 853,
+    "output_tokens_details": {
+     "thinking_tokens": 262
+    },
+    "service_tier": "batch",
+    "inference_geo": "global"
+   },
+   "diagnostics": null
+  }
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "custom_id": "S03_ADJ",
+ "result": {
+  "type": "succeeded",
+  "message": {
+   "model": "claude-fable-5-1",
+   "id": "msg_011Cfp1cuEnX76SNeik67Rdo",
+   "type": "message",
+   "role": "assistant",
+   "content": [
+    {
+     "type": "thinking",
+     "thinking": "",
+     "signature": "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"
+    },
+    {
+     "type": "text",
+     "text": "{\n \"批\": \"S03\",\n \"裁定\": [\n  {\n   \"编号\": \"qs-1-11-1:s001\",\n   \"断语\": [\n    {\n     \"条件原文\": \"天机\",\n     \"判断原文\": \"南斗第三益算之善星也\"\n    }\n   ],\n   \"理由\": \"采甲。「属木」是星曜五行所属的基本属性说明，与星名由来、排盘资料同类，不构成对星的吉凶定性或对人事的判断；「南斗第三益算之善星也」是给天机定名定性，属断语。\"\n  },\n  {\n   \"编号\": \"qs-2-1-164:s001\",\n   \"断语\": [\n    {\n     \"条件原文\": \"伏兵\",\n     \"判断原文\": \"主口舌\"\n    }\n   ],\n   \"理由\": \"采甲，与上句同理：「属火」是五行属性说明，不算断语；「主口舌」是对伏兵的定性判断，条件为「伏兵」。\"\n  },\n  {\n   \"编号\": \"qs-2-2-107:s001\",\n   \"断语\": [\n    {\n     \"条件原文\": \"人生二限值天同\",\n     \"判断原文\": \"喜气盈门\"\n    },\n    {\n     \"条件原文\": \"人生二限值天同\",\n     \"判断原文\": \"万事荣\"\n    },\n    {\n     \"条件原文\": \"人生二限值天同\",\n     \"判断原文\": \"财禄增添\"\n    },\n    {\n     \"条件原文\": \"人生二限值天同\",\n     \"判断原文\": \"宜创造\"\n    },\n    {\n     \"条件原文\": \"人生二限值天同\",\n     \"判断原文\": \"从今家道得丰荣\"\n    }\n   ],\n   \"理由\": \"采甲。「喜气盈门」与「万事荣」、「财禄增添」与「宜创造」各是独立的判断，按一个条件带出几个判断各算一条的规则分开；与两人在 qs-2-2-100 对「福禄悠悠」「寿更长」的切法一致。\"\n  },\n  {\n   \"编号\": \"qs-2-2-425:s001\",\n   \"断语\": [\n    {\n     \"条件原文\": \"女命\",\n     \"判断原文\": \"性刚\"\n    },\n    {\n     \"条件原文\": \"女命\",\n     \"判断原文\": \"背六亲\"\n    },\n    {\n     \"条件原文\": \"女命\",\n     \"判断原文\": \"伤夫克子\"\n    },\n    {\n     \"条件原文\": \"遇吉\",\n     \"判断原文\": \"始能丰足\"\n    }\n   ],\n   \"理由\": \"采甲。「性刚」是性情判断，「背六亲」是六亲判断，内容不同，应各算一条，条件同为「女命」。\"\n  },\n  {\n   \"编号\": \"qs-3-19-27:s002\",\n   \"断语\": [\n    {\n     \"条件原文\": \"若遇廉贞破军太阴天相擎羊忌宿\",\n     \"判断原文\": \"其年破财\"\n    },\n    {\n     \"条件原文\": \"若遇廉贞破军太阴天相擎羊忌宿\",\n     \"判断原文\": \"官灾口舌\"\n    },\n    {\n     \"条件原文\": \"若遇廉贞破军太阴天相擎羊忌宿\",\n     \"判断原文\": \"本身见晦\"\n    }\n   ],\n   \"理由\": \"采甲。「减半论之」是对前面诸判断如何取用的论断方法说明，本身不是关于人或事的判断，不另立为断语。\"\n  },\n  {\n   \"编号\": \"qs-3-20-35:s001\",\n   \"断语\": [\n    {\n     \"条件原文\": \"天相廉贞擎羊来\",\n     \"判断原文\": \"多招刑杖难逃\"\n    },\n    {\n     \"条件原文\": \"天相廉贞擎羊来\",\n     \"判断原文\": \"终身不美\"\n    },\n    {\n     \"条件原文\": \"天相廉贞擎羊来\",\n     \"判断原文\": \"招横祸\"\n    },\n    {\n     \"条件原文\": \"天相廉贞擎羊来\",\n     \"判断原文\": \"只宜僧道\"\n    }\n   ],\n   \"理由\": \"采甲。「终身不美」与「招横祸」是两个独立判断，同一条件带出，应分列两条。\"\n  }\n ]\n}"
+    }
+   ],
+   "container": null,
+   "stop_reason": "end_turn",
+   "stop_sequence": null,
+   "stop_details": null,
+   "usage": {
+    "input_tokens": 17739,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 2503,
+    "output_tokens_details": {
+     "thinking_tokens": 1111
+    },
+    "service_tier": "batch",
+    "inference_geo": "global"
+   },
+   "diagnostics": null
+  }
+ }
+}

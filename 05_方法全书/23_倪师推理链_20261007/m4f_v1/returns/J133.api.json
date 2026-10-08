@@ -1,0 +1,43 @@
+{
+ "custom_id": "J133",
+ "result": {
+  "type": "succeeded",
+  "message": {
+   "model": "claude-fable-5-1",
+   "id": "msg_011Cfp3CKoBftkoBCDEfTk2o",
+   "type": "message",
+   "role": "assistant",
+   "content": [
+    {
+     "type": "thinking",
+     "thinking": "",
+     "signature": "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"
+    },
+    {
+     "type": "text",
+     "text": "{\n \"包\": \"J133\",\n \"答案\": [\n  {\n   \"题\": \"题01\",\n   \"最符合\": \"C\",\n   \"排序\": [\n    \"C\",\n    \"A\",\n    \"D\",\n    \"B\"\n   ],\n   \"理由\": {\n    \"A\": \"命宫有旺夫、让先生无后顾之忧，与陈述6相符；但仆役宫断合伙吉，与陈述4合伙必败、朋友变仇人直接矛盾，命宫意外断刃开血光而平安无事，与陈述1横祸不合，且无佐才、善于理财之断。\",\n    \"B\": \"命宫有旺夫、让先生无后顾之忧，但同时断个性强、孤僻、不重利、反对以钱财示好、先生不好、武官星女命最忌，与陈述2守财小气及陈述6帮夫矛盾；仆役宫合伙吉又与陈述4相反，横祸只落在兄弟宫。\",\n    \"C\": \"仆役宫直接断佐才、朋友变仇人，正合陈述3辅佐人才与陈述4合伙必败成仇；命宫文官带、帮人做事领薪水、公家单位、正财，配合善于理财之断，与陈述2、3相符；命宫凶灾、祸不单行及刃开血光对应陈述1横祸意外。不足处是未明断旺夫，夫妻宫吵架之说与陈述6稍有出入。\",\n    \"D\": \"迁移宫断意外灾、横祸，与陈述1相符，仆役宫口舌吵架官司略近陈述4；但命宫断武官星女命最忌、孤僻不容易相处、不重利、不得重用、婚事不成，与陈述2小气守财、陈述3佐才、陈述6帮夫均不合。\"\n   }\n  }\n ]\n}"
+    }
+   ],
+   "container": null,
+   "stop_reason": "end_turn",
+   "stop_sequence": null,
+   "stop_details": null,
+   "usage": {
+    "input_tokens": 19867,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 1660,
+    "output_tokens_details": {
+     "thinking_tokens": 1052
+    },
+    "service_tier": "batch",
+    "inference_geo": "global"
+   },
+   "diagnostics": null
+  }
+ }
+}

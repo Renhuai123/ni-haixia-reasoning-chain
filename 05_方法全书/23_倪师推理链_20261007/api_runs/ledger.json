@@ -1,0 +1,55 @@
+{
+ "说明": "批量接口花费账本（按 usage 与批量价格计算；以控制台账单为准）",
+ "runs": {
+  "api_runs/seg_r1": {
+   "状态": "已取回",
+   "花费美元": 5.3348,
+   "batch_id": "msgbatch_01D4hHdm9VH3NcVPw3rdMYt5"
+  },
+  "api_runs/segadj_r1": {
+   "状态": "已取回",
+   "花费美元": 1.3217,
+   "batch_id": "msgbatch_01QKFBjPcxvxxp2Rc2z1npWJ"
+  },
+  "api_runs/pilot_r1": {
+   "状态": "已取回",
+   "花费美元": 0.9406,
+   "batch_id": "msgbatch_01Rs6wv62tWj89wysvsjvtY2"
+  },
+  "api_runs/coder_r1": {
+   "状态": "已取回",
+   "花费美元": 46.0951,
+   "batch_id": "msgbatch_01NVFCc2Q9UGQHBdYMjtvvjy"
+  },
+  "api_runs/m4f_r1": {
+   "状态": "已取回",
+   "花费美元": 33.4657,
+   "batch_id": "msgbatch_01XUZisTMhFtLCgCh4P9VkN7"
+  },
+  "api_runs/adj_r1": {
+   "状态": "已取回",
+   "花费美元": 13.738,
+   "batch_id": "msgbatch_018GYjN73iAwTRGBzA8Sdz2B"
+  },
+  "api_runs/m4e_fable_r1": {
+   "状态": "已取回",
+   "花费美元": 10.4327,
+   "batch_id": "msgbatch_018BBnuCB5Fi2CEugBkDXffX"
+  },
+  "api_runs/paper_review_v14_r1": {
+   "状态": "已取回",
+   "花费美元": 7.0306,
+   "batch_id": "msgbatch_01WU4NWVRfGNNjmVzndH5fGt"
+  },
+  "api_runs/paper_review_v15_r2": {
+   "状态": "已取回",
+   "花费美元": 5.2366,
+   "batch_id": "msgbatch_01YWVUsHPxGCP8s6hs3CrxrA"
+  },
+  "api_runs/paper_review_v16_r3": {
+   "状态": "已取回",
+   "花费美元": 3.2406,
+   "batch_id": "msgbatch_01Ren99MKpcvr9xRD4cEgMRb"
+  }
+ }
+}

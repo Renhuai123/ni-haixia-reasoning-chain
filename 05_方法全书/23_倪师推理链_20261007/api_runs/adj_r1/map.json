@@ -1,0 +1,494 @@
+{
+ "kind": "adjudicator",
+ "model": "claude-fable-5-1",
+ "effort": "high",
+ "max_tokens": 64000,
+ "tasks": {
+  "N01_ADJ": {
+   "name": "N01",
+   "id": "N01",
+   "role": null,
+   "rerun": 0,
+   "dir": "trad_v1/adjudicate/N01",
+   "instructions": null,
+   "prompt_sha256": "0ba8c22d02d49eb6e55d0c59b4335387367122c290eeade576c595cb7f29dcce"
+  },
+  "N02_ADJ": {
+   "name": "N02",
+   "id": "N02",
+   "role": null,
+   "rerun": 0,
+   "dir": "trad_v1/adjudicate/N02",
+   "instructions": null,
+   "prompt_sha256": "f969bf962042df61d8c29b7ff3b78b221162aa16bd211a10782275ba51e5e6ee"
+  },
+  "N03_ADJ": {
+   "name": "N03",
+   "id": "N03",
+   "role": null,
+   "rerun": 0,
+   "dir": "trad_v1/adjudicate/N03",
+   "instructions": null,
+   "prompt_sha256": "66ef0740c502615a78216611233f361569e51c7d4ca4b6e62b423b329e0692d9"
+  },
+  "N04_ADJ": {
+   "name": "N04",
+   "id": "N04",
+   "role": null,
+   "rerun": 0,
+   "dir": "trad_v1/adjudicate/N04",
+   "instructions": null,
+   "prompt_sha256": "3640dae50912d733f795b7e43e883e3981eef5f2679bb26c95495c74eb2554ee"
+  },
+  "N05_ADJ": {
+   "name": "N05",
+   "id": "N05",
+   "role": null,
+   "rerun": 0,
+   "dir": "trad_v1/adjudicate/N05",
+   "instructions": null,
+   "prompt_sha256": "e90926f822c004e44cab942a725c12f466cb04a2b63a1c7d21133aec1b5a4134"
+  },
+  "N06_ADJ": {
+   "name": "N06",
+   "id": "N06",
+   "role": null,
+   "rerun": 0,
+   "dir": "trad_v1/adjudicate/N06",
+   "instructions": null,
+   "prompt_sha256": "80b8f0aa4b402bb4ddc51c140a0636f85421fd4d3c691387616113c697ea7c24"
+  },
+  "N07_ADJ": {
+   "name": "N07",
+   "id": "N07",
+   "role": null,
+   "rerun": 0,
+   "dir": "trad_v1/adjudicate/N07",
+   "instructions": null,
+   "prompt_sha256": "19855dfb622e80d07e3b4a42af376db6d990da852dce8a826cd5f0a10a442fe7"
+  },
+  "N08_ADJ": {
+   "name": "N08",
+   "id": "N08",
+   "role": null,
+   "rerun": 0,
+   "dir": "trad_v1/adjudicate/N08",
+   "instructions": null,
+   "prompt_sha256": "8acf577158ab9c5dd9e0f2f706fc198dc1b8c691f7d6534fe5a2eb52fbbaa8d3"
+  },
+  "N09_ADJ": {
+   "name": "N09",
+   "id": "N09",
+   "role": null,
+   "rerun": 0,
+   "dir": "trad_v1/adjudicate/N09",
+   "instructions": null,
+   "prompt_sha256": "bde79e7d66213cbdf1142691d30c0000f2ac9a74546fec6e813ef1e7f4dd4ae4"
+  },
+  "N10_ADJ": {
+   "name": "N10",
+   "id": "N10",
+   "role": null,
+   "rerun": 0,
+   "dir": "trad_v1/adjudicate/N10",
+   "instructions": null,
+   "prompt_sha256": "faf8a7bedbb822a565a6f9f8367cb554fb003f84656a056a21b480e9777e70e6"
+  },
+  "N11_ADJ": {
+   "name": "N11",
+   "id": "N11",
+   "role": null,
+   "rerun": 0,
+   "dir": "trad_v1/adjudicate/N11",
+   "instructions": null,
+   "prompt_sha256": "13e65157bf3cc077a59b095e7f99c6576aa721c7abccb5d3c2048da0ec199485"
+  },
+  "N12_ADJ": {
+   "name": "N12",
+   "id": "N12",
+   "role": null,
+   "rerun": 0,
+   "dir": "trad_v1/adjudicate/N12",
+   "instructions": null,
+   "prompt_sha256": "2b11b456fd57c7c2482df3cd753c169493a05830ac1439919e79784e72176fd0"
+  },
+  "N13_ADJ": {
+   "name": "N13",
+   "id": "N13",
+   "role": null,
+   "rerun": 0,
+   "dir": "trad_v1/adjudicate/N13",
+   "instructions": null,
+   "prompt_sha256": "f21ed8872638841c90e51428ae4c965987c37cc8a8d9a74bb5a4ed5002191223"
+  },
+  "N14_ADJ": {
+   "name": "N14",
+   "id": "N14",
+   "role": null,
+   "rerun": 0,
+   "dir": "trad_v1/adjudicate/N14",
+   "instructions": null,
+   "prompt_sha256": "7c71f1c9135e3eda90ad2b1c2e7f4c7191e91d30fb52b7f8920e34d038dd478f"
+  },
+  "N15_ADJ": {
+   "name": "N15",
+   "id": "N15",
+   "role": null,
+   "rerun": 0,
+   "dir": "trad_v1/adjudicate/N15",
+   "instructions": null,
+   "prompt_sha256": "6d219b85668807e180d51a21c16f095959909d267485030d7c3ea45bff49eaa1"
+  },
+  "N16_ADJ": {
+   "name": "N16",
+   "id": "N16",
+   "role": null,
+   "rerun": 0,
+   "dir": "trad_v1/adjudicate/N16",
+   "instructions": null,
+   "prompt_sha256": "cb969d6f20eccc8c6714149ed18a8a65de53a015cb4b5286d9fccf345b71b4c1"
+  },
+  "N17_ADJ": {
+   "name": "N17",
+   "id": "N17",
+   "role": null,
+   "rerun": 0,
+   "dir": "trad_v1/adjudicate/N17",
+   "instructions": null,
+   "prompt_sha256": "6b2dbf9973e33458d769134d0834604f0ff7c5ef9cb8ec6bf0825476bbf18289"
+  },
+  "N18_ADJ": {
+   "name": "N18",
+   "id": "N18",
+   "role": null,
+   "rerun": 0,
+   "dir": "trad_v1/adjudicate/N18",
+   "instructions": null,
+   "prompt_sha256": "9daa22600ba31c88b70f3cc9d98ddebec82a4d4fde05af3f457747f99bc6cb1c"
+  },
+  "N19_ADJ": {
+   "name": "N19",
+   "id": "N19",
+   "role": null,
+   "rerun": 0,
+   "dir": "trad_v1/adjudicate/N19",
+   "instructions": null,
+   "prompt_sha256": "d02872e27f07ab304917b5fca2a523f0d71c4332f3cad798a1b37cfe0163dabe"
+  },
+  "N20_ADJ": {
+   "name": "N20",
+   "id": "N20",
+   "role": null,
+   "rerun": 0,
+   "dir": "trad_v1/adjudicate/N20",
+   "instructions": null,
+   "prompt_sha256": "6d6719588ce4703f472c6b2bc50580bbdb5ebbebbdbcb0e2fa29e2495b398537"
+  },
+  "N21_ADJ": {
+   "name": "N21",
+   "id": "N21",
+   "role": null,
+   "rerun": 0,
+   "dir": "trad_v1/adjudicate/N21",
+   "instructions": null,
+   "prompt_sha256": "70a0bd17a0eacb4f8a332170a517e62918fc215735a86c653251465f3850ef9b"
+  },
+  "N22_ADJ": {
+   "name": "N22",
+   "id": "N22",
+   "role": null,
+   "rerun": 0,
+   "dir": "trad_v1/adjudicate/N22",
+   "instructions": null,
+   "prompt_sha256": "85cd0dd0e0e86ad930062e4d725985a5897f54ca6fcbe820bd97e276a441b35b"
+  },
+  "N23_ADJ": {
+   "name": "N23",
+   "id": "N23",
+   "role": null,
+   "rerun": 0,
+   "dir": "trad_v1/adjudicate/N23",
+   "instructions": null,
+   "prompt_sha256": "f1c8c645747241fab64a2743e0a12acd43d4684d8b2228cecbe9303288446032"
+  },
+  "N24_ADJ": {
+   "name": "N24",
+   "id": "N24",
+   "role": null,
+   "rerun": 0,
+   "dir": "trad_v1/adjudicate/N24",
+   "instructions": null,
+   "prompt_sha256": "55e2fedc0f0bea2277cd746d6d442515251a9f1eec43f61df1747a1b8ff2d297"
+  },
+  "N25_ADJ": {
+   "name": "N25",
+   "id": "N25",
+   "role": null,
+   "rerun": 0,
+   "dir": "trad_v1/adjudicate/N25",
+   "instructions": null,
+   "prompt_sha256": "22e560d98e83eb884a3088a32bd53b82c3cc749a0a9950483623489535a0216a"
+  },
+  "N26_ADJ": {
+   "name": "N26",
+   "id": "N26",
+   "role": null,
+   "rerun": 0,
+   "dir": "trad_v1/adjudicate/N26",
+   "instructions": null,
+   "prompt_sha256": "2cd4849f19ebb1b03fd81892bdeb2271f6860891facb8e80d7c62ec47dbc75fb"
+  },
+  "N27_ADJ": {
+   "name": "N27",
+   "id": "N27",
+   "role": null,
+   "rerun": 0,
+   "dir": "trad_v1/adjudicate/N27",
+   "instructions": null,
+   "prompt_sha256": "bcb6ab347c7f4c0ddf23e0128d4896a25d9a0a09e8aa9bb8a62e3d64e948f6a2"
+  },
+  "N28_ADJ": {
+   "name": "N28",
+   "id": "N28",
+   "role": null,
+   "rerun": 0,
+   "dir": "trad_v1/adjudicate/N28",
+   "instructions": null,
+   "prompt_sha256": "5c28491e7e5beb67226fdc19f39cbaa10e2c93fbc3255984f6ed6c3ef3342eaf"
+  },
+  "N29_ADJ": {
+   "name": "N29",
+   "id": "N29",
+   "role": null,
+   "rerun": 0,
+   "dir": "trad_v1/adjudicate/N29",
+   "instructions": null,
+   "prompt_sha256": "5332d9fc1eb76e75aa3c5fbe4d23e6af816c000cd354a871c0c60a9b5f8cdb95"
+  },
+  "N30_ADJ": {
+   "name": "N30",
+   "id": "N30",
+   "role": null,
+   "rerun": 0,
+   "dir": "trad_v1/adjudicate/N30",
+   "instructions": null,
+   "prompt_sha256": "5634a66fc6949149ad75bb253388ae60cfe93c6f2a158d2d3ef94e6b64ed8cfb"
+  },
+  "N31_ADJ": {
+   "name": "N31",
+   "id": "N31",
+   "role": null,
+   "rerun": 0,
+   "dir": "trad_v1/adjudicate/N31",
+   "instructions": null,
+   "prompt_sha256": "3e7a719e462d98d4e357fcdbda20fd00781ed6adcf6a7ea5eb5372853a38eca3"
+  },
+  "N32_ADJ": {
+   "name": "N32",
+   "id": "N32",
+   "role": null,
+   "rerun": 0,
+   "dir": "trad_v1/adjudicate/N32",
+   "instructions": null,
+   "prompt_sha256": "5dd019aa3afb4fc60dc451ff468526ad3bcb8771d01ada65179bba5da5e1eb45"
+  },
+  "N33_ADJ": {
+   "name": "N33",
+   "id": "N33",
+   "role": null,
+   "rerun": 0,
+   "dir": "trad_v1/adjudicate/N33",
+   "instructions": null,
+   "prompt_sha256": "44bce272a3129fd2f8bb85a1b64b718059d9be70a00ed800cb790c3e51ed5469"
+  },
+  "N34_ADJ": {
+   "name": "N34",
+   "id": "N34",
+   "role": null,
+   "rerun": 0,
+   "dir": "trad_v1/adjudicate/N34",
+   "instructions": null,
+   "prompt_sha256": "ea33bbbc56b2bcae9c3aa697cb8a03588523bd084ad504a3a018028d59b2b2eb"
+  },
+  "N35_ADJ": {
+   "name": "N35",
+   "id": "N35",
+   "role": null,
+   "rerun": 0,
+   "dir": "trad_v1/adjudicate/N35",
+   "instructions": null,
+   "prompt_sha256": "08700c1341a623db7c11140378398c20010b045664f812d4fba134f9b2f690b7"
+  },
+  "N36_ADJ": {
+   "name": "N36",
+   "id": "N36",
+   "role": null,
+   "rerun": 0,
+   "dir": "trad_v1/adjudicate/N36",
+   "instructions": null,
+   "prompt_sha256": "bab0b1be3098fdaa465f5f7243b7b55ceca84b6d97b0409f05958ae2ad28b0bd"
+  },
+  "N37_ADJ": {
+   "name": "N37",
+   "id": "N37",
+   "role": null,
+   "rerun": 0,
+   "dir": "trad_v1/adjudicate/N37",
+   "instructions": null,
+   "prompt_sha256": "859820411e758905e2bbb45ed17be897098bb09d6b36271ff897512cd5d31119"
+  },
+  "Q01_ADJ": {
+   "name": "Q01",
+   "id": "Q01",
+   "role": null,
+   "rerun": 0,
+   "dir": "trad_v1/adjudicate/Q01",
+   "instructions": null,
+   "prompt_sha256": "47ef331d36206f4b0c1f72bdaf27ff742735ad1c4cf0c27ffdbed5ed26cd377b"
+  },
+  "Q02_ADJ": {
+   "name": "Q02",
+   "id": "Q02",
+   "role": null,
+   "rerun": 0,
+   "dir": "trad_v1/adjudicate/Q02",
+   "instructions": null,
+   "prompt_sha256": "9090ba15771b4a7bbfbeaa432bff97a7678eef9d8e94d1997e2ba4a4c93f79b6"
+  },
+  "Q03_ADJ": {
+   "name": "Q03",
+   "id": "Q03",
+   "role": null,
+   "rerun": 0,
+   "dir": "trad_v1/adjudicate/Q03",
+   "instructions": null,
+   "prompt_sha256": "a175ac508a477ff165cddd5775dba5b34e4bfb32bcbb8b2a017ce21223a9ce7a"
+  },
+  "Q04_ADJ": {
+   "name": "Q04",
+   "id": "Q04",
+   "role": null,
+   "rerun": 0,
+   "dir": "trad_v1/adjudicate/Q04",
+   "instructions": null,
+   "prompt_sha256": "ae799e332d6ce10664c96a782202f738408db15b135d661ae5f182978e0ad00e"
+  },
+  "Q05_ADJ": {
+   "name": "Q05",
+   "id": "Q05",
+   "role": null,
+   "rerun": 0,
+   "dir": "trad_v1/adjudicate/Q05",
+   "instructions": null,
+   "prompt_sha256": "07483f5cd64622466000608b6436f65b247b88119cec0dd8c24f5f6c8e6d44dd"
+  },
+  "Q06_ADJ": {
+   "name": "Q06",
+   "id": "Q06",
+   "role": null,
+   "rerun": 0,
+   "dir": "trad_v1/adjudicate/Q06",
+   "instructions": null,
+   "prompt_sha256": "a0a5842601af6120e68c8d3de9b6dab146215a7a8d7796ac04e68dc41144e3c5"
+  },
+  "Q07_ADJ": {
+   "name": "Q07",
+   "id": "Q07",
+   "role": null,
+   "rerun": 0,
+   "dir": "trad_v1/adjudicate/Q07",
+   "instructions": null,
+   "prompt_sha256": "56189a3ae79a6ced86cfd58f6242c21f74cc5edbb277e5d103e0cca7b9be0497"
+  },
+  "Q08_ADJ": {
+   "name": "Q08",
+   "id": "Q08",
+   "role": null,
+   "rerun": 0,
+   "dir": "trad_v1/adjudicate/Q08",
+   "instructions": null,
+   "prompt_sha256": "41c6a93ee4ccf2919c899870178a87e6a70f398012edc9f3c7ccc1dcb2cc72e9"
+  },
+  "Q09_ADJ": {
+   "name": "Q09",
+   "id": "Q09",
+   "role": null,
+   "rerun": 0,
+   "dir": "trad_v1/adjudicate/Q09",
+   "instructions": null,
+   "prompt_sha256": "df161456753130675def096660e407d9932df42bb9d8053475fb8e6c16bc7a43"
+  },
+  "Q10_ADJ": {
+   "name": "Q10",
+   "id": "Q10",
+   "role": null,
+   "rerun": 0,
+   "dir": "trad_v1/adjudicate/Q10",
+   "instructions": null,
+   "prompt_sha256": "ad1c14c9001737681623e3b5860ffaaa45eff2af813636b54e014aecd06023ac"
+  },
+  "Q11_ADJ": {
+   "name": "Q11",
+   "id": "Q11",
+   "role": null,
+   "rerun": 0,
+   "dir": "trad_v1/adjudicate/Q11",
+   "instructions": null,
+   "prompt_sha256": "594c35f37bdc6582f116d8ea0c4bf41d079924d28d3354ed852cbe18e05f5085"
+  },
+  "Q12_ADJ": {
+   "name": "Q12",
+   "id": "Q12",
+   "role": null,
+   "rerun": 0,
+   "dir": "trad_v1/adjudicate/Q12",
+   "instructions": null,
+   "prompt_sha256": "90908b24ab4076f5c9f947df37f5ef0b64ba5e9b8dcacc3a38924f0697a9aa7b"
+  },
+  "Q13_ADJ": {
+   "name": "Q13",
+   "id": "Q13",
+   "role": null,
+   "rerun": 0,
+   "dir": "trad_v1/adjudicate/Q13",
+   "instructions": null,
+   "prompt_sha256": "b3627b5f82e6b3b7895859b609b1eb0d9f9a6a629405f26e8a666f583a89b36d"
+  },
+  "Q15_ADJ": {
+   "name": "Q15",
+   "id": "Q15",
+   "role": null,
+   "rerun": 0,
+   "dir": "trad_v1/adjudicate/Q15",
+   "instructions": null,
+   "prompt_sha256": "bb79b979715467e628b1c97a08e7bda73152d7e24ecd90d4bb918b44e71835c0"
+  },
+  "Q16_ADJ": {
+   "name": "Q16",
+   "id": "Q16",
+   "role": null,
+   "rerun": 0,
+   "dir": "trad_v1/adjudicate/Q16",
+   "instructions": null,
+   "prompt_sha256": "b28d7a4df51e4955ac49f1a5b51892804b6838e90c4de966e709bb5a69258fc8"
+  },
+  "Q17_ADJ": {
+   "name": "Q17",
+   "id": "Q17",
+   "role": null,
+   "rerun": 0,
+   "dir": "trad_v1/adjudicate/Q17",
+   "instructions": null,
+   "prompt_sha256": "ea97dbde02a5fadbd0c3c13c2d4ccd0e4d82eb677f9b5dc897ff9040268920b1"
+  },
+  "Q18_ADJ": {
+   "name": "Q18",
+   "id": "Q18",
+   "role": null,
+   "rerun": 0,
+   "dir": "trad_v1/adjudicate/Q18",
+   "instructions": null,
+   "prompt_sha256": "4cffc3d897051bfec88fb4f2fa8f73fb7c50e50c33964982119eea1100824658"
+  }
+ }
+}

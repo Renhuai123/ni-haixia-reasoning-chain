@@ -1,0 +1,43 @@
+{
+ "custom_id": "J155",
+ "result": {
+  "type": "succeeded",
+  "message": {
+   "model": "claude-fable-5-1",
+   "id": "msg_011Cfp3CJS5dwvJEBZfADjwy",
+   "type": "message",
+   "role": "assistant",
+   "content": [
+    {
+     "type": "thinking",
+     "thinking": "",
+     "signature": "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"
+    },
+    {
+     "type": "text",
+     "text": "{\n \"包\": \"J155\",\n \"答案\": [\n  {\n   \"题\": \"题01\",\n   \"最符合\": \"D\",\n   \"排序\": [\n    \"D\",\n    \"C\",\n    \"B\",\n    \"A\"\n   ],\n   \"理由\": {\n    \"A\": \"仆役宫断「合伙大利、合伙吉、找有财的人合伙」，与「合伙必以官司收场」正好相反；子女宫断「子女宫没问题、儿子像父亲」，也不合儿女性别倒错；夫妻宫虽婚姻凶但无多婚，整体最不符。\",\n    \"B\": \"仆役宫「合伙必败、朋友变仇人、官司、是非」与合伙必打官司高度相符，但命宫断「婚姻好、婚姻无事、招贵夫、晚婚」与每段婚姻只维持7年、多次婚姻直接矛盾，子女宫也只是一子刚强，六亲面不符。\",\n    \"C\": \"夫妻宫「二婚、离婚、婚姻不好」加福德「多婚」与多次婚姻相符，命宫性阴、女命不行、父母宫「嫁同龄初婚者凶」亦可对上；但仆役宫断文武双全、声名远播、金榜题名，没有合伙致官司之象，子女宫凶星是非口舌与儿女阴阳颠倒也只勉强沾边。\",\n    \"D\": \"命宫「偏房格、嫁同龄初婚者凶、宜嫁二婚夫、聚少散多、六亲不靠、很惨」加夫妻「二婚、离婚」与福德「多婚」，最贴合每段婚姻只有7年的多婚命；仆役宫「灾星、非良臣贤臣、吉处藏凶、在劫难逃、灾照样发生」与合伙必败收场相合，父母宫官司是非；子女宫灾星、儿子温和厚道偏柔也可对应儿子像女孩，唯声音沙哑未见直接对应。\"\n   }\n  }\n ]\n}"
+    }
+   ],
+   "container": null,
+   "stop_reason": "end_turn",
+   "stop_sequence": null,
+   "stop_details": null,
+   "usage": {
+    "input_tokens": 17287,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 2124,
+    "output_tokens_details": {
+     "thinking_tokens": 1439
+    },
+    "service_tier": "batch",
+    "inference_geo": "global"
+   },
+   "diagnostics": null
+  }
+ }
+}

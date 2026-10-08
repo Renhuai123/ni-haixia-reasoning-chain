@@ -1,0 +1,936 @@
+{
+ "说明": "第一步：只看审计，不读答案表",
+ "arms": {
+  "链": {
+   "M01": {
+    "status": "合格",
+    "accepted": "M01",
+    "tries": [
+     {
+      "name": "M01",
+      "ok": true,
+      "why": []
+     }
+    ]
+   },
+   "M02": {
+    "status": "合格",
+    "accepted": "M02",
+    "tries": [
+     {
+      "name": "M02",
+      "ok": true,
+      "why": []
+     }
+    ]
+   },
+   "M03": {
+    "status": "合格",
+    "accepted": "M03",
+    "tries": [
+     {
+      "name": "M03",
+      "ok": true,
+      "why": []
+     }
+    ]
+   },
+   "M04": {
+    "status": "合格",
+    "accepted": "M04",
+    "tries": [
+     {
+      "name": "M04",
+      "ok": true,
+      "why": []
+     }
+    ]
+   },
+   "M05": {
+    "status": "合格",
+    "accepted": "M05",
+    "tries": [
+     {
+      "name": "M05",
+      "ok": true,
+      "why": []
+     }
+    ]
+   },
+   "M06": {
+    "status": "合格",
+    "accepted": "M06",
+    "tries": [
+     {
+      "name": "M06",
+      "ok": true,
+      "why": []
+     }
+    ]
+   },
+   "M07": {
+    "status": "合格",
+    "accepted": "M07",
+    "tries": [
+     {
+      "name": "M07",
+      "ok": true,
+      "why": []
+     }
+    ]
+   },
+   "M08": {
+    "status": "合格",
+    "accepted": "M08",
+    "tries": [
+     {
+      "name": "M08",
+      "ok": true,
+      "why": []
+     }
+    ]
+   },
+   "M09": {
+    "status": "合格",
+    "accepted": "M09",
+    "tries": [
+     {
+      "name": "M09",
+      "ok": true,
+      "why": []
+     }
+    ]
+   },
+   "M10": {
+    "status": "合格",
+    "accepted": "M10",
+    "tries": [
+     {
+      "name": "M10",
+      "ok": true,
+      "why": []
+     }
+    ]
+   },
+   "M11": {
+    "status": "合格",
+    "accepted": "M11",
+    "tries": [
+     {
+      "name": "M11",
+      "ok": true,
+      "why": []
+     }
+    ]
+   },
+   "M12": {
+    "status": "合格",
+    "accepted": "M12",
+    "tries": [
+     {
+      "name": "M12",
+      "ok": true,
+      "why": []
+     }
+    ]
+   },
+   "M13": {
+    "status": "合格",
+    "accepted": "M13",
+    "tries": [
+     {
+      "name": "M13",
+      "ok": true,
+      "why": []
+     }
+    ]
+   },
+   "M14": {
+    "status": "合格",
+    "accepted": "M14",
+    "tries": [
+     {
+      "name": "M14",
+      "ok": true,
+      "why": []
+     }
+    ]
+   },
+   "M15": {
+    "status": "合格",
+    "accepted": "M15",
+    "tries": [
+     {
+      "name": "M15",
+      "ok": true,
+      "why": []
+     }
+    ]
+   },
+   "M16": {
+    "status": "合格",
+    "accepted": "M16",
+    "tries": [
+     {
+      "name": "M16",
+      "ok": true,
+      "why": []
+     }
+    ]
+   },
+   "M17": {
+    "status": "合格",
+    "accepted": "M17",
+    "tries": [
+     {
+      "name": "M17",
+      "ok": true,
+      "why": []
+     }
+    ]
+   },
+   "M18": {
+    "status": "合格",
+    "accepted": "M18",
+    "tries": [
+     {
+      "name": "M18",
+      "ok": true,
+      "why": []
+     }
+    ]
+   },
+   "M19": {
+    "status": "合格",
+    "accepted": "M19",
+    "tries": [
+     {
+      "name": "M19",
+      "ok": true,
+      "why": []
+     }
+    ]
+   },
+   "M20": {
+    "status": "合格",
+    "accepted": "M20",
+    "tries": [
+     {
+      "name": "M20",
+      "ok": true,
+      "why": []
+     }
+    ]
+   },
+   "M21": {
+    "status": "合格",
+    "accepted": "M21",
+    "tries": [
+     {
+      "name": "M21",
+      "ok": true,
+      "why": []
+     }
+    ]
+   },
+   "M22": {
+    "status": "合格",
+    "accepted": "M22",
+    "tries": [
+     {
+      "name": "M22",
+      "ok": true,
+      "why": []
+     }
+    ]
+   },
+   "M23": {
+    "status": "合格",
+    "accepted": "M23",
+    "tries": [
+     {
+      "name": "M23",
+      "ok": true,
+      "why": []
+     }
+    ]
+   },
+   "M24": {
+    "status": "合格",
+    "accepted": "M24",
+    "tries": [
+     {
+      "name": "M24",
+      "ok": true,
+      "why": []
+     }
+    ]
+   },
+   "M25": {
+    "status": "合格",
+    "accepted": "M25",
+    "tries": [
+     {
+      "name": "M25",
+      "ok": true,
+      "why": []
+     }
+    ]
+   },
+   "M26": {
+    "status": "合格",
+    "accepted": "M26",
+    "tries": [
+     {
+      "name": "M26",
+      "ok": true,
+      "why": []
+     }
+    ]
+   },
+   "M27": {
+    "status": "合格",
+    "accepted": "M27",
+    "tries": [
+     {
+      "name": "M27",
+      "ok": true,
+      "why": []
+     }
+    ]
+   },
+   "M28": {
+    "status": "合格",
+    "accepted": "M28",
+    "tries": [
+     {
+      "name": "M28",
+      "ok": true,
+      "why": []
+     }
+    ]
+   }
+  },
+  "平": {
+   "M01": {
+    "status": "合格",
+    "accepted": "M01",
+    "tries": [
+     {
+      "name": "M01",
+      "ok": true,
+      "why": []
+     }
+    ]
+   },
+   "M02": {
+    "status": "合格",
+    "accepted": "M02",
+    "tries": [
+     {
+      "name": "M02",
+      "ok": true,
+      "why": []
+     }
+    ]
+   },
+   "M03": {
+    "status": "合格",
+    "accepted": "M03",
+    "tries": [
+     {
+      "name": "M03",
+      "ok": true,
+      "why": []
+     }
+    ]
+   },
+   "M04": {
+    "status": "合格",
+    "accepted": "M04",
+    "tries": [
+     {
+      "name": "M04",
+      "ok": true,
+      "why": []
+     }
+    ]
+   },
+   "M05": {
+    "status": "合格",
+    "accepted": "M05",
+    "tries": [
+     {
+      "name": "M05",
+      "ok": true,
+      "why": []
+     }
+    ]
+   },
+   "M06": {
+    "status": "合格",
+    "accepted": "M06",
+    "tries": [
+     {
+      "name": "M06",
+      "ok": true,
+      "why": []
+     }
+    ]
+   },
+   "M07": {
+    "status": "合格",
+    "accepted": "M07",
+    "tries": [
+     {
+      "name": "M07",
+      "ok": true,
+      "why": []
+     }
+    ]
+   },
+   "M08": {
+    "status": "合格",
+    "accepted": "M08",
+    "tries": [
+     {
+      "name": "M08",
+      "ok": true,
+      "why": []
+     }
+    ]
+   },
+   "M09": {
+    "status": "合格",
+    "accepted": "M09",
+    "tries": [
+     {
+      "name": "M09",
+      "ok": true,
+      "why": []
+     }
+    ]
+   },
+   "M10": {
+    "status": "合格",
+    "accepted": "M10",
+    "tries": [
+     {
+      "name": "M10",
+      "ok": true,
+      "why": []
+     }
+    ]
+   },
+   "M11": {
+    "status": "合格",
+    "accepted": "M11",
+    "tries": [
+     {
+      "name": "M11",
+      "ok": true,
+      "why": []
+     }
+    ]
+   },
+   "M12": {
+    "status": "合格",
+    "accepted": "M12",
+    "tries": [
+     {
+      "name": "M12",
+      "ok": true,
+      "why": []
+     }
+    ]
+   },
+   "M13": {
+    "status": "合格",
+    "accepted": "M13",
+    "tries": [
+     {
+      "name": "M13",
+      "ok": true,
+      "why": []
+     }
+    ]
+   },
+   "M14": {
+    "status": "合格",
+    "accepted": "M14",
+    "tries": [
+     {
+      "name": "M14",
+      "ok": true,
+      "why": []
+     }
+    ]
+   },
+   "M15": {
+    "status": "合格",
+    "accepted": "M15",
+    "tries": [
+     {
+      "name": "M15",
+      "ok": true,
+      "why": []
+     }
+    ]
+   },
+   "M16": {
+    "status": "合格",
+    "accepted": "M16",
+    "tries": [
+     {
+      "name": "M16",
+      "ok": true,
+      "why": []
+     }
+    ]
+   },
+   "M17": {
+    "status": "合格",
+    "accepted": "M17",
+    "tries": [
+     {
+      "name": "M17",
+      "ok": true,
+      "why": []
+     }
+    ]
+   },
+   "M18": {
+    "status": "合格",
+    "accepted": "M18",
+    "tries": [
+     {
+      "name": "M18",
+      "ok": true,
+      "why": []
+     }
+    ]
+   },
+   "M19": {
+    "status": "合格",
+    "accepted": "M19",
+    "tries": [
+     {
+      "name": "M19",
+      "ok": true,
+      "why": []
+     }
+    ]
+   },
+   "M20": {
+    "status": "合格",
+    "accepted": "M20",
+    "tries": [
+     {
+      "name": "M20",
+      "ok": true,
+      "why": []
+     }
+    ]
+   },
+   "M21": {
+    "status": "合格",
+    "accepted": "M21",
+    "tries": [
+     {
+      "name": "M21",
+      "ok": true,
+      "why": []
+     }
+    ]
+   },
+   "M22": {
+    "status": "合格",
+    "accepted": "M22",
+    "tries": [
+     {
+      "name": "M22",
+      "ok": true,
+      "why": []
+     }
+    ]
+   },
+   "M23": {
+    "status": "合格",
+    "accepted": "M23",
+    "tries": [
+     {
+      "name": "M23",
+      "ok": true,
+      "why": []
+     }
+    ]
+   },
+   "M24": {
+    "status": "合格",
+    "accepted": "M24",
+    "tries": [
+     {
+      "name": "M24",
+      "ok": true,
+      "why": []
+     }
+    ]
+   },
+   "M25": {
+    "status": "合格",
+    "accepted": "M25",
+    "tries": [
+     {
+      "name": "M25",
+      "ok": true,
+      "why": []
+     }
+    ]
+   },
+   "M26": {
+    "status": "合格",
+    "accepted": "M26",
+    "tries": [
+     {
+      "name": "M26",
+      "ok": true,
+      "why": []
+     }
+    ]
+   },
+   "M27": {
+    "status": "合格",
+    "accepted": "M27",
+    "tries": [
+     {
+      "name": "M27",
+      "ok": true,
+      "why": []
+     }
+    ]
+   },
+   "M28": {
+    "status": "合格",
+    "accepted": "M28",
+    "tries": [
+     {
+      "name": "M28",
+      "ok": true,
+      "why": []
+     }
+    ]
+   }
+  },
+  "三": {
+   "M01": {
+    "status": "合格",
+    "accepted": "M01",
+    "tries": [
+     {
+      "name": "M01",
+      "ok": true,
+      "why": []
+     }
+    ]
+   },
+   "M02": {
+    "status": "合格",
+    "accepted": "M02",
+    "tries": [
+     {
+      "name": "M02",
+      "ok": true,
+      "why": []
+     }
+    ]
+   },
+   "M03": {
+    "status": "合格",
+    "accepted": "M03",
+    "tries": [
+     {
+      "name": "M03",
+      "ok": true,
+      "why": []
+     }
+    ]
+   },
+   "M04": {
+    "status": "合格",
+    "accepted": "M04",
+    "tries": [
+     {
+      "name": "M04",
+      "ok": true,
+      "why": []
+     }
+    ]
+   },
+   "M05": {
+    "status": "合格",
+    "accepted": "M05",
+    "tries": [
+     {
+      "name": "M05",
+      "ok": true,
+      "why": []
+     }
+    ]
+   },
+   "M06": {
+    "status": "合格",
+    "accepted": "M06",
+    "tries": [
+     {
+      "name": "M06",
+      "ok": true,
+      "why": []
+     }
+    ]
+   },
+   "M07": {
+    "status": "合格",
+    "accepted": "M07",
+    "tries": [
+     {
+      "name": "M07",
+      "ok": true,
+      "why": []
+     }
+    ]
+   },
+   "M08": {
+    "status": "合格",
+    "accepted": "M08",
+    "tries": [
+     {
+      "name": "M08",
+      "ok": true,
+      "why": []
+     }
+    ]
+   },
+   "M09": {
+    "status": "合格",
+    "accepted": "M09",
+    "tries": [
+     {
+      "name": "M09",
+      "ok": true,
+      "why": []
+     }
+    ]
+   },
+   "M10": {
+    "status": "合格",
+    "accepted": "M10",
+    "tries": [
+     {
+      "name": "M10",
+      "ok": true,
+      "why": []
+     }
+    ]
+   },
+   "M11": {
+    "status": "合格",
+    "accepted": "M11",
+    "tries": [
+     {
+      "name": "M11",
+      "ok": true,
+      "why": []
+     }
+    ]
+   },
+   "M12": {
+    "status": "合格",
+    "accepted": "M12",
+    "tries": [
+     {
+      "name": "M12",
+      "ok": true,
+      "why": []
+     }
+    ]
+   },
+   "M13": {
+    "status": "合格",
+    "accepted": "M13",
+    "tries": [
+     {
+      "name": "M13",
+      "ok": true,
+      "why": []
+     }
+    ]
+   },
+   "M14": {
+    "status": "合格",
+    "accepted": "M14",
+    "tries": [
+     {
+      "name": "M14",
+      "ok": true,
+      "why": []
+     }
+    ]
+   },
+   "M15": {
+    "status": "合格",
+    "accepted": "M15",
+    "tries": [
+     {
+      "name": "M15",
+      "ok": true,
+      "why": []
+     }
+    ]
+   },
+   "M16": {
+    "status": "合格",
+    "accepted": "M16",
+    "tries": [
+     {
+      "name": "M16",
+      "ok": true,
+      "why": []
+     }
+    ]
+   },
+   "M17": {
+    "status": "合格",
+    "accepted": "M17",
+    "tries": [
+     {
+      "name": "M17",
+      "ok": true,
+      "why": []
+     }
+    ]
+   },
+   "M18": {
+    "status": "合格",
+    "accepted": "M18",
+    "tries": [
+     {
+      "name": "M18",
+      "ok": true,
+      "why": []
+     }
+    ]
+   },
+   "M19": {
+    "status": "合格",
+    "accepted": "M19",
+    "tries": [
+     {
+      "name": "M19",
+      "ok": true,
+      "why": []
+     }
+    ]
+   },
+   "M20": {
+    "status": "合格",
+    "accepted": "M20",
+    "tries": [
+     {
+      "name": "M20",
+      "ok": true,
+      "why": []
+     }
+    ]
+   },
+   "M21": {
+    "status": "合格",
+    "accepted": "M21",
+    "tries": [
+     {
+      "name": "M21",
+      "ok": true,
+      "why": []
+     }
+    ]
+   },
+   "M22": {
+    "status": "合格",
+    "accepted": "M22",
+    "tries": [
+     {
+      "name": "M22",
+      "ok": true,
+      "why": []
+     }
+    ]
+   },
+   "M23": {
+    "status": "合格",
+    "accepted": "M23",
+    "tries": [
+     {
+      "name": "M23",
+      "ok": true,
+      "why": []
+     }
+    ]
+   },
+   "M24": {
+    "status": "合格",
+    "accepted": "M24",
+    "tries": [
+     {
+      "name": "M24",
+      "ok": true,
+      "why": []
+     }
+    ]
+   },
+   "M25": {
+    "status": "合格",
+    "accepted": "M25",
+    "tries": [
+     {
+      "name": "M25",
+      "ok": true,
+      "why": []
+     }
+    ]
+   },
+   "M26": {
+    "status": "合格",
+    "accepted": "M26",
+    "tries": [
+     {
+      "name": "M26",
+      "ok": true,
+      "why": []
+     }
+    ]
+   },
+   "M27": {
+    "status": "合格",
+    "accepted": "M27",
+    "tries": [
+     {
+      "name": "M27",
+      "ok": true,
+      "why": []
+     }
+    ]
+   },
+   "M28": {
+    "status": "合格",
+    "accepted": "M28",
+    "tries": [
+     {
+      "name": "M28",
+      "ok": true,
+      "why": []
+     }
+    ]
+   }
+  }
+ },
+ "待重跑": []
+}

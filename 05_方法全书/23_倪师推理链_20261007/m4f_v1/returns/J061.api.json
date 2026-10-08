@@ -1,0 +1,43 @@
+{
+ "custom_id": "J061",
+ "result": {
+  "type": "succeeded",
+  "message": {
+   "model": "claude-fable-5-1",
+   "id": "msg_011Cfp3CLd3QJ9UdgGZUzwru",
+   "type": "message",
+   "role": "assistant",
+   "content": [
+    {
+     "type": "thinking",
+     "thinking": "",
+     "signature": "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"
+    },
+    {
+     "type": "text",
+     "text": "{\n \"包\": \"J061\",\n \"答案\": [\n  {\n   \"题\": \"题01\",\n   \"最符合\": \"C\",\n   \"排序\": [\n    \"C\",\n    \"D\",\n    \"A\",\n    \"B\"\n   ],\n   \"理由\": {\n    \"A\": \"夫妻宫有孤单、婚姻不好，但命宫断温和厚道谦和与「心眼多、算计别人」相反，仆役宫明断会结婚、受朋友怂恿结婚，官禄又断停滞、半空折翅、不会当官，与「不会结婚、事业一路顺、考公务员一考就上」矛盾。\",\n    \"B\": \"官禄宫有当老师勉强相符，但命宫断婚姻好、财帛宫断中年先生有问题（即有先生）、官禄断当官不容易，整盘无孤单之象，与「命中注定孤单不会结婚、事业很好」全不相符，最不符。\",\n    \"C\": \"命宫主线直接断孤单→婚姻难有着落，正财→帮人做事领薪水，佐才、重读书文笔才华、智慧高，官禄宫断当公务员、做主管、官运最好、掌权，父母宫断当老师、公家单位、金榜题名，杀星带想不开、是非、灾应本人也能对上心眼多害了自己与家中鸡飞狗跳；与陈述的不婚、事业顺、公职老师路线最吻合。\",\n    \"D\": \"命宫也有孤单→婚姻难有着落，刚烈火爆、随发随走对得上闹得家里鸡飞狗跳，官禄断公务员、掌权、官运最好，长相壮也近肉扎实；但福德身宫明断多婚、夫妻宫断配偶最好，与「不会结婚、婚姻缘分未到」直接矛盾，且命宫主线是武官星军人路线而非文教公职，故次于C。\"\n   }\n  }\n ]\n}"
+    }
+   ],
+   "container": null,
+   "stop_reason": "end_turn",
+   "stop_sequence": null,
+   "stop_details": null,
+   "usage": {
+    "input_tokens": 17474,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 2022,
+    "output_tokens_details": {
+     "thinking_tokens": 1374
+    },
+    "service_tier": "batch",
+    "inference_geo": "global"
+   },
+   "diagnostics": null
+  }
+ }
+}

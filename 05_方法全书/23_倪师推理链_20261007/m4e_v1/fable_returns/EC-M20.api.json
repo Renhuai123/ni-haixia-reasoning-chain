@@ -1,0 +1,43 @@
+{
+ "custom_id": "EC-M20",
+ "result": {
+  "type": "succeeded",
+  "message": {
+   "model": "claude-fable-5-1",
+   "id": "msg_011Cfp49DWwsJBZy6p9DXswD",
+   "type": "message",
+   "role": "assistant",
+   "content": [
+    {
+     "type": "thinking",
+     "thinking": "",
+     "signature": "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"
+    },
+    {
+     "type": "text",
+     "text": "{\n \"包\": \"M20\",\n \"答案\": [\n  {\n   \"题\": \"题20\",\n   \"最符合\": \"B\",\n   \"排序\": [\n    \"B\",\n    \"D\",\n    \"A\",\n    \"C\"\n   ],\n   \"理由\": {\n    \"A\": \"命宫武官星、当将军、警察、男命最好与「出将入相」相符，但田宅断破祖业与「有祖业豪门大宅」矛盾，官禄断贪官当官不容易，婚姻断做偏房、婆媳不和，与娶到温和厚道好老婆不符。\",\n    \"B\": \"命宫文武双全、文武官皆可、当将军、近天子、有生杀之权、男命最好，正合「若是男人能出将入相、穿紫腰金」；考试很棒、当公务员、工作顺利合公家单位升迁深造顺利；夫妻宫温和厚道善良与陈述几乎原句相符；生有祖业合豪门祖业；个性强不容易遇到好的合晚至34岁结婚。\",\n    \"D\": \"命宫文武双全、当将军、成格与「出将入相」相符，也有太太娶得好一说，但夫妻宫断凶悍、聒噪吵不停、很累，与温和厚道的好老婆相反；官禄没有官带、当官不容易，又无祖业之断。\",\n    \"C\": \"官禄调动就升迁、很贵与公家单位升迁顺利相符，但命宫是佐才、帮人做事领薪水，官禄断不会当官，与出将入相、做到局长不符；夫妻宫刚强、狠、赌光家财与温和厚道的配偶矛盾，也无祖业之断。\"\n   }\n  }\n ]\n}"
+    }
+   ],
+   "container": null,
+   "stop_reason": "end_turn",
+   "stop_sequence": null,
+   "stop_details": null,
+   "usage": {
+    "input_tokens": 17422,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 1390,
+    "output_tokens_details": {
+     "thinking_tokens": 818
+    },
+    "service_tier": "batch",
+    "inference_geo": "global"
+   },
+   "diagnostics": null
+  }
+ }
+}

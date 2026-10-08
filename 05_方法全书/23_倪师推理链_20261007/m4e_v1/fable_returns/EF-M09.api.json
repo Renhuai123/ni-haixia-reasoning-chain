@@ -1,0 +1,43 @@
+{
+ "custom_id": "EF-M09",
+ "result": {
+  "type": "succeeded",
+  "message": {
+   "model": "claude-fable-5-1",
+   "id": "msg_011Cfp49E2x58k9ytd2ezzgv",
+   "type": "message",
+   "role": "assistant",
+   "content": [
+    {
+     "type": "thinking",
+     "thinking": "",
+     "signature": "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"
+    },
+    {
+     "type": "text",
+     "text": "{\n \"包\": \"M09\",\n \"答案\": [\n  {\n   \"题\": \"题09\",\n   \"最符合\": \"C\",\n   \"排序\": [\n    \"C\",\n    \"A\",\n    \"B\",\n    \"D\"\n   ],\n   \"理由\": {\n    \"A\": \"命宫走公家单位领薪水、科甲、父母管不了、田宅有祖业，兄弟宫武官刚烈冒险也合弟弟好冒险；但夫妻宫断婚姻好、子女宫无子远离、无主管领导之象，与晚婚纠纷、贵子、当主管不合。\",\n    \"B\": \"兄弟宫武官刚强、意外横祸合弟弟爱冒险，身宫财帛在私人企业也略合；但官禄宫断不会当官、没有官带，命宫多为女命偏房之断，与会当主管、宜走公职、读书考试好等不合。\",\n    \"C\": \"命宫君王之相、天生领导者、做主管、个性强合主见强会管事，有考试金榜题名合读书好，宜为人手下领薪水当公务员合该走公职，身宫财帛在私人企业又断破财合自己做事业遇阻，父母宫从商给财禄有祖业合钱来得早，子女宫贵人星且因子女而结婚合先有贵子后结婚；只有兄弟宫偏文官不像冒险的弟弟。\",\n    \"D\": \"命宫个性强刚强、子女宫男命大吉略合强势与贵子；但财帛宫断做生意当老板、家财万贯，官禄宫断不会当官，兄弟宫厚道温和，与26岁后不带财、事倍功半、会当主管、弟弟爱冒险等多处矛盾。\"\n   }\n  }\n ]\n}"
+    }
+   ],
+   "container": null,
+   "stop_reason": "end_turn",
+   "stop_sequence": null,
+   "stop_details": null,
+   "usage": {
+    "input_tokens": 9118,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 2070,
+    "output_tokens_details": {
+     "thinking_tokens": 1482
+    },
+    "service_tier": "batch",
+    "inference_geo": "global"
+   },
+   "diagnostics": null
+  }
+ }
+}

@@ -1,0 +1,29 @@
+/* 倪师断法论文样式：沿用此前论文（倪海厦紫微研究_Claude接续_20260925/04_论文/build/manuscript.css），
+   只改四处：标题块居中、一级标题不强制换页、长表可在行间分页（每页重复表头）、表题与表同页且图与图题不拆开。 */
+@page { size: A4; margin: 22mm 20mm 22mm 20mm; }
+html { font-size: 10.5pt; }
+body { font-family: "Songti SC", "STSong", serif; color: #111; line-height: 1.75; background: #fff; margin: 0; max-width: none; padding: 0; }
+h1, h2, h3, h4 { font-family: "Heiti SC", "Songti SC", sans-serif; font-weight: 600; color: #0b0b0b; line-height: 1.35; break-after: avoid; page-break-after: avoid; }
+h1 { font-size: 18pt; margin: 0.4em 0 0.4em; }
+h2 { font-size: 13pt; margin: 1.3em 0 0.5em; }
+h3 { font-size: 11pt; margin: 1.1em 0 0.4em; }
+.titleblock { text-align: center; margin: 6mm 0 8mm; }
+.titleblock p { text-align: center; color: #333; font-size: 11pt; }
+p { margin: 0.45em 0; text-align: justify; orphans: 2; widows: 2; }
+strong { font-family: "Heiti SC", "Songti SC", sans-serif; font-weight: 600; }
+ul, ol { margin: 0.3em 0 0.5em; padding-left: 1.6em; }
+li { margin: 0.15em 0; }
+img { max-width: 100%; display: block; margin: 0.8em auto 0.3em; }
+.fig { break-inside: avoid; page-break-inside: avoid; margin: 0.6em 0 0.9em; }
+.fig p { text-align: left; }
+.tabtitle { break-after: avoid; page-break-after: avoid; margin-top: 0.9em; }
+.tabtitle p { margin-bottom: 0.2em; }
+table { border-collapse: collapse; width: 100%; font-size: 8.8pt; margin: 0.4em 0 0.9em; line-height: 1.55; }
+thead { display: table-header-group; }
+tr { break-inside: avoid; page-break-inside: avoid; }
+th, td { border-top: 0.6pt solid #cfcfca; border-bottom: 0.6pt solid #cfcfca; padding: 3pt 5pt; vertical-align: top; text-align: left; }
+th { font-family: "Heiti SC", "Songti SC", sans-serif; font-weight: 600; background: #f4f3ef; }
+code { font-family: "Menlo", "Songti SC", monospace; font-size: 8.6pt; }
+blockquote { margin: 0.6em 0; padding: 0.2em 0.9em; border-left: 2pt solid #cfcfca; color: #333; }
+hr { border: none; border-top: 0.6pt solid #cfcfca; margin: 1.2em 0; }
+a { color: #1c5cab; text-decoration: none; }

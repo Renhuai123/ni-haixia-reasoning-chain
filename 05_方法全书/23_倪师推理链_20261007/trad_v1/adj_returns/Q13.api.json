@@ -1,0 +1,43 @@
+{
+ "custom_id": "Q13_ADJ",
+ "result": {
+  "type": "succeeded",
+  "message": {
+   "model": "claude-fable-5-1",
+   "id": "msg_011Cfp3b3K8kY65ZnYSpRKHM",
+   "type": "message",
+   "role": "assistant",
+   "content": [
+    {
+     "type": "thinking",
+     "thinking": "",
+     "signature": "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"
+    },
+    {
+     "type": "text",
+     "text": "{\n \"批\": \"Q13\",\n \"裁定\": [\n  {\n   \"编号\": \"qs-1-28-1:s001#2\",\n   \"项\": \"C1\",\n   \"裁定\": \"否\",\n   \"依据\": \"\",\n   \"理由\": \"「帝极主宰之星」是前一条已单独归为定名的名目，原文接着只说「守身命文墨精通」，既无「故」「所以」之类连接，帝极主宰之象与文墨精通之间也无字面推导，属于并列陈述，按反例「只说有星在身命」作直断。\"\n  },\n  {\n   \"编号\": \"qs-1-16-2:s010#2\",\n   \"项\": \"C5\",\n   \"裁定\": \"否\",\n   \"依据\": \"\",\n   \"理由\": \"「命逢之得相佐」只是条件本身（天府为帝之佐贰，命逢之即得其佐），原文紧接「主夫妻子女不缺」而未说明得人辅佐为何按常理会使夫妻子女不缺，不构成人情事理的因果推演，按直断。\"\n  },\n  {\n   \"编号\": \"qs-1-38-1:s005#3\",\n   \"项\": \"问B\",\n   \"裁定\": \"义名\",\n   \"依据\": \"\",\n   \"理由\": \"「凶神」的实质是「凶」这一吉凶性质，「神」在《全书》中与「星」互用作泛称（如同段「衣禄之神」），并非帝、将、马那类可想见其样子的具体人物或事物，故归义名。\"\n  }\n ]\n}"
+    }
+   ],
+   "container": null,
+   "stop_reason": "end_turn",
+   "stop_sequence": null,
+   "stop_details": null,
+   "usage": {
+    "input_tokens": 29940,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 1905,
+    "output_tokens_details": {
+     "thinking_tokens": 1405
+    },
+    "service_tier": "batch",
+    "inference_geo": "global"
+   },
+   "diagnostics": null
+  }
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "custom_id": "J210",
+ "result": {
+  "type": "succeeded",
+  "message": {
+   "model": "claude-fable-5-1",
+   "id": "msg_011Cfp3CJW3m8KTjoBt8CooS",
+   "type": "message",
+   "role": "assistant",
+   "content": [
+    {
+     "type": "thinking",
+     "thinking": "",
+     "signature": "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"
+    },
+    {
+     "type": "text",
+     "text": "{\n \"包\": \"J210\",\n \"答案\": [\n  {\n   \"题\": \"题01\",\n   \"最符合\": \"A\",\n   \"排序\": [\n    \"A\",\n    \"B\",\n    \"D\",\n    \"C\"\n   ],\n   \"理由\": {\n    \"A\": \"命宫直接断瘦高、清秀，夫妻宫断「主酒色财气赌」对应太太爱去舞厅赌场，迁移宫断专业技术专长，命宫佐才、宜为人手下、当助理秘书对应有地位无实权，福德多婚与财帛「中年先生有问题」对应与丈夫生离死别，个性厚道温和对应重感情；几乎没有矛盾。\",\n    \"B\": \"官禄宫断自由业、专业技术专长，夫妻宫断破财伤身、意外横祸、孤单，可对应与配偶生离死别；但命宫只断眼睛大、大贵爵禄荣昌，无瘦高，夫妻宫也无酒色赌博之象。\",\n    \"D\": \"福德多婚、夫妻宫吉处藏凶在劫难逃可对应与丈夫生离死别，仆役宫有专业技术专长；但命宫断魁梧高大、毛发多，与瘦高相反，酒色财气赌落在本人而非配偶，且命宫主当将军、有生杀之权，与无实权不符。\",\n    \"C\": \"命宫断个子矮、中等身材、壮、圆脸，与瘦高明显矛盾；夫妻宫是太太聒噪吵不停而非爱去舞厅赌场；财帛家财万贯、能做事业也与靠专业技术的自由业不合，相符处最少。\"\n   }\n  }\n ]\n}"
+    }
+   ],
+   "container": null,
+   "stop_reason": "end_turn",
+   "stop_sequence": null,
+   "stop_details": null,
+   "usage": {
+    "input_tokens": 16447,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 1429,
+    "output_tokens_details": {
+     "thinking_tokens": 855
+    },
+    "service_tier": "batch",
+    "inference_geo": "global"
+   },
+   "diagnostics": null
+  }
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "schema": "chain-trace-check-v1",
+ "charts": 600,
+ "counts": {
+  "结点": 119075,
+  "推法": 150360,
+  "推法合格": 150360,
+  "成稿里带出处的结点": 119075
+ },
+ "推法合格比例": 1.0,
+ "成稿带出处比例": 1.0,
+ "all_ok": true,
+ "n_problems": 0
+}
+python3 chain_trace_check_v1.py --kb chain_kb_v1.json --charts  --corpus     13.94s user 0.12s system 98% cpu 14.285 total

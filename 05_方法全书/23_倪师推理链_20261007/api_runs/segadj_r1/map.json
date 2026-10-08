@@ -1,0 +1,89 @@
+{
+ "kind": "seg_adjudicator",
+ "model": "claude-fable-5-1",
+ "effort": "high",
+ "max_tokens": 48000,
+ "tasks": {
+  "S02_ADJ": {
+   "name": "S02",
+   "id": "S02",
+   "role": null,
+   "rerun": 0,
+   "dir": "trad_v1/seg_adj/S02",
+   "instructions": null,
+   "prompt_sha256": "22389c79b1c894deee48e1539ad21521b3df55a011ba8749cb373d1682a25945"
+  },
+  "S03_ADJ": {
+   "name": "S03",
+   "id": "S03",
+   "role": null,
+   "rerun": 0,
+   "dir": "trad_v1/seg_adj/S03",
+   "instructions": null,
+   "prompt_sha256": "78899115fe29bc9b5a4e27e5fd40ba6cc9e0fe67d7c3a339c4ff1d91823572d5"
+  },
+  "S04_ADJ": {
+   "name": "S04",
+   "id": "S04",
+   "role": null,
+   "rerun": 0,
+   "dir": "trad_v1/seg_adj/S04",
+   "instructions": null,
+   "prompt_sha256": "e903f46b3e1403e460e6797470537ba57e3a025c35a3926026e462ccf424c7f9"
+  },
+  "S05_ADJ": {
+   "name": "S05",
+   "id": "S05",
+   "role": null,
+   "rerun": 0,
+   "dir": "trad_v1/seg_adj/S05",
+   "instructions": null,
+   "prompt_sha256": "94203ceb88733d838b0796b72cc1b894ed96205d4a896295ee0f2717292ef30f"
+  },
+  "S06_ADJ": {
+   "name": "S06",
+   "id": "S06",
+   "role": null,
+   "rerun": 0,
+   "dir": "trad_v1/seg_adj/S06",
+   "instructions": null,
+   "prompt_sha256": "39f3f7e2183e03a42a9fb73e80416b519e8064d31aec205f5fc7b230a9ffae6d"
+  },
+  "S07_ADJ": {
+   "name": "S07",
+   "id": "S07",
+   "role": null,
+   "rerun": 0,
+   "dir": "trad_v1/seg_adj/S07",
+   "instructions": null,
+   "prompt_sha256": "75f6956db8bd8e2fd8a2bf8b0923bd98d907d9fd8325d28949dc74f8e5462932"
+  },
+  "S08_ADJ": {
+   "name": "S08",
+   "id": "S08",
+   "role": null,
+   "rerun": 0,
+   "dir": "trad_v1/seg_adj/S08",
+   "instructions": null,
+   "prompt_sha256": "d12d8cb48c8dc07f251a884110c87aaaa31c40598d31ac91049eadd31500c814"
+  },
+  "S09_ADJ": {
+   "name": "S09",
+   "id": "S09",
+   "role": null,
+   "rerun": 0,
+   "dir": "trad_v1/seg_adj/S09",
+   "instructions": null,
+   "prompt_sha256": "ac0a6613333adda04525e2f4f35ae7077763d45bfedf0d4fb0216a39580c2d98"
+  },
+  "S10_ADJ": {
+   "name": "S10",
+   "id": "S10",
+   "role": null,
+   "rerun": 0,
+   "dir": "trad_v1/seg_adj/S10",
+   "instructions": null,
+   "prompt_sha256": "bebd3dd8ac2cf6967175a2704611dd2c531f7f14ba06f761b71db7914283e557"
+  }
+ }
+}

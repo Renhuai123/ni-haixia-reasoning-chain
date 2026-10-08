@@ -1,0 +1,43 @@
+{
+ "custom_id": "J174",
+ "result": {
+  "type": "succeeded",
+  "message": {
+   "model": "claude-fable-5-1",
+   "id": "msg_011Cfp3CJT59JuKE36G1LRAe",
+   "type": "message",
+   "role": "assistant",
+   "content": [
+    {
+     "type": "thinking",
+     "thinking": "",
+     "signature": "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"
+    },
+    {
+     "type": "text",
+     "text": "{\n \"包\": \"J174\",\n \"答案\": [\n  {\n   \"题\": \"题01\",\n   \"最符合\": \"D\",\n   \"排序\": [\n    \"D\",\n    \"A\",\n    \"C\",\n    \"B\"\n   ],\n   \"理由\": {\n    \"A\": \"命宫有「白天晚上都忙」「事业做得很大」「巨贾大富」「孤单、婚姻难有着落」，与加倍辛苦、早有成就、夫妻聚少离多尚可相合，但路线写「不做生意、帮人做事领薪水、当官军人」，且全盘无小气守财之断，与自己当老板、吝啬小气不符。\",\n   \"B\": \"命宫定性为凶星、是非口舌星、唠叨、牢狱之灾，财帛「帮人做事领固定薪水」，婚姻「多婚、太太二婚、做偏房」，虽有「巨贾大富、大利外地经商」零星相合，但整体性格与路线均与小气老板、年轻成就的陈述不符。\",\n   \"C\": \"命宫为文官带、佐才、公务员、银行界、帮人做事领薪水，财帛「不做生意」，与自己创业当老板矛盾；仅夫妻「婚姻不好」及仆役推出「自己做事业当老板」略合，无小气、日夜忙碌之断。\",\n   \"D\": \"财帛宫直接断「守财、小气、做生意、当老板、能做事业、家财万贯、善于理财」，命宫有「白天晚上都忙」，身宫在迁移「到外地发展、一去不回」且婚姻「不容易遇到好的、太太聒噪很累」，与小气老板、日夜辛苦、夫妻聚少离多最相合；仅命宫「不做生意、当官」一条与财帛相左。\"\n   }\n  }\n ]\n}"
+    }
+   ],
+   "container": null,
+   "stop_reason": "end_turn",
+   "stop_sequence": null,
+   "stop_details": null,
+   "usage": {
+    "input_tokens": 18906,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 1337,
+    "output_tokens_details": {
+     "thinking_tokens": 723
+    },
+    "service_tier": "batch",
+    "inference_geo": "global"
+   },
+   "diagnostics": null
+  }
+ }
+}

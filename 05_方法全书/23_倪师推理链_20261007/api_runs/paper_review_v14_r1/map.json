@@ -1,0 +1,38 @@
+{
+ "kind": "reviewer",
+ "model": "claude-fable-5-1",
+ "effort": "high",
+ "max_tokens": 64000,
+ "materials_sha256": {
+  "main": "fbb23b7d09de7743ecb77724b75ce794d508198e8f3841982d5680d32eebf805",
+  "supp": "efaf27acfeb2e53c070d64ef40f822ab23e5e431b872d5b601e8d1d828525fde",
+  "instr": "d040904e4b46f19780811d772037b74784b5c8558b320f74ae124976cf721a46",
+  "lenses": "8e515e591a39520ec777ca316e6f359f97bbb31a45ed9c64a55aca141dfca7ce"
+ },
+ "tasks": {
+  "review-v14-R1": {
+   "name": "R1",
+   "prompt_sha256": "895bb3444fedf982e5a0258724b641338ca80a84d6d3666e46a6a35fe2e64e28"
+  },
+  "review-v14-R2": {
+   "name": "R2",
+   "prompt_sha256": "35821fe3a2b19b14303a8c859c9432192f20b12d707eebaaf5773dc33554394b"
+  },
+  "review-v14-R3": {
+   "name": "R3",
+   "prompt_sha256": "6affd6579251b0e4013bafed1352e202c28ae9ccfa24a0803b2e0d29ff62822e"
+  },
+  "review-v14-R4": {
+   "name": "R4",
+   "prompt_sha256": "2aac5b0bc5648ecf8ca487bd4d12e16f58e1c65b3926c1d9e793ff86887a801b"
+  },
+  "review-v14-R5": {
+   "name": "R5",
+   "prompt_sha256": "5ff278ed9ee99c86bba8ba63ca3a6bc0f1bdfc071bfa72a2986b7b41fa8cf2c9"
+  },
+  "review-v14-R6": {
+   "name": "R6",
+   "prompt_sha256": "0f0d3f7401d13453e8c2dbd5a552b4c8108a77e103e9f1754dea83719bd3e41f"
+  }
+ }
+}

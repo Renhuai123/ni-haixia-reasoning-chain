@@ -1,0 +1,43 @@
+{
+ "custom_id": "J124",
+ "result": {
+  "type": "succeeded",
+  "message": {
+   "model": "claude-fable-5-1",
+   "id": "msg_011Cfp3CJJe7CZHnzu9do3LC",
+   "type": "message",
+   "role": "assistant",
+   "content": [
+    {
+     "type": "thinking",
+     "thinking": "",
+     "signature": "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"
+    },
+    {
+     "type": "text",
+     "text": "{\n \"包\": \"J124\",\n \"答案\": [\n  {\n   \"题\": \"题01\",\n   \"最符合\": \"A\",\n   \"排序\": [\n    \"A\",\n    \"C\",\n    \"B\",\n    \"D\"\n   ],\n   \"理由\": {\n    \"A\": \"命宫直断眯眯眼、智慧高、很厉害、做生意、当老板、能做事业，与「笑起来眼睛看不到的聪明人、一定自己当老板、事业很强」完全对应；又有先生不好、嫁能掌握的先生、婆媳不和，呼应「享不到丈夫的福」；生有祖业、主财、正财呼应「祖业传到她身上、不断置产」；未见明显矛盾。\",\n    \"C\": \"有事业做得很大、自己做事业、职业妇女、生有祖业、中年先生有问题、妻兼夫职，与经商能干、享不到夫福、祖业等相合；但长相断眼睛大、眼圆，与「笑起来眼睛看不到」相反，且命宫又断不做生意、宜为人手下，与自己当老板矛盾。\",\n    \"B\": \"命宫断能做事业、迁移断生意发展到外地，勉强沾到经商；但整体以武官、灾星、破财、停滞、开刀血光为主，长相是头脸大、五官挤在一起，没有眯眯眼、聪明能干、置产祖业等任何对应，夫妻宫只讲配偶温和厚道，看不出享不到夫福。\",\n    \"D\": \"有聪明、智慧高、反应快，呼应「人很聪明」；但命宫定性为文官带、正财，明断不做生意、帮人做事领薪水、当公务员，与「一定自己经商当老板、事业很强」直接相反；长相个子矮皮肤黑无眯眯眼；夫妻宫只言宜嫁二婚夫、嫁同龄初婚凶，与享不到夫福对应薄弱。\"\n   }\n  }\n ]\n}"
+    }
+   ],
+   "container": null,
+   "stop_reason": "end_turn",
+   "stop_sequence": null,
+   "stop_details": null,
+   "usage": {
+    "input_tokens": 17467,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 1292,
+    "output_tokens_details": {
+     "thinking_tokens": 625
+    },
+    "service_tier": "batch",
+    "inference_geo": "global"
+   },
+   "diagnostics": null
+  }
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "custom_id": "J208",
+ "result": {
+  "type": "succeeded",
+  "message": {
+   "model": "claude-fable-5-1",
+   "id": "msg_011Cfp3CJv6w2Z2Tzdxs1gs7",
+   "type": "message",
+   "role": "assistant",
+   "content": [
+    {
+     "type": "thinking",
+     "thinking": "",
+     "signature": "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"
+    },
+    {
+     "type": "text",
+     "text": "{\n \"包\": \"J208\",\n \"答案\": [\n  {\n   \"题\": \"题01\",\n   \"最符合\": \"C\",\n   \"排序\": [\n    \"C\",\n    \"B\",\n    \"D\",\n    \"A\"\n   ],\n   \"理由\": {\n    \"A\": \"命宫以武官星、刚强固执、当官带兵为主线，长相壮实红光满面，与陈述中性情柔和、以画画弹琴作曲等才艺见长的文人形象相去最远；仅兄弟宫有作家画家、命宫做偏房略可牵合，夫妻宫也无灾星官司之象。\",\n    \"B\": \"命宫才艺博学、文采风流、作家画家、斯文智慧高与才艺型人物相合，夫妻宫凶星、官司牢狱、须注意配偶安危，可对应太太去世与官司纠纷；但福德宫断一世不顺、很累、福德宫凶，与陈述中后半生一直顺到老相矛盾，且太太聒噪大打出手、婆媳不和等并无陈述支持。\",\n    \"C\": \"命宫文采风流、重读书文笔才华、性阴、智慧高、作家画家与专业技术专长，恰合性情柔和、画画文笔专业都好；夫妻宫灾星、刚强、官司是非、须注意配偶安危并断凶得化解，对应第二任太太去世期间的官司纠纷与其后转顺；官禄宫当官不容易、作家画家亦合事倍功半后以才艺成名，矛盾最少。\",\n    \"D\": \"命宫君王、天生领导、魁梧高大、不苟言笑、刚强狠、当将军威震边疆，与柔和不起眼的才子形象明显不符；虽有文采风流、作家画家、夫妻宫温和且吉处藏凶在劫难逃可对应丧偶，但整体性格与路线方向相反。\"\n   }\n  }\n ]\n}"
+    }
+   ],
+   "container": null,
+   "stop_reason": "end_turn",
+   "stop_sequence": null,
+   "stop_details": null,
+   "usage": {
+    "input_tokens": 14624,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 2111,
+    "output_tokens_details": {
+     "thinking_tokens": 1464
+    },
+    "service_tier": "batch",
+    "inference_geo": "global"
+   },
+   "diagnostics": null
+  }
+ }
+}

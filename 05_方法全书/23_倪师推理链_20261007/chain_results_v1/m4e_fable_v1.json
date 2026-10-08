@@ -1,0 +1,718 @@
+{
+ "schema": "m4e-fable-v1",
+ "n_items": 28,
+ "arms": {
+  "链": {
+   "hits": 17,
+   "p_binomial_one_sided": 6.575606237081699e-05,
+   "rate_CP95": [
+    0.4058,
+    0.785
+   ],
+   "rank_sum": 45,
+   "p_rank_sum_one_sided": 9.10319202253318e-06,
+   "mean_rank_of_true": 1.6071,
+   "没有合格卷": 0,
+   "format_invalid": 0,
+   "per_item": {
+    "题01": {
+     "有合格卷": true,
+     "format_ok": true,
+     "pick": "A",
+     "hit": true,
+     "rank_of_true": 1
+    },
+    "题02": {
+     "有合格卷": true,
+     "format_ok": true,
+     "pick": "C",
+     "hit": true,
+     "rank_of_true": 1
+    },
+    "题03": {
+     "有合格卷": true,
+     "format_ok": true,
+     "pick": "D",
+     "hit": false,
+     "rank_of_true": 2
+    },
+    "题04": {
+     "有合格卷": true,
+     "format_ok": true,
+     "pick": "D",
+     "hit": true,
+     "rank_of_true": 1
+    },
+    "题05": {
+     "有合格卷": true,
+     "format_ok": true,
+     "pick": "D",
+     "hit": false,
+     "rank_of_true": 2
+    },
+    "题06": {
+     "有合格卷": true,
+     "format_ok": true,
+     "pick": "C",
+     "hit": false,
+     "rank_of_true": 3
+    },
+    "题07": {
+     "有合格卷": true,
+     "format_ok": true,
+     "pick": "B",
+     "hit": true,
+     "rank_of_true": 1
+    },
+    "题08": {
+     "有合格卷": true,
+     "format_ok": true,
+     "pick": "A",
+     "hit": false,
+     "rank_of_true": 4
+    },
+    "题09": {
+     "有合格卷": true,
+     "format_ok": true,
+     "pick": "C",
+     "hit": true,
+     "rank_of_true": 1
+    },
+    "题10": {
+     "有合格卷": true,
+     "format_ok": true,
+     "pick": "A",
+     "hit": true,
+     "rank_of_true": 1
+    },
+    "题11": {
+     "有合格卷": true,
+     "format_ok": true,
+     "pick": "B",
+     "hit": false,
+     "rank_of_true": 2
+    },
+    "题12": {
+     "有合格卷": true,
+     "format_ok": true,
+     "pick": "D",
+     "hit": false,
+     "rank_of_true": 2
+    },
+    "题13": {
+     "有合格卷": true,
+     "format_ok": true,
+     "pick": "B",
+     "hit": true,
+     "rank_of_true": 1
+    },
+    "题14": {
+     "有合格卷": true,
+     "format_ok": true,
+     "pick": "C",
+     "hit": false,
+     "rank_of_true": 3
+    },
+    "题15": {
+     "有合格卷": true,
+     "format_ok": true,
+     "pick": "A",
+     "hit": false,
+     "rank_of_true": 3
+    },
+    "题16": {
+     "有合格卷": true,
+     "format_ok": true,
+     "pick": "B",
+     "hit": true,
+     "rank_of_true": 1
+    },
+    "题17": {
+     "有合格卷": true,
+     "format_ok": true,
+     "pick": "D",
+     "hit": true,
+     "rank_of_true": 1
+    },
+    "题18": {
+     "有合格卷": true,
+     "format_ok": true,
+     "pick": "D",
+     "hit": true,
+     "rank_of_true": 1
+    },
+    "题19": {
+     "有合格卷": true,
+     "format_ok": true,
+     "pick": "A",
+     "hit": true,
+     "rank_of_true": 1
+    },
+    "题20": {
+     "有合格卷": true,
+     "format_ok": true,
+     "pick": "B",
+     "hit": true,
+     "rank_of_true": 1
+    },
+    "题21": {
+     "有合格卷": true,
+     "format_ok": true,
+     "pick": "D",
+     "hit": false,
+     "rank_of_true": 2
+    },
+    "题22": {
+     "有合格卷": true,
+     "format_ok": true,
+     "pick": "C",
+     "hit": true,
+     "rank_of_true": 1
+    },
+    "题23": {
+     "有合格卷": true,
+     "format_ok": true,
+     "pick": "B",
+     "hit": true,
+     "rank_of_true": 1
+    },
+    "题24": {
+     "有合格卷": true,
+     "format_ok": true,
+     "pick": "A",
+     "hit": false,
+     "rank_of_true": 3
+    },
+    "题25": {
+     "有合格卷": true,
+     "format_ok": true,
+     "pick": "A",
+     "hit": true,
+     "rank_of_true": 1
+    },
+    "题26": {
+     "有合格卷": true,
+     "format_ok": true,
+     "pick": "A",
+     "hit": true,
+     "rank_of_true": 1
+    },
+    "题27": {
+     "有合格卷": true,
+     "format_ok": true,
+     "pick": "D",
+     "hit": false,
+     "rank_of_true": 2
+    },
+    "题28": {
+     "有合格卷": true,
+     "format_ok": true,
+     "pick": "D",
+     "hit": true,
+     "rank_of_true": 1
+    }
+   }
+  },
+  "平": {
+   "hits": 16,
+   "p_binomial_one_sided": 0.0002901233634833855,
+   "rate_CP95": [
+    0.3718,
+    0.7554
+   ],
+   "rank_sum": 50,
+   "p_rank_sum_one_sided": 0.0003924515360262948,
+   "mean_rank_of_true": 1.7857,
+   "没有合格卷": 0,
+   "format_invalid": 0,
+   "per_item": {
+    "题01": {
+     "有合格卷": true,
+     "format_ok": true,
+     "pick": "A",
+     "hit": true,
+     "rank_of_true": 1
+    },
+    "题02": {
+     "有合格卷": true,
+     "format_ok": true,
+     "pick": "C",
+     "hit": true,
+     "rank_of_true": 1
+    },
+    "题03": {
+     "有合格卷": true,
+     "format_ok": true,
+     "pick": "D",
+     "hit": false,
+     "rank_of_true": 2
+    },
+    "题04": {
+     "有合格卷": true,
+     "format_ok": true,
+     "pick": "D",
+     "hit": true,
+     "rank_of_true": 1
+    },
+    "题05": {
+     "有合格卷": true,
+     "format_ok": true,
+     "pick": "D",
+     "hit": false,
+     "rank_of_true": 2
+    },
+    "题06": {
+     "有合格卷": true,
+     "format_ok": true,
+     "pick": "C",
+     "hit": false,
+     "rank_of_true": 3
+    },
+    "题07": {
+     "有合格卷": true,
+     "format_ok": true,
+     "pick": "B",
+     "hit": true,
+     "rank_of_true": 1
+    },
+    "题08": {
+     "有合格卷": true,
+     "format_ok": true,
+     "pick": "A",
+     "hit": false,
+     "rank_of_true": 4
+    },
+    "题09": {
+     "有合格卷": true,
+     "format_ok": true,
+     "pick": "C",
+     "hit": true,
+     "rank_of_true": 1
+    },
+    "题10": {
+     "有合格卷": true,
+     "format_ok": true,
+     "pick": "A",
+     "hit": true,
+     "rank_of_true": 1
+    },
+    "题11": {
+     "有合格卷": true,
+     "format_ok": true,
+     "pick": "B",
+     "hit": false,
+     "rank_of_true": 2
+    },
+    "题12": {
+     "有合格卷": true,
+     "format_ok": true,
+     "pick": "A",
+     "hit": false,
+     "rank_of_true": 2
+    },
+    "题13": {
+     "有合格卷": true,
+     "format_ok": true,
+     "pick": "B",
+     "hit": true,
+     "rank_of_true": 1
+    },
+    "题14": {
+     "有合格卷": true,
+     "format_ok": true,
+     "pick": "C",
+     "hit": false,
+     "rank_of_true": 3
+    },
+    "题15": {
+     "有合格卷": true,
+     "format_ok": true,
+     "pick": "C",
+     "hit": false,
+     "rank_of_true": 3
+    },
+    "题16": {
+     "有合格卷": true,
+     "format_ok": true,
+     "pick": "A",
+     "hit": false,
+     "rank_of_true": 4
+    },
+    "题17": {
+     "有合格卷": true,
+     "format_ok": true,
+     "pick": "D",
+     "hit": true,
+     "rank_of_true": 1
+    },
+    "题18": {
+     "有合格卷": true,
+     "format_ok": true,
+     "pick": "D",
+     "hit": true,
+     "rank_of_true": 1
+    },
+    "题19": {
+     "有合格卷": true,
+     "format_ok": true,
+     "pick": "A",
+     "hit": true,
+     "rank_of_true": 1
+    },
+    "题20": {
+     "有合格卷": true,
+     "format_ok": true,
+     "pick": "B",
+     "hit": true,
+     "rank_of_true": 1
+    },
+    "题21": {
+     "有合格卷": true,
+     "format_ok": true,
+     "pick": "D",
+     "hit": false,
+     "rank_of_true": 2
+    },
+    "题22": {
+     "有合格卷": true,
+     "format_ok": true,
+     "pick": "A",
+     "hit": false,
+     "rank_of_true": 3
+    },
+    "题23": {
+     "有合格卷": true,
+     "format_ok": true,
+     "pick": "B",
+     "hit": true,
+     "rank_of_true": 1
+    },
+    "题24": {
+     "有合格卷": true,
+     "format_ok": true,
+     "pick": "A",
+     "hit": false,
+     "rank_of_true": 4
+    },
+    "题25": {
+     "有合格卷": true,
+     "format_ok": true,
+     "pick": "A",
+     "hit": true,
+     "rank_of_true": 1
+    },
+    "题26": {
+     "有合格卷": true,
+     "format_ok": true,
+     "pick": "A",
+     "hit": true,
+     "rank_of_true": 1
+    },
+    "题27": {
+     "有合格卷": true,
+     "format_ok": true,
+     "pick": "B",
+     "hit": true,
+     "rank_of_true": 1
+    },
+    "题28": {
+     "有合格卷": true,
+     "format_ok": true,
+     "pick": "D",
+     "hit": true,
+     "rank_of_true": 1
+    }
+   }
+  },
+  "三": {
+   "hits": 18,
+   "p_binomial_one_sided": 1.296375622668322e-05,
+   "rate_CP95": [
+    0.4407,
+    0.8136
+   ],
+   "rank_sum": 42,
+   "p_rank_sum_one_sided": 5.56924403316561e-07,
+   "mean_rank_of_true": 1.5,
+   "没有合格卷": 0,
+   "format_invalid": 0,
+   "per_item": {
+    "题01": {
+     "有合格卷": true,
+     "format_ok": true,
+     "pick": "A",
+     "hit": true,
+     "rank_of_true": 1
+    },
+    "题02": {
+     "有合格卷": true,
+     "format_ok": true,
+     "pick": "C",
+     "hit": true,
+     "rank_of_true": 1
+    },
+    "题03": {
+     "有合格卷": true,
+     "format_ok": true,
+     "pick": "B",
+     "hit": true,
+     "rank_of_true": 1
+    },
+    "题04": {
+     "有合格卷": true,
+     "format_ok": true,
+     "pick": "D",
+     "hit": true,
+     "rank_of_true": 1
+    },
+    "题05": {
+     "有合格卷": true,
+     "format_ok": true,
+     "pick": "D",
+     "hit": false,
+     "rank_of_true": 2
+    },
+    "题06": {
+     "有合格卷": true,
+     "format_ok": true,
+     "pick": "C",
+     "hit": false,
+     "rank_of_true": 2
+    },
+    "题07": {
+     "有合格卷": true,
+     "format_ok": true,
+     "pick": "B",
+     "hit": true,
+     "rank_of_true": 1
+    },
+    "题08": {
+     "有合格卷": true,
+     "format_ok": true,
+     "pick": "A",
+     "hit": false,
+     "rank_of_true": 2
+    },
+    "题09": {
+     "有合格卷": true,
+     "format_ok": true,
+     "pick": "C",
+     "hit": true,
+     "rank_of_true": 1
+    },
+    "题10": {
+     "有合格卷": true,
+     "format_ok": true,
+     "pick": "A",
+     "hit": true,
+     "rank_of_true": 1
+    },
+    "题11": {
+     "有合格卷": true,
+     "format_ok": true,
+     "pick": "B",
+     "hit": false,
+     "rank_of_true": 4
+    },
+    "题12": {
+     "有合格卷": true,
+     "format_ok": true,
+     "pick": "C",
+     "hit": true,
+     "rank_of_true": 1
+    },
+    "题13": {
+     "有合格卷": true,
+     "format_ok": true,
+     "pick": "B",
+     "hit": true,
+     "rank_of_true": 1
+    },
+    "题14": {
+     "有合格卷": true,
+     "format_ok": true,
+     "pick": "C",
+     "hit": false,
+     "rank_of_true": 2
+    },
+    "题15": {
+     "有合格卷": true,
+     "format_ok": true,
+     "pick": "C",
+     "hit": false,
+     "rank_of_true": 2
+    },
+    "题16": {
+     "有合格卷": true,
+     "format_ok": true,
+     "pick": "B",
+     "hit": true,
+     "rank_of_true": 1
+    },
+    "题17": {
+     "有合格卷": true,
+     "format_ok": true,
+     "pick": "D",
+     "hit": true,
+     "rank_of_true": 1
+    },
+    "题18": {
+     "有合格卷": true,
+     "format_ok": true,
+     "pick": "B",
+     "hit": false,
+     "rank_of_true": 2
+    },
+    "题19": {
+     "有合格卷": true,
+     "format_ok": true,
+     "pick": "A",
+     "hit": true,
+     "rank_of_true": 1
+    },
+    "题20": {
+     "有合格卷": true,
+     "format_ok": true,
+     "pick": "B",
+     "hit": true,
+     "rank_of_true": 1
+    },
+    "题21": {
+     "有合格卷": true,
+     "format_ok": true,
+     "pick": "D",
+     "hit": false,
+     "rank_of_true": 3
+    },
+    "题22": {
+     "有合格卷": true,
+     "format_ok": true,
+     "pick": "B",
+     "hit": false,
+     "rank_of_true": 2
+    },
+    "题23": {
+     "有合格卷": true,
+     "format_ok": true,
+     "pick": "B",
+     "hit": true,
+     "rank_of_true": 1
+    },
+    "题24": {
+     "有合格卷": true,
+     "format_ok": true,
+     "pick": "A",
+     "hit": false,
+     "rank_of_true": 3
+    },
+    "题25": {
+     "有合格卷": true,
+     "format_ok": true,
+     "pick": "A",
+     "hit": true,
+     "rank_of_true": 1
+    },
+    "题26": {
+     "有合格卷": true,
+     "format_ok": true,
+     "pick": "A",
+     "hit": true,
+     "rank_of_true": 1
+    },
+    "题27": {
+     "有合格卷": true,
+     "format_ok": true,
+     "pick": "B",
+     "hit": true,
+     "rank_of_true": 1
+    },
+    "题28": {
+     "有合格卷": true,
+     "format_ok": true,
+     "pick": "D",
+     "hit": true,
+     "rank_of_true": 1
+    }
+   }
+  }
+ },
+ "与原M4e逐题配对": {
+  "链组：Fable对Opus": {
+   "都认出": 15,
+   "只前一组": 2,
+   "只后一组": 3,
+   "都没认出": 8,
+   "配对差": -0.0357,
+   "配对差95%区间（条件精确）": [
+    -0.1598,
+    0.1262
+   ],
+   "附表·精确McNemar双侧p": 1.0,
+   "Opus认对题数": 18
+  },
+  "平组：Fable对Opus": {
+   "都认出": 15,
+   "只前一组": 1,
+   "只后一组": 3,
+   "都没认出": 9,
+   "配对差": -0.0714,
+   "配对差95%区间（条件精确）": [
+    -0.1411,
+    0.0874
+   ],
+   "附表·精确McNemar双侧p": 0.625,
+   "Opus认对题数": 18
+  },
+  "三组：Fable对Opus": {
+   "都认出": 17,
+   "只前一组": 1,
+   "只后一组": 3,
+   "都没认出": 7,
+   "配对差": -0.0714,
+   "配对差95%区间（条件精确）": [
+    -0.1411,
+    0.0874
+   ],
+   "附表·精确McNemar双侧p": 0.625,
+   "Opus认对题数": 20
+  }
+ },
+ "Fable组间配对": {
+  "链组对平铺组": {
+   "都认出": 15,
+   "只前一组": 2,
+   "只后一组": 1,
+   "都没认出": 10,
+   "配对差": 0.0357,
+   "配对差95%区间（条件精确）": [
+    -0.0869,
+    0.1053
+   ],
+   "附表·精确McNemar双侧p": 1.0
+  },
+  "平铺组对第三版先天组": {
+   "都认出": 15,
+   "只前一组": 1,
+   "只后一组": 3,
+   "都没认出": 9,
+   "配对差": -0.0714,
+   "配对差95%区间（条件精确）": [
+    -0.1411,
+    0.0874
+   ],
+   "附表·精确McNemar双侧p": 0.625
+  },
+  "链组对第三版先天组": {
+   "都认出": 15,
+   "只前一组": 2,
+   "只后一组": 3,
+   "都没认出": 8,
+   "配对差": -0.0357,
+   "配对差95%区间（条件精确）": [
+    -0.1598,
+    0.1262
+   ],
+   "附表·精确McNemar双侧p": 1.0
+  }
+ }
+}

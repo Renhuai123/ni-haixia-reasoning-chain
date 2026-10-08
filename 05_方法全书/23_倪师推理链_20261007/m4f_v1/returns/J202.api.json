@@ -1,0 +1,43 @@
+{
+ "custom_id": "J202",
+ "result": {
+  "type": "succeeded",
+  "message": {
+   "model": "claude-fable-5-1",
+   "id": "msg_011Cfp3CJL8PCnTBTccVSrvg",
+   "type": "message",
+   "role": "assistant",
+   "content": [
+    {
+     "type": "thinking",
+     "thinking": "",
+     "signature": "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"
+    },
+    {
+     "type": "text",
+     "text": "{\n \"包\": \"J202\",\n \"答案\": [\n  {\n   \"题\": \"题01\",\n   \"最符合\": \"A\",\n   \"排序\": [\n    \"A\",\n    \"B\",\n    \"C\",\n    \"D\"\n   ],\n   \"理由\": {\n    \"A\": \"命宫性阴、文采风流、重读书文笔才华、作家画家、专业技术专长，与陈述中性情柔和、画画弹琴作曲、才艺文笔好完全相符；夫妻宫断灾星、官司是非、要特别注意配偶健康与安全、刚强，正对应第二任太太去世时期并有官司纠纷；官禄宫又断作家画家；未断长相，不与「不好看」冲突，矛盾最少。\",\n    \"B\": \"命宫文采风流、才艺博学、作家画家、性阴与才艺一面相符，夫妻宫亦有官司与配偶安全提醒；但福德宫断一世不顺、很累、福德宫凶，与「从某岁以后非常顺一直顺到老」矛盾，长相斯文与「不好看」略不合，且多处作女命（做偏房、母亲为她担心）论断，非本人之盘。\",\n    \"C\": \"命宫虽两说有文采风流、作家画家，但主断武官星、刚强、孤僻、不容易相处、闭关自守，与陈述性情柔和、博得女孩子欢心相反；婚姻断做偏房、婆媳不和，亦属女命论法，官禄断贪官被人干掉，与晚年顺遂不合。\",\n    \"D\": \"命宫以武官星、文官带、正财为主，断当官、公务员、刚强固执，长相圆脸白皙红光满面，与才艺型柔和之人不符；夫妻宫无灾无官非，也看不出配偶去世与官司，是四份中与陈述最不相合的一份。\"\n   }\n  }\n ]\n}"
+    }
+   ],
+   "container": null,
+   "stop_reason": "end_turn",
+   "stop_sequence": null,
+   "stop_details": null,
+   "usage": {
+    "input_tokens": 16219,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 1460,
+    "output_tokens_details": {
+     "thinking_tokens": 825
+    },
+    "service_tier": "batch",
+    "inference_geo": "global"
+   },
+   "diagnostics": null
+  }
+ }
+}

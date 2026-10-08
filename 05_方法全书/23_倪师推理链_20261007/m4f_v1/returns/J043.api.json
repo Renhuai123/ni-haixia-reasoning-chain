@@ -1,0 +1,43 @@
+{
+ "custom_id": "J043",
+ "result": {
+  "type": "succeeded",
+  "message": {
+   "model": "claude-fable-5-1",
+   "id": "msg_011Cfp3CJMsQFQYvCu2oe5c6",
+   "type": "message",
+   "role": "assistant",
+   "content": [
+    {
+     "type": "thinking",
+     "thinking": "",
+     "signature": "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"
+    },
+    {
+     "type": "text",
+     "text": "{\n \"包\": \"J043\",\n \"答案\": [\n  {\n   \"题\": \"题01\",\n   \"最符合\": \"A\",\n   \"排序\": [\n    \"A\",\n    \"C\",\n    \"D\",\n    \"B\"\n   ],\n   \"理由\": {\n    \"A\": \"命宫瘦高、清秀，厚道温和谦和（重感情），武官星带地位却又是佐才、宜为人手下（职位高无实权），迁移专业技术专长、离乡走天下，夫妻宫主酒色财气赌（太太爱舞厅赌场），福德多婚（生离死别）；几乎各项都对上，矛盾极少。\",\n    \"C\": \"命宫瘦高、佐才，夫妻宫主酒色财气赌、多婚，迁移专业技术专长，这些相符；但官禄断没有官带、不会当官，命宫又带灾星、很火大、与人处不和，和职位地位高、很重感情不太合。\",\n    \"D\": \"官禄断自由业、专业技术专长，夫妻宫多凶可对应生离死别；但长相只说眼睛大不说瘦高，命宫大贵、爵禄荣昌与有职无权相反，夫妻宫也没有酒色财气赌的配偶特征。\",\n    \"B\": \"命宫断魁梧高大、毛发多，与瘦高相反；夫妻宫是厚道善良温和之人，没有酒色财气赌，本人为武职将军有生杀之权，也不符有职无权与自由业，相符最少。\"\n   }\n  }\n ]\n}"
+    }
+   ],
+   "container": null,
+   "stop_reason": "end_turn",
+   "stop_sequence": null,
+   "stop_details": null,
+   "usage": {
+    "input_tokens": 16469,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 1509,
+    "output_tokens_details": {
+     "thinking_tokens": 994
+    },
+    "service_tier": "batch",
+    "inference_geo": "global"
+   },
+   "diagnostics": null
+  }
+ }
+}

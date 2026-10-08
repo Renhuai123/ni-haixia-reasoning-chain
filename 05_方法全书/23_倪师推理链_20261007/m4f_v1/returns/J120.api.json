@@ -1,0 +1,43 @@
+{
+ "custom_id": "J120",
+ "result": {
+  "type": "succeeded",
+  "message": {
+   "model": "claude-fable-5-1",
+   "id": "msg_011Cfp3CK9zMZGbqdrpUpaAT",
+   "type": "message",
+   "role": "assistant",
+   "content": [
+    {
+     "type": "thinking",
+     "thinking": "",
+     "signature": "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"
+    },
+    {
+     "type": "text",
+     "text": "{\n \"包\": \"J120\",\n \"答案\": [\n  {\n   \"题\": \"题01\",\n   \"最符合\": \"B\",\n   \"排序\": [\n    \"B\",\n    \"D\",\n    \"C\",\n    \"A\"\n   ],\n   \"理由\": {\n    \"A\": \"命宫定为偏房格、做偏房，夫妻宫断婚姻好、婚姻无事，与丈夫中年出事、之后一人带孩子相矛盾；只有文官带丈夫斯文、职业路线可勉强对上，整体相符最少。\",\n    \"B\": \"命宫直接断为男人的命、女命最忌，福德宫断很累、一世不顺、夫星不见、婚姻不好，父母宫断妻兼夫职、代表丈夫、形小，与女人身男人命、活得很累、丈夫出事后独自持家、丈夫个子不高高度相符，仅肾脏病与住位发达未直接出现。\",\n    \"C\": \"命宫正财、帮人做事领薪水与职业妇女相合，但断孤单、婚姻难有着落、宜嫁二婚夫，且本人长相个子矮皮肤黑，没有男人命、很累、妻兼夫职的说法，对丈夫清秀亦无描述，相符有限。\",\n    \"D\": \"命宫断不靠男人、自己赚钱、一个人持家，与职业妇女、后来独自带孩子相合，但断婚姻难有着落、男人受不了，又无男人命、很累之说，丈夫长相亦不符清秀，相符程度次于B。\"\n   }\n  }\n ]\n}"
+    }
+   ],
+   "container": null,
+   "stop_reason": "end_turn",
+   "stop_sequence": null,
+   "stop_details": null,
+   "usage": {
+    "input_tokens": 18590,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 1531,
+    "output_tokens_details": {
+     "thinking_tokens": 1002
+    },
+    "service_tier": "batch",
+    "inference_geo": "global"
+   },
+   "diagnostics": null
+  }
+ }
+}

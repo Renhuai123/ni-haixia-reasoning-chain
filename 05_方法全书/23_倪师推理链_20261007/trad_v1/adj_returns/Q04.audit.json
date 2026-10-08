@@ -1,0 +1,31 @@
+{
+ "name": "Q04",
+ "id": "Q04",
+ "role": null,
+ "rerun": 0,
+ "ok": true,
+ "why_not_ok": [],
+ "custom_id": "Q04_ADJ",
+ "batch_id": "msgbatch_018GYjN73iAwTRGBzA8Sdz2B",
+ "model": "claude-fable-5-1",
+ "message_id": "msg_011Cfp3b3RLTqFJhPK6e7vAT",
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 30554,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 0,
+  "cache_creation": {
+   "ephemeral_5m_input_tokens": 0,
+   "ephemeral_1h_input_tokens": 0
+  },
+  "output_tokens": 3654,
+  "output_tokens_details": {
+   "thinking_tokens": 2448
+  },
+  "service_tier": "batch",
+  "inference_geo": "global"
+ },
+ "花费美元": 0.2441,
+ "prompt_sha256": "ae799e332d6ce10664c96a782202f738408db15b135d661ae5f182978e0ad00e",
+ "material_dir": "trad_v1/adjudicate/Q04"
+}

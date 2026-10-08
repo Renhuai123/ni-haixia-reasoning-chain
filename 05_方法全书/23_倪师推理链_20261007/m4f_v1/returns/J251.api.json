@@ -1,0 +1,43 @@
+{
+ "custom_id": "J251",
+ "result": {
+  "type": "succeeded",
+  "message": {
+   "model": "claude-fable-5-1",
+   "id": "msg_011Cfp3CJeygCpYZRxqndDf4",
+   "type": "message",
+   "role": "assistant",
+   "content": [
+    {
+     "type": "thinking",
+     "thinking": "",
+     "signature": "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"
+    },
+    {
+     "type": "text",
+     "text": "{\n \"包\": \"J251\",\n \"答案\": [\n  {\n   \"题\": \"题01\",\n   \"最符合\": \"C\",\n   \"排序\": [\n    \"C\",\n    \"D\",\n    \"A\",\n    \"B\"\n   ],\n   \"理由\": {\n    \"A\": \"命宫武官星、杀星、大吉、有生杀之权，迁移仅两说刃开血光或平安无事，凶处落在配偶与子女而非本人，且财帛宫断职业妇女、中年先生有问题，偏女命口吻，与男子中年遭枪击身亡不合。\",\n    \"B\": \"命宫文官带、斯文、文采风流、以读书考试为主，身宫在夫妻，本人无横祸在劫之断，横祸意外落在父母宫，与中南部知名男子竞选中被枪杀的事迹不符。\",\n    \"C\": \"命宫直接断吉处藏凶、在劫难逃、心眼多害到自己、位高无权，迁移宫断刃开血光、半路埋尸，财帛领导力强、家财万贯、当老板，身宫在官禄又断当官不容易，田宅豪门大宅，仆役朋友变仇人、声名远播，与中南部名人、准备参选却在家门口被人枪杀身亡最相符。\",\n    \"D\": \"命宫武官星、刚强火爆、大怒犯大错、见美女必追，迁移断意外灾、横祸，本人亦有寿元提醒，与横死有相符处；但缺少成名、从商或竞选相关之断，身宫在福德只讲婚姻不好，整体不如C贴切。\"\n   }\n  }\n ]\n}"
+    }
+   ],
+   "container": null,
+   "stop_reason": "end_turn",
+   "stop_sequence": null,
+   "stop_details": null,
+   "usage": {
+    "input_tokens": 16222,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 1448,
+    "output_tokens_details": {
+     "thinking_tokens": 901
+    },
+    "service_tier": "batch",
+    "inference_geo": "global"
+   },
+   "diagnostics": null
+  }
+ }
+}

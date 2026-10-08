@@ -1,0 +1,43 @@
+{
+ "custom_id": "J141",
+ "result": {
+  "type": "succeeded",
+  "message": {
+   "model": "claude-fable-5-1",
+   "id": "msg_011Cfp3CJaWgM7bVFqHjeiZ8",
+   "type": "message",
+   "role": "assistant",
+   "content": [
+    {
+     "type": "thinking",
+     "thinking": "",
+     "signature": "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"
+    },
+    {
+     "type": "text",
+     "text": "{\n \"包\": \"J141\",\n \"答案\": [\n  {\n   \"题\": \"题01\",\n   \"最符合\": \"C\",\n   \"排序\": [\n    \"C\",\n    \"B\",\n    \"A\",\n    \"D\"\n   ],\n   \"理由\": {\n    \"A\": \"仆役宫有「朋友变仇人、凶灾」勉强对上合伙生祸，但夫妻宫断「配偶最好、婚姻无事」，与她多次婚姻、每段只维持7年明显矛盾，也无出外海外之象。\",\n    \"B\": \"迁移身宫断到外地海外发展、一去不回，与人在加州相符；仆役「朋友变仇人」亦合，婚姻只断「难有着落、婆媳不和」而非屡次离异，子女宫以男性刚强为主，与儿子女性化不甚相符。\",\n    \"C\": \"夫妻宫直断「二婚、离婚」、福德「婚姻不好」，正合每段婚姻只维持7年；仆役宫「朋友变仇人、官司、是非」正合与朋友合伙必以打官司收场；子女宫无子、凶、不能解厄亦可对应子女异常，唯缺迁移海外及声音沙哑的直接对应。\",\n    \"D\": \"仆役宫断「人和、合伙吉」，与合伙必打官司直接相反；婚姻只断配偶刚强、妻长，无离异之象；仅迁移海外一点相符，整体最不符。\"\n   }\n  }\n ]\n}"
+    }
+   ],
+   "container": null,
+   "stop_reason": "end_turn",
+   "stop_sequence": null,
+   "stop_details": null,
+   "usage": {
+    "input_tokens": 19495,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 1500,
+    "output_tokens_details": {
+     "thinking_tokens": 999
+    },
+    "service_tier": "batch",
+    "inference_geo": "global"
+   },
+   "diagnostics": null
+  }
+ }
+}

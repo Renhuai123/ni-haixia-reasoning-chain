@@ -1,0 +1,43 @@
+{
+ "custom_id": "J215",
+ "result": {
+  "type": "succeeded",
+  "message": {
+   "model": "claude-fable-5-1",
+   "id": "msg_011Cfp3CJV4K7MofCC1tQzKP",
+   "type": "message",
+   "role": "assistant",
+   "content": [
+    {
+     "type": "thinking",
+     "thinking": "",
+     "signature": "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"
+    },
+    {
+     "type": "text",
+     "text": "{\n \"包\": \"J215\",\n \"答案\": [\n  {\n   \"题\": \"题01\",\n   \"最符合\": \"A\",\n   \"排序\": [\n    \"A\",\n    \"D\",\n    \"B\",\n    \"C\"\n   ],\n   \"理由\": {\n    \"A\": \"命宫直断偏房格、做偏房、进偏房的大运，仆役宫又有没有名分的先生，正合「一直没有婚姻、给人做偏房」；长相形小合个子很小；凶星、是非口舌星、唠叨、太吵、吵架、很厉害、男人受不了、性守，正合凶悍泼辣、固执爱骂人的个性；不符处是父母宫说旺父母、孝顺家里，与被领养见不到父母不合，子女宫也未断无子。\",\n    \"D\": \"命宫刚强、大怒犯大错、女命最忌，子女宫无子，父母与父亲相隔，略合凶悍、无子、与父母隔离；但全无偏房、形小之断，且断早婚、会结婚，与一直没有婚姻不合。\",\n    \"B\": \"命宫刚强、小气、很凶，子女宫无子、跟妈妈相抗，合凶悍无子；但没有偏房、形小之断，婚姻只讲婆媳不和、婚姻受母亲左右、母亲极力促婚，与没有婚姻、见不到父母不合。\",\n    \"C\": \"仆役宫有没有名分的先生，命宫很凶、母亲早走，略合偏房与凶悍；但子女宫断一子，与没有子女直接矛盾，婚姻又断婚姻好、母亲极力促婚，长相、个性皆无形小、固执之断，相符最少。\"\n   }\n  }\n ]\n}"
+    }
+   ],
+   "container": null,
+   "stop_reason": "end_turn",
+   "stop_sequence": null,
+   "stop_details": null,
+   "usage": {
+    "input_tokens": 13540,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 1239,
+    "output_tokens_details": {
+     "thinking_tokens": 656
+    },
+    "service_tier": "batch",
+    "inference_geo": "global"
+   },
+   "diagnostics": null
+  }
+ }
+}

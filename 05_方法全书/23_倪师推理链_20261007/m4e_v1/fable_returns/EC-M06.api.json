@@ -1,0 +1,43 @@
+{
+ "custom_id": "EC-M06",
+ "result": {
+  "type": "succeeded",
+  "message": {
+   "model": "claude-fable-5-1",
+   "id": "msg_011Cfp49Dm5SM5ANYqjm89G2",
+   "type": "message",
+   "role": "assistant",
+   "content": [
+    {
+     "type": "thinking",
+     "thinking": "",
+     "signature": "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"
+    },
+    {
+     "type": "text",
+     "text": "{\n \"包\": \"M06\",\n \"答案\": [\n  {\n   \"题\": \"题06\",\n   \"最符合\": \"C\",\n   \"排序\": [\n    \"C\",\n    \"D\",\n    \"A\",\n    \"B\"\n   ],\n   \"理由\": {\n    \"A\": \"命宫武官星、位高无权、大吉，迁移宫有意外灾横祸并提醒注意本人安全，但整体偏军警武职、婚姻好、工作顺利，没有当官参选的政治路线，也没有「灾不能解」的论断，与枪击身亡且解不掉的凶灾只部分相符。\",\n    \"B\": \"命宫文武双全、科甲、作家画家、专业技术，成格而考试很棒，走的是文人才艺路线，命宫本身没有灾应本人的论断，只有迁移宫意外横祸，与中南部名人参选、枪击横死的陈述最不相符。\",\n    \"C\": \"命宫杀星劫杀、健康最不好、伤身、官司是非、意外灾横祸、灾应本人并提醒本人安全，官禄宫当官、掌权、官权压重又贪官而「被人干掉」，父母宫不能解厄制化，仆役凶灾祸不单行，与参选政治人物被枪击身亡且凶灾解不掉的陈述最相符。\",\n    \"D\": \"官禄身宫当官、贪官被人干掉，兄弟仆役不能解厄制化、凶灾，子女宫意外横祸见血光，与政治人物横死部分相符；但命宫命很好、近天子、能解厄制化逢凶化吉、家财万贯，与「这个命的灾解也解不掉」直接矛盾，故次于C。\"\n   }\n  }\n ]\n}"
+    }
+   ],
+   "container": null,
+   "stop_reason": "end_turn",
+   "stop_sequence": null,
+   "stop_details": null,
+   "usage": {
+    "input_tokens": 18013,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 1398,
+    "output_tokens_details": {
+     "thinking_tokens": 819
+    },
+    "service_tier": "batch",
+    "inference_geo": "global"
+   },
+   "diagnostics": null
+  }
+ }
+}

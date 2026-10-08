@@ -1,0 +1,43 @@
+{
+ "custom_id": "J172",
+ "result": {
+  "type": "succeeded",
+  "message": {
+   "model": "claude-fable-5-1",
+   "id": "msg_011Cfp3CJGQtpnyPZ3FxqJFG",
+   "type": "message",
+   "role": "assistant",
+   "content": [
+    {
+     "type": "thinking",
+     "thinking": "",
+     "signature": "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"
+    },
+    {
+     "type": "text",
+     "text": "{\n \"包\": \"J172\",\n \"答案\": [\n  {\n   \"题\": \"题01\",\n   \"最符合\": \"D\",\n   \"排序\": [\n    \"D\",\n    \"A\",\n    \"B\",\n    \"C\"\n   ],\n   \"理由\": {\n    \"A\": \"命宫刚强、君王之相、命很好、家财万贯，身宫在财帛且有「私人企业或自己做事业」、子女宫「代表父亲、离散父母」与早年丧父相合；但迁移「离乡走天下」与「外地凶、本地吉」相反，路线又多见「宜为人手下、帮人做事领薪水、当助理秘书」，子女宫「没问题、因子女而结婚」与无子女矛盾。\",\n    \"B\": \"命宫刚强、拗、狠与个性很硬相合，迁移宫（身宫）有意外灾、横祸勉强可对应外地凶；但成败为半空折翅、非常凶，与钱财事业皆好相反，路线全是武官、帮人做事领薪水，子女宫没问题、父母会在一起，均与陈述矛盾。\",\n    \"C\": \"命宫个性强可合刚硬一点；但路线明言帮人做事领薪水、当公务员、不会当官，官禄停滞，与自己出来做事业且财运事业皆好相反，子女宫断「一子、儿子非常优秀」更与无子女直接冲突，父母宫亦无丧父迹象，相符最少。\",\n    \"D\": \"命宫主见强、性阴且断「巨贾」，与不屈居人下、自己做事业、钱财事业两好相符；父母宫灾星、心脏有病并需注意父母生死，正对应7岁失父；盘中无迁移宫论述、不见离乡之断，与外地凶本地吉不冲突；子女宫吉处藏凶、在劫难逃、不能解厄制化，不与无子女矛盾；婚姻「会结婚、自己决定婚姻」亦合其求早婚的心理，整体相符最多。\"\n   }\n  }\n ]\n}"
+    }
+   ],
+   "container": null,
+   "stop_reason": "end_turn",
+   "stop_sequence": null,
+   "stop_details": null,
+   "usage": {
+    "input_tokens": 18326,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 2689,
+    "output_tokens_details": {
+     "thinking_tokens": 2000
+    },
+    "service_tier": "batch",
+    "inference_geo": "global"
+   },
+   "diagnostics": null
+  }
+ }
+}

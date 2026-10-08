@@ -1,0 +1,31 @@
+{
+ "name": "E3-M09",
+ "id": "E3-M09",
+ "role": null,
+ "rerun": 0,
+ "ok": true,
+ "why_not_ok": [],
+ "custom_id": "E3-M09",
+ "batch_id": "msgbatch_018BBnuCB5Fi2CEugBkDXffX",
+ "model": "claude-fable-5-1",
+ "message_id": "msg_011Cfp49E2wiKkrqzw5xPaRv",
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 13942,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 0,
+  "cache_creation": {
+   "ephemeral_5m_input_tokens": 0,
+   "ephemeral_1h_input_tokens": 0
+  },
+  "output_tokens": 2125,
+  "output_tokens_details": {
+   "thinking_tokens": 1521
+  },
+  "service_tier": "batch",
+  "inference_geo": "global"
+ },
+ "花费美元": 0.1228,
+ "prompt_sha256": "53f7e6d7320b2f989d200e67a2d620c4e1abd99de02424fa5831a4cc83f46e06",
+ "material_dir": "m4e_v1/judge_packets_三/M09"
+}

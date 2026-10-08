@@ -1,0 +1,43 @@
+{
+ "custom_id": "J148",
+ "result": {
+  "type": "succeeded",
+  "message": {
+   "model": "claude-fable-5-1",
+   "id": "msg_011Cfp3CKPsqHQdsduqd1YkC",
+   "type": "message",
+   "role": "assistant",
+   "content": [
+    {
+     "type": "thinking",
+     "thinking": "",
+     "signature": "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"
+    },
+    {
+     "type": "text",
+     "text": "{\n \"包\": \"J148\",\n \"答案\": [\n  {\n   \"题\": \"题01\",\n   \"最符合\": \"A\",\n   \"排序\": [\n    \"A\",\n    \"D\",\n    \"B\",\n    \"C\"\n   ],\n   \"理由\": {\n    \"A\": \"命宫文武双全、科甲、重读书文笔才华、专业技术专长，对应学业有成、靠专长上班掌权；离祖、到外地发展、六亲不靠对应离开父母孤军奋战；身宫在夫妻宫、夫妻宫为正财财星、后天受婚姻影响大、婚姻受该宫之人左右、夫妻吵架，正对应钱全交太太、自己认了不离婚、在劫难逃；不符处仅官禄断当官、婚姻聚少散多与陈述略有出入。\",\n    \"D\": \"命宫正财→帮人做事领薪水、文武双全食神，官禄没有官带不会当官，与在私人公司领薪相合，与父亲相隔也合离家在外；夫妻宫凶星是非口舌星、夫妻吵架大打出手合太太强势；但命宫无读书科甲之象，专长只落在仆役宫，福德断多婚与「不会离婚、认了」有矛盾，整体略逊于A。\",\n    \"B\": \"命宫正财文官带、帮人做事领薪水合上班领薪，但断公家单位、银行界、巨贾富可敌国，与私人公司专业人员不符；婚姻断婚姻好、招美妻，夫妻宫忌由先生而来、没有名分的先生等偏女命口吻，与「钱全交太太、太太翻脸」的婚姻状况不合。\",\n    \"C\": \"命宫武官星、军人、将军、威震边疆、火爆刚烈，与靠专业知识在私人公司领薪的文职路线不符；夫妻宫断配偶最好、温和厚道谦和，与太太掌钱强势翻脸完全相反；仅出外地读书、到外地发展与离开父母略合，相符最少。\"\n   }\n  }\n ]\n}"
+    }
+   ],
+   "container": null,
+   "stop_reason": "end_turn",
+   "stop_sequence": null,
+   "stop_details": null,
+   "usage": {
+    "input_tokens": 17791,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 2255,
+    "output_tokens_details": {
+     "thinking_tokens": 1556
+    },
+    "service_tier": "batch",
+    "inference_geo": "global"
+   },
+   "diagnostics": null
+  }
+ }
+}

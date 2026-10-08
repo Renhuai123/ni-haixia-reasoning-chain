@@ -1,0 +1,43 @@
+{
+ "custom_id": "J063",
+ "result": {
+  "type": "succeeded",
+  "message": {
+   "model": "claude-fable-5-1",
+   "id": "msg_011Cfp3CLB1PoQaLDBzBJBCM",
+   "type": "message",
+   "role": "assistant",
+   "content": [
+    {
+     "type": "thinking",
+     "thinking": "",
+     "signature": "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"
+    },
+    {
+     "type": "text",
+     "text": "{\n \"包\": \"J063\",\n \"答案\": [\n  {\n   \"题\": \"题01\",\n   \"最符合\": \"D\",\n   \"排序\": [\n    \"D\",\n    \"A\",\n    \"C\",\n    \"B\"\n   ],\n   \"理由\": {\n    \"A\": \"命宫正财帮人做事领薪水、文武双全、专业路线与陈述的受薪主管相符，但缺少离祖外出、孤军奋战的线索，且断兄弟得力、夫妻大打出手，与陈述的孤单和认命婚姻不太一致。\",\n    \"B\": \"命宫以武官星、军人、当将军为主线，与靠专业在私人公司领薪水明显不符；虽有迁移到外地发展、官禄专业技术一考就上可对应读书好与离家，但婚姻断配偶最好、无钱财受妻左右之意，整体相符最少。\",\n    \"C\": \"命宫正财帮人做事领薪水、婚姻受该宫之人左右可部分对应，但主线是公家单位、银行界、公务员，与私人公司上班不符，又断巨贾大富富可敌国、见美女必追，与陈述差距大。\",\n    \"D\": \"命宫科甲、重读书文笔才华、专业技术专长、到外地发展、离祖、六亲不靠，正合读书好、有专长、离开父母孤军奋战；身宫在夫妻且夫妻宫为正财财星，后天受婚姻影响大、婚姻受该宫之人左右，正合钱全交太太、婚姻自己认了，相符最多。\"\n   }\n  }\n ]\n}"
+    }
+   ],
+   "container": null,
+   "stop_reason": "end_turn",
+   "stop_sequence": null,
+   "stop_details": null,
+   "usage": {
+    "input_tokens": 17791,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 1386,
+    "output_tokens_details": {
+     "thinking_tokens": 854
+    },
+    "service_tier": "batch",
+    "inference_geo": "global"
+   },
+   "diagnostics": null
+  }
+ }
+}

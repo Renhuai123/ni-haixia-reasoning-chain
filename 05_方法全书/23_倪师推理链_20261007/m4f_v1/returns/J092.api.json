@@ -1,0 +1,43 @@
+{
+ "custom_id": "J092",
+ "result": {
+  "type": "succeeded",
+  "message": {
+   "model": "claude-fable-5-1",
+   "id": "msg_011Cfp3CKLQByyP4k2NLRaw3",
+   "type": "message",
+   "role": "assistant",
+   "content": [
+    {
+     "type": "thinking",
+     "thinking": "",
+     "signature": "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"
+    },
+    {
+     "type": "text",
+     "text": "{\n \"包\": \"J092\",\n \"答案\": [\n  {\n   \"题\": \"题01\",\n   \"最符合\": \"D\",\n   \"排序\": [\n    \"D\",\n    \"C\",\n    \"B\",\n    \"A\"\n   ],\n   \"理由\": {\n    \"A\": \"命宫旺夫、夫妻宫婚姻好、父母宫父母会在一起，与偏房、父母离散相反；兄弟宫当老师只是侧面，仅子女宫妻兼夫职略合，整体不符。\",\n    \"B\": \"命宫有教星、当老师与从事教职相合，但同时断当公务员，且无偏房、父母离散、兄弟夭折之断，婚姻六亲部分不符。\",\n    \"C\": \"兄弟宫没有兄弟、要注意兄弟健康及妻兼夫职与兄弟夭折、母兼父职相合，但命宫旺夫、婚姻好、父母会在一起，与偏房、父母离散直接矛盾。\",\n    \"D\": \"命宫明断偏房格、做偏房、离散父母、代表父亲、个性强责任重、白天晚上都忙，兄弟宫刃开血光要注意健康，与偏房、父母离散、像父亲、兄弟夭折、母兼父职全部相符；仅正财推出当公务员与陈述略有出入。\"\n   }\n  }\n ]\n}"
+    }
+   ],
+   "container": null,
+   "stop_reason": "end_turn",
+   "stop_sequence": null,
+   "stop_details": null,
+   "usage": {
+    "input_tokens": 18156,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 1026,
+    "output_tokens_details": {
+     "thinking_tokens": 572
+    },
+    "service_tier": "batch",
+    "inference_geo": "global"
+   },
+   "diagnostics": null
+  }
+ }
+}

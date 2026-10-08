@@ -1,0 +1,43 @@
+{
+ "custom_id": "S10_ADJ",
+ "result": {
+  "type": "succeeded",
+  "message": {
+   "model": "claude-fable-5-1",
+   "id": "msg_011Cfp1csuQoH85BMozMFRg9",
+   "type": "message",
+   "role": "assistant",
+   "content": [
+    {
+     "type": "thinking",
+     "thinking": "",
+     "signature": "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"
+    },
+    {
+     "type": "text",
+     "text": "{\n \"批\": \"S10\",\n \"裁定\": [\n  {\n   \"编号\": \"qs-1-7-19:s001\",\n   \"断语\": [\n    {\n     \"条件原文\": \"人生发达限元\",\n     \"判断原文\": \"最怕浮沉\"\n    },\n    {\n     \"条件原文\": \"命限逢乎驳杂\",\n     \"判断原文\": \"一世迍邅\"\n    }\n   ],\n   \"理由\": \"采乙。本句上下两联对仗，「人生发达限元」是所论对象（条件），「最怕浮沉」是判断，不应把条件并入判断而留空条件；下联两人一致，照录。\"\n  },\n  {\n   \"编号\": \"qs-1-30-7:s001\",\n   \"断语\": [\n    {\n     \"条件原文\": \"禄存对向守迁移，三合逢之\",\n     \"判断原文\": \"利禄宜\"\n    },\n    {\n     \"条件原文\": \"禄存对向守迁移，三合逢之\",\n     \"判断原文\": \"遐迩人钦敬\"\n    },\n    {\n     \"条件原文\": \"禄存对向守迁移，三合逢之\",\n     \"判断原文\": \"的然白手起家基\"\n    }\n   ],\n   \"理由\": \"采甲。「得逢」是「若遇此」的条件性承接语，不是判断内容，判断应自「遐迩人钦敬」起抄；三条判断同出一个条件，条件原文相同。\"\n  },\n  {\n   \"编号\": \"qs-1-47-10:s001\",\n   \"断语\": [\n    {\n     \"条件原文\": \"夹日夹月\",\n     \"判断原文\": \"谁能遇\"\n    },\n    {\n     \"条件原文\": \"夹昌夹曲\",\n     \"判断原文\": \"主贵\"\n    }\n   ],\n   \"理由\": \"采甲。「兮」为赋体句末语气助词，不属判断内容，判断说完即止于「主贵」；首联两人一致，照录。\"\n  }\n ]\n}"
+    }
+   ],
+   "container": null,
+   "stop_reason": "end_turn",
+   "stop_sequence": null,
+   "stop_details": null,
+   "usage": {
+    "input_tokens": 16721,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 1480,
+    "output_tokens_details": {
+     "thinking_tokens": 837
+    },
+    "service_tier": "batch",
+    "inference_geo": "global"
+   },
+   "diagnostics": null
+  }
+ }
+}

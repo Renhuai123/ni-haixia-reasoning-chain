@@ -1,0 +1,31 @@
+{
+ "name": "EC-M22",
+ "id": "EC-M22",
+ "role": null,
+ "rerun": 0,
+ "ok": true,
+ "why_not_ok": [],
+ "custom_id": "EC-M22",
+ "batch_id": "msgbatch_018BBnuCB5Fi2CEugBkDXffX",
+ "model": "claude-fable-5-1",
+ "message_id": "msg_011Cfp49DYRjD3Gt86FvPBAQ",
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 19188,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 0,
+  "cache_creation": {
+   "ephemeral_5m_input_tokens": 0,
+   "ephemeral_1h_input_tokens": 0
+  },
+  "output_tokens": 1626,
+  "output_tokens_details": {
+   "thinking_tokens": 1069
+  },
+  "service_tier": "batch",
+  "inference_geo": "global"
+ },
+ "花费美元": 0.1366,
+ "prompt_sha256": "ea4a5a2be70bbef5c194ea0964d3549c07a06504d80d632e419dd80005733be5",
+ "material_dir": "m4e_v1/judge_packets_链/M22"
+}

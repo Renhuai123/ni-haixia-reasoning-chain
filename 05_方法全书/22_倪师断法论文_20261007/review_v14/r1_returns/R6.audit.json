@@ -1,0 +1,33 @@
+{
+ "name": "R6",
+ "ok": true,
+ "why_not_ok": [],
+ "custom_id": "review-v14-R6",
+ "batch_id": "msgbatch_01WU4NWVRfGNNjmVzndH5fGt",
+ "model": "claude-fable-5-1",
+ "message_id": "msg_011Cfp6XGTPmY5kkFnDoktf8",
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 143340,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 0,
+  "cache_creation": {
+   "ephemeral_5m_input_tokens": 0,
+   "ephemeral_1h_input_tokens": 0
+  },
+  "output_tokens": 13925,
+  "output_tokens_details": {
+   "thinking_tokens": 8444
+  },
+  "service_tier": "batch",
+  "inference_geo": "global"
+ },
+ "花费美元": 1.0648,
+ "prompt_sha256": "0f0d3f7401d13453e8c2dbd5a552b4c8108a77e103e9f1754dea83719bd3e41f",
+ "materials_sha256": {
+  "main": "fbb23b7d09de7743ecb77724b75ce794d508198e8f3841982d5680d32eebf805",
+  "supp": "efaf27acfeb2e53c070d64ef40f822ab23e5e431b872d5b601e8d1d828525fde",
+  "instr": "d040904e4b46f19780811d772037b74784b5c8558b320f74ae124976cf721a46",
+  "lenses": "8e515e591a39520ec777ca316e6f359f97bbb31a45ed9c64a55aca141dfca7ce"
+ }
+}

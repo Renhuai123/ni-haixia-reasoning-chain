@@ -1,0 +1,43 @@
+{
+ "custom_id": "J158",
+ "result": {
+  "type": "succeeded",
+  "message": {
+   "model": "claude-fable-5-1",
+   "id": "msg_011Cfp3CJTa5wfrjEpZ2g7ke",
+   "type": "message",
+   "role": "assistant",
+   "content": [
+    {
+     "type": "thinking",
+     "thinking": "",
+     "signature": "CAQSnAsKEAgSGAI4AUIIdGhpbmtpbmcSDKq7eELeW82Uo9sYqBoMRffE23iOHYB39UcCIjDpVEmCLWQN+bEMK9HI8Q9Af/Xa0hgGu3kNczP2pPV+e9+RLl81nR3gBjULkyBzIpIquQpG1VBPMKktLlbDk81aNWY/E3aoxKFXqNXjFogjWWTiYioJsVQ+zFGGdX+6wE5pH+EZO2Ms2FFmSyfNTrlHzCBwiJ7RBngu8Xxi8nBkasxsW162OwsHUOSSqIefEVMZBpSj4CQ/SyA9t/tCN1IisruYb3IYrx9QA1cTcRWvtq8S8f7PmJnN+DgzFIY05tbnsKlPVDuV/t0zd/lwWLA+ipIL13UAj6Qj191Cofpyld9GE19UE96GME5mErnclxZcB6vjSm5Z9v9wdo+qFCIe3hJSKgBseKsU4ku9g9SvPzRppgdG/krxxlgEz8dFzKoVLd04mMqNsfWJ2F0g0F/CoRdD6XyWo1bmwHZOpH8D4XjKpqtHjaPaqcYBTDSQOumj7t/0Wphx3q+Y66SQ7p/HGYx4vs5/bud1OLEDp0cq7wCDSro4g9PgcKdwKzWMjRRXt8rwk1fZ5OJjVYqJEefJ4SoVfJgWKkqgXVKeRa471xGTLDexBAYVHLvtYpfNAvXSG59qf/7lKct+k4xOrhbyfgEnjaJzSHdqnAuxGTTvfOCvj18tF4OgPNu15a0FJJ7kENA3GKgtyq46uFzcIxLsRKHF+/bwDH+Hks/IeeZ0wGfAInir5UQOWFLXdR0FMnO8/TumWJ7PAQwXcvP06AihXJbEBbB/rW+gsndA4xD1N1fedyX4LYnouDkKDDJRzoKCL9fF3J4FxXE0jsltZJdJLfhaBMFTU6uiT6NazUs+ydGIsCfsnjjPzfPG5EYbBYhvmcxB7VF7+yVrCUle59V/xUbA1QPbCFz38RSdcu6MbKExKztFsdg34YqfhU48aGXdY0gNARyp22wESf7FAVBfwwf1coA77DcJvZtTrpDFXZHTBfzos7FEiEA/nzw/M80Mf7cQrN2KggorGjIeuEFDOe0Dp5b99FDgxnF3gZduRVPmRgmkyw3FZJSfm/lt5BXGBLbyvQnQiCPZ0dU/Mduhfv6UVFPlkI9uUqR0jZqXgkPvFMfLVsWPmFEM8IjmadKB3D56ejgQhnFPEnRh8MYgeszt1qAhUA9XhU3XiPgqzkSB5YKkgyA/pXYEt8/Eutf0sx5T/kNBtkjjwsE+G5B+mFZfxx9zdpCv0YxbMjvR3HOsy1sMnaXjx2ZkoHRfQt+Uqhb/Y2peIRnAczWKMHnaS6VPSiMcS6TazOcDfAdmVCVbL2i7UmZCGhBBMAgY1yAfmY2gLl6BvqbO8T7VPsM23RZS/wXG3RSC/w6MWr+06nm3FrqM59tCtJGy4gHuxkML0B7U3NknsEQhkl0vHnfohM74ZK3bTxPg6GXrZjSxHxiI783r/CNBRWi8lUZYNnFPQi0i5sL6I/O0F1VTOjY068pzTgSKf04YNy1sK3GT2OWahIGXkMsTwuCSGCwxGtWnQcHL60lG9+GSGOd9a3iXTHiWJfYW8Da3MKOqZ7U8MO8QZkJGXYhzMwlNORoF7UJLTXEs/bOzVGJkuIJILzIt+wDrVTiq1uXsXRbGfw6hiubrxFPUz6+geBTd0YiJuro9rYifONiNpunu5fMrChlQBzPZXqMPeZNtOc5mL4oVjikzYD8f2FjtmgRDUmToJjb1Cdxeb5WovPAQeOymwXJxsb8QjvM8n8l5vxA1/8dZnnnVaStoS6dNeGF00mUtns6QrueMptBqCm1nkiBC+bQSiOplboObWXatrI7A+LLP8zLl+8Ss8KEeHjul+KMAOuUMrUVaL9cZ2x7oJD/TCey2UW/QJ8us8sAwOEsQaWym8JnPFkl8RjIyrRP9iRgB"
+    },
+    {
+     "type": "text",
+     "text": "{\n \"包\": \"J158\",\n \"答案\": [\n  {\n   \"题\": \"题01\",\n   \"最符合\": \"A\",\n   \"排序\": [\n    \"A\",\n    \"C\",\n    \"B\",\n    \"D\"\n   ],\n   \"理由\": {\n    \"A\": \"命宫直接断「偏房格」「做偏房」「形小」「唠叨」「口舌是非」「吵架」「太吵」「男人受不了」，仆役又断「没有名分的先生」，与一生无婚姻做偏房、个子小、泼妇骂街、凶到人受不了高度相符；子女宫虽未明言无子但断「吉处藏凶、在劫难逃」，不冲突；仅被领养一事未直接点出。\",\n    \"C\": \"命宫武官星、刚强、大怒犯大错、女命最忌，子女宫断「无子」，又有「与父亲相隔」可呼应从小见不到父母，但全盘无偏房、无婚姻之断，反多处断「会结婚」「早婚」，也无个子小，相符度次于A。\",\n    \"B\": \"命宫刚强、很凶、小气、大怒之下犯大错，子女宫断「无子」，与凶悍无子相合，但断「先有孩子」「婆媳不和」「应在夫妻」等皆以有婚姻为前提，与一生无婚姻做偏房矛盾，也无被领养、个子小之象。\",\n    \"D\": \"有「很凶」及仆役「没有名分的先生」可对应偏房，「母亲早走、跟妈妈相抗」略近见不到父母，但子女宫明断「一子」，与没有子女直接矛盾，命宫信息又最少，无个子小、刚强泼辣之断，最不相符。\"\n   }\n  }\n ]\n}"
+    }
+   ],
+   "container": null,
+   "stop_reason": "end_turn",
+   "stop_sequence": null,
+   "stop_details": null,
+   "usage": {
+    "input_tokens": 13540,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 1001,
+    "output_tokens_details": {
+     "thinking_tokens": 410
+    },
+    "service_tier": "batch",
+    "inference_geo": "global"
+   },
+   "diagnostics": null
+  }
+ }
+}

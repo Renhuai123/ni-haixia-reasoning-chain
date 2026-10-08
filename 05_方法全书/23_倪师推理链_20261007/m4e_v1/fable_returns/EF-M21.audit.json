@@ -1,0 +1,31 @@
+{
+ "name": "EF-M21",
+ "id": "EF-M21",
+ "role": null,
+ "rerun": 0,
+ "ok": true,
+ "why_not_ok": [],
+ "custom_id": "EF-M21",
+ "batch_id": "msgbatch_018BBnuCB5Fi2CEugBkDXffX",
+ "model": "claude-fable-5-1",
+ "message_id": "msg_011Cfp49DYBSKEenDkCCPfgN",
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 7331,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 0,
+  "cache_creation": {
+   "ephemeral_5m_input_tokens": 0,
+   "ephemeral_1h_input_tokens": 0
+  },
+  "output_tokens": 2575,
+  "output_tokens_details": {
+   "thinking_tokens": 1931
+  },
+  "service_tier": "batch",
+  "inference_geo": "global"
+ },
+ "花费美元": 0.101,
+ "prompt_sha256": "110f731ea48b08ea4e1b2c7cce8fc03417750582943e05d13871ac67d01775dd",
+ "material_dir": "m4e_v1/judge_packets_平/M21"
+}

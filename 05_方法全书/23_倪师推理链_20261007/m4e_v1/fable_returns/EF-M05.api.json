@@ -1,0 +1,43 @@
+{
+ "custom_id": "EF-M05",
+ "result": {
+  "type": "succeeded",
+  "message": {
+   "model": "claude-fable-5-1",
+   "id": "msg_011Cfp49DwVLGhMHG3gPt6sa",
+   "type": "message",
+   "role": "assistant",
+   "content": [
+    {
+     "type": "thinking",
+     "thinking": "",
+     "signature": "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"
+    },
+    {
+     "type": "text",
+     "text": "{\n \"包\": \"M05\",\n \"答案\": [\n  {\n   \"题\": \"题05\",\n   \"最符合\": \"D\",\n   \"排序\": [\n    \"D\",\n    \"B\",\n    \"C\",\n    \"A\"\n   ],\n   \"理由\": {\n    \"A\": \"有一子、兄弟不和、让先生无后顾之忧与陈述相符，但命宫断生有祖业、仆役断合伙吉与无祖业及合伙必败直接矛盾，且全无辅佐人才与善于理财的特征，命宫反而是刚强领导者、作家将军，与陈述不合。\",\n    \"B\": \"命宫佐才、当助理秘书、财帛善于理财、婚姻受父母左右与陈述相符，但命宫断生有祖业、父母宫家业很好、跟妈妈相抗父母管不了、仆役合伙吉，均与无祖业、孝顺母亲感情特别好、合伙必败矛盾。\",\n    \"C\": \"仆役朋友变仇人、一子、旺夫让先生无后顾之忧、配偶健康安全提醒与陈述相符，但兄弟宫断厚道温和、兄弟当官，与兄弟是非不和矛盾，且没有辅佐人才、善于理财守财的特征。\",\n    \"D\": \"命宫佐才、当助理秘书、帮人做事领薪水，财帛善于理财家财万贯，仆役朋友变仇人，兄弟是非口舌吵架，子女宫代表丈夫、宜嫁大7岁以上二婚夫、受母亲影响、横祸意外灾、孤单，几乎逐条对应陈述，且无生有祖业等矛盾断语。\"\n   }\n  }\n ]\n}"
+    }
+   ],
+   "container": null,
+   "stop_reason": "end_turn",
+   "stop_sequence": null,
+   "stop_details": null,
+   "usage": {
+    "input_tokens": 10751,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 2015,
+    "output_tokens_details": {
+     "thinking_tokens": 1439
+    },
+    "service_tier": "batch",
+    "inference_geo": "global"
+   },
+   "diagnostics": null
+  }
+ }
+}

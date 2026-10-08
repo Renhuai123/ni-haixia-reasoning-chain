@@ -1,0 +1,43 @@
+{
+ "custom_id": "S04_ADJ",
+ "result": {
+  "type": "succeeded",
+  "message": {
+   "model": "claude-fable-5-1",
+   "id": "msg_011Cfp1ctJDzHGM8YKzN3LhV",
+   "type": "message",
+   "role": "assistant",
+   "content": [
+    {
+     "type": "thinking",
+     "thinking": "",
+     "signature": "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"
+    },
+    {
+     "type": "text",
+     "text": "{\n \"批\": \"S04\",\n \"裁定\": [\n  {\n   \"编号\": \"qs-1-57-7:s001\",\n   \"断语\": [\n    {\n     \"条件原文\": \"命有主星限前则发限衰不发\",\n     \"判断原文\": \"吉凶相伴\"\n    },\n    {\n     \"条件原文\": \"命有主星限前\",\n     \"判断原文\": \"则发\"\n    },\n    {\n     \"条件原文\": \"限衰\",\n     \"判断原文\": \"不发\"\n    }\n   ],\n   \"理由\": \"采甲。两人对格名「吉凶相伴」一条一致；定义部分「限前则发」「限衰不发」是条件不同的两个判断（限前／限衰），按 codebook 应各算一条，乙把二者合为一个判断原文粒度偏粗，故采甲的切法。\"\n  },\n  {\n   \"编号\": \"qs-2-2-246:s001\",\n   \"断语\": [\n    {\n     \"条件原文\": \"子午宫入庙，丁己癸生人\",\n     \"判断原文\": \"福厚财格\"\n    }\n   ],\n   \"理由\": \"采乙。本句「子午宫入庙」是与「丁己癸生人」并列的条件，整句只下一个判断「福厚财格」；「入庙」在此是条件的一部分，不是独立的判断，甲将其另立一条属重复切分。\"\n  }\n ]\n}"
+    }
+   ],
+   "container": null,
+   "stop_reason": "end_turn",
+   "stop_sequence": null,
+   "stop_details": null,
+   "usage": {
+    "input_tokens": 16856,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 1440,
+    "output_tokens_details": {
+     "thinking_tokens": 985
+    },
+    "service_tier": "batch",
+    "inference_geo": "global"
+   },
+   "diagnostics": null
+  }
+ }
+}

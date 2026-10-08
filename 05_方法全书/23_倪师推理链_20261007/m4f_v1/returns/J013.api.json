@@ -1,0 +1,43 @@
+{
+ "custom_id": "J013",
+ "result": {
+  "type": "succeeded",
+  "message": {
+   "model": "claude-fable-5-1",
+   "id": "msg_011Cfp3CJQLueDputzCf2Y8v",
+   "type": "message",
+   "role": "assistant",
+   "content": [
+    {
+     "type": "thinking",
+     "thinking": "",
+     "signature": "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"
+    },
+    {
+     "type": "text",
+     "text": "{\n \"包\": \"J013\",\n \"答案\": [\n  {\n   \"题\": \"题01\",\n   \"最符合\": \"B\",\n   \"排序\": [\n    \"B\",\n    \"A\",\n    \"C\",\n    \"D\"\n   ],\n   \"理由\": {\n    \"A\": \"兄弟宫灾星、夫妻宫婚姻好与陈述相符，但官禄宫断「当官不容易」与她在官场事业上非常强矛盾，且夫妻宫未见横祸血光之断，灾厄落点不明。\",\n    \"B\": \"官禄宫断官运最好、掌权、官权压重正合事业官场极强；兄弟宫杀星灾星、半空折翅、须注意兄弟安危合兄弟夭折；夫妻宫既断婚姻好、自己爱这段婚姻，又断灾星、横祸、意外灾、刃开血光，正是丈夫车祸身亡而感情无损；命宫长绒肥胖亦合眉毛浓厚，相符最多。\",\n    \"C\": \"兄弟宫灾星、开刀见血光尚合兄弟夭折，但命宫断成败比较惨、路线作家画家，与官场事业极强不符，夫妻宫亦无横祸之象，整体相符不多。\",\n    \"D\": \"兄弟宫喜庆之星与兄弟夭折相反，官禄宫当官不容易、贪官被人干掉与事业强不符，疾厄宫开刀见血光把灾应在本人而非丈夫，矛盾最多。\"\n   }\n  }\n ]\n}"
+    }
+   ],
+   "container": null,
+   "stop_reason": "end_turn",
+   "stop_sequence": null,
+   "stop_details": null,
+   "usage": {
+    "input_tokens": 13567,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 1426,
+    "output_tokens_details": {
+     "thinking_tokens": 907
+    },
+    "service_tier": "batch",
+    "inference_geo": "global"
+   },
+   "diagnostics": null
+  }
+ }
+}

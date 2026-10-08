@@ -1,0 +1,31 @@
+{
+ "name": "N21",
+ "id": "N21",
+ "role": null,
+ "rerun": 0,
+ "ok": true,
+ "why_not_ok": [],
+ "custom_id": "N21_ADJ",
+ "batch_id": "msgbatch_018GYjN73iAwTRGBzA8Sdz2B",
+ "model": "claude-fable-5-1",
+ "message_id": "msg_011Cfp3b3PqpVUM44XuCUrMP",
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 31796,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 0,
+  "cache_creation": {
+   "ephemeral_5m_input_tokens": 0,
+   "ephemeral_1h_input_tokens": 0
+  },
+  "output_tokens": 6048,
+  "output_tokens_details": {
+   "thinking_tokens": 4229
+  },
+  "service_tier": "batch",
+  "inference_geo": "global"
+ },
+ "花费美元": 0.3102,
+ "prompt_sha256": "70a0bd17a0eacb4f8a332170a517e62918fc215735a86c653251465f3850ef9b",
+ "material_dir": "trad_v1/adjudicate/N21"
+}

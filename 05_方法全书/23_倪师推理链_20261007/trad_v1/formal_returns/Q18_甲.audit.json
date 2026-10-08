@@ -1,0 +1,31 @@
+{
+ "name": "Q18_甲",
+ "id": "Q18",
+ "role": "甲",
+ "rerun": 0,
+ "ok": true,
+ "why_not_ok": [],
+ "custom_id": "Q18_A",
+ "batch_id": "msgbatch_01NVFCc2Q9UGQHBdYMjtvvjy",
+ "model": "claude-fable-5-1",
+ "message_id": "msg_011Cfp2ZidqXT55hTWM5g4Yg",
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 10592,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 0,
+  "cache_creation": {
+   "ephemeral_5m_input_tokens": 0,
+   "ephemeral_1h_input_tokens": 0
+  },
+  "output_tokens": 5933,
+  "output_tokens_details": {
+   "thinking_tokens": 2302
+  },
+  "service_tier": "batch",
+  "inference_geo": "global"
+ },
+ "花费美元": 0.2013,
+ "prompt_sha256": "fa2e88a257abead39266bc1c5994ff4e63f26974724f6e841aebbe32bd5f9e55",
+ "material_dir": "trad_v1/formal/Q18"
+}

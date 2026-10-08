@@ -1,0 +1,43 @@
+{
+ "custom_id": "J105",
+ "result": {
+  "type": "succeeded",
+  "message": {
+   "model": "claude-fable-5-1",
+   "id": "msg_011Cfp3CKgEqvDrtE1F1SLqa",
+   "type": "message",
+   "role": "assistant",
+   "content": [
+    {
+     "type": "thinking",
+     "thinking": "",
+     "signature": "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"
+    },
+    {
+     "type": "text",
+     "text": "{\n \"包\": \"J105\",\n \"答案\": [\n  {\n   \"题\": \"题01\",\n   \"最符合\": \"A\",\n   \"排序\": [\n    \"A\",\n    \"D\",\n    \"B\",\n    \"C\"\n   ],\n   \"理由\": {\n    \"A\": \"命宫孤星、孤单、婚姻难有着落，与一直未婚到50多岁相符；命宫与官禄（身宫）皆断当官、不做生意，个性很厉害、智慧高，子女宫有当老师、声名远播、无子之说，与校长、生不到儿子相符；仅偏房格、旺夫等两说略有出入。\",\n    \"D\": \"官禄宫明断当校长、当官、掌权、做主管、官运最好，与当校长成为一方之主相符；但命宫明断会结婚、婚姻好、旺夫、嫁能掌握的先生，夫妻宫断二婚离婚，又说宜为人手下，与终身未婚、不屈居人下矛盾。\",\n    \"B\": \"命宫教星、文官带、当老师、公家单位，与教育官路相符；但佐才、位高无权、帮人做事领薪水、当助理秘书，与不会屈居人下、要做地方最大主事者矛盾，又断旺夫，与没有丈夫不符。\",\n    \"C\": \"命宫武官星、女命不行、佐才位高无权、当助理秘书、做生意、宜嫁生意人，子女宫断先有孩子、宜嫁二婚夫、宜嫁大7岁以上，当校长只出现在兄弟与仆役宫，与本人走教育官路、终身未婚、不屈居人下大多不符。\"\n   }\n  }\n ]\n}"
+    }
+   ],
+   "container": null,
+   "stop_reason": "end_turn",
+   "stop_sequence": null,
+   "stop_details": null,
+   "usage": {
+    "input_tokens": 17095,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 1459,
+    "output_tokens_details": {
+     "thinking_tokens": 894
+    },
+    "service_tier": "batch",
+    "inference_geo": "global"
+   },
+   "diagnostics": null
+  }
+ }
+}

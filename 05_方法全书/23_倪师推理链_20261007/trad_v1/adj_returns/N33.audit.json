@@ -1,0 +1,31 @@
+{
+ "name": "N33",
+ "id": "N33",
+ "role": null,
+ "rerun": 0,
+ "ok": true,
+ "why_not_ok": [],
+ "custom_id": "N33_ADJ",
+ "batch_id": "msgbatch_018GYjN73iAwTRGBzA8Sdz2B",
+ "model": "claude-fable-5-1",
+ "message_id": "msg_011Cfp3b3iCCCxTsrN3a9cTU",
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 31051,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 0,
+  "cache_creation": {
+   "ephemeral_5m_input_tokens": 0,
+   "ephemeral_1h_input_tokens": 0
+  },
+  "output_tokens": 3559,
+  "output_tokens_details": {
+   "thinking_tokens": 2467
+  },
+  "service_tier": "batch",
+  "inference_geo": "global"
+ },
+ "花费美元": 0.2442,
+ "prompt_sha256": "44bce272a3129fd2f8bb85a1b64b718059d9be70a00ed800cb790c3e51ed5469",
+ "material_dir": "trad_v1/adjudicate/N33"
+}

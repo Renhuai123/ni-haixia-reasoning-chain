@@ -1,0 +1,43 @@
+{
+ "custom_id": "J212",
+ "result": {
+  "type": "succeeded",
+  "message": {
+   "model": "claude-fable-5-1",
+   "id": "msg_011Cfp3CJWYWJim56T9sCeGQ",
+   "type": "message",
+   "role": "assistant",
+   "content": [
+    {
+     "type": "thinking",
+     "thinking": "",
+     "signature": "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"
+    },
+    {
+     "type": "text",
+     "text": "{\n \"包\": \"J212\",\n \"答案\": [\n  {\n   \"题\": \"题01\",\n   \"最符合\": \"B\",\n   \"排序\": [\n    \"B\",\n    \"C\",\n    \"D\",\n    \"A\"\n   ],\n   \"理由\": {\n    \"A\": \"命宫有佐才、当助理秘书，财帛善于理财，与第2、3条相符；但仆役宫断「合伙吉」，与第4条合伙必败、朋友变仇人直接矛盾，且全盘没有帮夫、横祸之断。\",\n    \"B\": \"命宫直接断横祸、意外灾、灾应本人，财帛主财、善于理财、正财，命宫断旺夫、让先生无后顾之忧，仆役宫朋友变仇人、与人处不和，与第1、2、4、6条几乎逐字相符；虽无「佐才」字样，但有帮人做事领薪水、公家单位，与辅佐路线不冲突，仅头部疾病无明断。\",\n    \"C\": \"命宫佐才、当助理秘书、善于理财、正财，仆役朋友变仇人，命宫吉处藏凶、在劫难逃，与第1、2、3、4条相符；但夫妻宫断婚姻不好、福德多婚，又断自己做事业当老板，与第6条帮夫及第3条甘为副手的描述相违。\",\n    \"D\": \"命宫旺夫、让先生无后顾之忧，仆役朋友变仇人，迁移吉处藏凶，与第1、4、6条相符；但佐才落在夫妻宫而非本人，财帛只有家财万贯／破财而无善于理财，且断律师医师、自由业、声名远播的才艺型路线，与第2、3条守财小气、甘当副手不合。\"\n   }\n  }\n ]\n}"
+    }
+   ],
+   "container": null,
+   "stop_reason": "end_turn",
+   "stop_sequence": null,
+   "stop_details": null,
+   "usage": {
+    "input_tokens": 17177,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 1487,
+    "output_tokens_details": {
+     "thinking_tokens": 886
+    },
+    "service_tier": "batch",
+    "inference_geo": "global"
+   },
+   "diagnostics": null
+  }
+ }
+}

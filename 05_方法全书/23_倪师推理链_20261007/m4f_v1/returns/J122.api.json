@@ -1,0 +1,43 @@
+{
+ "custom_id": "J122",
+ "result": {
+  "type": "succeeded",
+  "message": {
+   "model": "claude-fable-5-1",
+   "id": "msg_011Cfp3CJ7jENadgoajDeaTH",
+   "type": "message",
+   "role": "assistant",
+   "content": [
+    {
+     "type": "thinking",
+     "thinking": "",
+     "signature": "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"
+    },
+    {
+     "type": "text",
+     "text": "{\n \"包\": \"J122\",\n \"答案\": [\n  {\n   \"题\": \"题01\",\n   \"最符合\": \"D\",\n   \"排序\": [\n    \"D\",\n    \"C\",\n    \"A\",\n    \"B\"\n   ],\n   \"理由\": {\n    \"A\": \"命宫断魁梧高大、本人主酒色财气赌、当将军有生杀之权，与本人瘦高、无实权、重感情相悖；仅福德多婚、夫妻宫官司吉处藏凶、仆役专业技术部分相符。\",\n    \"B\": \"命宫断个子矮、中等身材、粗壮，与瘦高高挑直接矛盾；财帛宫领导力强、家财万贯与「有地位无实权」不合；酒色财气赌落在子女宫而非夫妻宫，太太只断聒噪，不符。\",\n    \"C\": \"官禄宫专业技术专长、自由业、当老师，夫妻宫意外横祸、忌由先生而来、身宫中年先生有问题，与第4、5条相符；但命宫武官星大贵、刚烈性急、有生杀之权，与无实权、重感情不合，也无瘦高之断。\",\n    \"D\": \"命宫瘦高清秀、佐才宜为人手下当助理秘书，正对应地位高无实权与高挑身材；夫妻宫主酒色财气赌、桃花，正合太太爱去舞厅赌场；迁移专业技术专长、福德多婚、身宫中年先生有问题，与自由业、与丈夫生离死别相符；桃花次桃花、厚道温和合重感情。\"\n   }\n  }\n ]\n}"
+    }
+   ],
+   "container": null,
+   "stop_reason": "end_turn",
+   "stop_sequence": null,
+   "stop_details": null,
+   "usage": {
+    "input_tokens": 16447,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 1186,
+    "output_tokens_details": {
+     "thinking_tokens": 641
+    },
+    "service_tier": "batch",
+    "inference_geo": "global"
+   },
+   "diagnostics": null
+  }
+ }
+}

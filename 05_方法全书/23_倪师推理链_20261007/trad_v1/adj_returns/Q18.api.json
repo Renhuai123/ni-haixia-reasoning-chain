@@ -1,0 +1,43 @@
+{
+ "custom_id": "Q18_ADJ",
+ "result": {
+  "type": "succeeded",
+  "message": {
+   "model": "claude-fable-5-1",
+   "id": "msg_011Cfp3b3WnZ2gnXW3SrUZsJ",
+   "type": "message",
+   "role": "assistant",
+   "content": [
+    {
+     "type": "thinking",
+     "thinking": "",
+     "signature": "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"
+    },
+    {
+     "type": "text",
+     "text": "{\n \"批\": \"Q18\",\n \"裁定\": [\n  {\n   \"编号\": \"qs-1-5-5:s001#1\",\n   \"项\": \"整条\",\n   \"问A\": \"定名\",\n   \"问B\": \"义名\",\n   \"C1\": \"\",\n   \"C1依据\": \"\",\n   \"C2\": \"\",\n   \"C2依据\": \"\",\n   \"C3\": \"\",\n   \"C3依据\": \"\",\n   \"C4\": \"\",\n   \"C4依据\": \"\",\n   \"C5\": \"\",\n   \"C5依据\": \"\",\n   \"问D\": \"否\",\n   \"理由\": \"「最宜制克」的主语是「诸凶在紧要之乡」这种盘面情形，说的是这种情形宜受制克的性质，不是本人或六亲怎样，按 codebook「给某种盘面情形定一个性质」归定名；「宜制克」是抽象的宜忌而非具体人物事物，故义名；原文只说宜制克，未再解释为何，问D 否。\"\n  },\n  {\n   \"编号\": \"qs-3-1-9:s001#2\",\n   \"项\": \"C2\",\n   \"裁定\": \"否\",\n   \"依据\": \"\",\n   \"理由\": \"「偏房庶母所生」不是「吉星」这一类性质的成员或实例，吉星之吉只说明「富贵全美」，此判断实由「命宫无正曜」这一位置情形推出，原文未把星的性质当作得出「偏房庶母所生」的理由，故 C2 否。\"\n  }\n ]\n}"
+    }
+   ],
+   "container": null,
+   "stop_reason": "end_turn",
+   "stop_sequence": null,
+   "stop_details": null,
+   "usage": {
+    "input_tokens": 15890,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 1258,
+    "output_tokens_details": {
+     "thinking_tokens": 771
+    },
+    "service_tier": "batch",
+    "inference_geo": "global"
+   },
+   "diagnostics": null
+  }
+ }
+}

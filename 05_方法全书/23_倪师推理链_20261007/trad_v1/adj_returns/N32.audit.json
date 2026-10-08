@@ -1,0 +1,31 @@
+{
+ "name": "N32",
+ "id": "N32",
+ "role": null,
+ "rerun": 0,
+ "ok": true,
+ "why_not_ok": [],
+ "custom_id": "N32_ADJ",
+ "batch_id": "msgbatch_018GYjN73iAwTRGBzA8Sdz2B",
+ "model": "claude-fable-5-1",
+ "message_id": "msg_011Cfp3b3RprDJS1SSVchWZs",
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 31954,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 0,
+  "cache_creation": {
+   "ephemeral_5m_input_tokens": 0,
+   "ephemeral_1h_input_tokens": 0
+  },
+  "output_tokens": 4914,
+  "output_tokens_details": {
+   "thinking_tokens": 3226
+  },
+  "service_tier": "batch",
+  "inference_geo": "global"
+ },
+ "花费美元": 0.2826,
+ "prompt_sha256": "5dd019aa3afb4fc60dc451ff468526ad3bcb8771d01ada65179bba5da5e1eb45",
+ "material_dir": "trad_v1/adjudicate/N32"
+}

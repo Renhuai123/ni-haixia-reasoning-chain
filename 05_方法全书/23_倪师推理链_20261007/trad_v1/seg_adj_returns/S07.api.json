@@ -1,0 +1,43 @@
+{
+ "custom_id": "S07_ADJ",
+ "result": {
+  "type": "succeeded",
+  "message": {
+   "model": "claude-fable-5-1",
+   "id": "msg_011Cfp1cw79Gm6shPF72zdpi",
+   "type": "message",
+   "role": "assistant",
+   "content": [
+    {
+     "type": "thinking",
+     "thinking": "",
+     "signature": "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"
+    },
+    {
+     "type": "text",
+     "text": "{\n \"批\": \"S07\",\n \"裁定\": [\n  {\n   \"编号\": \"qs-3-18-8:s001\",\n   \"断语\": [\n    {\n     \"条件原文\": \"酉人\",\n     \"判断原文\": \"陀刃亦非亲\"\n    },\n    {\n     \"条件原文\": \"假如酉生人\",\n     \"判断原文\": \"亦忌羊陀岁限\"\n    },\n    {\n     \"条件原文\": \"假如酉生人\",\n     \"判断原文\": \"忌行卯宫限，及卯年岁君相冲\"\n    }\n   ],\n   \"理由\": \"采甲。「亦忌羊陀岁限」与「忌行卯宫限，及卯年岁君相冲」由「及忌」连接，是同一条件（酉生人）带出的两个并列判断，按 codebook 一条件多判断各算一条的规则应分开，乙合为一条不合规则。\"\n  },\n  {\n   \"编号\": \"qs-3-19-15:s002\",\n   \"断语\": [\n    {\n     \"条件原文\": \"若遇天同巨门武曲贪狼忌宿太阳擎羊\",\n     \"判断原文\": \"便断其年人财耗散\"\n    },\n    {\n     \"条件原文\": \"若遇天同巨门武曲贪狼忌宿太阳擎羊\",\n     \"判断原文\": \"官灾口舌孝服\"\n    },\n    {\n     \"条件原文\": \"若遇天同巨门武曲贪狼忌宿太阳擎羊\",\n     \"判断原文\": \"本身遭晦\"\n    }\n   ],\n   \"理由\": \"采乙。「减半论之」是对前述诸判断如何取用的推断方法说明（打折论之），不是关于人或事的独立判断，也非给星定名定性，按 codebook 不算断语；其余三条判断两人一致。\"\n  }\n ]\n}"
+    }
+   ],
+   "container": null,
+   "stop_reason": "end_turn",
+   "stop_sequence": null,
+   "stop_details": null,
+   "usage": {
+    "input_tokens": 17333,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 1555,
+    "output_tokens_details": {
+     "thinking_tokens": 947
+    },
+    "service_tier": "batch",
+    "inference_geo": "global"
+   },
+   "diagnostics": null
+  }
+ }
+}

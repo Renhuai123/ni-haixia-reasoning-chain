@@ -1,0 +1,43 @@
+{
+ "custom_id": "J126",
+ "result": {
+  "type": "succeeded",
+  "message": {
+   "model": "claude-fable-5-1",
+   "id": "msg_011Cfp3CJeERuFswVtmsiczQ",
+   "type": "message",
+   "role": "assistant",
+   "content": [
+    {
+     "type": "thinking",
+     "thinking": "",
+     "signature": "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"
+    },
+    {
+     "type": "text",
+     "text": "{\n \"包\": \"J126\",\n \"答案\": [\n  {\n   \"题\": \"题01\",\n   \"最符合\": \"B\",\n   \"排序\": [\n    \"B\",\n    \"D\",\n    \"A\",\n    \"C\"\n   ],\n   \"理由\": {\n    \"A\": \"夫妻宫断配偶武官星、奔波、到边疆打仗、夫妻吵架大打出手，丈夫在外奔走尚能对上「聚少散多」，但全盘未断离婚或分开，且命宫以文官正财、公家银行界为主线，与陈述中以婚姻分离为核心不合。\",\n    \"B\": \"命宫直接断「聚少散多」「宜嫁二婚夫」「嫁同龄初婚者凶」「先生比她差」「一个人持家」「不靠男人」，夫妻宫断「二婚」「离婚」，与女命34岁以后无夫、33岁前分开、丈夫聚少散多（如海员）高度相符，几乎没有矛盾。\",\n    \"D\": \"夫妻宫断「二婚」「离婚」，与早年分开相符；但配偶被断为文官带、公家单位、银行界、当老师的正财型，与丈夫奔波在外、聚少散多的海员形象不合，且未提聚少散多。\",\n    \"C\": \"夫妻宫断夫妻吵架、大打出手、很凶并提醒注意配偶健康安全，福德一世不顺，能解释婚姻坏，但未断离婚或聚少散多，配偶又是文官带公务员型，与海员式分离最不贴合。\"\n   }\n  }\n ]\n}"
+    }
+   ],
+   "container": null,
+   "stop_reason": "end_turn",
+   "stop_sequence": null,
+   "stop_details": null,
+   "usage": {
+    "input_tokens": 18250,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 1072,
+    "output_tokens_details": {
+     "thinking_tokens": 536
+    },
+    "service_tier": "batch",
+    "inference_geo": "global"
+   },
+   "diagnostics": null
+  }
+ }
+}

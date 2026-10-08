@@ -1,0 +1,31 @@
+{
+ "name": "J212",
+ "id": "J212",
+ "role": null,
+ "rerun": 0,
+ "ok": true,
+ "why_not_ok": [],
+ "custom_id": "J212",
+ "batch_id": "msgbatch_01XUZisTMhFtLCgCh4P9VkN7",
+ "model": "claude-fable-5-1",
+ "message_id": "msg_011Cfp3CJWYWJim56T9sCeGQ",
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 17177,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 0,
+  "cache_creation": {
+   "ephemeral_5m_input_tokens": 0,
+   "ephemeral_1h_input_tokens": 0
+  },
+  "output_tokens": 1487,
+  "output_tokens_details": {
+   "thinking_tokens": 886
+  },
+  "service_tier": "batch",
+  "inference_geo": "global"
+ },
+ "花费美元": 0.1231,
+ "prompt_sha256": "63a434cabbf64375ca01056e6bfc7e930b8aa3152387142e2d83716aee7d1cae",
+ "material_dir": "m4f_v1/packets/J212"
+}

@@ -1,0 +1,25 @@
+{
+ "kind": "reviewer",
+ "model": "claude-fable-5-1",
+ "effort": "high",
+ "max_tokens": 64000,
+ "materials_sha256": {
+  "main": "e8f6430677f6a4aadfa70cabae4a369586127f27a2d0a749b8f24019ca7804c9",
+  "supp": "61f0e857dd80308450d87ed79a1793ce78e021d569ba57e3d062222e4d751b46",
+  "instr": "db7cd5b397245f1881683bbbd20e7f3e9a1900257b8f87bcc0e3cf47327f562a",
+  "lenses": "f3091f62ff878d930811f1e3aa898d46e3b9fe6a9d1906c7fac89d1878c391b8",
+  "extra": {
+   "意见处理_v1.md": "35e1e08b83a4a37e35997fae210e80dccafce34f85c5f5acea522d6be209f3ba"
+  }
+ },
+ "tasks": {
+  "review-paper-review-v16-r3-W1": {
+   "name": "W1",
+   "prompt_sha256": "594aeb5b9807d7b447439b78bd2adb013c75a3ba49a51e1d34635974ee2e78c5"
+  },
+  "review-paper-review-v16-r3-W2": {
+   "name": "W2",
+   "prompt_sha256": "a7a5fc1c7e01842160383c8c12508c9c7e66a5f34a8b4e5f09188c3547dc3d4c"
+  }
+ }
+}

@@ -1,0 +1,1271 @@
+{
+ "schema": "m4e-packets-v1",
+ "arms": {
+  "链": [
+   {
+    "pack": "M01",
+    "items": [
+     "题01"
+    ],
+    "files_sha256": {
+     "instructions.txt": "ac6948a62e24be13ffd0bb6516838d03c0e438db643e8c03faa02a5fb80bb351",
+     "output_template.json": "fdb0fca94c8e52c0406ae25abf93a8c29ff93bdac07f2de1bc4a62a8e5ffbc3a",
+     "题01_论断A.txt": "4d8907f89e34d301c7e7940a9e7cba727a00151a8ee34b4276be16feb1f171e7",
+     "题01_论断B.txt": "fead07928fc84d5dc107a98ee6e0e56acb5b3eb7b8a5fe7046c0593472eae407",
+     "题01_论断C.txt": "38cd4b3f1294e000ab3a31cc2d8540ac9b21005abfcf95575e4e56522dc252a3",
+     "题01_论断D.txt": "3768f7f3503694370326e99120346de29faad9492b90d5efddf8449073decde0",
+     "题01_陈述.txt": "48ef92e2c73298344eb5dbdb8c69984204bae1a3552484d1329fb813c88ed140"
+    }
+   },
+   {
+    "pack": "M02",
+    "items": [
+     "题02"
+    ],
+    "files_sha256": {
+     "instructions.txt": "ac6948a62e24be13ffd0bb6516838d03c0e438db643e8c03faa02a5fb80bb351",
+     "output_template.json": "5fdd50fd436b5e11666d35468f1015d97faea5a184e6289469b45245f380c0e6",
+     "题02_论断A.txt": "f1a7e9a20873b3e729a7060d1b3f022fdd9fb2bba2bbcf2be77bf82130ff6c20",
+     "题02_论断B.txt": "e4994c2c1b1ebd42e9ec486366ce163f4ee7d52710432df63fe14bd8f7437c1f",
+     "题02_论断C.txt": "b9a4263f90e3eee691024dfddbce8f244716a3b4bd7b1104e740b20e1060a7c2",
+     "题02_论断D.txt": "a72610dc6c97abc2fde9bdacba50bb14bb4f1f9dae591e9b2907ca907034d045",
+     "题02_陈述.txt": "fbaa74eae1882dc2b5e0223b9e7e81268da259cf66eadffd6ab9e5087e45e08e"
+    }
+   },
+   {
+    "pack": "M03",
+    "items": [
+     "题03"
+    ],
+    "files_sha256": {
+     "instructions.txt": "ac6948a62e24be13ffd0bb6516838d03c0e438db643e8c03faa02a5fb80bb351",
+     "output_template.json": "53bd70b3816db3a9b798c6fa1f18eb253f58ecd817e42e32e97d2ed1e968845d",
+     "题03_论断A.txt": "9722f0428f633bfe08b06c9cc5087c214d1eac45dad05a343c57bb832cc16c07",
+     "题03_论断B.txt": "4635851776faec0d3cd2f7014e0d455d4711d1e6bbcff7e4bdc4d967b4034b3d",
+     "题03_论断C.txt": "ce81f8a5f551001e524808a2ab428f72b833d5546877f7f405995be2386a87ee",
+     "题03_论断D.txt": "d09f46d4c767e96470cb9c7c5b4d8fa8681c6680136f47bb1247d553e7a3c3f8",
+     "题03_陈述.txt": "623ceab0740a827153e1095d0b2c47f75c68bee523c63d42d0744794f68ea334"
+    }
+   },
+   {
+    "pack": "M04",
+    "items": [
+     "题04"
+    ],
+    "files_sha256": {
+     "instructions.txt": "ac6948a62e24be13ffd0bb6516838d03c0e438db643e8c03faa02a5fb80bb351",
+     "output_template.json": "cbf0da28d610f02d891de2a98a963bcf83aa22ad831b532b5380f615659b0ab1",
+     "题04_论断A.txt": "e760f20d2e3df02bdc4566a66663829403bb007dca29d4e0cdd14236140d4337",
+     "题04_论断B.txt": "15e02d9603849802249de2c4f125acdf1b5fa806e5a145ebe5918d12ad7288ac",
+     "题04_论断C.txt": "70d88c131c8a024c1fd3681d1f5a3212e50ef2adc7d9c9b2cf0fb4b7bd5fed1f",
+     "题04_论断D.txt": "70015809b16569467aa7236359a8238c5730293a4e0e8fd1857b1aec6db01c09",
+     "题04_陈述.txt": "3744fe01b4b03b453f0c21c9ec1abc377462f61023515cc0a9442ae7325b58e7"
+    }
+   },
+   {
+    "pack": "M05",
+    "items": [
+     "题05"
+    ],
+    "files_sha256": {
+     "instructions.txt": "ac6948a62e24be13ffd0bb6516838d03c0e438db643e8c03faa02a5fb80bb351",
+     "output_template.json": "95529ef4e615723cde96ad2d48faa06b40812ba6524f5428d6bfbfca303b04de",
+     "题05_论断A.txt": "3e2aecf35ccb8425407464d48eeed94173c14c09e057784e18132b771190ee19",
+     "题05_论断B.txt": "d90997dfa854174d725b874cb8b275488b5f0abd6188ec83675c22b768bf0a9f",
+     "题05_论断C.txt": "9ec83d7df6ee6e48a3e1a11e8ad92df86ccd089a3594070953d99eb18ccb97a6",
+     "题05_论断D.txt": "b08529e77995ae68256099a69d28fd24a2fe7fed60f343d854432788be25b3a1",
+     "题05_陈述.txt": "8b0ff03441631e4467988f0f0cb7f731d1d612c37dc41ed77eb2211bf2e5a744"
+    }
+   },
+   {
+    "pack": "M06",
+    "items": [
+     "题06"
+    ],
+    "files_sha256": {
+     "instructions.txt": "ac6948a62e24be13ffd0bb6516838d03c0e438db643e8c03faa02a5fb80bb351",
+     "output_template.json": "a14ff8b1f36aeb77b5846ab67c8f94c1dde590ba0482069ece904b00596316ea",
+     "题06_论断A.txt": "a14f25c3e6a53eaddd6475f45892597a5243d1f2442d61340fcc813c9f2f729d",
+     "题06_论断B.txt": "87a02b267cfbb35e249608db32558f78e33327ae6a9024590379d57912039281",
+     "题06_论断C.txt": "feaf00ba39db6c3006d2c4ebcec577d5babccac9d8370f1e9b10f915157f8d12",
+     "题06_论断D.txt": "c93913319d2a67054d1f47ce96ee77bd383de7e52b190c5bf357d3c48cad4458",
+     "题06_陈述.txt": "db4eff85adbf57a9b495b4bb5766ac4dd1b1a34835491338ad0ea79f41b6e172"
+    }
+   },
+   {
+    "pack": "M07",
+    "items": [
+     "题07"
+    ],
+    "files_sha256": {
+     "instructions.txt": "ac6948a62e24be13ffd0bb6516838d03c0e438db643e8c03faa02a5fb80bb351",
+     "output_template.json": "108a7758f65ecb4182fbf66a276c388b98670418cbdaa38f364a07399c7dcb4c",
+     "题07_论断A.txt": "b06af9982fec5e1d361f99bb68a9f864d65504a989eff29360c609b6969748b2",
+     "题07_论断B.txt": "ffd0909674b61f26c77928a09682a6e683d571544daf7f661bd75e1788af6fe9",
+     "题07_论断C.txt": "a532c9ce427595c7cf67c338e495739584ff6798d983c5011e11a206cdf464aa",
+     "题07_论断D.txt": "d35edde13c948a889c54b51e11d0779f31ec01f01e69b1442e5d0117aaf32b49",
+     "题07_陈述.txt": "2890bf330edd110d47716a49762425b0991840b18c5f58914b1705f7e3514d4b"
+    }
+   },
+   {
+    "pack": "M08",
+    "items": [
+     "题08"
+    ],
+    "files_sha256": {
+     "instructions.txt": "ac6948a62e24be13ffd0bb6516838d03c0e438db643e8c03faa02a5fb80bb351",
+     "output_template.json": "8ca2a49189eecd978249f5079d3b0499b3cd38da107fc1fa6170f78281cdc948",
+     "题08_论断A.txt": "e37f06e72617e572e105a0a598941a4114cd8240194a5be7fe3eae888853e75f",
+     "题08_论断B.txt": "e4f999f8dffae2fcfc59eef92791d74393b267a4e6ac2949d89d2ec55015d3af",
+     "题08_论断C.txt": "5a80596ac52e9d56b61116aeb824e51f36378ace5c44660d13efe93479b75de4",
+     "题08_论断D.txt": "8ed603a9c232868a5ca5120675e67a8ef90d2d1afe7df9339f5c2794dcc2e6b0",
+     "题08_陈述.txt": "4254a2fea470cb61b2b8f4b70b21c052d496c6321e57e03ee8af27daa9dd7a35"
+    }
+   },
+   {
+    "pack": "M09",
+    "items": [
+     "题09"
+    ],
+    "files_sha256": {
+     "instructions.txt": "ac6948a62e24be13ffd0bb6516838d03c0e438db643e8c03faa02a5fb80bb351",
+     "output_template.json": "90e2ba6040c0f272656b4b5053e77ebba1f29b7485c7b9d51fafa399e4b7af97",
+     "题09_论断A.txt": "c38126a8358c94ab704e10a1445ae81dc0d0fc4419a7fae276eb971cd31db086",
+     "题09_论断B.txt": "f356f2be213c4f54743e1c08053cd5c740ef97e3747af3e1ee036f886bae306f",
+     "题09_论断C.txt": "7ee46df157df52f6211546f4d58a90f9384684c3826dbfa6c3d8bc416cd6b82a",
+     "题09_论断D.txt": "1c549ca2fa5690f3ed94d273b88461ef0f4548a7ddba7f1ec6d4f71e6efdb9b4",
+     "题09_陈述.txt": "ab2c0d5112584f82991caa3f995a8c9e7ef8b5e3701fed98ccf1af80889587bf"
+    }
+   },
+   {
+    "pack": "M10",
+    "items": [
+     "题10"
+    ],
+    "files_sha256": {
+     "instructions.txt": "ac6948a62e24be13ffd0bb6516838d03c0e438db643e8c03faa02a5fb80bb351",
+     "output_template.json": "6a0ba4aa4056f245cf271bee400148ff94e7643a6fedc90d21dcd14396c04453",
+     "题10_论断A.txt": "38cd4b3f1294e000ab3a31cc2d8540ac9b21005abfcf95575e4e56522dc252a3",
+     "题10_论断B.txt": "4d8907f89e34d301c7e7940a9e7cba727a00151a8ee34b4276be16feb1f171e7",
+     "题10_论断C.txt": "fead07928fc84d5dc107a98ee6e0e56acb5b3eb7b8a5fe7046c0593472eae407",
+     "题10_论断D.txt": "3768f7f3503694370326e99120346de29faad9492b90d5efddf8449073decde0",
+     "题10_陈述.txt": "4cbb9a1cd30315a3009198b471a44b2b01591eed8e4b58a1b91d392dcb6de3fa"
+    }
+   },
+   {
+    "pack": "M11",
+    "items": [
+     "题11"
+    ],
+    "files_sha256": {
+     "instructions.txt": "ac6948a62e24be13ffd0bb6516838d03c0e438db643e8c03faa02a5fb80bb351",
+     "output_template.json": "d0305c0096063505dc6d3858e1c4c9fa35e22b5587dc305249bb3440d9b734ee",
+     "题11_论断A.txt": "b8a33af986bcaf08a47c31fd617187ff5cb2751cc190037c0afd2917ee9a260d",
+     "题11_论断B.txt": "9961c305eef96b8965f9fbe5e7bce895fcd73b773914061c69d2a25f63189c87",
+     "题11_论断C.txt": "0c8e30b84627764dc0ccb2d7cf1ddce3076f902b3897efc70743bca015d9a108",
+     "题11_论断D.txt": "09a0e4e66dc68d0f3ac8f1b568d4a5399c972b8ad2c5f05cd5e6b905e5b6eb12",
+     "题11_陈述.txt": "ceac6384036e05c859a4c66d97586ea2a57eb4980c625b26d06edb8de71db1d3"
+    }
+   },
+   {
+    "pack": "M12",
+    "items": [
+     "题12"
+    ],
+    "files_sha256": {
+     "instructions.txt": "ac6948a62e24be13ffd0bb6516838d03c0e438db643e8c03faa02a5fb80bb351",
+     "output_template.json": "c7eed36b6469d196c1de27208f0ea3f2c970d555447b2fb4d94c7107ba4159fa",
+     "题12_论断A.txt": "38cd4b3f1294e000ab3a31cc2d8540ac9b21005abfcf95575e4e56522dc252a3",
+     "题12_论断B.txt": "4d8907f89e34d301c7e7940a9e7cba727a00151a8ee34b4276be16feb1f171e7",
+     "题12_论断C.txt": "3768f7f3503694370326e99120346de29faad9492b90d5efddf8449073decde0",
+     "题12_论断D.txt": "fead07928fc84d5dc107a98ee6e0e56acb5b3eb7b8a5fe7046c0593472eae407",
+     "题12_陈述.txt": "ae137bacc4af6a955bc68b7c3c9f32bb23a2a522629f3802ad4c13a74e03d6c0"
+    }
+   },
+   {
+    "pack": "M13",
+    "items": [
+     "题13"
+    ],
+    "files_sha256": {
+     "instructions.txt": "ac6948a62e24be13ffd0bb6516838d03c0e438db643e8c03faa02a5fb80bb351",
+     "output_template.json": "2e6b919d0911dab9075a9f281506a92b597ae74c2744cef6a95081357f6e3312",
+     "题13_论断A.txt": "9961c305eef96b8965f9fbe5e7bce895fcd73b773914061c69d2a25f63189c87",
+     "题13_论断B.txt": "0c8e30b84627764dc0ccb2d7cf1ddce3076f902b3897efc70743bca015d9a108",
+     "题13_论断C.txt": "b8a33af986bcaf08a47c31fd617187ff5cb2751cc190037c0afd2917ee9a260d",
+     "题13_论断D.txt": "09a0e4e66dc68d0f3ac8f1b568d4a5399c972b8ad2c5f05cd5e6b905e5b6eb12",
+     "题13_陈述.txt": "e2fb40b01b5e5b4eb8e431f480f90d7361ce0edd9221fdd60751df033b30e52f"
+    }
+   },
+   {
+    "pack": "M14",
+    "items": [
+     "题14"
+    ],
+    "files_sha256": {
+     "instructions.txt": "ac6948a62e24be13ffd0bb6516838d03c0e438db643e8c03faa02a5fb80bb351",
+     "output_template.json": "5aefa1c553b2996e0269f0a63779327c1868a7dd78d64dc7157f0090795df2ae",
+     "题14_论断A.txt": "1e90d81da0c695cb5dea29cae6433ae7fc6e56a70d0580c188d25647c67bb561",
+     "题14_论断B.txt": "2ba4b4d78518e23b54d2bdb60da29574256a81c6e8cd9c14252af3fde51bed2b",
+     "题14_论断C.txt": "7dca20c7efb85313730b4be2fafd5efa5985c8981f4a1eef42aa5bd09edc0ced",
+     "题14_论断D.txt": "61b74032eca57910dc62d98bc90d32b9ed79cacde60209865cc4a72a2722701f",
+     "题14_陈述.txt": "27b70a3aa1aa07f23b4134788bbfbbcf184db246e53cdea6fd9533480f37031b"
+    }
+   },
+   {
+    "pack": "M15",
+    "items": [
+     "题15"
+    ],
+    "files_sha256": {
+     "instructions.txt": "ac6948a62e24be13ffd0bb6516838d03c0e438db643e8c03faa02a5fb80bb351",
+     "output_template.json": "ed72d015c2770d3cc01cd42b20600d59f837ed70e8b217b7a1879da6f56cdf22",
+     "题15_论断A.txt": "5176bbaa03c37a5e86e0a5c122066aaa3331024eff25e7a86badd19bf3480ab2",
+     "题15_论断B.txt": "36a393b6fa5345e5026e1554072ccfbda05007c931f2666b96d21cf64a9440f0",
+     "题15_论断C.txt": "ba4a1e59a8f4c02068def0d3874ed4a61bf059ad7634dde249d6879f5869a080",
+     "题15_论断D.txt": "93948d9cba6e9c81f15aa876eebcb92a3b2fd88e1e15cf397b758f1c19459b82",
+     "题15_陈述.txt": "6cb9d74802321361c7b54b8a953a856ce2f87b444128bbd272da6c510aae373c"
+    }
+   },
+   {
+    "pack": "M16",
+    "items": [
+     "题16"
+    ],
+    "files_sha256": {
+     "instructions.txt": "ac6948a62e24be13ffd0bb6516838d03c0e438db643e8c03faa02a5fb80bb351",
+     "output_template.json": "b44273b4de013f3808755ac1685c886cc03872684ee50174f23e3fb889f19550",
+     "题16_论断A.txt": "c6fe4705d45e0e2db4d6718a10cc4cbafa683d201f9e9a9fc43150ef701231f1",
+     "题16_论断B.txt": "c8b1473d92d706d1d25d3f20ababdfc3d191896424b903478ef426e09b16c21c",
+     "题16_论断C.txt": "76a780ac06aa2e6476470d5e3dbe8edb3ae737b643127e699398ca3e7e9283d2",
+     "题16_论断D.txt": "1c7e6216639fac6a3f769398791e46b8ecc5ae610d024a9281871d2ee7553a10",
+     "题16_陈述.txt": "f7810945500805c8c4b7c6ac0b4af57a7f0906263dc657a4eef3475269bba6c8"
+    }
+   },
+   {
+    "pack": "M17",
+    "items": [
+     "题17"
+    ],
+    "files_sha256": {
+     "instructions.txt": "ac6948a62e24be13ffd0bb6516838d03c0e438db643e8c03faa02a5fb80bb351",
+     "output_template.json": "b44cec53c6d6628aab5f714dd7dbb2ebf4cd3aecaa1a0843a0872a9692239993",
+     "题17_论断A.txt": "fba98528837a9dfe819466a057ed187bd3fc7527fc9862ebd943df2f2c654dd6",
+     "题17_论断B.txt": "69a17632810dbd955ef6d3846b4ddbb411c8add8adddd43b1c2a51ca0ce1ad34",
+     "题17_论断C.txt": "f1a7e9a20873b3e729a7060d1b3f022fdd9fb2bba2bbcf2be77bf82130ff6c20",
+     "题17_论断D.txt": "d92c5f899e5011c0910ba4f605c768feaf501353291564bdb63a5d302b312a5c",
+     "题17_陈述.txt": "cee04ca781d83df0a723626e4c0802047a6de6e14a3bc5425d07e8a58027ad6e"
+    }
+   },
+   {
+    "pack": "M18",
+    "items": [
+     "题18"
+    ],
+    "files_sha256": {
+     "instructions.txt": "ac6948a62e24be13ffd0bb6516838d03c0e438db643e8c03faa02a5fb80bb351",
+     "output_template.json": "f40e46d6a94f1101ac89164d5a62fda61fca83f8ec67f9875db87c5db11131e1",
+     "题18_论断A.txt": "e4994c2c1b1ebd42e9ec486366ce163f4ee7d52710432df63fe14bd8f7437c1f",
+     "题18_论断B.txt": "b9a4263f90e3eee691024dfddbce8f244716a3b4bd7b1104e740b20e1060a7c2",
+     "题18_论断C.txt": "f1a7e9a20873b3e729a7060d1b3f022fdd9fb2bba2bbcf2be77bf82130ff6c20",
+     "题18_论断D.txt": "a72610dc6c97abc2fde9bdacba50bb14bb4f1f9dae591e9b2907ca907034d045",
+     "题18_陈述.txt": "8503d1ae6ba513e2ad3690d39f41578a8e5abd518f232aa14e043b5f8c4289b8"
+    }
+   },
+   {
+    "pack": "M19",
+    "items": [
+     "题19"
+    ],
+    "files_sha256": {
+     "instructions.txt": "ac6948a62e24be13ffd0bb6516838d03c0e438db643e8c03faa02a5fb80bb351",
+     "output_template.json": "8ee2cdd090a9d6d80a03911ce697a22c4d121bd8e36857169ac81c6f2a94452a",
+     "题19_论断A.txt": "b8a33af986bcaf08a47c31fd617187ff5cb2751cc190037c0afd2917ee9a260d",
+     "题19_论断B.txt": "09a0e4e66dc68d0f3ac8f1b568d4a5399c972b8ad2c5f05cd5e6b905e5b6eb12",
+     "题19_论断C.txt": "0c8e30b84627764dc0ccb2d7cf1ddce3076f902b3897efc70743bca015d9a108",
+     "题19_论断D.txt": "9961c305eef96b8965f9fbe5e7bce895fcd73b773914061c69d2a25f63189c87",
+     "题19_陈述.txt": "9604bb744254ca4352b6ae56f978bca42ac251efd1e3e734989faf8195b88942"
+    }
+   },
+   {
+    "pack": "M20",
+    "items": [
+     "题20"
+    ],
+    "files_sha256": {
+     "instructions.txt": "ac6948a62e24be13ffd0bb6516838d03c0e438db643e8c03faa02a5fb80bb351",
+     "output_template.json": "426ec1ed0f6aee610b809c57a383305c5040271276df62623a174e1b0489b419",
+     "题20_论断A.txt": "0742f4ec4981d029c0b0d8e1ed7951125ee39876953e563380ac38ae2cca498b",
+     "题20_论断B.txt": "a0d054183f3a47dc8b53e8374a74e44677373286a29cb0b18d8f178e1e4569cd",
+     "题20_论断C.txt": "af1f1255d2a8860e2c4a5a87bc894214286263eb16f35030ed97fd5d99be1aa3",
+     "题20_论断D.txt": "f1a7e9a20873b3e729a7060d1b3f022fdd9fb2bba2bbcf2be77bf82130ff6c20",
+     "题20_陈述.txt": "8739130670193905e30a8c779ab25a08bd098f97e09361c326474c1218390325"
+    }
+   },
+   {
+    "pack": "M21",
+    "items": [
+     "题21"
+    ],
+    "files_sha256": {
+     "instructions.txt": "ac6948a62e24be13ffd0bb6516838d03c0e438db643e8c03faa02a5fb80bb351",
+     "output_template.json": "1e96f74da94b6b93c39192ed0522afba1d3cf37cbfb16caf664810970911f951",
+     "题21_论断A.txt": "7b6fcb54e86d0500919efede8be6b37f8c7ed5f63adfda44d94988daaa37c3d6",
+     "题21_论断B.txt": "37d4a65e5936ec780737faa848376f2287f258936ef5734e97f80c035e7df2ef",
+     "题21_论断C.txt": "ada6a9fc14765274c5483e7c574d45901ce40374945f89e2c2d4434f16f3c4b2",
+     "题21_论断D.txt": "f9da3d4f4547e112833d48733f76dd7021bffe826f26509f32e0b81263736f88",
+     "题21_陈述.txt": "59bdb374b0bfd65a03f026b590b242fc07bb465cc85dfdca0fb12a2c195c73c0"
+    }
+   },
+   {
+    "pack": "M22",
+    "items": [
+     "题22"
+    ],
+    "files_sha256": {
+     "instructions.txt": "ac6948a62e24be13ffd0bb6516838d03c0e438db643e8c03faa02a5fb80bb351",
+     "output_template.json": "7a4b74dc49f0c1b526e7c690c2390fc7c3909db97d221065f477c724a9d99aaf",
+     "题22_论断A.txt": "5fc161cb46d430f6be06c2dd94675bac1039789c46f1798a9ef7c7cc63b0c4fe",
+     "题22_论断B.txt": "b36507d8fe8c00815c7ee8b123e2da26a73a6229021207dc1b1aa0c09b154936",
+     "题22_论断C.txt": "c9d5b7ee11a203bc7f51a61b4652729e259c77c474e5084f2227ca9d1edcd7f3",
+     "题22_论断D.txt": "2b3c2c33f7c64338e805bac52f6fb2ec25cf0feb05a8e52890a4b72304729148",
+     "题22_陈述.txt": "daaf19dfea3f69e222f7c5e0799c8992ccc617fac8ed1ec8e1523b197e6bf508"
+    }
+   },
+   {
+    "pack": "M23",
+    "items": [
+     "题23"
+    ],
+    "files_sha256": {
+     "instructions.txt": "ac6948a62e24be13ffd0bb6516838d03c0e438db643e8c03faa02a5fb80bb351",
+     "output_template.json": "1efb0c607003d5294c07d311197af32e38d2763274fbe173a16ce281d5f7b462",
+     "题23_论断A.txt": "ca63805c325e79dcd2d59f067cc141d63f87fc6482ec9c31bc711d84d4f86665",
+     "题23_论断B.txt": "449eff4197f7dd50fe2bbd1f3c41febc825b9d650d2b31f48328a1914155d802",
+     "题23_论断C.txt": "b47b4e6c232f1e8f419722dcd32619f2135e5ed6901555ea80b55cb54fbf6133",
+     "题23_论断D.txt": "007f914910c205d5546d12cb5e1a8d226eea8cb53b0b1dc151688e231e739e59",
+     "题23_陈述.txt": "f6bacdd4e270235bcb5ef6ce0b7ba21e3ff00bcabab3b7766173ba3a1e683a42"
+    }
+   },
+   {
+    "pack": "M24",
+    "items": [
+     "题24"
+    ],
+    "files_sha256": {
+     "instructions.txt": "ac6948a62e24be13ffd0bb6516838d03c0e438db643e8c03faa02a5fb80bb351",
+     "output_template.json": "47f935c73388a42f3c1a073f6586745c2077479c3decde643333ebbc6adfb55d",
+     "题24_论断A.txt": "139bbeb9d69230dd6b491204016df90a6e1c0b8a02cb040a7915a2a1d94b334f",
+     "题24_论断B.txt": "136b1f13e3bc6f9a4d121797f7bf47157b93daccb4ee4082434ee3b39a4df7bc",
+     "题24_论断C.txt": "4eec453b398e32af80af62f9d44f71b663354453992df8a5f6cc4b51e44fa2da",
+     "题24_论断D.txt": "cae7d6764cbc59a6b616b68e6beef6173c107451d4eb4f01d153b02fdac1e85a",
+     "题24_陈述.txt": "39c9f1ececfaf3cf68590cb582faca9a978a108398f633a992f9a6f7a8b34060"
+    }
+   },
+   {
+    "pack": "M25",
+    "items": [
+     "题25"
+    ],
+    "files_sha256": {
+     "instructions.txt": "ac6948a62e24be13ffd0bb6516838d03c0e438db643e8c03faa02a5fb80bb351",
+     "output_template.json": "432a2a3a0aac7036e5370f2c17c9386e689fe05f54cfbdd984090b73d393f2fa",
+     "题25_论断A.txt": "5aa3edc47537ae3bf358319f3239eeae1c11af57038291466246c1834c93bb14",
+     "题25_论断B.txt": "9e640f33047af902c438591ba105d267fe0473fe78a89eba6b44d090b859ba75",
+     "题25_论断C.txt": "2a8a13a24c74f63209308f5fb2d10741466f4d0af07ba446cc3cfcb5faf6cc18",
+     "题25_论断D.txt": "9418e59401f7d154224b61619802eb46b4db2ceefa73279e1bae63f82b042e3f",
+     "题25_陈述.txt": "54fb35274f55b4184bcb55fb6d06b650ce0a03025874827a47f649bcd1bc734e"
+    }
+   },
+   {
+    "pack": "M26",
+    "items": [
+     "题26"
+    ],
+    "files_sha256": {
+     "instructions.txt": "ac6948a62e24be13ffd0bb6516838d03c0e438db643e8c03faa02a5fb80bb351",
+     "output_template.json": "306845954d562b6fd6ae6e18b725cc5f8796ea9a92235160fa7ffff26ce027bf",
+     "题26_论断A.txt": "fead07928fc84d5dc107a98ee6e0e56acb5b3eb7b8a5fe7046c0593472eae407",
+     "题26_论断B.txt": "4d8907f89e34d301c7e7940a9e7cba727a00151a8ee34b4276be16feb1f171e7",
+     "题26_论断C.txt": "38cd4b3f1294e000ab3a31cc2d8540ac9b21005abfcf95575e4e56522dc252a3",
+     "题26_论断D.txt": "3768f7f3503694370326e99120346de29faad9492b90d5efddf8449073decde0",
+     "题26_陈述.txt": "1e2b846611e97608725b2fe1ea60561e7354f8c1fa3cde56e5f8e2f0fd24bf32"
+    }
+   },
+   {
+    "pack": "M27",
+    "items": [
+     "题27"
+    ],
+    "files_sha256": {
+     "instructions.txt": "ac6948a62e24be13ffd0bb6516838d03c0e438db643e8c03faa02a5fb80bb351",
+     "output_template.json": "3e8be1676d5545a448d4be9ee16e10f3338a97a7f073ff93a03617b21bd7c6a9",
+     "题27_论断A.txt": "09a0e4e66dc68d0f3ac8f1b568d4a5399c972b8ad2c5f05cd5e6b905e5b6eb12",
+     "题27_论断B.txt": "9961c305eef96b8965f9fbe5e7bce895fcd73b773914061c69d2a25f63189c87",
+     "题27_论断C.txt": "b8a33af986bcaf08a47c31fd617187ff5cb2751cc190037c0afd2917ee9a260d",
+     "题27_论断D.txt": "0c8e30b84627764dc0ccb2d7cf1ddce3076f902b3897efc70743bca015d9a108",
+     "题27_陈述.txt": "a7a39e4abfee6620842c72bd0a8a5debf56770d234db4819097b95e42eb7306b"
+    }
+   },
+   {
+    "pack": "M28",
+    "items": [
+     "题28"
+    ],
+    "files_sha256": {
+     "instructions.txt": "ac6948a62e24be13ffd0bb6516838d03c0e438db643e8c03faa02a5fb80bb351",
+     "output_template.json": "32b45b9db93ee65d719f96ade52c7f99faaeb24ff38a5133cba4629a2faaa086",
+     "题28_论断A.txt": "afb7c02f35e9274aecdc4e8301cd1a4e2f25b5935fcc2f118ff0c54c3fd96f0b",
+     "题28_论断B.txt": "cde14e2df23e9fd7c3073e2f8368e3e08c2c44bc7c6077b2f0b6014129c9d4f2",
+     "题28_论断C.txt": "df1711f0761e53283d1a5525e0fa50132e71dfe352ec20564074e6ab438641f2",
+     "题28_论断D.txt": "27ac79abefb1ebb88a88ff99d8d0463dab8ef94deb0a88fe661db06959ba60d5",
+     "题28_陈述.txt": "bdcecb5898ba5f6b9578bf2f9439ba7a31bcb30a6b979d410b9bebf4d4bc6b5c"
+    }
+   }
+  ],
+  "平": [
+   {
+    "pack": "M01",
+    "items": [
+     "题01"
+    ],
+    "files_sha256": {
+     "instructions.txt": "23dfabe3603aa80692d9d26d4531cc0b70d4fe9a55c663b799a379c61c9eb432",
+     "output_template.json": "fdb0fca94c8e52c0406ae25abf93a8c29ff93bdac07f2de1bc4a62a8e5ffbc3a",
+     "题01_论断A.txt": "c355b69af5cb331e942577936e16fed301e80473df80c7cd9f08f8ef31392f46",
+     "题01_论断B.txt": "7053fcec172dbfc3b6cc35daba3649f8502eb27b608a3adb663d8805db23b2b0",
+     "题01_论断C.txt": "c289345962ed25681192275502ce1eb16b3f1d5b91df451966b7812a51b702f3",
+     "题01_论断D.txt": "474af3200c4e26928d6b130104f7507cbcff37bf229b1a8285595496a97b9c0f",
+     "题01_陈述.txt": "48ef92e2c73298344eb5dbdb8c69984204bae1a3552484d1329fb813c88ed140"
+    }
+   },
+   {
+    "pack": "M02",
+    "items": [
+     "题02"
+    ],
+    "files_sha256": {
+     "instructions.txt": "23dfabe3603aa80692d9d26d4531cc0b70d4fe9a55c663b799a379c61c9eb432",
+     "output_template.json": "5fdd50fd436b5e11666d35468f1015d97faea5a184e6289469b45245f380c0e6",
+     "题02_论断A.txt": "f4b3df5347b6f8246e2e1bc9e3083598dc711d8a5e39f3509d0b168ab99c2472",
+     "题02_论断B.txt": "d6e4c9799a204467623903512e88ac074e2a97e8398183f3158ecb8fae2fcfc3",
+     "题02_论断C.txt": "8edf7cec9700f6442eb109bffc974e215ecb102d129b952130b2c9a9d8dc4158",
+     "题02_论断D.txt": "1d799b59aeffaf24c3390024a6bdd993185cabbeb1c32a4f0ed7b233c522d83d",
+     "题02_陈述.txt": "fbaa74eae1882dc2b5e0223b9e7e81268da259cf66eadffd6ab9e5087e45e08e"
+    }
+   },
+   {
+    "pack": "M03",
+    "items": [
+     "题03"
+    ],
+    "files_sha256": {
+     "instructions.txt": "23dfabe3603aa80692d9d26d4531cc0b70d4fe9a55c663b799a379c61c9eb432",
+     "output_template.json": "53bd70b3816db3a9b798c6fa1f18eb253f58ecd817e42e32e97d2ed1e968845d",
+     "题03_论断A.txt": "079283d2a97dd3314dcf79c8ec1b359b4618a4874a3be3d1b0ee06e0438c10ee",
+     "题03_论断B.txt": "48c540c3ee4c0ce0365fc27ce6d9704d7bfb02e84919ce3a90149731edcc1ecb",
+     "题03_论断C.txt": "f1eb84894f911fb839db5516e6573f580380e2c94248cded19c239736ac93bf7",
+     "题03_论断D.txt": "f426d21f6a3325aa59be667be658c96cd8bfaf1a6f035dfba7295fd22deeb4ea",
+     "题03_陈述.txt": "623ceab0740a827153e1095d0b2c47f75c68bee523c63d42d0744794f68ea334"
+    }
+   },
+   {
+    "pack": "M04",
+    "items": [
+     "题04"
+    ],
+    "files_sha256": {
+     "instructions.txt": "23dfabe3603aa80692d9d26d4531cc0b70d4fe9a55c663b799a379c61c9eb432",
+     "output_template.json": "cbf0da28d610f02d891de2a98a963bcf83aa22ad831b532b5380f615659b0ab1",
+     "题04_论断A.txt": "00a90b1ae0df5ea53b4cfdbe9626fc3c64425c1aafb8a1ad11966e7e2afe5816",
+     "题04_论断B.txt": "d0315f82a04af75d2866fca95e929b36d364d0b36145c44bd13166145279acaa",
+     "题04_论断C.txt": "7ea8f9db9799e789b79543910b4047f65f584f3fd84312b9a87f1525a52a601c",
+     "题04_论断D.txt": "6dc38d4e676c4c8797656ad53b1207927bb61034401f8f5711fd1450897a2f2d",
+     "题04_陈述.txt": "3744fe01b4b03b453f0c21c9ec1abc377462f61023515cc0a9442ae7325b58e7"
+    }
+   },
+   {
+    "pack": "M05",
+    "items": [
+     "题05"
+    ],
+    "files_sha256": {
+     "instructions.txt": "23dfabe3603aa80692d9d26d4531cc0b70d4fe9a55c663b799a379c61c9eb432",
+     "output_template.json": "95529ef4e615723cde96ad2d48faa06b40812ba6524f5428d6bfbfca303b04de",
+     "题05_论断A.txt": "11748fe80b1542b9e69899a0608dc0b7f3b6fa02e6e668d3a2cb2330f0386dcf",
+     "题05_论断B.txt": "8ff7ea4c7fd4e8ab32d91c9ee90d47ad087b42d822a1de247855c947416e0141",
+     "题05_论断C.txt": "ced53ba40e9116140bdebc5669ece7c5100ba8a63c77005ea1a668f4dd8ed5e6",
+     "题05_论断D.txt": "a178179937cc26b0b03cbdd3c395a92aae85e2f8d650548a6e5bf7ed6fc699fc",
+     "题05_陈述.txt": "8b0ff03441631e4467988f0f0cb7f731d1d612c37dc41ed77eb2211bf2e5a744"
+    }
+   },
+   {
+    "pack": "M06",
+    "items": [
+     "题06"
+    ],
+    "files_sha256": {
+     "instructions.txt": "23dfabe3603aa80692d9d26d4531cc0b70d4fe9a55c663b799a379c61c9eb432",
+     "output_template.json": "a14ff8b1f36aeb77b5846ab67c8f94c1dde590ba0482069ece904b00596316ea",
+     "题06_论断A.txt": "735fce3f75eec351da4890942460bdc719e64336b56da5a0b326c2cf5a21acd6",
+     "题06_论断B.txt": "724c6e56c885a7f1ceffff28e7e1d4f2dc39938e1501ad2e8ccd8ddbebd66cba",
+     "题06_论断C.txt": "e4018840069ed705297af5bea65b6c691512171e58b7b84044124dcfffaab597",
+     "题06_论断D.txt": "894319726ea6efe6dd9d2028626a5b43c8e6659ceef8c26819728c0617d74a28",
+     "题06_陈述.txt": "db4eff85adbf57a9b495b4bb5766ac4dd1b1a34835491338ad0ea79f41b6e172"
+    }
+   },
+   {
+    "pack": "M07",
+    "items": [
+     "题07"
+    ],
+    "files_sha256": {
+     "instructions.txt": "23dfabe3603aa80692d9d26d4531cc0b70d4fe9a55c663b799a379c61c9eb432",
+     "output_template.json": "108a7758f65ecb4182fbf66a276c388b98670418cbdaa38f364a07399c7dcb4c",
+     "题07_论断A.txt": "dd8e4d59a8decd11f6e4e42b6c42c31beab6cbff882b3e2a970c0b53ddf1300c",
+     "题07_论断B.txt": "87bbd0617c487a7481b0431bb132c3b832246eb1bf591d864606b9e127907d4e",
+     "题07_论断C.txt": "678f6368a7f4c67d450624759da26a005ca33a865d77939963e6b21b16ff4933",
+     "题07_论断D.txt": "13268b76804d0f968f89325f6c6221932acba4c32fed192311f4ec3b90b6b09a",
+     "题07_陈述.txt": "2890bf330edd110d47716a49762425b0991840b18c5f58914b1705f7e3514d4b"
+    }
+   },
+   {
+    "pack": "M08",
+    "items": [
+     "题08"
+    ],
+    "files_sha256": {
+     "instructions.txt": "23dfabe3603aa80692d9d26d4531cc0b70d4fe9a55c663b799a379c61c9eb432",
+     "output_template.json": "8ca2a49189eecd978249f5079d3b0499b3cd38da107fc1fa6170f78281cdc948",
+     "题08_论断A.txt": "c897447b893c1bd584bc60d8d25ec8f3949e9d9e347df9a9de6a61a8edc8a931",
+     "题08_论断B.txt": "ab194db12801ba5fd7bcb495ea10a0fabd2f64b5bfe2c8f0004359df5b01210c",
+     "题08_论断C.txt": "6d4b6b358eaa23b931236351e5edc88391a9af9bc2b17e243344dc825f7cb0b1",
+     "题08_论断D.txt": "8893151b444fae58767ffbe817e37e2bc1479ebecf2c4ba58b7e521d02714de5",
+     "题08_陈述.txt": "4254a2fea470cb61b2b8f4b70b21c052d496c6321e57e03ee8af27daa9dd7a35"
+    }
+   },
+   {
+    "pack": "M09",
+    "items": [
+     "题09"
+    ],
+    "files_sha256": {
+     "instructions.txt": "23dfabe3603aa80692d9d26d4531cc0b70d4fe9a55c663b799a379c61c9eb432",
+     "output_template.json": "90e2ba6040c0f272656b4b5053e77ebba1f29b7485c7b9d51fafa399e4b7af97",
+     "题09_论断A.txt": "1923e53f75c8f3c6e7c4669c25a100b091b941cd096e333f159c5306e7b1b28f",
+     "题09_论断B.txt": "132515a8b2774b0532162201fa24dd3bdb87e3ccc241d09629344c61e148d090",
+     "题09_论断C.txt": "07afacf0aceebe6b9c73199a85a4086e90a4ba4ca678eebaa500dfeba7d71774",
+     "题09_论断D.txt": "f25d9c67bb68588e62a465f295f1535e52818a4ae14d4a7dc94a392e8d9c0ab9",
+     "题09_陈述.txt": "ab2c0d5112584f82991caa3f995a8c9e7ef8b5e3701fed98ccf1af80889587bf"
+    }
+   },
+   {
+    "pack": "M10",
+    "items": [
+     "题10"
+    ],
+    "files_sha256": {
+     "instructions.txt": "23dfabe3603aa80692d9d26d4531cc0b70d4fe9a55c663b799a379c61c9eb432",
+     "output_template.json": "6a0ba4aa4056f245cf271bee400148ff94e7643a6fedc90d21dcd14396c04453",
+     "题10_论断A.txt": "c289345962ed25681192275502ce1eb16b3f1d5b91df451966b7812a51b702f3",
+     "题10_论断B.txt": "c355b69af5cb331e942577936e16fed301e80473df80c7cd9f08f8ef31392f46",
+     "题10_论断C.txt": "7053fcec172dbfc3b6cc35daba3649f8502eb27b608a3adb663d8805db23b2b0",
+     "题10_论断D.txt": "474af3200c4e26928d6b130104f7507cbcff37bf229b1a8285595496a97b9c0f",
+     "题10_陈述.txt": "4cbb9a1cd30315a3009198b471a44b2b01591eed8e4b58a1b91d392dcb6de3fa"
+    }
+   },
+   {
+    "pack": "M11",
+    "items": [
+     "题11"
+    ],
+    "files_sha256": {
+     "instructions.txt": "23dfabe3603aa80692d9d26d4531cc0b70d4fe9a55c663b799a379c61c9eb432",
+     "output_template.json": "d0305c0096063505dc6d3858e1c4c9fa35e22b5587dc305249bb3440d9b734ee",
+     "题11_论断A.txt": "f865c43f263cc736621ce4cd9d0f2b320cf9771b2dc3c48aa8688d4b636e3f0f",
+     "题11_论断B.txt": "d5c3dc5f273f70634b875c5b0a450e3951526658260b3d64701a6f008781b63f",
+     "题11_论断C.txt": "13a23d50346f059456aadd77499451b84baaf754e7743567af8b36a124c13806",
+     "题11_论断D.txt": "19efb64c9ca3df5b3f9244632b83082e8808f7d636ec337196b7a8517d38e865",
+     "题11_陈述.txt": "ceac6384036e05c859a4c66d97586ea2a57eb4980c625b26d06edb8de71db1d3"
+    }
+   },
+   {
+    "pack": "M12",
+    "items": [
+     "题12"
+    ],
+    "files_sha256": {
+     "instructions.txt": "23dfabe3603aa80692d9d26d4531cc0b70d4fe9a55c663b799a379c61c9eb432",
+     "output_template.json": "c7eed36b6469d196c1de27208f0ea3f2c970d555447b2fb4d94c7107ba4159fa",
+     "题12_论断A.txt": "c289345962ed25681192275502ce1eb16b3f1d5b91df451966b7812a51b702f3",
+     "题12_论断B.txt": "c355b69af5cb331e942577936e16fed301e80473df80c7cd9f08f8ef31392f46",
+     "题12_论断C.txt": "474af3200c4e26928d6b130104f7507cbcff37bf229b1a8285595496a97b9c0f",
+     "题12_论断D.txt": "7053fcec172dbfc3b6cc35daba3649f8502eb27b608a3adb663d8805db23b2b0",
+     "题12_陈述.txt": "ae137bacc4af6a955bc68b7c3c9f32bb23a2a522629f3802ad4c13a74e03d6c0"
+    }
+   },
+   {
+    "pack": "M13",
+    "items": [
+     "题13"
+    ],
+    "files_sha256": {
+     "instructions.txt": "23dfabe3603aa80692d9d26d4531cc0b70d4fe9a55c663b799a379c61c9eb432",
+     "output_template.json": "2e6b919d0911dab9075a9f281506a92b597ae74c2744cef6a95081357f6e3312",
+     "题13_论断A.txt": "d5c3dc5f273f70634b875c5b0a450e3951526658260b3d64701a6f008781b63f",
+     "题13_论断B.txt": "13a23d50346f059456aadd77499451b84baaf754e7743567af8b36a124c13806",
+     "题13_论断C.txt": "f865c43f263cc736621ce4cd9d0f2b320cf9771b2dc3c48aa8688d4b636e3f0f",
+     "题13_论断D.txt": "19efb64c9ca3df5b3f9244632b83082e8808f7d636ec337196b7a8517d38e865",
+     "题13_陈述.txt": "e2fb40b01b5e5b4eb8e431f480f90d7361ce0edd9221fdd60751df033b30e52f"
+    }
+   },
+   {
+    "pack": "M14",
+    "items": [
+     "题14"
+    ],
+    "files_sha256": {
+     "instructions.txt": "23dfabe3603aa80692d9d26d4531cc0b70d4fe9a55c663b799a379c61c9eb432",
+     "output_template.json": "5aefa1c553b2996e0269f0a63779327c1868a7dd78d64dc7157f0090795df2ae",
+     "题14_论断A.txt": "6a68ac4b7f7c023f0bb5b322b965e3853c61e6da728c92c325c39be4a9b8d289",
+     "题14_论断B.txt": "66395c434ce12800c7981e2ee5c4ce04b677ca7357f84ac7ddbb634523be6200",
+     "题14_论断C.txt": "6383d81f412e09d2366c1ab2137a28fc32da83ab38821e3083fe0ebf4f50aee3",
+     "题14_论断D.txt": "9ea80437dcf42ca87563016f14957880a651d7ea95dbc0c7d8684a08309c0cd1",
+     "题14_陈述.txt": "27b70a3aa1aa07f23b4134788bbfbbcf184db246e53cdea6fd9533480f37031b"
+    }
+   },
+   {
+    "pack": "M15",
+    "items": [
+     "题15"
+    ],
+    "files_sha256": {
+     "instructions.txt": "23dfabe3603aa80692d9d26d4531cc0b70d4fe9a55c663b799a379c61c9eb432",
+     "output_template.json": "ed72d015c2770d3cc01cd42b20600d59f837ed70e8b217b7a1879da6f56cdf22",
+     "题15_论断A.txt": "568d5b09b9ae5aa9c467eaa45793c692c6ace932a988f51424f6291cfb055a40",
+     "题15_论断B.txt": "b5a747c276e997559820ee2c146007794692bd1e8673d486a3b7cc3a09b8dc5f",
+     "题15_论断C.txt": "03bf19f89692eb53c193aa652af630d3576e412eb275c841ba079e84d6c4c361",
+     "题15_论断D.txt": "939094ce7df80ebf2947717b9a940f5adc4cbdc3a897d498fcd45d2edebeb2a9",
+     "题15_陈述.txt": "6cb9d74802321361c7b54b8a953a856ce2f87b444128bbd272da6c510aae373c"
+    }
+   },
+   {
+    "pack": "M16",
+    "items": [
+     "题16"
+    ],
+    "files_sha256": {
+     "instructions.txt": "23dfabe3603aa80692d9d26d4531cc0b70d4fe9a55c663b799a379c61c9eb432",
+     "output_template.json": "b44273b4de013f3808755ac1685c886cc03872684ee50174f23e3fb889f19550",
+     "题16_论断A.txt": "e771f4ad2ef723fad1cdc426ae46a116f970c5e3a627617b3e6f3cfa2ae3c031",
+     "题16_论断B.txt": "fba7a3f85acd4edf0ebee427ae06d66b2dd1197e41471e074524e0ba93fdeadb",
+     "题16_论断C.txt": "eb13cc3be275c3fa33b6ca1b24193b37fdd3965d4d5eb45a5e8c1471fc307f1a",
+     "题16_论断D.txt": "198a8ef5404332fec863655f59f4dcd89496acd0945a2f617a05e6a7c2c8298c",
+     "题16_陈述.txt": "f7810945500805c8c4b7c6ac0b4af57a7f0906263dc657a4eef3475269bba6c8"
+    }
+   },
+   {
+    "pack": "M17",
+    "items": [
+     "题17"
+    ],
+    "files_sha256": {
+     "instructions.txt": "23dfabe3603aa80692d9d26d4531cc0b70d4fe9a55c663b799a379c61c9eb432",
+     "output_template.json": "b44cec53c6d6628aab5f714dd7dbb2ebf4cd3aecaa1a0843a0872a9692239993",
+     "题17_论断A.txt": "0f2beaddb07606cbb983050a222909d7f827c932da0441c7ddcc3397c5b49dd6",
+     "题17_论断B.txt": "08baddb0a5bc6ffa9a0dfe649b5fcb927803f25c0ce0c16e4b8594b87fe6a64c",
+     "题17_论断C.txt": "f4b3df5347b6f8246e2e1bc9e3083598dc711d8a5e39f3509d0b168ab99c2472",
+     "题17_论断D.txt": "6cb746f498572291c126b187873e16f33e5382cf3c56efb0be66bfe6c2c5c4ad",
+     "题17_陈述.txt": "cee04ca781d83df0a723626e4c0802047a6de6e14a3bc5425d07e8a58027ad6e"
+    }
+   },
+   {
+    "pack": "M18",
+    "items": [
+     "题18"
+    ],
+    "files_sha256": {
+     "instructions.txt": "23dfabe3603aa80692d9d26d4531cc0b70d4fe9a55c663b799a379c61c9eb432",
+     "output_template.json": "f40e46d6a94f1101ac89164d5a62fda61fca83f8ec67f9875db87c5db11131e1",
+     "题18_论断A.txt": "d6e4c9799a204467623903512e88ac074e2a97e8398183f3158ecb8fae2fcfc3",
+     "题18_论断B.txt": "8edf7cec9700f6442eb109bffc974e215ecb102d129b952130b2c9a9d8dc4158",
+     "题18_论断C.txt": "f4b3df5347b6f8246e2e1bc9e3083598dc711d8a5e39f3509d0b168ab99c2472",
+     "题18_论断D.txt": "1d799b59aeffaf24c3390024a6bdd993185cabbeb1c32a4f0ed7b233c522d83d",
+     "题18_陈述.txt": "8503d1ae6ba513e2ad3690d39f41578a8e5abd518f232aa14e043b5f8c4289b8"
+    }
+   },
+   {
+    "pack": "M19",
+    "items": [
+     "题19"
+    ],
+    "files_sha256": {
+     "instructions.txt": "23dfabe3603aa80692d9d26d4531cc0b70d4fe9a55c663b799a379c61c9eb432",
+     "output_template.json": "8ee2cdd090a9d6d80a03911ce697a22c4d121bd8e36857169ac81c6f2a94452a",
+     "题19_论断A.txt": "f865c43f263cc736621ce4cd9d0f2b320cf9771b2dc3c48aa8688d4b636e3f0f",
+     "题19_论断B.txt": "19efb64c9ca3df5b3f9244632b83082e8808f7d636ec337196b7a8517d38e865",
+     "题19_论断C.txt": "13a23d50346f059456aadd77499451b84baaf754e7743567af8b36a124c13806",
+     "题19_论断D.txt": "d5c3dc5f273f70634b875c5b0a450e3951526658260b3d64701a6f008781b63f",
+     "题19_陈述.txt": "9604bb744254ca4352b6ae56f978bca42ac251efd1e3e734989faf8195b88942"
+    }
+   },
+   {
+    "pack": "M20",
+    "items": [
+     "题20"
+    ],
+    "files_sha256": {
+     "instructions.txt": "23dfabe3603aa80692d9d26d4531cc0b70d4fe9a55c663b799a379c61c9eb432",
+     "output_template.json": "426ec1ed0f6aee610b809c57a383305c5040271276df62623a174e1b0489b419",
+     "题20_论断A.txt": "70475bd252ba14901921d442f2c0519842dc6e73447f040620ffd50612d523a1",
+     "题20_论断B.txt": "4eef0055361e72cda1aa75e51eddab90068bb8fef09dd077a4b1bb6dc2743f6c",
+     "题20_论断C.txt": "cdb4c40328a5fabedbafa3ed1f9ccf55a958781892af099d8d757b7cb13dc6ec",
+     "题20_论断D.txt": "f4b3df5347b6f8246e2e1bc9e3083598dc711d8a5e39f3509d0b168ab99c2472",
+     "题20_陈述.txt": "8739130670193905e30a8c779ab25a08bd098f97e09361c326474c1218390325"
+    }
+   },
+   {
+    "pack": "M21",
+    "items": [
+     "题21"
+    ],
+    "files_sha256": {
+     "instructions.txt": "23dfabe3603aa80692d9d26d4531cc0b70d4fe9a55c663b799a379c61c9eb432",
+     "output_template.json": "1e96f74da94b6b93c39192ed0522afba1d3cf37cbfb16caf664810970911f951",
+     "题21_论断A.txt": "d190aa503da4bcb011acd653644a7758e4387406edbbbff08c613efbffb38313",
+     "题21_论断B.txt": "77e79478d41f76cee4fb5ccd46af80097afdd5d659b662ac8e6d0dabd18293d2",
+     "题21_论断C.txt": "6c939b037c52bd447ce46eb2f4af25ffd5f33a3c4561b5514039e5f4c2de7e1a",
+     "题21_论断D.txt": "fb49ae03cf5d0e952736d08a73fe8f1630e47f3cead5463a36ce6f5f84bc5e93",
+     "题21_陈述.txt": "59bdb374b0bfd65a03f026b590b242fc07bb465cc85dfdca0fb12a2c195c73c0"
+    }
+   },
+   {
+    "pack": "M22",
+    "items": [
+     "题22"
+    ],
+    "files_sha256": {
+     "instructions.txt": "23dfabe3603aa80692d9d26d4531cc0b70d4fe9a55c663b799a379c61c9eb432",
+     "output_template.json": "7a4b74dc49f0c1b526e7c690c2390fc7c3909db97d221065f477c724a9d99aaf",
+     "题22_论断A.txt": "2acf9acc1f1e90147849062db2875374bbe3ca030ea53ad67b31b022060be77e",
+     "题22_论断B.txt": "2d45eedd881c83a1ec02febb7f9b255c2b068f45e96462221807ee675b08332a",
+     "题22_论断C.txt": "346dc6b5081167e7c2557e86d6f94a62bf53207d53bd895d557ccdf3f52be200",
+     "题22_论断D.txt": "6cd81d779a655352caf9f3db7818bb6af27526d8cca599e70650d15069d2cb31",
+     "题22_陈述.txt": "daaf19dfea3f69e222f7c5e0799c8992ccc617fac8ed1ec8e1523b197e6bf508"
+    }
+   },
+   {
+    "pack": "M23",
+    "items": [
+     "题23"
+    ],
+    "files_sha256": {
+     "instructions.txt": "23dfabe3603aa80692d9d26d4531cc0b70d4fe9a55c663b799a379c61c9eb432",
+     "output_template.json": "1efb0c607003d5294c07d311197af32e38d2763274fbe173a16ce281d5f7b462",
+     "题23_论断A.txt": "3372ec8c41a6efda85fcce7213f391e40a71dc329ead770a359c0e647e4fe0a6",
+     "题23_论断B.txt": "233bce85d03c82a82c69aaa4b21b990dfbbb3b22b172e1b856afaaf01ae6a1e0",
+     "题23_论断C.txt": "638d5b9b8ba0889e13ada6a8037590cddfd59b1122e26971024d28a0fe8a6a17",
+     "题23_论断D.txt": "44a21d8dc4bc019090dcd75f8908567f71f71fb5ed380a462a66401aeb7a97bb",
+     "题23_陈述.txt": "f6bacdd4e270235bcb5ef6ce0b7ba21e3ff00bcabab3b7766173ba3a1e683a42"
+    }
+   },
+   {
+    "pack": "M24",
+    "items": [
+     "题24"
+    ],
+    "files_sha256": {
+     "instructions.txt": "23dfabe3603aa80692d9d26d4531cc0b70d4fe9a55c663b799a379c61c9eb432",
+     "output_template.json": "47f935c73388a42f3c1a073f6586745c2077479c3decde643333ebbc6adfb55d",
+     "题24_论断A.txt": "6964ac64d9c42327d959bf5872651266f423fd671e860cb1368021f260fe8b00",
+     "题24_论断B.txt": "2ca3e3900500e43b90b2f5f9ba84fb46e5713473d14bae3f3cf77c6888428d92",
+     "题24_论断C.txt": "71c73bd797bbd72b5fec940b87c0208a88465246080000464b32b26d19aa4330",
+     "题24_论断D.txt": "940882542455aceb66bcf2343a53c30c75ba9331dcb97f09fd54d3d36cd6cef9",
+     "题24_陈述.txt": "39c9f1ececfaf3cf68590cb582faca9a978a108398f633a992f9a6f7a8b34060"
+    }
+   },
+   {
+    "pack": "M25",
+    "items": [
+     "题25"
+    ],
+    "files_sha256": {
+     "instructions.txt": "23dfabe3603aa80692d9d26d4531cc0b70d4fe9a55c663b799a379c61c9eb432",
+     "output_template.json": "432a2a3a0aac7036e5370f2c17c9386e689fe05f54cfbdd984090b73d393f2fa",
+     "题25_论断A.txt": "b7ddf6984f318d3d33b4a37231afbd66ff8927ca1ccc01ded24f47121975db12",
+     "题25_论断B.txt": "1f3b121e31b4ffb19f64ffd28033604167e68c0fdd3edcf5e7283b255a153364",
+     "题25_论断C.txt": "d16b2309e7d8252d8cbb3c0fe2a1c17a9d826a1a55083130a8dea68a213d2ffa",
+     "题25_论断D.txt": "ec4a93a10da5ee2cd6169251b37030dd7b348c275cee58b971fd088eaf0e9359",
+     "题25_陈述.txt": "54fb35274f55b4184bcb55fb6d06b650ce0a03025874827a47f649bcd1bc734e"
+    }
+   },
+   {
+    "pack": "M26",
+    "items": [
+     "题26"
+    ],
+    "files_sha256": {
+     "instructions.txt": "23dfabe3603aa80692d9d26d4531cc0b70d4fe9a55c663b799a379c61c9eb432",
+     "output_template.json": "306845954d562b6fd6ae6e18b725cc5f8796ea9a92235160fa7ffff26ce027bf",
+     "题26_论断A.txt": "7053fcec172dbfc3b6cc35daba3649f8502eb27b608a3adb663d8805db23b2b0",
+     "题26_论断B.txt": "c355b69af5cb331e942577936e16fed301e80473df80c7cd9f08f8ef31392f46",
+     "题26_论断C.txt": "c289345962ed25681192275502ce1eb16b3f1d5b91df451966b7812a51b702f3",
+     "题26_论断D.txt": "474af3200c4e26928d6b130104f7507cbcff37bf229b1a8285595496a97b9c0f",
+     "题26_陈述.txt": "1e2b846611e97608725b2fe1ea60561e7354f8c1fa3cde56e5f8e2f0fd24bf32"
+    }
+   },
+   {
+    "pack": "M27",
+    "items": [
+     "题27"
+    ],
+    "files_sha256": {
+     "instructions.txt": "23dfabe3603aa80692d9d26d4531cc0b70d4fe9a55c663b799a379c61c9eb432",
+     "output_template.json": "3e8be1676d5545a448d4be9ee16e10f3338a97a7f073ff93a03617b21bd7c6a9",
+     "题27_论断A.txt": "19efb64c9ca3df5b3f9244632b83082e8808f7d636ec337196b7a8517d38e865",
+     "题27_论断B.txt": "d5c3dc5f273f70634b875c5b0a450e3951526658260b3d64701a6f008781b63f",
+     "题27_论断C.txt": "f865c43f263cc736621ce4cd9d0f2b320cf9771b2dc3c48aa8688d4b636e3f0f",
+     "题27_论断D.txt": "13a23d50346f059456aadd77499451b84baaf754e7743567af8b36a124c13806",
+     "题27_陈述.txt": "a7a39e4abfee6620842c72bd0a8a5debf56770d234db4819097b95e42eb7306b"
+    }
+   },
+   {
+    "pack": "M28",
+    "items": [
+     "题28"
+    ],
+    "files_sha256": {
+     "instructions.txt": "23dfabe3603aa80692d9d26d4531cc0b70d4fe9a55c663b799a379c61c9eb432",
+     "output_template.json": "32b45b9db93ee65d719f96ade52c7f99faaeb24ff38a5133cba4629a2faaa086",
+     "题28_论断A.txt": "ad8b4ea915660e983c9926f8ff590119614d2c4204aa45182902e2d7048bf2b4",
+     "题28_论断B.txt": "54dad100c88e86e0d99ef1144a4c7564cf3223cf9a5c28b1d70c9f023c45769a",
+     "题28_论断C.txt": "329fa335100f87d66631addb72797fcf041ad869ce6349e70cccb7c3b3b65331",
+     "题28_论断D.txt": "13107033cf08668e33b3b96c0ba20735f2ebb4e5e743e3565123b26694dad65b",
+     "题28_陈述.txt": "bdcecb5898ba5f6b9578bf2f9439ba7a31bcb30a6b979d410b9bebf4d4bc6b5c"
+    }
+   }
+  ],
+  "三": [
+   {
+    "pack": "M01",
+    "items": [
+     "题01"
+    ],
+    "files_sha256": {
+     "instructions.txt": "23dfabe3603aa80692d9d26d4531cc0b70d4fe9a55c663b799a379c61c9eb432",
+     "output_template.json": "fdb0fca94c8e52c0406ae25abf93a8c29ff93bdac07f2de1bc4a62a8e5ffbc3a",
+     "题01_论断A.txt": "a7be15ab954c6ebf8508007ba34a9708eae6aee33032b7b252edfaec36915f68",
+     "题01_论断B.txt": "fe0045520870035232f73525edf78fc89c1acbd92128bfe42c710d493a2f2fd1",
+     "题01_论断C.txt": "abe83a6622d518e1ce4a3ee914ffe9ac7164ffe937a5c9fea4a5837669c7bb05",
+     "题01_论断D.txt": "0f1c2477c30700723b5ae51aa8c95d7562c2ce0cd297e3c8c1d6f51e6ad1def5",
+     "题01_陈述.txt": "48ef92e2c73298344eb5dbdb8c69984204bae1a3552484d1329fb813c88ed140"
+    }
+   },
+   {
+    "pack": "M02",
+    "items": [
+     "题02"
+    ],
+    "files_sha256": {
+     "instructions.txt": "23dfabe3603aa80692d9d26d4531cc0b70d4fe9a55c663b799a379c61c9eb432",
+     "output_template.json": "5fdd50fd436b5e11666d35468f1015d97faea5a184e6289469b45245f380c0e6",
+     "题02_论断A.txt": "e1e150cf008586bf329c93afb0b40759f5ccbbb10b58ee503145240bb588e717",
+     "题02_论断B.txt": "76a7bb3ff0a1a6fc2ad8f8d27ffe2581e95e40ad37d3d39092c273657c7f8ca1",
+     "题02_论断C.txt": "b43678bfedfd06702c2a6ca181d12c5a2eec356b97a8691f8e217c00798f280c",
+     "题02_论断D.txt": "1416fe45d4f71efb02e49fd7dc12daaf6c516c60c6bedec1b7d8521b54afcba8",
+     "题02_陈述.txt": "fbaa74eae1882dc2b5e0223b9e7e81268da259cf66eadffd6ab9e5087e45e08e"
+    }
+   },
+   {
+    "pack": "M03",
+    "items": [
+     "题03"
+    ],
+    "files_sha256": {
+     "instructions.txt": "23dfabe3603aa80692d9d26d4531cc0b70d4fe9a55c663b799a379c61c9eb432",
+     "output_template.json": "53bd70b3816db3a9b798c6fa1f18eb253f58ecd817e42e32e97d2ed1e968845d",
+     "题03_论断A.txt": "938422723306a068e8067025f1f62cea0ab1a9bb495ee1c89aceaeb7adf91917",
+     "题03_论断B.txt": "b6cdbf49a680f9737a21f55619ff2a2de833eadcefbdb1bf67a29ccd24ea62e5",
+     "题03_论断C.txt": "22e5c779d0c5164afffe1356bd1c96d922566f666ff9f48139b8ca86240d2d43",
+     "题03_论断D.txt": "10b3d418ec2927093283bef8263103c41488162256b36214aad84b102cd5f29e",
+     "题03_陈述.txt": "623ceab0740a827153e1095d0b2c47f75c68bee523c63d42d0744794f68ea334"
+    }
+   },
+   {
+    "pack": "M04",
+    "items": [
+     "题04"
+    ],
+    "files_sha256": {
+     "instructions.txt": "23dfabe3603aa80692d9d26d4531cc0b70d4fe9a55c663b799a379c61c9eb432",
+     "output_template.json": "cbf0da28d610f02d891de2a98a963bcf83aa22ad831b532b5380f615659b0ab1",
+     "题04_论断A.txt": "a644f2860632d4032d15316946fb9681603bef32eae8270d62e7c910d1706792",
+     "题04_论断B.txt": "dc277dd2d58b7535e56abe9a766c0a4ae1ce3efc841e316034b28304fd08284e",
+     "题04_论断C.txt": "4169f2b1bf62197db5697783e0531cdb5312b362572737332088396d9d1f1bc9",
+     "题04_论断D.txt": "9f145cb25d3158e33d94c235819fec75ef6bb61558ec37e950c12e023d13c48e",
+     "题04_陈述.txt": "3744fe01b4b03b453f0c21c9ec1abc377462f61023515cc0a9442ae7325b58e7"
+    }
+   },
+   {
+    "pack": "M05",
+    "items": [
+     "题05"
+    ],
+    "files_sha256": {
+     "instructions.txt": "23dfabe3603aa80692d9d26d4531cc0b70d4fe9a55c663b799a379c61c9eb432",
+     "output_template.json": "95529ef4e615723cde96ad2d48faa06b40812ba6524f5428d6bfbfca303b04de",
+     "题05_论断A.txt": "e3f799292a29f6d541e7067de5e12dc39a342f8961b339170bf71f0a181ece65",
+     "题05_论断B.txt": "9b6327a2550bf4c3543b2b7990ee4acb48333b3dd4be5843ca6118c93bc600f9",
+     "题05_论断C.txt": "795fa1f3f6a0e53cd617523fe11d10a1fa9ce027cc43c568cdbcbfbcbc460ec8",
+     "题05_论断D.txt": "d6bc659a2c2a494d6c68c0cb42ed46917afbc805456a7769d0c2eb9f9d2df310",
+     "题05_陈述.txt": "8b0ff03441631e4467988f0f0cb7f731d1d612c37dc41ed77eb2211bf2e5a744"
+    }
+   },
+   {
+    "pack": "M06",
+    "items": [
+     "题06"
+    ],
+    "files_sha256": {
+     "instructions.txt": "23dfabe3603aa80692d9d26d4531cc0b70d4fe9a55c663b799a379c61c9eb432",
+     "output_template.json": "a14ff8b1f36aeb77b5846ab67c8f94c1dde590ba0482069ece904b00596316ea",
+     "题06_论断A.txt": "ee333711cc0e9df581ba3e83da13246847e1a1773198568690985992025f7134",
+     "题06_论断B.txt": "ca4b98985bbe5b36abde5017d1fa74fdf881e6b2d24dab115c0df2277af98b17",
+     "题06_论断C.txt": "240ed25faa12db041ec2ed738bb02277e5324528fcb8a94726b4da58f076d90a",
+     "题06_论断D.txt": "0b4f425fc969ad64bc3f70f647d5216963792f1661335c9ffb3d39c2bb34c62d",
+     "题06_陈述.txt": "db4eff85adbf57a9b495b4bb5766ac4dd1b1a34835491338ad0ea79f41b6e172"
+    }
+   },
+   {
+    "pack": "M07",
+    "items": [
+     "题07"
+    ],
+    "files_sha256": {
+     "instructions.txt": "23dfabe3603aa80692d9d26d4531cc0b70d4fe9a55c663b799a379c61c9eb432",
+     "output_template.json": "108a7758f65ecb4182fbf66a276c388b98670418cbdaa38f364a07399c7dcb4c",
+     "题07_论断A.txt": "7a822d0858ef313bd3d10207595ca87c0181802a23d8ce22f951b443d453ef74",
+     "题07_论断B.txt": "436d5dfe143d077727e9531e93998941d88173491beee36f315cea09423fdeec",
+     "题07_论断C.txt": "b27bdbc962ae13005405c00c1835c51b18586367558be8d5b07b71addb42c493",
+     "题07_论断D.txt": "df9cdcd3e4011bbe7cbaa6cabdda68bdf1a10593ccd9f3e1f8b07825d32f52d7",
+     "题07_陈述.txt": "2890bf330edd110d47716a49762425b0991840b18c5f58914b1705f7e3514d4b"
+    }
+   },
+   {
+    "pack": "M08",
+    "items": [
+     "题08"
+    ],
+    "files_sha256": {
+     "instructions.txt": "23dfabe3603aa80692d9d26d4531cc0b70d4fe9a55c663b799a379c61c9eb432",
+     "output_template.json": "8ca2a49189eecd978249f5079d3b0499b3cd38da107fc1fa6170f78281cdc948",
+     "题08_论断A.txt": "5e740a472dd1f6e2049af7c0c580ca04938d741e4919afb0479e1fbd606d34f0",
+     "题08_论断B.txt": "a2734019859ad790bb9273a64cbc6bade7ceadf37505f44ac8ef0db8ae5fc0cc",
+     "题08_论断C.txt": "3e76f8ddd465f87fe29a3843890f7a5d254a14afa424f38123a258759479d388",
+     "题08_论断D.txt": "994389031f0177019dec239112a977c0bee9251e6c5d198dbc0bb65ea004d9ef",
+     "题08_陈述.txt": "4254a2fea470cb61b2b8f4b70b21c052d496c6321e57e03ee8af27daa9dd7a35"
+    }
+   },
+   {
+    "pack": "M09",
+    "items": [
+     "题09"
+    ],
+    "files_sha256": {
+     "instructions.txt": "23dfabe3603aa80692d9d26d4531cc0b70d4fe9a55c663b799a379c61c9eb432",
+     "output_template.json": "90e2ba6040c0f272656b4b5053e77ebba1f29b7485c7b9d51fafa399e4b7af97",
+     "题09_论断A.txt": "f9c116d42fb942f525b18f3102b69195fb30bd127489908e563ee555dada33fb",
+     "题09_论断B.txt": "99dd579bb337c15095df322788d2776e50ae8215542480d3b1b7c718b47bce48",
+     "题09_论断C.txt": "1eebc40b83feb7542f1723a0022776e1999f9b878c68838c939d98f1f67b2c5b",
+     "题09_论断D.txt": "7b1ea1267941fa903196fc6250bc82953a31e87df4f403f749490daad41bae1e",
+     "题09_陈述.txt": "ab2c0d5112584f82991caa3f995a8c9e7ef8b5e3701fed98ccf1af80889587bf"
+    }
+   },
+   {
+    "pack": "M10",
+    "items": [
+     "题10"
+    ],
+    "files_sha256": {
+     "instructions.txt": "23dfabe3603aa80692d9d26d4531cc0b70d4fe9a55c663b799a379c61c9eb432",
+     "output_template.json": "6a0ba4aa4056f245cf271bee400148ff94e7643a6fedc90d21dcd14396c04453",
+     "题10_论断A.txt": "abe83a6622d518e1ce4a3ee914ffe9ac7164ffe937a5c9fea4a5837669c7bb05",
+     "题10_论断B.txt": "a7be15ab954c6ebf8508007ba34a9708eae6aee33032b7b252edfaec36915f68",
+     "题10_论断C.txt": "fe0045520870035232f73525edf78fc89c1acbd92128bfe42c710d493a2f2fd1",
+     "题10_论断D.txt": "0f1c2477c30700723b5ae51aa8c95d7562c2ce0cd297e3c8c1d6f51e6ad1def5",
+     "题10_陈述.txt": "4cbb9a1cd30315a3009198b471a44b2b01591eed8e4b58a1b91d392dcb6de3fa"
+    }
+   },
+   {
+    "pack": "M11",
+    "items": [
+     "题11"
+    ],
+    "files_sha256": {
+     "instructions.txt": "23dfabe3603aa80692d9d26d4531cc0b70d4fe9a55c663b799a379c61c9eb432",
+     "output_template.json": "d0305c0096063505dc6d3858e1c4c9fa35e22b5587dc305249bb3440d9b734ee",
+     "题11_论断A.txt": "d78cf15ed0eb3a38e17218b4619af32ea339d92603b63fb1546de9f185b0c8de",
+     "题11_论断B.txt": "1b24d86d1eca8a32ea3198840f14133e07b489a3ca4fba57f05c2d6e7427f260",
+     "题11_论断C.txt": "c600d9879964c53deb7e6a4755cd33764ec6734039270195d76fc27018dc5d89",
+     "题11_论断D.txt": "4844323196ba52fa5ea09be5b2dbcf8354af97eec6f129a2ca5c6131d344e0e3",
+     "题11_陈述.txt": "ceac6384036e05c859a4c66d97586ea2a57eb4980c625b26d06edb8de71db1d3"
+    }
+   },
+   {
+    "pack": "M12",
+    "items": [
+     "题12"
+    ],
+    "files_sha256": {
+     "instructions.txt": "23dfabe3603aa80692d9d26d4531cc0b70d4fe9a55c663b799a379c61c9eb432",
+     "output_template.json": "c7eed36b6469d196c1de27208f0ea3f2c970d555447b2fb4d94c7107ba4159fa",
+     "题12_论断A.txt": "abe83a6622d518e1ce4a3ee914ffe9ac7164ffe937a5c9fea4a5837669c7bb05",
+     "题12_论断B.txt": "a7be15ab954c6ebf8508007ba34a9708eae6aee33032b7b252edfaec36915f68",
+     "题12_论断C.txt": "0f1c2477c30700723b5ae51aa8c95d7562c2ce0cd297e3c8c1d6f51e6ad1def5",
+     "题12_论断D.txt": "fe0045520870035232f73525edf78fc89c1acbd92128bfe42c710d493a2f2fd1",
+     "题12_陈述.txt": "ae137bacc4af6a955bc68b7c3c9f32bb23a2a522629f3802ad4c13a74e03d6c0"
+    }
+   },
+   {
+    "pack": "M13",
+    "items": [
+     "题13"
+    ],
+    "files_sha256": {
+     "instructions.txt": "23dfabe3603aa80692d9d26d4531cc0b70d4fe9a55c663b799a379c61c9eb432",
+     "output_template.json": "2e6b919d0911dab9075a9f281506a92b597ae74c2744cef6a95081357f6e3312",
+     "题13_论断A.txt": "1b24d86d1eca8a32ea3198840f14133e07b489a3ca4fba57f05c2d6e7427f260",
+     "题13_论断B.txt": "c600d9879964c53deb7e6a4755cd33764ec6734039270195d76fc27018dc5d89",
+     "题13_论断C.txt": "d78cf15ed0eb3a38e17218b4619af32ea339d92603b63fb1546de9f185b0c8de",
+     "题13_论断D.txt": "4844323196ba52fa5ea09be5b2dbcf8354af97eec6f129a2ca5c6131d344e0e3",
+     "题13_陈述.txt": "e2fb40b01b5e5b4eb8e431f480f90d7361ce0edd9221fdd60751df033b30e52f"
+    }
+   },
+   {
+    "pack": "M14",
+    "items": [
+     "题14"
+    ],
+    "files_sha256": {
+     "instructions.txt": "23dfabe3603aa80692d9d26d4531cc0b70d4fe9a55c663b799a379c61c9eb432",
+     "output_template.json": "5aefa1c553b2996e0269f0a63779327c1868a7dd78d64dc7157f0090795df2ae",
+     "题14_论断A.txt": "8677a3aa2d17524bfadd2d2d026a206a8d9589188355c1423a2071e579ae6a40",
+     "题14_论断B.txt": "35d2a8d746851f510c3c2a199f005eed7f55a57d3c99047a027cdb94d0522651",
+     "题14_论断C.txt": "f28593e3d3767bfcf9abf54c8c21b8287d129a93ad60bb12c599acb98713b5a1",
+     "题14_论断D.txt": "219d0949cb474e65d3dd1549e337c1fdf416562c184599ef8ef5567682033595",
+     "题14_陈述.txt": "27b70a3aa1aa07f23b4134788bbfbbcf184db246e53cdea6fd9533480f37031b"
+    }
+   },
+   {
+    "pack": "M15",
+    "items": [
+     "题15"
+    ],
+    "files_sha256": {
+     "instructions.txt": "23dfabe3603aa80692d9d26d4531cc0b70d4fe9a55c663b799a379c61c9eb432",
+     "output_template.json": "ed72d015c2770d3cc01cd42b20600d59f837ed70e8b217b7a1879da6f56cdf22",
+     "题15_论断A.txt": "58b92924e851ca2b6b44377bfd2dd8389dc1d2e9678b067ff72c7e3694d07924",
+     "题15_论断B.txt": "ecb3e339d8dd1cecd0914860dbcc2133180765f63dacc6ffd05f81d5d31aaa9f",
+     "题15_论断C.txt": "7e1dc78610d381494055056d16ef5873502a9c3d145e630b3b84f4a9bfc8fc86",
+     "题15_论断D.txt": "430d880b3f613baa0ffd2af761432fa0327581ff2572ebc55f2b8aff562cec4d",
+     "题15_陈述.txt": "6cb9d74802321361c7b54b8a953a856ce2f87b444128bbd272da6c510aae373c"
+    }
+   },
+   {
+    "pack": "M16",
+    "items": [
+     "题16"
+    ],
+    "files_sha256": {
+     "instructions.txt": "23dfabe3603aa80692d9d26d4531cc0b70d4fe9a55c663b799a379c61c9eb432",
+     "output_template.json": "b44273b4de013f3808755ac1685c886cc03872684ee50174f23e3fb889f19550",
+     "题16_论断A.txt": "6a709316ea94353c8bc441fbfff39672dce40f91ea118b829e43aafa88cc572f",
+     "题16_论断B.txt": "c90a783f296a28283e77bf47d5cdc7b35a18ce16c6feb6f06a3b2b18d06669e5",
+     "题16_论断C.txt": "9811960b278430b5d6bbe72923d5451f908e0c35ca2766a168618d84a8ae51ae",
+     "题16_论断D.txt": "e4c4bbdcf4b42818588fc264ec2e31bffb4bc2db52ae4fb45a88b8fbd88c2ba6",
+     "题16_陈述.txt": "f7810945500805c8c4b7c6ac0b4af57a7f0906263dc657a4eef3475269bba6c8"
+    }
+   },
+   {
+    "pack": "M17",
+    "items": [
+     "题17"
+    ],
+    "files_sha256": {
+     "instructions.txt": "23dfabe3603aa80692d9d26d4531cc0b70d4fe9a55c663b799a379c61c9eb432",
+     "output_template.json": "b44cec53c6d6628aab5f714dd7dbb2ebf4cd3aecaa1a0843a0872a9692239993",
+     "题17_论断A.txt": "ea1617240bbaeff86995a181125f8caed0f2f2c4a41390febe54b52190472023",
+     "题17_论断B.txt": "626ae2f0dc9098d839f24125ac17b6ce233365737eac9948d7fdad9cc0215087",
+     "题17_论断C.txt": "e1e150cf008586bf329c93afb0b40759f5ccbbb10b58ee503145240bb588e717",
+     "题17_论断D.txt": "da9d93d9931d0a71edf29a9594460d91990771a65e6819cbec17690c50bf860f",
+     "题17_陈述.txt": "cee04ca781d83df0a723626e4c0802047a6de6e14a3bc5425d07e8a58027ad6e"
+    }
+   },
+   {
+    "pack": "M18",
+    "items": [
+     "题18"
+    ],
+    "files_sha256": {
+     "instructions.txt": "23dfabe3603aa80692d9d26d4531cc0b70d4fe9a55c663b799a379c61c9eb432",
+     "output_template.json": "f40e46d6a94f1101ac89164d5a62fda61fca83f8ec67f9875db87c5db11131e1",
+     "题18_论断A.txt": "76a7bb3ff0a1a6fc2ad8f8d27ffe2581e95e40ad37d3d39092c273657c7f8ca1",
+     "题18_论断B.txt": "b43678bfedfd06702c2a6ca181d12c5a2eec356b97a8691f8e217c00798f280c",
+     "题18_论断C.txt": "e1e150cf008586bf329c93afb0b40759f5ccbbb10b58ee503145240bb588e717",
+     "题18_论断D.txt": "1416fe45d4f71efb02e49fd7dc12daaf6c516c60c6bedec1b7d8521b54afcba8",
+     "题18_陈述.txt": "8503d1ae6ba513e2ad3690d39f41578a8e5abd518f232aa14e043b5f8c4289b8"
+    }
+   },
+   {
+    "pack": "M19",
+    "items": [
+     "题19"
+    ],
+    "files_sha256": {
+     "instructions.txt": "23dfabe3603aa80692d9d26d4531cc0b70d4fe9a55c663b799a379c61c9eb432",
+     "output_template.json": "8ee2cdd090a9d6d80a03911ce697a22c4d121bd8e36857169ac81c6f2a94452a",
+     "题19_论断A.txt": "d78cf15ed0eb3a38e17218b4619af32ea339d92603b63fb1546de9f185b0c8de",
+     "题19_论断B.txt": "4844323196ba52fa5ea09be5b2dbcf8354af97eec6f129a2ca5c6131d344e0e3",
+     "题19_论断C.txt": "c600d9879964c53deb7e6a4755cd33764ec6734039270195d76fc27018dc5d89",
+     "题19_论断D.txt": "1b24d86d1eca8a32ea3198840f14133e07b489a3ca4fba57f05c2d6e7427f260",
+     "题19_陈述.txt": "9604bb744254ca4352b6ae56f978bca42ac251efd1e3e734989faf8195b88942"
+    }
+   },
+   {
+    "pack": "M20",
+    "items": [
+     "题20"
+    ],
+    "files_sha256": {
+     "instructions.txt": "23dfabe3603aa80692d9d26d4531cc0b70d4fe9a55c663b799a379c61c9eb432",
+     "output_template.json": "426ec1ed0f6aee610b809c57a383305c5040271276df62623a174e1b0489b419",
+     "题20_论断A.txt": "072efec823c52e5784608b039b95885c1db209ce0cf95596501e9ad963e578b6",
+     "题20_论断B.txt": "90dff59ca403e099ee101ddfe364321550e40f14e616d1689316784b344af0e7",
+     "题20_论断C.txt": "44f11b143168e77c547130eaa83bc3cee17deef4cda0d7352d728b9418e00d60",
+     "题20_论断D.txt": "bbb8d06f7b67d26f836740e9dd0516c0fd7beca3049b58aa72320b55d39f7859",
+     "题20_陈述.txt": "8739130670193905e30a8c779ab25a08bd098f97e09361c326474c1218390325"
+    }
+   },
+   {
+    "pack": "M21",
+    "items": [
+     "题21"
+    ],
+    "files_sha256": {
+     "instructions.txt": "23dfabe3603aa80692d9d26d4531cc0b70d4fe9a55c663b799a379c61c9eb432",
+     "output_template.json": "1e96f74da94b6b93c39192ed0522afba1d3cf37cbfb16caf664810970911f951",
+     "题21_论断A.txt": "192a3314598dffe604670ca74f093c60959f5000c02335fed3754c417d75bd4e",
+     "题21_论断B.txt": "e23c3bd6d7af827a6092308d8bf06e526c1c420c2f05578eca3bc912bb11e4b6",
+     "题21_论断C.txt": "71df5fc3e85cb58bdd39e358264e7d612ce14b1c83280f98372d58481a6415d8",
+     "题21_论断D.txt": "b2f1ae9b92a123ac086af2990b96f5b5ea199cf42755dc9f9b8a607614493e12",
+     "题21_陈述.txt": "59bdb374b0bfd65a03f026b590b242fc07bb465cc85dfdca0fb12a2c195c73c0"
+    }
+   },
+   {
+    "pack": "M22",
+    "items": [
+     "题22"
+    ],
+    "files_sha256": {
+     "instructions.txt": "23dfabe3603aa80692d9d26d4531cc0b70d4fe9a55c663b799a379c61c9eb432",
+     "output_template.json": "7a4b74dc49f0c1b526e7c690c2390fc7c3909db97d221065f477c724a9d99aaf",
+     "题22_论断A.txt": "2c48f53dfc5d86ba0edeb37ea39e08d7419e5bae68ede7468a92071eb008fed3",
+     "题22_论断B.txt": "2ecddc1923470beeccda9e811cf7186acb93f065beda2159583a2f069c1d779e",
+     "题22_论断C.txt": "22a91a73dfb67a53bdce326bea5eaa71e1c3e6e5f891205c66b974d2984759c0",
+     "题22_论断D.txt": "fdb9418fd6f042f909a50ad15955eefa8741c49f2f640937854a235222366ea3",
+     "题22_陈述.txt": "daaf19dfea3f69e222f7c5e0799c8992ccc617fac8ed1ec8e1523b197e6bf508"
+    }
+   },
+   {
+    "pack": "M23",
+    "items": [
+     "题23"
+    ],
+    "files_sha256": {
+     "instructions.txt": "23dfabe3603aa80692d9d26d4531cc0b70d4fe9a55c663b799a379c61c9eb432",
+     "output_template.json": "1efb0c607003d5294c07d311197af32e38d2763274fbe173a16ce281d5f7b462",
+     "题23_论断A.txt": "fa6ab76e9ee224e0d904524b651460e7850811e2992875717fc27c05a3d847ee",
+     "题23_论断B.txt": "901c0b80a20128628682fe5d9ffb63da85ab53bca2cf92f091046c18ce550787",
+     "题23_论断C.txt": "8b1e1675ab3520cbf84f458c90e7b6675177f5a6c00e7c27966f3afd39cfb935",
+     "题23_论断D.txt": "9fb9ab605a009dbbbc915d546a8786ea99f54da09a2de9103c27d040631fcee6",
+     "题23_陈述.txt": "f6bacdd4e270235bcb5ef6ce0b7ba21e3ff00bcabab3b7766173ba3a1e683a42"
+    }
+   },
+   {
+    "pack": "M24",
+    "items": [
+     "题24"
+    ],
+    "files_sha256": {
+     "instructions.txt": "23dfabe3603aa80692d9d26d4531cc0b70d4fe9a55c663b799a379c61c9eb432",
+     "output_template.json": "47f935c73388a42f3c1a073f6586745c2077479c3decde643333ebbc6adfb55d",
+     "题24_论断A.txt": "ef37b259f54c8fb426c356bf24347503466ee524a894fafd0e4e2f7bc25c7cfe",
+     "题24_论断B.txt": "adc82b78cf4d65abdb4bbf9e8f39b603210067296827e730bac166322ff6cdeb",
+     "题24_论断C.txt": "928d8268c3aff8610bba2bae35c200f239297b0d075eb5be757a9a14ef71ae85",
+     "题24_论断D.txt": "65a05259df76d6f5b76a1a79a78e546f97c3413c5cd7a3327e73262778898ac0",
+     "题24_陈述.txt": "39c9f1ececfaf3cf68590cb582faca9a978a108398f633a992f9a6f7a8b34060"
+    }
+   },
+   {
+    "pack": "M25",
+    "items": [
+     "题25"
+    ],
+    "files_sha256": {
+     "instructions.txt": "23dfabe3603aa80692d9d26d4531cc0b70d4fe9a55c663b799a379c61c9eb432",
+     "output_template.json": "432a2a3a0aac7036e5370f2c17c9386e689fe05f54cfbdd984090b73d393f2fa",
+     "题25_论断A.txt": "bbc1789c05e52eacc996d30f1acde0a27594ef0dbde9f2ec49c0ce983918a5e8",
+     "题25_论断B.txt": "3771f20fb49671096f054d1b8018fa82ccbb6013df0fc3f89bb507b5d3b9a3ad",
+     "题25_论断C.txt": "7895694ca643ea0d57122fae1cd6ade163878dae62b9c569a0e4332da0a0c7c1",
+     "题25_论断D.txt": "88ad84c3e7adc4f9c0420eca0ec1e08d2261f6bca14226f4b2c6e8014e11d244",
+     "题25_陈述.txt": "54fb35274f55b4184bcb55fb6d06b650ce0a03025874827a47f649bcd1bc734e"
+    }
+   },
+   {
+    "pack": "M26",
+    "items": [
+     "题26"
+    ],
+    "files_sha256": {
+     "instructions.txt": "23dfabe3603aa80692d9d26d4531cc0b70d4fe9a55c663b799a379c61c9eb432",
+     "output_template.json": "306845954d562b6fd6ae6e18b725cc5f8796ea9a92235160fa7ffff26ce027bf",
+     "题26_论断A.txt": "fe0045520870035232f73525edf78fc89c1acbd92128bfe42c710d493a2f2fd1",
+     "题26_论断B.txt": "a7be15ab954c6ebf8508007ba34a9708eae6aee33032b7b252edfaec36915f68",
+     "题26_论断C.txt": "abe83a6622d518e1ce4a3ee914ffe9ac7164ffe937a5c9fea4a5837669c7bb05",
+     "题26_论断D.txt": "0f1c2477c30700723b5ae51aa8c95d7562c2ce0cd297e3c8c1d6f51e6ad1def5",
+     "题26_陈述.txt": "1e2b846611e97608725b2fe1ea60561e7354f8c1fa3cde56e5f8e2f0fd24bf32"
+    }
+   },
+   {
+    "pack": "M27",
+    "items": [
+     "题27"
+    ],
+    "files_sha256": {
+     "instructions.txt": "23dfabe3603aa80692d9d26d4531cc0b70d4fe9a55c663b799a379c61c9eb432",
+     "output_template.json": "3e8be1676d5545a448d4be9ee16e10f3338a97a7f073ff93a03617b21bd7c6a9",
+     "题27_论断A.txt": "4844323196ba52fa5ea09be5b2dbcf8354af97eec6f129a2ca5c6131d344e0e3",
+     "题27_论断B.txt": "1b24d86d1eca8a32ea3198840f14133e07b489a3ca4fba57f05c2d6e7427f260",
+     "题27_论断C.txt": "d78cf15ed0eb3a38e17218b4619af32ea339d92603b63fb1546de9f185b0c8de",
+     "题27_论断D.txt": "c600d9879964c53deb7e6a4755cd33764ec6734039270195d76fc27018dc5d89",
+     "题27_陈述.txt": "a7a39e4abfee6620842c72bd0a8a5debf56770d234db4819097b95e42eb7306b"
+    }
+   },
+   {
+    "pack": "M28",
+    "items": [
+     "题28"
+    ],
+    "files_sha256": {
+     "instructions.txt": "23dfabe3603aa80692d9d26d4531cc0b70d4fe9a55c663b799a379c61c9eb432",
+     "output_template.json": "32b45b9db93ee65d719f96ade52c7f99faaeb24ff38a5133cba4629a2faaa086",
+     "题28_论断A.txt": "69846e47096bb05e2631f5678ffc44f9ed6d15821f37fd325b950cd74a751314",
+     "题28_论断B.txt": "cdfeb3003755d28cd38a52b76cb5ebbf8420c9fe9b8ed98e94a1d74b5b413505",
+     "题28_论断C.txt": "b04934108a7ea34511625abe2b2da94afa08f568d0e8622e1bc3ba9dcbee7be5",
+     "题28_论断D.txt": "5bf31128d07a53333a5a83437faaa195289bc52d7512d0ee95f3f78946db21a2",
+     "题28_陈述.txt": "bdcecb5898ba5f6b9578bf2f9439ba7a31bcb30a6b979d410b9bebf4d4bc6b5c"
+    }
+   }
+  ]
+ }
+}

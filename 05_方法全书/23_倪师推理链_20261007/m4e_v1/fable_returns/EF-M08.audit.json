@@ -1,0 +1,31 @@
+{
+ "name": "EF-M08",
+ "id": "EF-M08",
+ "role": null,
+ "rerun": 0,
+ "ok": true,
+ "why_not_ok": [],
+ "custom_id": "EF-M08",
+ "batch_id": "msgbatch_018BBnuCB5Fi2CEugBkDXffX",
+ "model": "claude-fable-5-1",
+ "message_id": "msg_011Cfp49DXBxqYAsVX2JuSYn",
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 8515,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 0,
+  "cache_creation": {
+   "ephemeral_5m_input_tokens": 0,
+   "ephemeral_1h_input_tokens": 0
+  },
+  "output_tokens": 1866,
+  "output_tokens_details": {
+   "thinking_tokens": 1135
+  },
+  "service_tier": "batch",
+  "inference_geo": "global"
+ },
+ "花费美元": 0.0892,
+ "prompt_sha256": "0f759189e436344992836179cc2fbed9a867017d1dfc8d7f87b6ea43ddc4de70",
+ "material_dir": "m4e_v1/judge_packets_平/M08"
+}

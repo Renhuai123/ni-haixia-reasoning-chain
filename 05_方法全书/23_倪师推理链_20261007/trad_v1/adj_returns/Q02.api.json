@@ -1,0 +1,43 @@
+{
+ "custom_id": "Q02_ADJ",
+ "result": {
+  "type": "succeeded",
+  "message": {
+   "model": "claude-fable-5-1",
+   "id": "msg_011Cfp3b3R5rVkcziT6vu1aF",
+   "type": "message",
+   "role": "assistant",
+   "content": [
+    {
+     "type": "thinking",
+     "thinking": "",
+     "signature": "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"
+    },
+    {
+     "type": "text",
+     "text": "{\n \"批\": \"Q02\",\n \"裁定\": [\n  {\n   \"编号\": \"qs-2-5-24:s001#2\",\n   \"项\": \"C3\",\n   \"裁定\": \"否\",\n   \"依据\": \"\",\n   \"理由\": \"「加吉星」只说另有吉星在此，没有说出宫位、对宫、三方、会照、亮度、四化或格局等位置关系在起作用，按 codebook 反例「只说有星在宫」不计位；且两人对同类的「更兼遇吉保安康」都答 C3 否，此处应一致。\"\n  },\n  {\n   \"编号\": \"qs-2-5-24:s001#3\",\n   \"项\": \"C3\",\n   \"裁定\": \"否\",\n   \"依据\": \"\",\n   \"理由\": \"「见羊陀火铃空劫」只是列出遇到这些星，「见」未指明任何宫位、会照、亮度、四化或格局关系，与「遇吉」同属只说有星，按 codebook 不记位，五问皆否作直断。\"\n  }\n ]\n}"
+    }
+   ],
+   "container": null,
+   "stop_reason": "end_turn",
+   "stop_sequence": null,
+   "stop_details": null,
+   "usage": {
+    "input_tokens": 28164,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 933,
+    "output_tokens_details": {
+     "thinking_tokens": 591
+    },
+    "service_tier": "batch",
+    "inference_geo": "global"
+   },
+   "diagnostics": null
+  }
+ }
+}

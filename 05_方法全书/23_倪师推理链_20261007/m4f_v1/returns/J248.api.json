@@ -1,0 +1,43 @@
+{
+ "custom_id": "J248",
+ "result": {
+  "type": "succeeded",
+  "message": {
+   "model": "claude-fable-5-1",
+   "id": "msg_011Cfp3CJfiwZduoZapuEYkB",
+   "type": "message",
+   "role": "assistant",
+   "content": [
+    {
+     "type": "thinking",
+     "thinking": "",
+     "signature": "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"
+    },
+    {
+     "type": "text",
+     "text": "{\n \"包\": \"J248\",\n \"答案\": [\n  {\n   \"题\": \"题01\",\n   \"最符合\": \"A\",\n   \"排序\": [\n    \"A\",\n    \"D\",\n    \"C\",\n    \"B\"\n   ],\n   \"理由\": {\n    \"A\": \"命宫直断偏房格、做偏房、个子矮、形小，又带凶星、是非口舌星、唠叨太吵、能言善道、男人受不了、口舌吵架，与「只好做偏房、个子很小、为人凶恶泼妇骂街」高度相符，父母宫杀星武官星孤僻离乡亦合见不到父母；惟子女宫断一子二子与无子女不符。\",\n    \"D\": \"有偏房格、做偏房、个性强、太吵，与做偏房及好吵相符，子女宫亦有无子之说；但命宫断厚道正派，夫妻宫又断会结婚、婚姻好、甘心认了，与一直没有婚姻、为人凶恶矛盾，且未提个子小。\",\n    \"C\": \"命宫个性强、很厉害、白天晚上都忙，子女宫有无子之说可合；但本人被断为公正廉明、厚道、正派，凶悍聒噪者被放在配偶身上而非本人，且无偏房、无个子小之断，相符处少。\",\n    \"B\": \"子女宫断无子、父母断与父亲相隔略合；但长相断瘦高高挑与个子很小相反，个性断厚道温和谦和不苟言笑与凶恶泼妇相反，夫妻宫又断二婚离婚与一直没有婚姻不合，最不相符。\"\n   }\n  }\n ]\n}"
+    }
+   ],
+   "container": null,
+   "stop_reason": "end_turn",
+   "stop_sequence": null,
+   "stop_details": null,
+   "usage": {
+    "input_tokens": 18822,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 1173,
+    "output_tokens_details": {
+     "thinking_tokens": 616
+    },
+    "service_tier": "batch",
+    "inference_geo": "global"
+   },
+   "diagnostics": null
+  }
+ }
+}

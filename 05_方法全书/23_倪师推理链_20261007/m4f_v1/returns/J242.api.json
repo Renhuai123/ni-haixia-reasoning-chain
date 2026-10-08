@@ -1,0 +1,43 @@
+{
+ "custom_id": "J242",
+ "result": {
+  "type": "succeeded",
+  "message": {
+   "model": "claude-fable-5-1",
+   "id": "msg_011Cfp3CLMB7cjMC9JoyqQCf",
+   "type": "message",
+   "role": "assistant",
+   "content": [
+    {
+     "type": "thinking",
+     "thinking": "",
+     "signature": "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"
+    },
+    {
+     "type": "text",
+     "text": "{\n \"包\": \"J242\",\n \"答案\": [\n  {\n   \"题\": \"题01\",\n   \"最符合\": \"C\",\n   \"排序\": [\n    \"C\",\n    \"A\",\n    \"B\",\n    \"D\"\n   ],\n   \"理由\": {\n    \"A\": \"有巨贾、大财、生有祖业、妻兼夫职、事业做得很大，与经商置产、靠不上丈夫部分相符；但又断不做生意、宜为人手下、旺夫让先生无后顾之忧，且长相眼圆眼睛大，与自己当老板、笑起来眼睛看不到矛盾。\",\n   \"B\": \"命宫武官星、男人的命、能做事业，与做事业强有少许相符；但没有做生意当老板、祖业置产的判断，长相头脸大五官挤在一起，婚姻又断婚姻无事、配偶温和厚道，与一辈子享不到丈夫福不合。\",\n   \"C\": \"命宫眯眯眼、未言先笑、智慧高、很厉害，做生意、当老板、能做事业、主财，生有祖业，个性强致先生不好、嫁能掌握的先生、妻兼夫职，与聪明笑起来眼睛看不到、自己经商当老板、事业强、祖业传到她身上、享不到丈夫福全部吻合，几无矛盾。\",\n   \"D\": \"聪明、智慧高与人很聪明相符；但正财、帮人做事领薪水、当公务员、不做生意，与一定自己经商当老板直接矛盾，也无祖业置产的断语，长相个子矮皮肤黑亦无对应。\"\n   }\n  }\n ]\n}"
+    }
+   ],
+   "container": null,
+   "stop_reason": "end_turn",
+   "stop_sequence": null,
+   "stop_details": null,
+   "usage": {
+    "input_tokens": 17467,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 1138,
+    "output_tokens_details": {
+     "thinking_tokens": 584
+    },
+    "service_tier": "batch",
+    "inference_geo": "global"
+   },
+   "diagnostics": null
+  }
+ }
+}

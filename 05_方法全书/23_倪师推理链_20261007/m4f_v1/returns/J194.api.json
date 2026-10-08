@@ -1,0 +1,43 @@
+{
+ "custom_id": "J194",
+ "result": {
+  "type": "succeeded",
+  "message": {
+   "model": "claude-fable-5-1",
+   "id": "msg_011Cfp3CJtNGBdBzPW4QAFY8",
+   "type": "message",
+   "role": "assistant",
+   "content": [
+    {
+     "type": "thinking",
+     "thinking": "",
+     "signature": "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"
+    },
+    {
+     "type": "text",
+     "text": "{\n \"包\": \"J194\",\n \"答案\": [\n  {\n   \"题\": \"题01\",\n   \"最符合\": \"C\",\n   \"排序\": [\n    \"C\",\n    \"D\",\n    \"B\",\n    \"A\"\n   ],\n   \"理由\": {\n    \"A\": \"命宫文官带、不干武官、佐才位高无权，与「手握生杀之权、司法官」直接相反；夫妻宫断配偶斯文性守，与妻子彪悍凶悍不符，仅夫妻宫大财星可对应娘家有钱。\",\n    \"B\": \"命宫文官带、不干武官，不合生杀之权；读书很棒、金榜题名合读书好，夫妻宫代表父亲且离散父母可对应父亲早逝，配偶武官星带刚强，但吃苦耐劳、婚姻凶，无娘家有钱与漂亮之象。\",\n    \"C\": \"命宫武官星、化将、司法官、有生杀之权与陈述2直接吻合，科甲重读书文笔合读书好；父母宫父母都有凶、子女宫代表父亲且离散父母合父亲早逝；夫妻宫桃花（漂亮）加武官星（刚强凶悍）合妻子特征，仅娘家有钱未明断。\",\n    \"D\": \"命宫文武双全、科甲、金榜题名合读书好；夫妻宫凶悍、大财星、太太聒噪大打出手，与妻子彪悍、娘家有钱吻合；父母宫灾星需注意安全可对应父亲早逝；但命宫无司法官、生杀之权之断，且配偶长绒肥胖与「很漂亮」不符。\"\n   }\n  }\n ]\n}"
+    }
+   ],
+   "container": null,
+   "stop_reason": "end_turn",
+   "stop_sequence": null,
+   "stop_details": null,
+   "usage": {
+    "input_tokens": 18313,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 1546,
+    "output_tokens_details": {
+     "thinking_tokens": 978
+    },
+    "service_tier": "batch",
+    "inference_geo": "global"
+   },
+   "diagnostics": null
+  }
+ }
+}

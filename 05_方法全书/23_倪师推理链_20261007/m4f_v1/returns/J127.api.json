@@ -1,0 +1,43 @@
+{
+ "custom_id": "J127",
+ "result": {
+  "type": "succeeded",
+  "message": {
+   "model": "claude-fable-5-1",
+   "id": "msg_011Cfp3CJvbt79UYooUDoGFz",
+   "type": "message",
+   "role": "assistant",
+   "content": [
+    {
+     "type": "thinking",
+     "thinking": "",
+     "signature": "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"
+    },
+    {
+     "type": "text",
+     "text": "{\n \"包\": \"J127\",\n \"答案\": [\n  {\n   \"题\": \"题01\",\n   \"最符合\": \"D\",\n   \"排序\": [\n    \"D\",\n    \"A\",\n    \"C\",\n    \"B\"\n   ],\n   \"理由\": {\n    \"A\": \"夫妻宫二婚离婚、福德多婚、聚少散多与多段婚姻相符，但仆役宫只断灾星、在劫难逃，未见官司是非，子女宫亦无阴阳颠倒之象。\",\n    \"B\": \"命宫虽有官司是非，但仆役宫断合伙大利、合伙吉、与合伙人同居，与「合伙必以官司收场」直接矛盾，父母宫又断婚姻无事，与多次婚姻不合。\",\n    \"C\": \"福德多婚、夫妻二婚离婚相符，子女宫有官司是非，但仆役宫只断灾星、开刀见血光，未指向合伙官司，命宫五短厚道温和与整体气质也较远。\",\n    \"D\": \"仆役宫直接断官司、是非、要特别注意朋友与合伙，正合「合伙必打官司」；福德多婚、夫妻宫桃花、婚事不成合多段婚姻；子女宫断男性阳星武官星却又无子，可对应儿女性别气质颠倒；命宫武官星、男人的命、女命最忌，整体最相符。\"\n   }\n  }\n ]\n}"
+    }
+   ],
+   "container": null,
+   "stop_reason": "end_turn",
+   "stop_sequence": null,
+   "stop_details": null,
+   "usage": {
+    "input_tokens": 16358,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 1169,
+    "output_tokens_details": {
+     "thinking_tokens": 691
+    },
+    "service_tier": "batch",
+    "inference_geo": "global"
+   },
+   "diagnostics": null
+  }
+ }
+}

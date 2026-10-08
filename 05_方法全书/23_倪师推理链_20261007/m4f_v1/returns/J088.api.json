@@ -1,0 +1,43 @@
+{
+ "custom_id": "J088",
+ "result": {
+  "type": "succeeded",
+  "message": {
+   "model": "claude-fable-5-1",
+   "id": "msg_011Cfp3CJTpTykAhnNhtjVhi",
+   "type": "message",
+   "role": "assistant",
+   "content": [
+    {
+     "type": "thinking",
+     "thinking": "",
+     "signature": "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"
+    },
+    {
+     "type": "text",
+     "text": "{\n \"包\": \"J088\",\n \"答案\": [\n  {\n   \"题\": \"题01\",\n   \"最符合\": \"D\",\n   \"排序\": [\n    \"D\",\n    \"C\",\n    \"B\",\n    \"A\"\n   ],\n   \"理由\": {\n    \"A\": \"命宫武官星、女命最忌与官场强有部分相应，但主「佐才位高无权」「当官不容易」，兄弟宫为喜庆之星与兄弟夭折相反，夫妻宫杀星刚强也与「丈夫并不坏、感情好」不合，且无毛发浓厚之长相描述。\",\n    \"B\": \"兄弟宫灾星、开刀见血、要特别注意兄弟安全，与兄弟夭折相符；但命宫主「加倍辛苦、比较惨、小人很多、在劫难逃」，与官场事业非常强相反，夫妻宫很凶暗中来阴亦不合感情好，长相斯文也与浓眉宽厚不符。\",\n    \"C\": \"兄弟宫灾星、要注意兄弟安全与兄弟夭折相符，夫妻宫喜庆贵人、婚姻好与感情好相应；但命宫灾星性阴、当官不容易与事业极强不合，仆役宫「与合伙人同居、没有名分的先生」与正式婚姻无离异矛盾，亦无浓眉长相。\",\n    \"D\": \"命宫毛发多、脸宽大厚重、五官开阔正合浓眉宽厚之相，官带、文武官皆可、当官、当将军、大吉、近天子正合官场事业非常强；夫妻宫厚道善良温和、善于理财合丈夫并不坏感情好，而「吉处藏凶→在劫难逃」正应丈夫刹那车祸之灾落在丈夫身上；唯兄弟宫文官带平和与兄弟夭折不符、福德多婚与未离婚略有出入，整体最为相符。\"\n   }\n  }\n ]\n}"
+    }
+   ],
+   "container": null,
+   "stop_reason": "end_turn",
+   "stop_sequence": null,
+   "stop_details": null,
+   "usage": {
+    "input_tokens": 12888,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 1469,
+    "output_tokens_details": {
+     "thinking_tokens": 802
+    },
+    "service_tier": "batch",
+    "inference_geo": "global"
+   },
+   "diagnostics": null
+  }
+ }
+}

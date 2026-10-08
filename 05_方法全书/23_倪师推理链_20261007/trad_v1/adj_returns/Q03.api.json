@@ -1,0 +1,43 @@
+{
+ "custom_id": "Q03_ADJ",
+ "result": {
+  "type": "succeeded",
+  "message": {
+   "model": "claude-fable-5-1",
+   "id": "msg_011Cfp3b3FuaD7GfvqgbyJ4p",
+   "type": "message",
+   "role": "assistant",
+   "content": [
+    {
+     "type": "thinking",
+     "thinking": "",
+     "signature": "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"
+    },
+    {
+     "type": "text",
+     "text": "{\n \"批\": \"Q03\",\n \"裁定\": [\n  {\n   \"编号\": \"qs-2-2-196:s001#1\",\n   \"项\": \"整条\",\n   \"问A\": \"定名\",\n   \"问B\": \"义名\",\n   \"C1\": \"\",\n   \"C1依据\": \"\",\n   \"C2\": \"\",\n   \"C2依据\": \"\",\n   \"C3\": \"\",\n   \"C3依据\": \"\",\n   \"C4\": \"\",\n   \"C4依据\": \"\",\n   \"C5\": \"\",\n   \"C5依据\": \"\",\n   \"问D\": \"否\",\n   \"理由\": \"「更喜人生四墓生」说的是「贪狼主限四墓临」这种盘面情形喜什么附加条件，是给情形定喜忌性质，并未直接说本人怎样，故按 codebook「给某种盘面情形定性质」归定名；「喜」是抽象的吉凶性质而非具体人物物象，归义名；原文只说喜，未再解释为何喜，问D 答否。\"\n  }\n ]\n}"
+    }
+   ],
+   "container": null,
+   "stop_reason": "end_turn",
+   "stop_sequence": null,
+   "stop_details": null,
+   "usage": {
+    "input_tokens": 31630,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 929,
+    "output_tokens_details": {
+     "thinking_tokens": 601
+    },
+    "service_tier": "batch",
+    "inference_geo": "global"
+   },
+   "diagnostics": null
+  }
+ }
+}

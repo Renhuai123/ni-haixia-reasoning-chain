@@ -1,0 +1,31 @@
+{
+ "name": "N32_乙",
+ "id": "N32",
+ "role": "乙",
+ "rerun": 0,
+ "ok": true,
+ "why_not_ok": [],
+ "custom_id": "N32_B",
+ "batch_id": "msgbatch_01NVFCc2Q9UGQHBdYMjtvvjy",
+ "model": "claude-fable-5-1",
+ "message_id": "msg_011Cfp2Xc2ATetjXWQ3mK1ig",
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 20788,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 0,
+  "cache_creation": {
+   "ephemeral_5m_input_tokens": 0,
+   "ephemeral_1h_input_tokens": 0
+  },
+  "output_tokens": 13714,
+  "output_tokens_details": {
+   "thinking_tokens": 5782
+  },
+  "service_tier": "batch",
+  "inference_geo": "global"
+ },
+ "花费美元": 0.4468,
+ "prompt_sha256": "43078842445bf80a7f798e4994349fa5716f6232962eeaf4eb38af651af00668",
+ "material_dir": "trad_v1/formal/N32"
+}

@@ -1,0 +1,119 @@
+"""倪师推理链：收取子代理结果并审计 v3（不打印结果内容）。与 v2 只差一处：认领之前先核对子代理读的 instructions.txt 就在 <材料目录>/<编号> 里，
+不在的不认领（记为 other-folder），免得同名编号在两套材料包之间认错（见《00d_收取认领目录更正_v1.md》）。
+以下为 v2 原说明。与 v1 的差别只有一处：除了「最终回复是 JSON」的交卷方式，
+也认「写入型」交卷：子代理用写入工具把 JSON 写进派活提示指定的那一个文件（<交卷目录>/<编号>_<角色>.json），最终回复只写「已写入」
+（依据《00c_改用写入型交卷_v1.md》）。两种方式由子任务记录里有没有写入调用自动判断。
+按子任务描述认领：「<前缀><角色> <编号>」，角色为 甲／乙／裁定／核查，编号为 Kxx（批）或 Gx（归一组）。
+审计：
+- 工具调用只许：读取本批文件夹里的文件（读文件夹本身不算违规，另记次数）；写入型另许写入指定的那一个交卷文件；
+- 本批文件夹里除 instructions.txt、output_template.json 以外的每个文件，每一行都要被读取工具返回过（记 read_whole）；
+- 只在子任务写完后存档：最后一条助手记录是文字、不是因输出上限截断；
+- 回复型：最终回复（被截成几段的接起来）能解析为含 <键> 的 JSON；写入型：交卷文件能解析为含 <键> 的 JSON，
+  且与子任务记录里最后一次写入调用的内容解析后完全相同。
+存为 <存档目录>/<编号>_<角色>.json（另存子任务记录与审计）。可重复运行：已存档的不重写。
+用法：python3 save_chain_returns_v3.py --prefix 推理链抽取 --packets <材料目录> --returns <存档目录> [--drop <交卷目录>] [--key items] [--sub <子任务记录目录>]"""
+import argparse, glob, json, os, re, shutil, sys
+
+HERE = os.path.dirname(os.path.abspath(__file__))
+sys.path.insert(0, os.path.join(os.path.dirname(HERE), '21_倪师断法引擎_20261005'))
+from save_m4_returns_v3 import SUB, LINE, sha, finished, result_text, parse
+
+
+def main():
+    ap = argparse.ArgumentParser(description=__doc__)
+    ap.add_argument('--prefix', required=True)
+    ap.add_argument('--packets', required=True)
+    ap.add_argument('--returns', required=True)
+    ap.add_argument('--drop')
+    ap.add_argument('--key', default='items')
+    ap.add_argument('--sub', default=SUB)
+    a = ap.parse_args()
+    os.makedirs(a.returns, exist_ok=True)
+    pat = re.compile(re.escape(a.prefix) + r'(甲|乙|裁定|核查) (K\d\d|G\d)')
+    status, out = {}, {}
+    for meta in sorted(glob.glob(os.path.join(a.sub, 'agent-*.meta.json'))):
+        m = json.load(open(meta, encoding='utf-8'))
+        d = pat.fullmatch(m.get('description', ''))
+        if not d:
+            continue
+        role, b = d.group(1), d.group(2)
+        key = f'{b}_{role}'
+        folder = os.path.join(a.packets, b)
+        if not os.path.isdir(folder):
+            continue
+        if os.path.exists(os.path.join(a.returns, key + '.audit.json')):
+            status[key] = 'done'; continue
+        tp = meta.replace('.meta.json', '.jsonl')
+        L = [json.loads(l) for l in open(tp, encoding='utf-8') if l.strip()]
+        asst = [x for x in L if x.get('type') == 'assistant']
+        uses = {c['id']: (c.get('name'), c.get('input', {})) for x in asst for c in x['message'].get('content', []) if c.get('type') == 'tool_use'}
+        ins = [os.path.realpath(i.get('file_path', '')) for n, i in uses.values() if n == 'Read' and str(i.get('file_path', '')).endswith('instructions.txt')]
+        if ins and os.path.dirname(ins[0]) != os.path.realpath(folder):
+            status.setdefault(key, 'other-folder'); continue
+        if not finished(L):
+            status.setdefault(key, 'pending'); continue
+        writes = [(n, i) for n, i in uses.values() if n == 'Write']
+        drop_path = os.path.realpath(os.path.join(a.drop, key + '.json')) if a.drop else None
+        mode = 'write' if writes else 'reply'
+        parts = []
+        for x in reversed(L):
+            c = x.get('message', {}).get('content')
+            if x.get('type') == 'user' and isinstance(c, list) and any(isinstance(y, dict) and y.get('type') == 'tool_result' for y in c):
+                break
+            if x.get('type') == 'assistant' and isinstance(c, list):
+                t = ''.join(y.get('text', '') for y in c if y.get('type') == 'text')
+                if t:
+                    parts.append(t)
+        final = ''.join(reversed(parts))
+        if mode == 'reply':
+            jt = parse(final) if f'"{a.key}"' in final else None
+        else:
+            jt = None
+            if drop_path and os.path.exists(drop_path):
+                body = open(drop_path, encoding='utf-8').read()
+                last = [i for n, i in writes if os.path.realpath(i.get('file_path', '')) == drop_path]
+                try:
+                    if a.key in json.loads(body) and last and json.loads(last[-1].get('content', '')) == json.loads(body):
+                        jt = body
+                except Exception:
+                    jt = None
+        if jt is None:
+            status.setdefault(key, 'unparsable'); continue
+        rf = os.path.realpath(folder)
+
+        def ok_use(n, i):
+            p = os.path.realpath(i.get('file_path', ''))
+            if n == 'Read':
+                return p.startswith(rf + os.sep) or p == rf
+            return n == 'Write' and drop_path is not None and p == drop_path
+        viol = [{'tool': n, 'path': str(i.get('file_path', ''))[:200]} for n, i in uses.values() if not ok_use(n, i)]
+        folder_reads = sum(1 for n, i in uses.values() if n == 'Read' and os.path.realpath(i.get('file_path', '')) == rf)
+        files = sorted(fn for fn in os.listdir(folder) if fn not in ('instructions.txt', 'output_template.json') and not fn.startswith('.'))
+        seen = {fn: set() for fn in files}
+        for x in L:
+            if x.get('type') != 'user' or not isinstance(x.get('message', {}).get('content'), list):
+                continue
+            for c in x['message']['content']:
+                if c.get('type') == 'tool_result' and c.get('tool_use_id') in uses:
+                    n, i = uses[c['tool_use_id']]
+                    fn = os.path.basename(i.get('file_path', ''))
+                    if n == 'Read' and fn in seen and not c.get('is_error') and os.path.realpath(i.get('file_path', '')).startswith(rf + os.sep):
+                        seen[fn] |= {int(k) for k in LINE.findall(result_text(c))}
+        total = {fn: sum(1 for _ in open(os.path.join(folder, fn), encoding='utf-8')) for fn in files}
+        open(os.path.join(a.returns, key + '.json'), 'x', encoding='utf-8').write(jt)
+        shutil.copyfile(tp, os.path.join(a.returns, key + '.transcript.jsonl'))
+        cov = {fn: len({k for k in seen[fn] if 1 <= k <= total[fn]}) for fn in files}
+        audit = {'agent_meta': m, 'model_in_transcript': sorted({x['message'].get('model') for x in asst}), 'kind': 'chain-' + role, 'id': b, 'mode': mode,
+                 'final_reply': final[:20] if mode == 'write' else None,
+                 'started': L[0].get('timestamp'), 'finished': L[-1].get('timestamp'), 'tool_calls': len(uses), 'writes': len(writes), 'violations': viol,
+                 'folder_reads': folder_reads, 'files': files, 'lines': total, 'lines_returned': cov, 'read_whole': bool(files) and all(cov[f] == total[f] for f in files),
+                 'final_reply_parts': len(parts), 'sha256': {'json': sha(os.path.join(a.returns, key + '.json')), 'transcript': sha(os.path.join(a.returns, key + '.transcript.jsonl'))}}
+        open(os.path.join(a.returns, key + '.audit.json'), 'x', encoding='utf-8').write(json.dumps(audit, ensure_ascii=False, indent=1) + '\n')
+        out[key] = {'mode': mode, 'violations': len(viol), 'read_whole': audit['read_whole']}
+        status[key] = 'done'
+    print(json.dumps({'saved_now': out, 'done_total': sum(v == 'done' for v in status.values()),
+                      'not_done': sorted(f'{k}（{v}）' for k, v in status.items() if v != 'done')}, ensure_ascii=False))
+
+
+if __name__ == '__main__':
+    main()

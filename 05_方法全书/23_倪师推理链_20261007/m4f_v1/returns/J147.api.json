@@ -1,0 +1,43 @@
+{
+ "custom_id": "J147",
+ "result": {
+  "type": "succeeded",
+  "message": {
+   "model": "claude-fable-5-1",
+   "id": "msg_011Cfp3CJR68MRMNrr72n2BU",
+   "type": "message",
+   "role": "assistant",
+   "content": [
+    {
+     "type": "thinking",
+     "thinking": "",
+     "signature": "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"
+    },
+    {
+     "type": "text",
+     "text": "{\n \"包\": \"J147\",\n \"答案\": [\n  {\n   \"题\": \"题01\",\n   \"最符合\": \"D\",\n   \"排序\": [\n    \"D\",\n    \"A\",\n    \"C\",\n    \"B\"\n   ],\n   \"理由\": {\n    \"A\": \"命宫「害到自己」「少一只眼睛」、宜嫁二婚夫、嫁同龄初婚者凶、专业技术专长，父母宫横祸伤身最不好，与早失父、离婚、专业路线部分相符；但全盘没有偏房之断，且婚姻只说先生比她差，不如D贴切。\",\n    \"B\": \"命宫招贵夫、婚姻好、婚姻无事，财帛家财万贯，父母宫逢凶化吉，与注定偏房、离婚、早失父几乎全部相反，只有「心眼多→害到自己」一点相符。\",\n    \"C\": \"命宫旺夫、让先生无后顾之忧，夫妻宫配偶最好、婚姻好，与偏房离婚矛盾；只有「中年先生有问题」「女命不行」「害到自己」勉强可对，父亲宫也无早失之象。\",\n    \"D\": \"命宫直接断「做偏房」「聚少散多」「偏」「六亲不靠」，个性拗、固执、自以为有理、没有抗力而消极抵抗、心眼多害到自己，正合她自招偏房、分开后死不认帐害己；当老师、出外地读书亦合后天进修学专长，唯父母宫大吉、眼睛不对称未直接提及。\"\n   }\n  }\n ]\n}"
+    }
+   ],
+   "container": null,
+   "stop_reason": "end_turn",
+   "stop_sequence": null,
+   "stop_details": null,
+   "usage": {
+    "input_tokens": 20229,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 1230,
+    "output_tokens_details": {
+     "thinking_tokens": 693
+    },
+    "service_tier": "batch",
+    "inference_geo": "global"
+   },
+   "diagnostics": null
+  }
+ }
+}

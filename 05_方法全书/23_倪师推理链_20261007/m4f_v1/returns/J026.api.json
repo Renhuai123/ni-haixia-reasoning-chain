@@ -1,0 +1,43 @@
+{
+ "custom_id": "J026",
+ "result": {
+  "type": "succeeded",
+  "message": {
+   "model": "claude-fable-5-1",
+   "id": "msg_011Cfp3CKCiNpu7ShyNh2esU",
+   "type": "message",
+   "role": "assistant",
+   "content": [
+    {
+     "type": "thinking",
+     "thinking": "",
+     "signature": "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"
+    },
+    {
+     "type": "text",
+     "text": "{\n \"包\": \"J026\",\n \"答案\": [\n  {\n   \"题\": \"题01\",\n   \"最符合\": \"D\",\n   \"排序\": [\n    \"D\",\n    \"C\",\n    \"A\",\n    \"B\"\n   ],\n   \"理由\": {\n    \"A\": \"命宫武官星刚强、子女宫无子、与父亲相隔与陈述相符，但长相断为瘦高高挑，与「个子很小」直接矛盾，且全盘不见偏房格，个性还带厚道温和谦和，与泼妇骂街的凶悍不合。\",\n    \"B\": \"命宫断为公正廉明、厚道、一世荣华、事业做得很大，父母宫旺父母孝顺家里、田宅生有祖业，与被领养见不到父母、无家、凶恶泼辣的陈述几乎处处不合，仅个性强、先生不好略沾边。\",\n    \"C\": \"命宫偏房格、做偏房、个子矮形小、唠叨太吵能言善道、男人受不了，与做偏房、个子小、骂街相符；但命宫个性断为平和，子女宫断一子二子、先有孩子，与「为人凶恶刚强」「没有子女」矛盾。\",\n    \"D\": \"命宫偏房格、做偏房、进偏房的大运，娇小玲珑形小，加上武官星刚强、大怒之下犯大错、是非口舌、唠叨太吵、男人受不了、女命最忌，身宫在财帛断不做家庭主妇、老是要去赚钱，与做偏房、个子小、凶悍泼辣、没有家庭观念高度相符；不足处是子女宫断没问题、先有孩子，与无子女不合，也未明断领养。\"\n   }\n  }\n ]\n}"
+    }
+   ],
+   "container": null,
+   "stop_reason": "end_turn",
+   "stop_sequence": null,
+   "stop_details": null,
+   "usage": {
+    "input_tokens": 19356,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 1508,
+    "output_tokens_details": {
+     "thinking_tokens": 921
+    },
+    "service_tier": "batch",
+    "inference_geo": "global"
+   },
+   "diagnostics": null
+  }
+ }
+}

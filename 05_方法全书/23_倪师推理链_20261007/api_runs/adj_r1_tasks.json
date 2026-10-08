@@ -1,0 +1,329 @@
+{
+ "kind": "adjudicator",
+ "tasks": [
+  {
+   "name": "N01",
+   "id": "N01",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/trad_v1/adjudicate/N01"
+  },
+  {
+   "name": "N02",
+   "id": "N02",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/trad_v1/adjudicate/N02"
+  },
+  {
+   "name": "N03",
+   "id": "N03",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/trad_v1/adjudicate/N03"
+  },
+  {
+   "name": "N04",
+   "id": "N04",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/trad_v1/adjudicate/N04"
+  },
+  {
+   "name": "N05",
+   "id": "N05",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/trad_v1/adjudicate/N05"
+  },
+  {
+   "name": "N06",
+   "id": "N06",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/trad_v1/adjudicate/N06"
+  },
+  {
+   "name": "N07",
+   "id": "N07",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/trad_v1/adjudicate/N07"
+  },
+  {
+   "name": "N08",
+   "id": "N08",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/trad_v1/adjudicate/N08"
+  },
+  {
+   "name": "N09",
+   "id": "N09",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/trad_v1/adjudicate/N09"
+  },
+  {
+   "name": "N10",
+   "id": "N10",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/trad_v1/adjudicate/N10"
+  },
+  {
+   "name": "N11",
+   "id": "N11",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/trad_v1/adjudicate/N11"
+  },
+  {
+   "name": "N12",
+   "id": "N12",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/trad_v1/adjudicate/N12"
+  },
+  {
+   "name": "N13",
+   "id": "N13",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/trad_v1/adjudicate/N13"
+  },
+  {
+   "name": "N14",
+   "id": "N14",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/trad_v1/adjudicate/N14"
+  },
+  {
+   "name": "N15",
+   "id": "N15",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/trad_v1/adjudicate/N15"
+  },
+  {
+   "name": "N16",
+   "id": "N16",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/trad_v1/adjudicate/N16"
+  },
+  {
+   "name": "N17",
+   "id": "N17",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/trad_v1/adjudicate/N17"
+  },
+  {
+   "name": "N18",
+   "id": "N18",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/trad_v1/adjudicate/N18"
+  },
+  {
+   "name": "N19",
+   "id": "N19",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/trad_v1/adjudicate/N19"
+  },
+  {
+   "name": "N20",
+   "id": "N20",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/trad_v1/adjudicate/N20"
+  },
+  {
+   "name": "N21",
+   "id": "N21",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/trad_v1/adjudicate/N21"
+  },
+  {
+   "name": "N22",
+   "id": "N22",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/trad_v1/adjudicate/N22"
+  },
+  {
+   "name": "N23",
+   "id": "N23",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/trad_v1/adjudicate/N23"
+  },
+  {
+   "name": "N24",
+   "id": "N24",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/trad_v1/adjudicate/N24"
+  },
+  {
+   "name": "N25",
+   "id": "N25",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/trad_v1/adjudicate/N25"
+  },
+  {
+   "name": "N26",
+   "id": "N26",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/trad_v1/adjudicate/N26"
+  },
+  {
+   "name": "N27",
+   "id": "N27",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/trad_v1/adjudicate/N27"
+  },
+  {
+   "name": "N28",
+   "id": "N28",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/trad_v1/adjudicate/N28"
+  },
+  {
+   "name": "N29",
+   "id": "N29",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/trad_v1/adjudicate/N29"
+  },
+  {
+   "name": "N30",
+   "id": "N30",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/trad_v1/adjudicate/N30"
+  },
+  {
+   "name": "N31",
+   "id": "N31",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/trad_v1/adjudicate/N31"
+  },
+  {
+   "name": "N32",
+   "id": "N32",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/trad_v1/adjudicate/N32"
+  },
+  {
+   "name": "N33",
+   "id": "N33",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/trad_v1/adjudicate/N33"
+  },
+  {
+   "name": "N34",
+   "id": "N34",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/trad_v1/adjudicate/N34"
+  },
+  {
+   "name": "N35",
+   "id": "N35",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/trad_v1/adjudicate/N35"
+  },
+  {
+   "name": "N36",
+   "id": "N36",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/trad_v1/adjudicate/N36"
+  },
+  {
+   "name": "N37",
+   "id": "N37",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/trad_v1/adjudicate/N37"
+  },
+  {
+   "name": "Q01",
+   "id": "Q01",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/trad_v1/adjudicate/Q01"
+  },
+  {
+   "name": "Q02",
+   "id": "Q02",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/trad_v1/adjudicate/Q02"
+  },
+  {
+   "name": "Q03",
+   "id": "Q03",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/trad_v1/adjudicate/Q03"
+  },
+  {
+   "name": "Q04",
+   "id": "Q04",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/trad_v1/adjudicate/Q04"
+  },
+  {
+   "name": "Q05",
+   "id": "Q05",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/trad_v1/adjudicate/Q05"
+  },
+  {
+   "name": "Q06",
+   "id": "Q06",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/trad_v1/adjudicate/Q06"
+  },
+  {
+   "name": "Q07",
+   "id": "Q07",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/trad_v1/adjudicate/Q07"
+  },
+  {
+   "name": "Q08",
+   "id": "Q08",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/trad_v1/adjudicate/Q08"
+  },
+  {
+   "name": "Q09",
+   "id": "Q09",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/trad_v1/adjudicate/Q09"
+  },
+  {
+   "name": "Q10",
+   "id": "Q10",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/trad_v1/adjudicate/Q10"
+  },
+  {
+   "name": "Q11",
+   "id": "Q11",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/trad_v1/adjudicate/Q11"
+  },
+  {
+   "name": "Q12",
+   "id": "Q12",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/trad_v1/adjudicate/Q12"
+  },
+  {
+   "name": "Q13",
+   "id": "Q13",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/trad_v1/adjudicate/Q13"
+  },
+  {
+   "name": "Q15",
+   "id": "Q15",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/trad_v1/adjudicate/Q15"
+  },
+  {
+   "name": "Q16",
+   "id": "Q16",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/trad_v1/adjudicate/Q16"
+  },
+  {
+   "name": "Q17",
+   "id": "Q17",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/trad_v1/adjudicate/Q17"
+  },
+  {
+   "name": "Q18",
+   "id": "Q18",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/trad_v1/adjudicate/Q18"
+  }
+ ]
+}

@@ -1,0 +1,593 @@
+{
+ "kind": "judge",
+ "tasks": [
+  {
+   "name": "EC-M01",
+   "id": "EC-M01",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_v1/judge_packets_链/M01",
+   "instructions": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_judge_instructions_链_api_v1.txt"
+  },
+  {
+   "name": "EC-M02",
+   "id": "EC-M02",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_v1/judge_packets_链/M02",
+   "instructions": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_judge_instructions_链_api_v1.txt"
+  },
+  {
+   "name": "EC-M03",
+   "id": "EC-M03",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_v1/judge_packets_链/M03",
+   "instructions": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_judge_instructions_链_api_v1.txt"
+  },
+  {
+   "name": "EC-M04",
+   "id": "EC-M04",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_v1/judge_packets_链/M04",
+   "instructions": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_judge_instructions_链_api_v1.txt"
+  },
+  {
+   "name": "EC-M05",
+   "id": "EC-M05",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_v1/judge_packets_链/M05",
+   "instructions": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_judge_instructions_链_api_v1.txt"
+  },
+  {
+   "name": "EC-M06",
+   "id": "EC-M06",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_v1/judge_packets_链/M06",
+   "instructions": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_judge_instructions_链_api_v1.txt"
+  },
+  {
+   "name": "EC-M07",
+   "id": "EC-M07",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_v1/judge_packets_链/M07",
+   "instructions": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_judge_instructions_链_api_v1.txt"
+  },
+  {
+   "name": "EC-M08",
+   "id": "EC-M08",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_v1/judge_packets_链/M08",
+   "instructions": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_judge_instructions_链_api_v1.txt"
+  },
+  {
+   "name": "EC-M09",
+   "id": "EC-M09",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_v1/judge_packets_链/M09",
+   "instructions": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_judge_instructions_链_api_v1.txt"
+  },
+  {
+   "name": "EC-M10",
+   "id": "EC-M10",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_v1/judge_packets_链/M10",
+   "instructions": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_judge_instructions_链_api_v1.txt"
+  },
+  {
+   "name": "EC-M11",
+   "id": "EC-M11",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_v1/judge_packets_链/M11",
+   "instructions": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_judge_instructions_链_api_v1.txt"
+  },
+  {
+   "name": "EC-M12",
+   "id": "EC-M12",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_v1/judge_packets_链/M12",
+   "instructions": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_judge_instructions_链_api_v1.txt"
+  },
+  {
+   "name": "EC-M13",
+   "id": "EC-M13",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_v1/judge_packets_链/M13",
+   "instructions": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_judge_instructions_链_api_v1.txt"
+  },
+  {
+   "name": "EC-M14",
+   "id": "EC-M14",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_v1/judge_packets_链/M14",
+   "instructions": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_judge_instructions_链_api_v1.txt"
+  },
+  {
+   "name": "EC-M15",
+   "id": "EC-M15",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_v1/judge_packets_链/M15",
+   "instructions": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_judge_instructions_链_api_v1.txt"
+  },
+  {
+   "name": "EC-M16",
+   "id": "EC-M16",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_v1/judge_packets_链/M16",
+   "instructions": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_judge_instructions_链_api_v1.txt"
+  },
+  {
+   "name": "EC-M17",
+   "id": "EC-M17",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_v1/judge_packets_链/M17",
+   "instructions": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_judge_instructions_链_api_v1.txt"
+  },
+  {
+   "name": "EC-M18",
+   "id": "EC-M18",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_v1/judge_packets_链/M18",
+   "instructions": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_judge_instructions_链_api_v1.txt"
+  },
+  {
+   "name": "EC-M19",
+   "id": "EC-M19",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_v1/judge_packets_链/M19",
+   "instructions": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_judge_instructions_链_api_v1.txt"
+  },
+  {
+   "name": "EC-M20",
+   "id": "EC-M20",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_v1/judge_packets_链/M20",
+   "instructions": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_judge_instructions_链_api_v1.txt"
+  },
+  {
+   "name": "EC-M21",
+   "id": "EC-M21",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_v1/judge_packets_链/M21",
+   "instructions": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_judge_instructions_链_api_v1.txt"
+  },
+  {
+   "name": "EC-M22",
+   "id": "EC-M22",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_v1/judge_packets_链/M22",
+   "instructions": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_judge_instructions_链_api_v1.txt"
+  },
+  {
+   "name": "EC-M23",
+   "id": "EC-M23",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_v1/judge_packets_链/M23",
+   "instructions": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_judge_instructions_链_api_v1.txt"
+  },
+  {
+   "name": "EC-M24",
+   "id": "EC-M24",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_v1/judge_packets_链/M24",
+   "instructions": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_judge_instructions_链_api_v1.txt"
+  },
+  {
+   "name": "EC-M25",
+   "id": "EC-M25",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_v1/judge_packets_链/M25",
+   "instructions": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_judge_instructions_链_api_v1.txt"
+  },
+  {
+   "name": "EC-M26",
+   "id": "EC-M26",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_v1/judge_packets_链/M26",
+   "instructions": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_judge_instructions_链_api_v1.txt"
+  },
+  {
+   "name": "EC-M27",
+   "id": "EC-M27",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_v1/judge_packets_链/M27",
+   "instructions": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_judge_instructions_链_api_v1.txt"
+  },
+  {
+   "name": "EC-M28",
+   "id": "EC-M28",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_v1/judge_packets_链/M28",
+   "instructions": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_judge_instructions_链_api_v1.txt"
+  },
+  {
+   "name": "EF-M01",
+   "id": "EF-M01",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_v1/judge_packets_平/M01",
+   "instructions": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_judge_instructions_平_api_v1.txt"
+  },
+  {
+   "name": "EF-M02",
+   "id": "EF-M02",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_v1/judge_packets_平/M02",
+   "instructions": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_judge_instructions_平_api_v1.txt"
+  },
+  {
+   "name": "EF-M03",
+   "id": "EF-M03",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_v1/judge_packets_平/M03",
+   "instructions": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_judge_instructions_平_api_v1.txt"
+  },
+  {
+   "name": "EF-M04",
+   "id": "EF-M04",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_v1/judge_packets_平/M04",
+   "instructions": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_judge_instructions_平_api_v1.txt"
+  },
+  {
+   "name": "EF-M05",
+   "id": "EF-M05",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_v1/judge_packets_平/M05",
+   "instructions": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_judge_instructions_平_api_v1.txt"
+  },
+  {
+   "name": "EF-M06",
+   "id": "EF-M06",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_v1/judge_packets_平/M06",
+   "instructions": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_judge_instructions_平_api_v1.txt"
+  },
+  {
+   "name": "EF-M07",
+   "id": "EF-M07",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_v1/judge_packets_平/M07",
+   "instructions": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_judge_instructions_平_api_v1.txt"
+  },
+  {
+   "name": "EF-M08",
+   "id": "EF-M08",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_v1/judge_packets_平/M08",
+   "instructions": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_judge_instructions_平_api_v1.txt"
+  },
+  {
+   "name": "EF-M09",
+   "id": "EF-M09",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_v1/judge_packets_平/M09",
+   "instructions": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_judge_instructions_平_api_v1.txt"
+  },
+  {
+   "name": "EF-M10",
+   "id": "EF-M10",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_v1/judge_packets_平/M10",
+   "instructions": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_judge_instructions_平_api_v1.txt"
+  },
+  {
+   "name": "EF-M11",
+   "id": "EF-M11",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_v1/judge_packets_平/M11",
+   "instructions": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_judge_instructions_平_api_v1.txt"
+  },
+  {
+   "name": "EF-M12",
+   "id": "EF-M12",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_v1/judge_packets_平/M12",
+   "instructions": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_judge_instructions_平_api_v1.txt"
+  },
+  {
+   "name": "EF-M13",
+   "id": "EF-M13",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_v1/judge_packets_平/M13",
+   "instructions": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_judge_instructions_平_api_v1.txt"
+  },
+  {
+   "name": "EF-M14",
+   "id": "EF-M14",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_v1/judge_packets_平/M14",
+   "instructions": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_judge_instructions_平_api_v1.txt"
+  },
+  {
+   "name": "EF-M15",
+   "id": "EF-M15",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_v1/judge_packets_平/M15",
+   "instructions": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_judge_instructions_平_api_v1.txt"
+  },
+  {
+   "name": "EF-M16",
+   "id": "EF-M16",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_v1/judge_packets_平/M16",
+   "instructions": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_judge_instructions_平_api_v1.txt"
+  },
+  {
+   "name": "EF-M17",
+   "id": "EF-M17",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_v1/judge_packets_平/M17",
+   "instructions": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_judge_instructions_平_api_v1.txt"
+  },
+  {
+   "name": "EF-M18",
+   "id": "EF-M18",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_v1/judge_packets_平/M18",
+   "instructions": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_judge_instructions_平_api_v1.txt"
+  },
+  {
+   "name": "EF-M19",
+   "id": "EF-M19",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_v1/judge_packets_平/M19",
+   "instructions": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_judge_instructions_平_api_v1.txt"
+  },
+  {
+   "name": "EF-M20",
+   "id": "EF-M20",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_v1/judge_packets_平/M20",
+   "instructions": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_judge_instructions_平_api_v1.txt"
+  },
+  {
+   "name": "EF-M21",
+   "id": "EF-M21",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_v1/judge_packets_平/M21",
+   "instructions": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_judge_instructions_平_api_v1.txt"
+  },
+  {
+   "name": "EF-M22",
+   "id": "EF-M22",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_v1/judge_packets_平/M22",
+   "instructions": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_judge_instructions_平_api_v1.txt"
+  },
+  {
+   "name": "EF-M23",
+   "id": "EF-M23",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_v1/judge_packets_平/M23",
+   "instructions": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_judge_instructions_平_api_v1.txt"
+  },
+  {
+   "name": "EF-M24",
+   "id": "EF-M24",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_v1/judge_packets_平/M24",
+   "instructions": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_judge_instructions_平_api_v1.txt"
+  },
+  {
+   "name": "EF-M25",
+   "id": "EF-M25",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_v1/judge_packets_平/M25",
+   "instructions": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_judge_instructions_平_api_v1.txt"
+  },
+  {
+   "name": "EF-M26",
+   "id": "EF-M26",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_v1/judge_packets_平/M26",
+   "instructions": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_judge_instructions_平_api_v1.txt"
+  },
+  {
+   "name": "EF-M27",
+   "id": "EF-M27",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_v1/judge_packets_平/M27",
+   "instructions": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_judge_instructions_平_api_v1.txt"
+  },
+  {
+   "name": "EF-M28",
+   "id": "EF-M28",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_v1/judge_packets_平/M28",
+   "instructions": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_judge_instructions_平_api_v1.txt"
+  },
+  {
+   "name": "E3-M01",
+   "id": "E3-M01",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_v1/judge_packets_三/M01",
+   "instructions": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_judge_instructions_三_api_v1.txt"
+  },
+  {
+   "name": "E3-M02",
+   "id": "E3-M02",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_v1/judge_packets_三/M02",
+   "instructions": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_judge_instructions_三_api_v1.txt"
+  },
+  {
+   "name": "E3-M03",
+   "id": "E3-M03",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_v1/judge_packets_三/M03",
+   "instructions": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_judge_instructions_三_api_v1.txt"
+  },
+  {
+   "name": "E3-M04",
+   "id": "E3-M04",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_v1/judge_packets_三/M04",
+   "instructions": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_judge_instructions_三_api_v1.txt"
+  },
+  {
+   "name": "E3-M05",
+   "id": "E3-M05",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_v1/judge_packets_三/M05",
+   "instructions": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_judge_instructions_三_api_v1.txt"
+  },
+  {
+   "name": "E3-M06",
+   "id": "E3-M06",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_v1/judge_packets_三/M06",
+   "instructions": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_judge_instructions_三_api_v1.txt"
+  },
+  {
+   "name": "E3-M07",
+   "id": "E3-M07",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_v1/judge_packets_三/M07",
+   "instructions": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_judge_instructions_三_api_v1.txt"
+  },
+  {
+   "name": "E3-M08",
+   "id": "E3-M08",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_v1/judge_packets_三/M08",
+   "instructions": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_judge_instructions_三_api_v1.txt"
+  },
+  {
+   "name": "E3-M09",
+   "id": "E3-M09",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_v1/judge_packets_三/M09",
+   "instructions": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_judge_instructions_三_api_v1.txt"
+  },
+  {
+   "name": "E3-M10",
+   "id": "E3-M10",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_v1/judge_packets_三/M10",
+   "instructions": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_judge_instructions_三_api_v1.txt"
+  },
+  {
+   "name": "E3-M11",
+   "id": "E3-M11",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_v1/judge_packets_三/M11",
+   "instructions": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_judge_instructions_三_api_v1.txt"
+  },
+  {
+   "name": "E3-M12",
+   "id": "E3-M12",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_v1/judge_packets_三/M12",
+   "instructions": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_judge_instructions_三_api_v1.txt"
+  },
+  {
+   "name": "E3-M13",
+   "id": "E3-M13",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_v1/judge_packets_三/M13",
+   "instructions": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_judge_instructions_三_api_v1.txt"
+  },
+  {
+   "name": "E3-M14",
+   "id": "E3-M14",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_v1/judge_packets_三/M14",
+   "instructions": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_judge_instructions_三_api_v1.txt"
+  },
+  {
+   "name": "E3-M15",
+   "id": "E3-M15",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_v1/judge_packets_三/M15",
+   "instructions": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_judge_instructions_三_api_v1.txt"
+  },
+  {
+   "name": "E3-M16",
+   "id": "E3-M16",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_v1/judge_packets_三/M16",
+   "instructions": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_judge_instructions_三_api_v1.txt"
+  },
+  {
+   "name": "E3-M17",
+   "id": "E3-M17",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_v1/judge_packets_三/M17",
+   "instructions": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_judge_instructions_三_api_v1.txt"
+  },
+  {
+   "name": "E3-M18",
+   "id": "E3-M18",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_v1/judge_packets_三/M18",
+   "instructions": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_judge_instructions_三_api_v1.txt"
+  },
+  {
+   "name": "E3-M19",
+   "id": "E3-M19",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_v1/judge_packets_三/M19",
+   "instructions": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_judge_instructions_三_api_v1.txt"
+  },
+  {
+   "name": "E3-M20",
+   "id": "E3-M20",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_v1/judge_packets_三/M20",
+   "instructions": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_judge_instructions_三_api_v1.txt"
+  },
+  {
+   "name": "E3-M21",
+   "id": "E3-M21",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_v1/judge_packets_三/M21",
+   "instructions": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_judge_instructions_三_api_v1.txt"
+  },
+  {
+   "name": "E3-M22",
+   "id": "E3-M22",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_v1/judge_packets_三/M22",
+   "instructions": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_judge_instructions_三_api_v1.txt"
+  },
+  {
+   "name": "E3-M23",
+   "id": "E3-M23",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_v1/judge_packets_三/M23",
+   "instructions": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_judge_instructions_三_api_v1.txt"
+  },
+  {
+   "name": "E3-M24",
+   "id": "E3-M24",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_v1/judge_packets_三/M24",
+   "instructions": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_judge_instructions_三_api_v1.txt"
+  },
+  {
+   "name": "E3-M25",
+   "id": "E3-M25",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_v1/judge_packets_三/M25",
+   "instructions": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_judge_instructions_三_api_v1.txt"
+  },
+  {
+   "name": "E3-M26",
+   "id": "E3-M26",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_v1/judge_packets_三/M26",
+   "instructions": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_judge_instructions_三_api_v1.txt"
+  },
+  {
+   "name": "E3-M27",
+   "id": "E3-M27",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_v1/judge_packets_三/M27",
+   "instructions": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_judge_instructions_三_api_v1.txt"
+  },
+  {
+   "name": "E3-M28",
+   "id": "E3-M28",
+   "role": null,
+   "dir": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_v1/judge_packets_三/M28",
+   "instructions": "<第三篇根目录>/05_方法全书/23_倪师推理链_20261007/m4e_judge_instructions_三_api_v1.txt"
+  }
+ ]
+}

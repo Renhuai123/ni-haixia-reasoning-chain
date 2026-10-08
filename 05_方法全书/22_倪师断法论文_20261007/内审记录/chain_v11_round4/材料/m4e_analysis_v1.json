@@ -1,0 +1,1141 @@
+{
+ "schema": "m4e-analysis-v1",
+ "n_items": 28,
+ "arms": {
+  "链": {
+   "hits": 18,
+   "p_binomial_one_sided": 1.296375622668322e-05,
+   "passed_top1": true,
+   "rate_CP95": [
+    0.4407,
+    0.8136
+   ],
+   "rank_sum": 48,
+   "p_rank_sum_one_sided": 9.826998671225162e-05,
+   "passed_rank_sum": true,
+   "mean_rank_of_true": 1.7143,
+   "status_counts": {
+    "合格": 28,
+    "不合格作废": 0
+   },
+   "format_invalid": 0,
+   "pick_not_first_in_order": 0,
+   "所选字母分布": {
+    "A": 9,
+    "B": 6,
+    "C": 7,
+    "D": 6
+   },
+   "选中最长一份的题数": 8,
+   "真论断恰是最长一份的题数": 5,
+   "subsets": {
+    "陪衬同性别22题": {
+     "n_items": 22,
+     "hits": 13,
+     "p_binomial_one_sided": 0.0007004892289614872
+    },
+    "剔除身份存疑": {
+     "n_items": 24,
+     "hits": 15,
+     "p_binomial_one_sided": 0.00011165227952147916
+    },
+    "只看第0档": {
+     "n_items": 8,
+     "hits": 6,
+     "p_binomial_one_sided": 0.0042266845703125
+    },
+    "剔除陈述含干支或生肖纪年": {
+     "n_items": 24,
+     "hits": 17,
+     "p_binomial_one_sided": 3.0777027681949676e-06
+    },
+    "不带年龄较多的一半": {
+     "n_items": 14,
+     "hits": 6,
+     "p_binomial_one_sided": 0.11166897043585777
+    },
+    "不带年龄较少的一半": {
+     "n_items": 14,
+     "hits": 12,
+     "p_binomial_one_sided": 3.21120023727417e-06
+    }
+   },
+   "不同性别陪衬的题里选中异性论断的题数": 0,
+   "认对与没认对的题四份论断平均Jaccard": {
+    "认对": 0.1694,
+    "没认对": 0.1456
+   },
+   "per_item": {
+    "题01": {
+     "status": "合格",
+     "format_ok": true,
+     "pick": "A",
+     "true": "A",
+     "hit": true,
+     "rank_of_true": 1,
+     "pick_not_first_in_order": false
+    },
+    "题02": {
+     "status": "合格",
+     "format_ok": true,
+     "pick": "C",
+     "true": "C",
+     "hit": true,
+     "rank_of_true": 1,
+     "pick_not_first_in_order": false
+    },
+    "题03": {
+     "status": "合格",
+     "format_ok": true,
+     "pick": "B",
+     "true": "B",
+     "hit": true,
+     "rank_of_true": 1,
+     "pick_not_first_in_order": false
+    },
+    "题04": {
+     "status": "合格",
+     "format_ok": true,
+     "pick": "D",
+     "true": "D",
+     "hit": true,
+     "rank_of_true": 1,
+     "pick_not_first_in_order": false
+    },
+    "题05": {
+     "status": "合格",
+     "format_ok": true,
+     "pick": "D",
+     "true": "B",
+     "hit": false,
+     "rank_of_true": 2,
+     "pick_not_first_in_order": false
+    },
+    "题06": {
+     "status": "合格",
+     "format_ok": true,
+     "pick": "C",
+     "true": "A",
+     "hit": false,
+     "rank_of_true": 3,
+     "pick_not_first_in_order": false
+    },
+    "题07": {
+     "status": "合格",
+     "format_ok": true,
+     "pick": "A",
+     "true": "B",
+     "hit": false,
+     "rank_of_true": 3,
+     "pick_not_first_in_order": false
+    },
+    "题08": {
+     "status": "合格",
+     "format_ok": true,
+     "pick": "A",
+     "true": "D",
+     "hit": false,
+     "rank_of_true": 4,
+     "pick_not_first_in_order": false
+    },
+    "题09": {
+     "status": "合格",
+     "format_ok": true,
+     "pick": "C",
+     "true": "C",
+     "hit": true,
+     "rank_of_true": 1,
+     "pick_not_first_in_order": false
+    },
+    "题10": {
+     "status": "合格",
+     "format_ok": true,
+     "pick": "A",
+     "true": "A",
+     "hit": true,
+     "rank_of_true": 1,
+     "pick_not_first_in_order": false
+    },
+    "题11": {
+     "status": "合格",
+     "format_ok": true,
+     "pick": "B",
+     "true": "D",
+     "hit": false,
+     "rank_of_true": 2,
+     "pick_not_first_in_order": false
+    },
+    "题12": {
+     "status": "合格",
+     "format_ok": true,
+     "pick": "D",
+     "true": "C",
+     "hit": false,
+     "rank_of_true": 2,
+     "pick_not_first_in_order": false
+    },
+    "题13": {
+     "status": "合格",
+     "format_ok": true,
+     "pick": "B",
+     "true": "B",
+     "hit": true,
+     "rank_of_true": 1,
+     "pick_not_first_in_order": false
+    },
+    "题14": {
+     "status": "合格",
+     "format_ok": true,
+     "pick": "C",
+     "true": "D",
+     "hit": false,
+     "rank_of_true": 4,
+     "pick_not_first_in_order": false
+    },
+    "题15": {
+     "status": "合格",
+     "format_ok": true,
+     "pick": "C",
+     "true": "B",
+     "hit": false,
+     "rank_of_true": 3,
+     "pick_not_first_in_order": false
+    },
+    "题16": {
+     "status": "合格",
+     "format_ok": true,
+     "pick": "A",
+     "true": "B",
+     "hit": false,
+     "rank_of_true": 3,
+     "pick_not_first_in_order": false
+    },
+    "题17": {
+     "status": "合格",
+     "format_ok": true,
+     "pick": "D",
+     "true": "D",
+     "hit": true,
+     "rank_of_true": 1,
+     "pick_not_first_in_order": false
+    },
+    "题18": {
+     "status": "合格",
+     "format_ok": true,
+     "pick": "D",
+     "true": "D",
+     "hit": true,
+     "rank_of_true": 1,
+     "pick_not_first_in_order": false
+    },
+    "题19": {
+     "status": "合格",
+     "format_ok": true,
+     "pick": "A",
+     "true": "A",
+     "hit": true,
+     "rank_of_true": 1,
+     "pick_not_first_in_order": false
+    },
+    "题20": {
+     "status": "合格",
+     "format_ok": true,
+     "pick": "B",
+     "true": "B",
+     "hit": true,
+     "rank_of_true": 1,
+     "pick_not_first_in_order": false
+    },
+    "题21": {
+     "status": "合格",
+     "format_ok": true,
+     "pick": "C",
+     "true": "C",
+     "hit": true,
+     "rank_of_true": 1,
+     "pick_not_first_in_order": false
+    },
+    "题22": {
+     "status": "合格",
+     "format_ok": true,
+     "pick": "C",
+     "true": "C",
+     "hit": true,
+     "rank_of_true": 1,
+     "pick_not_first_in_order": false
+    },
+    "题23": {
+     "status": "合格",
+     "format_ok": true,
+     "pick": "B",
+     "true": "B",
+     "hit": true,
+     "rank_of_true": 1,
+     "pick_not_first_in_order": false
+    },
+    "题24": {
+     "status": "合格",
+     "format_ok": true,
+     "pick": "A",
+     "true": "C",
+     "hit": false,
+     "rank_of_true": 4,
+     "pick_not_first_in_order": false
+    },
+    "题25": {
+     "status": "合格",
+     "format_ok": true,
+     "pick": "A",
+     "true": "A",
+     "hit": true,
+     "rank_of_true": 1,
+     "pick_not_first_in_order": false
+    },
+    "题26": {
+     "status": "合格",
+     "format_ok": true,
+     "pick": "A",
+     "true": "A",
+     "hit": true,
+     "rank_of_true": 1,
+     "pick_not_first_in_order": false
+    },
+    "题27": {
+     "status": "合格",
+     "format_ok": true,
+     "pick": "B",
+     "true": "B",
+     "hit": true,
+     "rank_of_true": 1,
+     "pick_not_first_in_order": false
+    },
+    "题28": {
+     "status": "合格",
+     "format_ok": true,
+     "pick": "D",
+     "true": "D",
+     "hit": true,
+     "rank_of_true": 1,
+     "pick_not_first_in_order": false
+    }
+   }
+  },
+  "平": {
+   "hits": 18,
+   "p_binomial_one_sided": 1.296375622668322e-05,
+   "passed_top1": true,
+   "rate_CP95": [
+    0.4407,
+    0.8136
+   ],
+   "rank_sum": 47,
+   "p_rank_sum_one_sided": 4.637813848988592e-05,
+   "passed_rank_sum": true,
+   "mean_rank_of_true": 1.6786,
+   "status_counts": {
+    "合格": 28,
+    "不合格作废": 0
+   },
+   "format_invalid": 0,
+   "pick_not_first_in_order": 0,
+   "所选字母分布": {
+    "A": 8,
+    "B": 6,
+    "C": 8,
+    "D": 6
+   },
+   "选中最长一份的题数": 7,
+   "真论断恰是最长一份的题数": 3,
+   "subsets": {
+    "陪衬同性别22题": {
+     "n_items": 22,
+     "hits": 14,
+     "p_binomial_one_sided": 0.00014395135269751336
+    },
+    "剔除身份存疑": {
+     "n_items": 24,
+     "hits": 15,
+     "p_binomial_one_sided": 0.00011165227952147916
+    },
+    "只看第0档": {
+     "n_items": 8,
+     "hits": 7,
+     "p_binomial_one_sided": 0.0003814697265625
+    },
+    "剔除陈述含干支或生肖纪年": {
+     "n_items": 24,
+     "hits": 16,
+     "p_binomial_one_sided": 2.0221056992397735e-05
+    },
+    "不带年龄较多的一半": {
+     "n_items": 14,
+     "hits": 8,
+     "p_binomial_one_sided": 0.010309532284736633
+    },
+    "不带年龄较少的一半": {
+     "n_items": 14,
+     "hits": 10,
+     "p_binomial_one_sided": 0.0003418736159801483
+    }
+   },
+   "不同性别陪衬的题里选中异性论断的题数": 1,
+   "认对与没认对的题四份论断平均Jaccard": {
+    "认对": 0.1664,
+    "没认对": 0.1511
+   },
+   "per_item": {
+    "题01": {
+     "status": "合格",
+     "format_ok": true,
+     "pick": "A",
+     "true": "A",
+     "hit": true,
+     "rank_of_true": 1,
+     "pick_not_first_in_order": false
+    },
+    "题02": {
+     "status": "合格",
+     "format_ok": true,
+     "pick": "C",
+     "true": "C",
+     "hit": true,
+     "rank_of_true": 1,
+     "pick_not_first_in_order": false
+    },
+    "题03": {
+     "status": "合格",
+     "format_ok": true,
+     "pick": "D",
+     "true": "B",
+     "hit": false,
+     "rank_of_true": 2,
+     "pick_not_first_in_order": false
+    },
+    "题04": {
+     "status": "合格",
+     "format_ok": true,
+     "pick": "D",
+     "true": "D",
+     "hit": true,
+     "rank_of_true": 1,
+     "pick_not_first_in_order": false
+    },
+    "题05": {
+     "status": "合格",
+     "format_ok": true,
+     "pick": "D",
+     "true": "B",
+     "hit": false,
+     "rank_of_true": 2,
+     "pick_not_first_in_order": false
+    },
+    "题06": {
+     "status": "合格",
+     "format_ok": true,
+     "pick": "C",
+     "true": "A",
+     "hit": false,
+     "rank_of_true": 3,
+     "pick_not_first_in_order": false
+    },
+    "题07": {
+     "status": "合格",
+     "format_ok": true,
+     "pick": "B",
+     "true": "B",
+     "hit": true,
+     "rank_of_true": 1,
+     "pick_not_first_in_order": false
+    },
+    "题08": {
+     "status": "合格",
+     "format_ok": true,
+     "pick": "A",
+     "true": "D",
+     "hit": false,
+     "rank_of_true": 4,
+     "pick_not_first_in_order": false
+    },
+    "题09": {
+     "status": "合格",
+     "format_ok": true,
+     "pick": "C",
+     "true": "C",
+     "hit": true,
+     "rank_of_true": 1,
+     "pick_not_first_in_order": false
+    },
+    "题10": {
+     "status": "合格",
+     "format_ok": true,
+     "pick": "A",
+     "true": "A",
+     "hit": true,
+     "rank_of_true": 1,
+     "pick_not_first_in_order": false
+    },
+    "题11": {
+     "status": "合格",
+     "format_ok": true,
+     "pick": "B",
+     "true": "D",
+     "hit": false,
+     "rank_of_true": 2,
+     "pick_not_first_in_order": false
+    },
+    "题12": {
+     "status": "合格",
+     "format_ok": true,
+     "pick": "C",
+     "true": "C",
+     "hit": true,
+     "rank_of_true": 1,
+     "pick_not_first_in_order": false
+    },
+    "题13": {
+     "status": "合格",
+     "format_ok": true,
+     "pick": "B",
+     "true": "B",
+     "hit": true,
+     "rank_of_true": 1,
+     "pick_not_first_in_order": false
+    },
+    "题14": {
+     "status": "合格",
+     "format_ok": true,
+     "pick": "C",
+     "true": "D",
+     "hit": false,
+     "rank_of_true": 4,
+     "pick_not_first_in_order": false
+    },
+    "题15": {
+     "status": "合格",
+     "format_ok": true,
+     "pick": "C",
+     "true": "B",
+     "hit": false,
+     "rank_of_true": 3,
+     "pick_not_first_in_order": false
+    },
+    "题16": {
+     "status": "合格",
+     "format_ok": true,
+     "pick": "A",
+     "true": "B",
+     "hit": false,
+     "rank_of_true": 3,
+     "pick_not_first_in_order": false
+    },
+    "题17": {
+     "status": "合格",
+     "format_ok": true,
+     "pick": "D",
+     "true": "D",
+     "hit": true,
+     "rank_of_true": 1,
+     "pick_not_first_in_order": false
+    },
+    "题18": {
+     "status": "合格",
+     "format_ok": true,
+     "pick": "D",
+     "true": "D",
+     "hit": true,
+     "rank_of_true": 1,
+     "pick_not_first_in_order": false
+    },
+    "题19": {
+     "status": "合格",
+     "format_ok": true,
+     "pick": "A",
+     "true": "A",
+     "hit": true,
+     "rank_of_true": 1,
+     "pick_not_first_in_order": false
+    },
+    "题20": {
+     "status": "合格",
+     "format_ok": true,
+     "pick": "B",
+     "true": "B",
+     "hit": true,
+     "rank_of_true": 1,
+     "pick_not_first_in_order": false
+    },
+    "题21": {
+     "status": "合格",
+     "format_ok": true,
+     "pick": "C",
+     "true": "C",
+     "hit": true,
+     "rank_of_true": 1,
+     "pick_not_first_in_order": false
+    },
+    "题22": {
+     "status": "合格",
+     "format_ok": true,
+     "pick": "C",
+     "true": "C",
+     "hit": true,
+     "rank_of_true": 1,
+     "pick_not_first_in_order": false
+    },
+    "题23": {
+     "status": "合格",
+     "format_ok": true,
+     "pick": "B",
+     "true": "B",
+     "hit": true,
+     "rank_of_true": 1,
+     "pick_not_first_in_order": false
+    },
+    "题24": {
+     "status": "合格",
+     "format_ok": true,
+     "pick": "D",
+     "true": "C",
+     "hit": false,
+     "rank_of_true": 4,
+     "pick_not_first_in_order": false
+    },
+    "题25": {
+     "status": "合格",
+     "format_ok": true,
+     "pick": "A",
+     "true": "A",
+     "hit": true,
+     "rank_of_true": 1,
+     "pick_not_first_in_order": false
+    },
+    "题26": {
+     "status": "合格",
+     "format_ok": true,
+     "pick": "A",
+     "true": "A",
+     "hit": true,
+     "rank_of_true": 1,
+     "pick_not_first_in_order": false
+    },
+    "题27": {
+     "status": "合格",
+     "format_ok": true,
+     "pick": "B",
+     "true": "B",
+     "hit": true,
+     "rank_of_true": 1,
+     "pick_not_first_in_order": false
+    },
+    "题28": {
+     "status": "合格",
+     "format_ok": true,
+     "pick": "A",
+     "true": "D",
+     "hit": false,
+     "rank_of_true": 2,
+     "pick_not_first_in_order": false
+    }
+   }
+  },
+  "三": {
+   "hits": 20,
+   "p_binomial_one_sided": 3.231033260248095e-07,
+   "passed_top1": true,
+   "rate_CP95": [
+    0.5133,
+    0.8678
+   ],
+   "rank_sum": 40,
+   "p_rank_sum_one_sided": 6.596325657914903e-08,
+   "passed_rank_sum": true,
+   "mean_rank_of_true": 1.4286,
+   "status_counts": {
+    "合格": 28,
+    "不合格作废": 0
+   },
+   "format_invalid": 0,
+   "pick_not_first_in_order": 0,
+   "所选字母分布": {
+    "A": 8,
+    "B": 9,
+    "C": 7,
+    "D": 4
+   },
+   "选中最长一份的题数": 8,
+   "真论断恰是最长一份的题数": 4,
+   "subsets": {
+    "陪衬同性别22题": {
+     "n_items": 22,
+     "hits": 15,
+     "p_binomial_one_sided": 2.469323635523324e-05
+    },
+    "剔除身份存疑": {
+     "n_items": 24,
+     "hits": 17,
+     "p_binomial_one_sided": 3.0777027681949676e-06
+    },
+    "只看第0档": {
+     "n_items": 8,
+     "hits": 6,
+     "p_binomial_one_sided": 0.0042266845703125
+    },
+    "剔除陈述含干支或生肖纪年": {
+     "n_items": 24,
+     "hits": 19,
+     "p_binomial_one_sided": 3.9955178721129414e-08
+    },
+    "不带年龄较多的一半": {
+     "n_items": 14,
+     "hits": 8,
+     "p_binomial_one_sided": 0.010309532284736633
+    },
+    "不带年龄较少的一半": {
+     "n_items": 14,
+     "hits": 12,
+     "p_binomial_one_sided": 3.21120023727417e-06
+    }
+   },
+   "不同性别陪衬的题里选中异性论断的题数": 0,
+   "认对与没认对的题四份论断平均Jaccard": {
+    "认对": 0.0971,
+    "没认对": 0.0814
+   },
+   "per_item": {
+    "题01": {
+     "status": "合格",
+     "format_ok": true,
+     "pick": "C",
+     "true": "A",
+     "hit": false,
+     "rank_of_true": 2,
+     "pick_not_first_in_order": false
+    },
+    "题02": {
+     "status": "合格",
+     "format_ok": true,
+     "pick": "C",
+     "true": "C",
+     "hit": true,
+     "rank_of_true": 1,
+     "pick_not_first_in_order": false
+    },
+    "题03": {
+     "status": "合格",
+     "format_ok": true,
+     "pick": "B",
+     "true": "B",
+     "hit": true,
+     "rank_of_true": 1,
+     "pick_not_first_in_order": false
+    },
+    "题04": {
+     "status": "合格",
+     "format_ok": true,
+     "pick": "D",
+     "true": "D",
+     "hit": true,
+     "rank_of_true": 1,
+     "pick_not_first_in_order": false
+    },
+    "题05": {
+     "status": "合格",
+     "format_ok": true,
+     "pick": "B",
+     "true": "B",
+     "hit": true,
+     "rank_of_true": 1,
+     "pick_not_first_in_order": false
+    },
+    "题06": {
+     "status": "合格",
+     "format_ok": true,
+     "pick": "A",
+     "true": "A",
+     "hit": true,
+     "rank_of_true": 1,
+     "pick_not_first_in_order": false
+    },
+    "题07": {
+     "status": "合格",
+     "format_ok": true,
+     "pick": "B",
+     "true": "B",
+     "hit": true,
+     "rank_of_true": 1,
+     "pick_not_first_in_order": false
+    },
+    "题08": {
+     "status": "合格",
+     "format_ok": true,
+     "pick": "A",
+     "true": "D",
+     "hit": false,
+     "rank_of_true": 2,
+     "pick_not_first_in_order": false
+    },
+    "题09": {
+     "status": "合格",
+     "format_ok": true,
+     "pick": "C",
+     "true": "C",
+     "hit": true,
+     "rank_of_true": 1,
+     "pick_not_first_in_order": false
+    },
+    "题10": {
+     "status": "合格",
+     "format_ok": true,
+     "pick": "A",
+     "true": "A",
+     "hit": true,
+     "rank_of_true": 1,
+     "pick_not_first_in_order": false
+    },
+    "题11": {
+     "status": "合格",
+     "format_ok": true,
+     "pick": "A",
+     "true": "D",
+     "hit": false,
+     "rank_of_true": 3,
+     "pick_not_first_in_order": false
+    },
+    "题12": {
+     "status": "合格",
+     "format_ok": true,
+     "pick": "C",
+     "true": "C",
+     "hit": true,
+     "rank_of_true": 1,
+     "pick_not_first_in_order": false
+    },
+    "题13": {
+     "status": "合格",
+     "format_ok": true,
+     "pick": "B",
+     "true": "B",
+     "hit": true,
+     "rank_of_true": 1,
+     "pick_not_first_in_order": false
+    },
+    "题14": {
+     "status": "合格",
+     "format_ok": true,
+     "pick": "C",
+     "true": "D",
+     "hit": false,
+     "rank_of_true": 3,
+     "pick_not_first_in_order": false
+    },
+    "题15": {
+     "status": "合格",
+     "format_ok": true,
+     "pick": "C",
+     "true": "B",
+     "hit": false,
+     "rank_of_true": 2,
+     "pick_not_first_in_order": false
+    },
+    "题16": {
+     "status": "合格",
+     "format_ok": true,
+     "pick": "B",
+     "true": "B",
+     "hit": true,
+     "rank_of_true": 1,
+     "pick_not_first_in_order": false
+    },
+    "题17": {
+     "status": "合格",
+     "format_ok": true,
+     "pick": "D",
+     "true": "D",
+     "hit": true,
+     "rank_of_true": 1,
+     "pick_not_first_in_order": false
+    },
+    "题18": {
+     "status": "合格",
+     "format_ok": true,
+     "pick": "B",
+     "true": "D",
+     "hit": false,
+     "rank_of_true": 2,
+     "pick_not_first_in_order": false
+    },
+    "题19": {
+     "status": "合格",
+     "format_ok": true,
+     "pick": "A",
+     "true": "A",
+     "hit": true,
+     "rank_of_true": 1,
+     "pick_not_first_in_order": false
+    },
+    "题20": {
+     "status": "合格",
+     "format_ok": true,
+     "pick": "B",
+     "true": "B",
+     "hit": true,
+     "rank_of_true": 1,
+     "pick_not_first_in_order": false
+    },
+    "题21": {
+     "status": "合格",
+     "format_ok": true,
+     "pick": "D",
+     "true": "C",
+     "hit": false,
+     "rank_of_true": 2,
+     "pick_not_first_in_order": false
+    },
+    "题22": {
+     "status": "合格",
+     "format_ok": true,
+     "pick": "C",
+     "true": "C",
+     "hit": true,
+     "rank_of_true": 1,
+     "pick_not_first_in_order": false
+    },
+    "题23": {
+     "status": "合格",
+     "format_ok": true,
+     "pick": "B",
+     "true": "B",
+     "hit": true,
+     "rank_of_true": 1,
+     "pick_not_first_in_order": false
+    },
+    "题24": {
+     "status": "合格",
+     "format_ok": true,
+     "pick": "A",
+     "true": "C",
+     "hit": false,
+     "rank_of_true": 4,
+     "pick_not_first_in_order": false
+    },
+    "题25": {
+     "status": "合格",
+     "format_ok": true,
+     "pick": "A",
+     "true": "A",
+     "hit": true,
+     "rank_of_true": 1,
+     "pick_not_first_in_order": false
+    },
+    "题26": {
+     "status": "合格",
+     "format_ok": true,
+     "pick": "A",
+     "true": "A",
+     "hit": true,
+     "rank_of_true": 1,
+     "pick_not_first_in_order": false
+    },
+    "题27": {
+     "status": "合格",
+     "format_ok": true,
+     "pick": "B",
+     "true": "B",
+     "hit": true,
+     "rank_of_true": 1,
+     "pick_not_first_in_order": false
+    },
+    "题28": {
+     "status": "合格",
+     "format_ok": true,
+     "pick": "D",
+     "true": "D",
+     "hit": true,
+     "rank_of_true": 1,
+     "pick_not_first_in_order": false
+    }
+   }
+  }
+ },
+ "subset_defs": {
+  "陪衬同性别": [
+   "题01",
+   "题02",
+   "题04",
+   "题05",
+   "题06",
+   "题07",
+   "题08",
+   "题10",
+   "题11",
+   "题12",
+   "题13",
+   "题14",
+   "题15",
+   "题16",
+   "题17",
+   "题18",
+   "题19",
+   "题20",
+   "题21",
+   "题26",
+   "题27",
+   "题28"
+  ],
+  "第0档": [
+   "题01",
+   "题10",
+   "题11",
+   "题12",
+   "题13",
+   "题19",
+   "题26",
+   "题27"
+  ],
+  "陈述含干支或生肖纪年": [
+   "题01",
+   "题12",
+   "题14",
+   "题15"
+  ],
+  "不带年龄条数中位数": 13.5,
+  "不带年龄较多的一半": [
+   "题01",
+   "题02",
+   "题04",
+   "题05",
+   "题07",
+   "题08",
+   "题09",
+   "题11",
+   "题12",
+   "题14",
+   "题15",
+   "题22",
+   "题24",
+   "题25"
+  ]
+ },
+ "真论断字母分布": {
+  "A": 6,
+  "B": 9,
+  "C": 6,
+  "D": 7
+ },
+ "paired": {
+  "链组对平铺组": {
+   "都认出": 16,
+   "只前一组": 2,
+   "只后一组": 2,
+   "都没认出": 8,
+   "配对差": 0.0,
+   "配对差95%区间（条件精确）": [
+    -0.1235,
+    0.1235
+   ],
+   "附表·精确McNemar双侧p": 1.0
+  },
+  "平铺组对第三版先天组": {
+   "都认出": 15,
+   "只前一组": 3,
+   "只后一组": 5,
+   "都没认出": 5,
+   "配对差": -0.0714,
+   "配对差95%区间（条件精确）": [
+    -0.237,
+    0.1458
+   ],
+   "附表·精确McNemar双侧p": 0.7265625
+  },
+  "链组对第三版先天组": {
+   "都认出": 15,
+   "只前一组": 3,
+   "只后一组": 5,
+   "都没认出": 5,
+   "配对差": -0.0714,
+   "配对差95%区间（条件精确）": [
+    -0.237,
+    0.1458
+   ],
+   "附表·精确McNemar双侧p": 0.7265625
+  }
+ },
+ "与M4d逐题对照（只作描述）": {
+  "链组对M4dfull": {
+   "都认出": 15,
+   "只前一组": 3,
+   "只后一组": 8,
+   "都没认出": 2,
+   "配对差": -0.1786,
+   "配对差95%区间（条件精确）": [
+    -0.3456,
+    0.0862
+   ],
+   "附表·精确McNemar双侧p": 0.2265625
+  },
+  "链组对M4dsyn": {
+   "都认出": 12,
+   "只前一组": 6,
+   "只后一组": 6,
+   "都没认出": 4,
+   "配对差": 0.0,
+   "配对差95%区间（条件精确）": [
+    -0.2478,
+    0.2478
+   ],
+   "附表·精确McNemar双侧p": 1.0
+  },
+  "平组对M4dfull": {
+   "都认出": 15,
+   "只前一组": 3,
+   "只后一组": 8,
+   "都没认出": 2,
+   "配对差": -0.1786,
+   "配对差95%区间（条件精确）": [
+    -0.3456,
+    0.0862
+   ],
+   "附表·精确McNemar双侧p": 0.2265625
+  },
+  "平组对M4dsyn": {
+   "都认出": 12,
+   "只前一组": 6,
+   "只后一组": 6,
+   "都没认出": 4,
+   "配对差": 0.0,
+   "配对差95%区间（条件精确）": [
+    -0.2478,
+    0.2478
+   ],
+   "附表·精确McNemar双侧p": 1.0
+  },
+  "三组对M4dfull": {
+   "都认出": 19,
+   "只前一组": 1,
+   "只后一组": 4,
+   "都没认出": 4,
+   "配对差": -0.1071,
+   "配对差95%区间（条件精确）": [
+    -0.1768,
+    0.0773
+   ],
+   "附表·精确McNemar双侧p": 0.375
+  },
+  "三组对M4dsyn": {
+   "都认出": 16,
+   "只前一组": 4,
+   "只后一组": 2,
+   "都没认出": 6,
+   "配对差": 0.0714,
+   "配对差95%区间（条件精确）": [
+    -0.1188,
+    0.1957
+   ],
+   "附表·精确McNemar双侧p": 0.6875
+  }
+ },
+ "M4d认对题数": {
+  "full": 23,
+  "syn": 18
+ }
+}

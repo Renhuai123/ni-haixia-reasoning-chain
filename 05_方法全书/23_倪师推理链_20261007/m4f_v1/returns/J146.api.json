@@ -1,0 +1,43 @@
+{
+ "custom_id": "J146",
+ "result": {
+  "type": "succeeded",
+  "message": {
+   "model": "claude-fable-5-1",
+   "id": "msg_011Cfp3CKGw3xWDWmdJYMt9j",
+   "type": "message",
+   "role": "assistant",
+   "content": [
+    {
+     "type": "thinking",
+     "thinking": "",
+     "signature": "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"
+    },
+    {
+     "type": "text",
+     "text": "{\n \"包\": \"J146\",\n \"答案\": [\n  {\n   \"题\": \"题01\",\n   \"最符合\": \"D\",\n   \"排序\": [\n    \"D\",\n    \"C\",\n    \"A\",\n    \"B\"\n   ],\n   \"理由\": {\n    \"A\": \"兄弟宫见开刀、血光、提醒兄弟安危，与兄弟夭折相合；但命宫断斯文、小气、成败比较惨、加倍辛苦，与眉毛浓厚、官场事业非常强不符，夫妻宫只断很凶暗中来阴，没有丈夫人好感情好的意思。\",\n    \"B\": \"命宫武官星、位高无权、女命不行、当官不容易，与官场事业非常强相反；夫妻宫断杀星武官星刚强，与丈夫不坏感情好不合；兄弟宫为喜庆之星，没有兄弟夭折之象。\",\n    \"C\": \"兄弟宫灾星、提醒兄弟安危与兄弟夭折相合，夫妻宫喜庆贵人、婚姻好与感情好相合；但命宫断灾星、要注意本人安危，而陈述明说灾祸应在丈夫不在她本人，官禄又断当官不容易，与官场非常强矛盾。\",\n    \"D\": \"命宫毛发多、脸宽大厚重、魁梧对应眉毛极浓厚；官带、文武官皆可、当官、大吉、近天子对应官场事业非常强；夫妻宫厚道善良温和、拼命做事对应丈夫不坏，吉处藏凶、在劫难逃对应丈夫刹那间车祸身亡；不足处是福德多婚与未离婚不合，兄弟宫未明显见夭折。\"\n   }\n  }\n ]\n}"
+    }
+   ],
+   "container": null,
+   "stop_reason": "end_turn",
+   "stop_sequence": null,
+   "stop_details": null,
+   "usage": {
+    "input_tokens": 12888,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 1382,
+    "output_tokens_details": {
+     "thinking_tokens": 786
+    },
+    "service_tier": "batch",
+    "inference_geo": "global"
+   },
+   "diagnostics": null
+  }
+ }
+}

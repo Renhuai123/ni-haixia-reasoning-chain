@@ -1,0 +1,43 @@
+{
+ "custom_id": "EF-M06",
+ "result": {
+  "type": "succeeded",
+  "message": {
+   "model": "claude-fable-5-1",
+   "id": "msg_011Cfp49KSdkKhWBV3AxQaV6",
+   "type": "message",
+   "role": "assistant",
+   "content": [
+    {
+     "type": "thinking",
+     "thinking": "",
+     "signature": "CAQSuA4KEAgSGAI4AUIIdGhpbmtpbmcSDNYUV3bB6kPNTimishoMtRaHZqPxSL5SqZtTIjDiIQcbrGu8rEdon4x/19R6CT94sfHtho+AuqsMO4ZHBgXioh0e1OjsHWytTwMvyJwq1Q3WYijh2zy/hxerp9SzdI4a6pqOPReUNpDmN6FeAbRQBe+VRB/IHiOvS0AbWTckQPxOCBIWgUpFM1lNcuDO7YNzdEexmEZ0rG2jnvNfR1cSAyLm9hmsYNM4yWLUjR8f3+E4eYnjIezK7fm4X9T87KZQZ1l98x6odN7PGx0BK7howB7KtCGZCgV4lT6qNo0S6X7hcE6LosUR86laTd3aUDJLFlxeEq4h+r0dqxuxbVwJa8/gcXv/ibY5Gi9ygH0rywrBp4lQn+LLxwqtkf4LAtPBCMg1ZmnxSk5lNXh9/hgO5Dh6e4Qr1o4m7S0RzReh6A8mNB6tEYulDD4jh69xlp++wzn2lhM3io6Hmx7aU283/D3dMSf+1hSR8e5tr/Dud79rom/zLeRZcUtM7QxBnRZjVIE8NVt39k1G8YJgjl1yo7eerpxPzfGxcGz5/djD2Mi5lvpegA2y8nN1xvUSqViYSEzr6uJYhbC2Gw6ZrHu2+8JYYbTHm9823RGk3/Pr15xyZi3J1VsZig//OXgP0P7gb8Qkxyg6NZOGPAxqOq1aGVhvjsOxy+95ca/XFSo9tSk3Tl6i2YUEhVR8PtqOKzHFpo0TCXMTa9/10w10hE/949nmxP1YFJGd8Npu93lz//u2Llr8k9hKw1l33q+O8EM/qEOc4QlaoLQmS+SwzDUmoFpbLhCAVk+YEGAc8snDvz61S7wNIvxNGba+1CNAuwa49ZxVhXRm1l1m0mGmoQxzw4fCxy3wDRdFLVReHQ6vr6btyBAUFg8PbV9+DL+8Us1ouakAa+j+wjpqCjkitoNiVMOzSCbmex8KVkAxACgjopvGluJDznSNOphenTXRXN5DRdqRWR9p9tWXZbofUhlyWHdqAC0DlzuqtQ5Efa06hNofETk0F/u/Q5srJuO3MUNT64sFyb3WbqY+LKr1xMD4GbcQh3mQnWUngy2ACDEuC/u//98gDiA4Uk3tsfzGpzMWT0JZwBP2z7xuCbkyn4R3M4/7sgVgis+NsCaVpfYApezGwiEw2DBikgNVSQkNVtcTxTlXb2SsY3XDCitr2/A3e4h+nSQFqFIpSh+rI2YXQsF6/VCJAbSxke4H3f45fgkqfgfgYqbWceYL79ZD31opvED5JuZcq/658VW4jGi6JGOjHCmrSl2eLmUZYW27EXvlKz5qxM5ATKy6YHZVUq6QG2bHj4gx7SLJiixfDv8kcf2VR1lvvL+Qf4HGoCAcVFNBFs71LdROZz8VtFqy08ZpmLSdIyXOsHJZ94hfcDMZsQX863tDsB7SS0kRTvICTCKaFVMYekrkyDdA6OK5fI+6GPzc5nkm1Cq83xY68HU02QXRfMQ6Jenj5nGAihNGjDVZl+wxF4EdQhF5ymUNMqCVAaht0yU9oepHaV55ZgU16IU5Yp+we9RWQWi0h56MCOnGKcV1+7XgNsmW4j0Y9X90kAkqLGq0kdwG5MbNpAegHowNm03+ld2HI8qleriyZu2A7wLztHkzi2fLWgxUoL33PZXqF3wSA5ZQPmgDlIoppioycLyJHwv4lSwl1JD5n34FLjWWZEuSM6b/A2aSaJPNR00hmRPzz6MEmf1IvFOnfrZleRC6T5utxaaqiCTXm0B6BpIDORpZedey0KyVkOjVQUV2od/bE11fF7PhSjEwbWPxxqwrPCn+yUErX2gWQ1LmKn+4N1Q/dvsbYT228CzK/AGp+eMyVshQXVHt4VMABbaGejEFzDc/u1BGPJby5bzR1vB5Ga9NrflvY6JOiY8zonkm2E587HdvdGRCw4Ela7rW1F9gj9r8FeYpDBs88lu5BiHb2CA9z1/QYZYgN403EXFkubMuLmShm5xQoAFH71NzN4aDlXx6NrNGb6C+xPaJVYL0lm5zAXcGBnod3K1xRwwlSl5jnj0JxIdM4wUZGSDNb8s/fpyeGnIQqCiAsvlMgDWAyDnxy3k66ru1fhM2BIvqaXt6fkWW3mk1VRqrVOFhfTmiR7NPiRBwm2//tcEjSe7/QhrbVfGtj9xAwQx+Sp3XVIa0H/nbcWmcjAq02Xlaxij+1kDHAd8JDXV6BT8WgZORcC0cQGu2rxZGQOsnt4Wh/uaqdVg9Z84HZqs1U0pSrHRnZtRhZRnLqp97cTRXC88Avhdg6CUdfzgeiEnQXB6YPJEZmI2O77NcGDj3PvzNSfpfW+2w7yIAArGWlc1zFumscrvIhTsy4hoooB5owDk6HvG1df7o/jgetQNbYjkmCGw5AFF4rYKg9zUByCCmOdeD5o7I9NnkQC+TeDi31MyZGW6/SJ2V6IWVAnWI7+/lus4moxhH2vFkmUoMy4eMoH3FYRkYAQ=="
+    },
+    {
+     "type": "text",
+     "text": "{\n \"包\": \"M06\",\n \"答案\": [\n  {\n   \"题\": \"题06\",\n   \"最符合\": \"C\",\n   \"排序\": [\n    \"C\",\n    \"D\",\n    \"A\",\n    \"B\"\n   ],\n   \"理由\": {\n    \"A\": \"命宫、迁移有横祸、意外灾与本人安全警示，可对上中年凶灾；但路线纯为军人边疆武职、位高无权，与中南部名人、参选、灾解不掉的情形吻合较少。\",\n    \"B\": \"命宫偏文人才子、作家画家、当老师，迁移虽有横祸意外灾，但凶险多落在兄弟、子女、仆役等六亲宫，本人被杀、参选竞选的特征几乎无对应，最不符。\",\n    \"C\": \"命宫直接断横祸、意外灾、官司是非、灾应本人、要注意本人安全，官禄有当官、掌权、得正位又兼『被人干掉』，父母宫断『不能解厄制化』，仆役凶灾、祸不单行、朋友变仇人，与中南部名人参选前遭枪击、灾解不掉高度相符；仅『不想权位』属两说略有出入。\",\n    \"D\": \"命宫君王、官带、近天子、当官、命很好，官禄亦有『被人干掉』，可对上有名望、参政的身分；但命宫兼断能解厄制化、逢凶化吉，与『灾解也解不掉』相矛盾，横祸多落在子女宫而非本人，故次于C。\"\n   }\n  }\n ]\n}"
+    }
+   ],
+   "container": null,
+   "stop_reason": "end_turn",
+   "stop_sequence": null,
+   "stop_details": null,
+   "usage": {
+    "input_tokens": 7855,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 1103,
+    "output_tokens_details": {
+     "thinking_tokens": 579
+    },
+    "service_tier": "batch",
+    "inference_geo": "global"
+   },
+   "diagnostics": null
+  }
+ }
+}

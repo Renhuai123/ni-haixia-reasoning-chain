@@ -1,0 +1,31 @@
+{
+ "name": "J145",
+ "id": "J145",
+ "role": null,
+ "rerun": 0,
+ "ok": true,
+ "why_not_ok": [],
+ "custom_id": "J145",
+ "batch_id": "msgbatch_01XUZisTMhFtLCgCh4P9VkN7",
+ "model": "claude-fable-5-1",
+ "message_id": "msg_011Cfp3CJLP1qaD2PVsoVNiN",
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 16566,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 0,
+  "cache_creation": {
+   "ephemeral_5m_input_tokens": 0,
+   "ephemeral_1h_input_tokens": 0
+  },
+  "output_tokens": 2196,
+  "output_tokens_details": {
+   "thinking_tokens": 1602
+  },
+  "service_tier": "batch",
+  "inference_geo": "global"
+ },
+ "花费美元": 0.1377,
+ "prompt_sha256": "1fbcf14f93a9fe90c2505042f187be6f73f47a2f222879076342b66933e497cf",
+ "material_dir": "m4f_v1/packets/J145"
+}

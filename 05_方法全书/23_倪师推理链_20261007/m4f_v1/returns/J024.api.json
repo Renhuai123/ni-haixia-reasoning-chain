@@ -1,0 +1,43 @@
+{
+ "custom_id": "J024",
+ "result": {
+  "type": "succeeded",
+  "message": {
+   "model": "claude-fable-5-1",
+   "id": "msg_011Cfp3CJkvgFnRUuEyqzTxA",
+   "type": "message",
+   "role": "assistant",
+   "content": [
+    {
+     "type": "thinking",
+     "thinking": "",
+     "signature": "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"
+    },
+    {
+     "type": "text",
+     "text": "{\n \"包\": \"J024\",\n \"答案\": [\n  {\n   \"题\": \"题01\",\n   \"最符合\": \"C\",\n   \"排序\": [\n    \"C\",\n    \"A\",\n    \"B\",\n    \"D\"\n   ],\n   \"理由\": {\n    \"A\": \"命宫佐才、当助理秘书，财帛善于理财，仆役朋友变仇人，吉处藏凶在劫难逃都对得上；但夫妻宫婚姻不好、福德多婚，没有旺夫帮夫之象，与第6条帮夫相左。\",\n    \"B\": \"命宫旺夫、让先生无后顾之忧，仆役朋友变仇人，迁移吉处藏凶在劫难逃相符；但命宫是武官星文艺才华路线，没有佐才辅佐之命，财帛主破财而非守财理财，与第2、3条不合。\",\n    \"C\": \"命宫与迁移都直断横祸、意外灾，命宫旺夫、让先生无后顾之忧、妻兼夫职，财帛善于理财、正财，仆役朋友变仇人，路线帮人做事领薪水当公务员，与陈述相符最多；唯命宫未明言佐才，为小缺。\",\n    \"D\": \"命宫佐才、当助理秘书与财帛善于理财符合第2、3条；但仆役宫断合伙吉，与第4条合伙必败、朋友成仇直接矛盾，又无旺夫帮夫、横祸之断，相符最少。\"\n   }\n  }\n ]\n}"
+    }
+   ],
+   "container": null,
+   "stop_reason": "end_turn",
+   "stop_sequence": null,
+   "stop_details": null,
+   "usage": {
+    "input_tokens": 17177,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 1518,
+    "output_tokens_details": {
+     "thinking_tokens": 1008
+    },
+    "service_tier": "batch",
+    "inference_geo": "global"
+   },
+   "diagnostics": null
+  }
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "custom_id": "J177",
+ "result": {
+  "type": "succeeded",
+  "message": {
+   "model": "claude-fable-5-1",
+   "id": "msg_011Cfp3Ctq3HkeJ4TX6RDnKc",
+   "type": "message",
+   "role": "assistant",
+   "content": [
+    {
+     "type": "thinking",
+     "thinking": "",
+     "signature": "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"
+    },
+    {
+     "type": "text",
+     "text": "{\n \"包\": \"J177\",\n \"答案\": [\n  {\n   \"题\": \"题01\",\n   \"最符合\": \"A\",\n   \"排序\": [\n    \"A\",\n    \"D\",\n    \"B\",\n    \"C\"\n   ],\n   \"理由\": {\n    \"A\": \"命宫直接断「男人的命」「女命不行」「女命最忌」，福德宫断「很累」「一世不顺」「夫星不见」「婚姻不好」并提醒注意福德安全，父母宫断「妻兼夫职」「代表丈夫」，与「女人身男人命、活得很累、丈夫中年出事、一人带孩子」高度相符；佐才「帮人做事领薪水」符合职业妇女；夫妻宫科甲、重读书文笔才华与丈夫清秀相近；未提肾脏与住位是不足处。\",\n    \"D\": \"命宫「不靠男人」「自己赚钱」「一个人持家」「心理压力大」与职业妇女、一人持家相符，但夫妻宫断「宜嫁二婚夫、大7岁以上、少一只眼睛」、「唠叨男人受不了、婚姻难有着落」，与丈夫清秀漂亮的描述不合，也无「男人命」之断。\",\n    \"B\": \"命宫文官带、公家单位、孤单「婚姻难有着落」，夫妻宫「宜嫁二婚夫、大7岁以上」「离散父母」，仆役「没有名分的先生」，与陈述中有正式丈夫、中年丈夫出事后独自带孩子的情况不合，也无男人命、很累之断。\",\n    \"C\": \"命宫断「偏房格」「做偏房」「好的看不上她」，夫妻宫却又断「婚姻好、婚姻无事」，身宫在迁移主出外发展，与陈述中男人命、丈夫出事、一人带孩子、职业妇女等几乎都不对应，最不相符。\"\n   }\n  }\n ]\n}"
+    }
+   ],
+   "container": null,
+   "stop_reason": "end_turn",
+   "stop_sequence": null,
+   "stop_details": null,
+   "usage": {
+    "input_tokens": 18590,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 1609,
+    "output_tokens_details": {
+     "thinking_tokens": 948
+    },
+    "service_tier": "batch",
+    "inference_geo": "global"
+   },
+   "diagnostics": null
+  }
+ }
+}

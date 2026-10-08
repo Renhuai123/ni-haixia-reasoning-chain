@@ -1,0 +1,43 @@
+{
+ "custom_id": "Q16_ADJ",
+ "result": {
+  "type": "succeeded",
+  "message": {
+   "model": "claude-fable-5-1",
+   "id": "msg_011Cfp3b6DGDgBKfW7MgmGeJ",
+   "type": "message",
+   "role": "assistant",
+   "content": [
+    {
+     "type": "thinking",
+     "thinking": "",
+     "signature": "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"
+    },
+    {
+     "type": "text",
+     "text": "{\n \"批\": \"Q16\",\n \"裁定\": [\n  {\n   \"编号\": \"qs-1-10-23:s001#2\",\n   \"项\": \"C1\",\n   \"裁定\": \"否\",\n   \"依据\": \"\",\n   \"理由\": \"「帝为无道主」在原文里是紧接「诸恶共饮凌」之后并列写出的另一句结论（本批已另列为#3条目作定名），原文没有用「所以」「因为」之类把它当作「诸恶共饮凌」的理由，也不是先立人物象再推出结论的写法；本句得出「诸恶共饮凌」所凭的只是「若还无辅弼」这一位置条件，故C1答否。\"\n  }\n ]\n}"
+    }
+   ],
+   "container": null,
+   "stop_reason": "end_turn",
+   "stop_sequence": null,
+   "stop_details": null,
+   "usage": {
+    "input_tokens": 30560,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 831,
+    "output_tokens_details": {
+     "thinking_tokens": 594
+    },
+    "service_tier": "batch",
+    "inference_geo": "global"
+   },
+   "diagnostics": null
+  }
+ }
+}

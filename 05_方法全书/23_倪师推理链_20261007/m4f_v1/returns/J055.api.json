@@ -1,0 +1,43 @@
+{
+ "custom_id": "J055",
+ "result": {
+  "type": "succeeded",
+  "message": {
+   "model": "claude-fable-5-1",
+   "id": "msg_011Cfp3CJbWG2a9CQA4tAUMF",
+   "type": "message",
+   "role": "assistant",
+   "content": [
+    {
+     "type": "thinking",
+     "thinking": "",
+     "signature": "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"
+    },
+    {
+     "type": "text",
+     "text": "{\n \"包\": \"J055\",\n \"答案\": [\n  {\n   \"题\": \"题01\",\n   \"最符合\": \"C\",\n   \"排序\": [\n    \"C\",\n    \"A\",\n    \"D\",\n    \"B\"\n   ],\n   \"理由\": {\n    \"A\": \"命宫个性强、田宅生有祖业、婚姻不容易遇到好的、官禄停滞与陈述1、3、4、5略相符，但整份以女命口吻论断（好的看不上她、没有名分的先生），兄弟宫断温和谦和，与敢潜水吓坏父母的弟弟不合。\",\n    \"B\": \"命宫断厚道温和谦和、不想权位、命很好、家财万贯，田宅破祖业，又以女命论嫁夫，与陈述的个性强、祖业早得、事倍功半无成就多处矛盾，最不符。\",\n    \"C\": \"明断为男人的命，命宫刚强、拗、狠、不顾一切，有生杀之权可管事；命宫与父母宫皆生有祖业；桃花化忌推出婚事不成，正合感情两难；半空折翅、非常凶合先天无成就；兄弟宫断没有兄弟与有弟弟不合，但要特别注意兄弟安全尚可对应潜水吓人之事，整体最相符。\",\n    \"D\": \"命宫主见强与陈述1相符，兄弟宫刚强不顾一切、意气用事、带来祸害可对应冒险潜水的弟弟，但婚姻断婚姻好、自己决定婚姻与感情受阻不合，田宅只有房屋火灾无祖业，路线巨贾也与事倍功半相左，且唠叨男人受不了属女命语气。\"\n   }\n  }\n ]\n}"
+    }
+   ],
+   "container": null,
+   "stop_reason": "end_turn",
+   "stop_sequence": null,
+   "stop_details": null,
+   "usage": {
+    "input_tokens": 18493,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 2103,
+    "output_tokens_details": {
+     "thinking_tokens": 1517
+    },
+    "service_tier": "batch",
+    "inference_geo": "global"
+   },
+   "diagnostics": null
+  }
+ }
+}

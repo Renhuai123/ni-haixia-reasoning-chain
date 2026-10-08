@@ -1,0 +1,31 @@
+{
+ "name": "N12_乙",
+ "id": "N12",
+ "role": "乙",
+ "rerun": 0,
+ "ok": true,
+ "why_not_ok": [],
+ "custom_id": "N12_B",
+ "batch_id": "msgbatch_01NVFCc2Q9UGQHBdYMjtvvjy",
+ "model": "claude-fable-5-1",
+ "message_id": "msg_011Cfp2XcJXfD75oJF3pu7qE",
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 20442,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 0,
+  "cache_creation": {
+   "ephemeral_5m_input_tokens": 0,
+   "ephemeral_1h_input_tokens": 0
+  },
+  "output_tokens": 12316,
+  "output_tokens_details": {
+   "thinking_tokens": 4492
+  },
+  "service_tier": "batch",
+  "inference_geo": "global"
+ },
+ "花费美元": 0.4101,
+ "prompt_sha256": "5f0074d63bf91f16661d843c6220d9e266687b045cb8a1e83d0dbb1585cd09c8",
+ "material_dir": "trad_v1/formal/N12"
+}

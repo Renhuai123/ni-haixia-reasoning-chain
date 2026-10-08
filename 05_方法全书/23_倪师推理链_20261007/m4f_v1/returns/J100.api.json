@@ -1,0 +1,43 @@
+{
+ "custom_id": "J100",
+ "result": {
+  "type": "succeeded",
+  "message": {
+   "model": "claude-fable-5-1",
+   "id": "msg_011Cfp3CJnfRK6MUcTttztdc",
+   "type": "message",
+   "role": "assistant",
+   "content": [
+    {
+     "type": "thinking",
+     "thinking": "",
+     "signature": "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"
+    },
+    {
+     "type": "text",
+     "text": "{\n \"包\": \"J100\",\n \"答案\": [\n  {\n   \"题\": \"题01\",\n   \"最符合\": \"D\",\n   \"排序\": [\n    \"D\",\n    \"B\",\n    \"C\",\n    \"A\"\n   ],\n   \"理由\": {\n    \"A\": \"命宫以武官星、刚强、不苟言笑为主，与她偏文的性格不符；父母宫只见灾星、是非、开刀血光，没有武职之象，兄弟宫文官平和但未见得力合伙，整体与陈述相符处最少。\",\n    \"B\": \"父母宫武官星、主征战符合父亲从事武职，兄弟宫大吉、兄弟得利及仆役合伙大利符合与兄弟姐妹合伙有利，命宫孤星推出婚姻难有着落也合感情无结果；但命宫武官星、巨贾、富可敌国与她偏文、不继承祖业的描述相抵触。\",\n    \"C\": \"命宫温和谦和、官禄作家画家老师、感情纠纷不断与她偏文及感情无果大致相合，迁移离乡走天下也合到外地做生意的说法；但命宫仍是武官星，父母宫只见吃苦奔波而非武职，兄弟宫反见官司牢狱，不见兄弟得力。\",\n    \"D\": \"命宫文采风流、科甲、重读书文笔才华、作家画家老师，最合她偏文、不承父职祖业；父母宫武官星、主征战合父亲武职，兄弟宫贵人星、兄弟当官合兄弟姐妹得力；夫妻宫在身宫婚姻凶、先生不好合感情不顺，鼠窃与田宅火灾亦呼应不懂防人、不动产出事；唯父母宫兼见父母从商一说为小瑕疵。\"\n   }\n  }\n ]\n}"
+    }
+   ],
+   "container": null,
+   "stop_reason": "end_turn",
+   "stop_sequence": null,
+   "stop_details": null,
+   "usage": {
+    "input_tokens": 19206,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 2093,
+    "output_tokens_details": {
+     "thinking_tokens": 1474
+    },
+    "service_tier": "batch",
+    "inference_geo": "global"
+   },
+   "diagnostics": null
+  }
+ }
+}

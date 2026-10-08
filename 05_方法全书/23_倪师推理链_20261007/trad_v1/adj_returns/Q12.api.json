@@ -1,0 +1,43 @@
+{
+ "custom_id": "Q12_ADJ",
+ "result": {
+  "type": "succeeded",
+  "message": {
+   "model": "claude-fable-5-1",
+   "id": "msg_011Cfp3b3b1LqAd1dypoDdT9",
+   "type": "message",
+   "role": "assistant",
+   "content": [
+    {
+     "type": "thinking",
+     "thinking": "",
+     "signature": "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"
+    },
+    {
+     "type": "text",
+     "text": "{\n \"批\": \"Q12\",\n \"裁定\": [\n  {\n   \"编号\": \"qs-2-2-62:s001#4\",\n   \"项\": \"C5\",\n   \"裁定\": \"否\",\n   \"依据\": \"\",\n   \"理由\": \"「辛勤度日免家倾」整句是判断本身，其内部的事理因果属于结论内容，原文把它当作「陷地」带来的后果来说，得出此判断的依据只是陷地（位），并未另以人情事理为理由，故C5答否。\"\n  },\n  {\n   \"编号\": \"qs-2-3-10:s001#8\",\n   \"项\": \"C3\",\n   \"裁定\": \"否\",\n   \"依据\": \"\",\n   \"理由\": \"「加羊陀火铃空劫」只是在原组合上多加几颗星，原文未说出宫位、亮度、四化或成格等位置关系在起作用，按 codebook「理由若只是有这颗星（或这个组合）」即为直断，与同句「天同」一项两人都按直断的处理一致，故C3答否。\"\n  }\n ]\n}"
+    }
+   ],
+   "container": null,
+   "stop_reason": "end_turn",
+   "stop_sequence": null,
+   "stop_details": null,
+   "usage": {
+    "input_tokens": 28195,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 1313,
+    "output_tokens_details": {
+     "thinking_tokens": 963
+    },
+    "service_tier": "batch",
+    "inference_geo": "global"
+   },
+   "diagnostics": null
+  }
+ }
+}

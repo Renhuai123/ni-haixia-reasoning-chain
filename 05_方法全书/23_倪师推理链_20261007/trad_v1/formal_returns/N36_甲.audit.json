@@ -1,0 +1,31 @@
+{
+ "name": "N36_甲",
+ "id": "N36",
+ "role": "甲",
+ "rerun": 0,
+ "ok": true,
+ "why_not_ok": [],
+ "custom_id": "N36_A",
+ "batch_id": "msgbatch_01NVFCc2Q9UGQHBdYMjtvvjy",
+ "model": "claude-fable-5-1",
+ "message_id": "msg_011Cfp2anUJKJ3Mzsah33L71",
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 20915,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 0,
+  "cache_creation": {
+   "ephemeral_5m_input_tokens": 0,
+   "ephemeral_1h_input_tokens": 0
+  },
+  "output_tokens": 14150,
+  "output_tokens_details": {
+   "thinking_tokens": 5794
+  },
+  "service_tier": "batch",
+  "inference_geo": "global"
+ },
+ "花费美元": 0.4583,
+ "prompt_sha256": "e61f01d7c57397a666987e42a6684dbc796ac5090d571acb3d1297ca8343dc45",
+ "material_dir": "trad_v1/formal/N36"
+}

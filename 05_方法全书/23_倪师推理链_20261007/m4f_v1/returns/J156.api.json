@@ -1,0 +1,43 @@
+{
+ "custom_id": "J156",
+ "result": {
+  "type": "succeeded",
+  "message": {
+   "model": "claude-fable-5-1",
+   "id": "msg_011Cfp3CJq9Ee3v2sNstGi7x",
+   "type": "message",
+   "role": "assistant",
+   "content": [
+    {
+     "type": "thinking",
+     "thinking": "",
+     "signature": "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"
+    },
+    {
+     "type": "text",
+     "text": "{\n \"包\": \"J156\",\n \"答案\": [\n  {\n   \"题\": \"题01\",\n   \"最符合\": \"D\",\n   \"排序\": [\n    \"D\",\n    \"A\",\n    \"B\",\n    \"C\"\n   ],\n   \"理由\": {\n    \"A\": \"命宫武官星、化将、当将军、警察、大富大贵、官禄宫公家单位一考就上、生有祖业，与出将入相及公家考试顺利相符；但夫妻宫为灾星杀星、想不开、健康最不好，命宫又有做偏房、聚少散多，与「老婆好得不得了、温和厚道」明显矛盾。\",\n    \"B\": \"命宫文官带、正财、不干武官、帮人领薪水、官禄宫没有官带当官不容易，与「若当将军警察能做到局长、出将入相」不符；夫妻宫二婚、少一只眼睛也与娶到极好的老婆不合，仅公家单位、金榜题名略有相符。\",\n    \"C\": \"命宫佐才、位高无权、不得重用、半空折翅、当助理秘书，与陈述中出将入相、职位很大、腰缠黄金的尊贵格局完全相反；只有迁移宫武官星、武职大利勉强沾边，六亲祖业等皆无对应。\",\n    \"D\": \"命宫武官星、当将军、化将、有生杀之权、男命最好，正合「如果是男人能出将入相、当将军警察能做到局长」；夫妻身宫正财贵人、厚道温和吃苦耐劳，正合「老婆很温和很厚道」；父母宫生有祖业、母亲待她好，合「豪门大宅有祖业可分」且点出命主为女性；唯未直接写公家考试顺利，命宫带官司是非、开刀血光为小瑕。\"\n   }\n  }\n ]\n}"
+    }
+   ],
+   "container": null,
+   "stop_reason": "end_turn",
+   "stop_sequence": null,
+   "stop_details": null,
+   "usage": {
+    "input_tokens": 14003,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 1512,
+    "output_tokens_details": {
+     "thinking_tokens": 893
+    },
+    "service_tier": "batch",
+    "inference_geo": "global"
+   },
+   "diagnostics": null
+  }
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "custom_id": "J129",
+ "result": {
+  "type": "succeeded",
+  "message": {
+   "model": "claude-fable-5-1",
+   "id": "msg_011Cfp3CujcKZnXXEZrT1vgs",
+   "type": "message",
+   "role": "assistant",
+   "content": [
+    {
+     "type": "thinking",
+     "thinking": "",
+     "signature": "CAQSgg8KEAgSGAI4AUIIdGhpbmtpbmcSDBVJCwUOqhxXDtSeoBoMu9Y84OYW+SX+h61VIjDM6YNhymX29ddzx7ElsYwLrkCRhs6q3RoihHO0ufZm7o7qy/CPHkKY1+wfupkbtC8qnw7Xxt9lQO81b9jGAseVS8mees9rXS11PJU+N5Kg+FEQezIexihQmTaCVKZgRuYz0UoN+hhvM5MoxjUbmsAmygXHKZfL6klDU4aOyzJyKgUih2B08h7oFcD94cah/TtkqBhjnyJZiHXR6ck1imCe37cwXBh0taO07oYwkJQbpL48AAeYkXmx4+djcylsFuZUa6U/4zLHwzgEvLrQ/SjG2RBFj1bmq4H8Fwd6MiTnEQ6cO+bYDq6IOWKa5KhySRg3LcPxgEvBNdxJMabrw3eA57dfdB1xNh84Lt6Fe3JS6Qtcw9nAnybBECngiKqg4DoMgU/R0jQlyB/4yaFv2RDmEiSmfNVSFbXE+f7FAYixmeUE0KHtH/RaNtHYzi4OeenPgAazw8EnSUjqq+H6uAY2igcX0DYv4DSq0Ru4hrCnjlqdH0f0B8nU+ggoUTW7haVg7ZWT+F14tVBjfaZh1U17xQ73j3OZYxPonD1rzhW2qk8pOjacMsYZ8LdDaJV3LK9TUyfEUE1oeMzYcWIlYWhqnb8/57Bjr9AaBMxlBnjkMwMt3tRr1LffOBPx2tJh6u7fjsCsiPx1NG8fdvktpm9iMCAgBA7vTc/1rfKydey8Mn4nuNbTXOz4J7HH79JwDDXMOBy/vSAlfjjqv3ku3+NmKUPBM7F9aSq+m/V/AhPHItRVkJ2CFVu042YDYvfOCxuZqw3WtH5QQvs3jLhJeYQraI78gNruzMYTJ12FRqX8MpNjOlmnftmNWYkgZwzPci/T+OLc7Oy29rTXaj7JGAYJXRb87voef+TJkZBgaxUN1UHLktLsMTwEHqzEmRMb/wZAOxPRXryuw+i66l+zItq56vdjvJ2FcaD2yyUF76DuHnLl4gnQqu4ISrNKs8mHCC/96VlV9nT1Ftks/zd45lqnmhuPfnalMJmzRlQFle9dHgJn2HH0NJPZdqUq5qy49x6I1Ce/mSeajZSs4joaQe1haWmhcOyLGDkMN8n4yDTIP2/1GgE62ze6iPea4R1LMveQOsmpMtwlMqMHmA/otfpSmZ6KAvr1UAIMaUpT/1hRWttBSvK/KGohUX5e44VI27pdvWiEqI9xM9gz/WwrwpgcQPwJHe/joUMkqTPK5zr+2SIfnSZ13LkK5/EOlUQITjdDTSU03DS7/6VJQjiHhxGERQ7jw0o91kYPenIaLbz0x+rt3A+yRDdZNJcMe2oT53eSN59OuqeiTyOdJUyCzJ1em12NeM3YtVIgQmvCvrSYskUwfy4X0aBrQD1WX0jG9S+yMQTNMByB2eAqblO8Zdlrywd+dNSd6/ys+oVj2v2vwjdAN0WWcyc/Dlbp5+LaBqg+p1oY/qH1XA+qj4UppdVLQRv3ZKK1HdSRSN2tH9q5Zo1cOgGM4FFyOFuXejvwUIANOaIPIMVwq2P5RodjEQuQLOo/KLdozGKapoeAoYylMDSrO//+geTtZXt1q6LiMFxzrnVdm6s7fSeF0S4ZVxgx5xC3FM2ZyOIfjpbqpcbXlAX5XdqzM5xTYbJsvCP4oAfw6eVC1WFv8pzrV/xCc0d14Y0/LHXr98ObLPfWMX0UekVgkdyz/a179x/Ript6qK7yEEgI3YlSbP2qFxqmTHk0XSdegfbSHt0A4go9w5O/PZSXPwEROl3uRGrb2wxbTkUN1o3TYQcdUB5hx7q4zf4KyLXticZdhvs87rGMaYng3YJhZKQPAdgPaeioybPtku9gPpjeZJLKcyjdgf/cVTbvzBbD/mE5YF+XnMuYGYQS/BH9JEjjKYxnH31ldwljNY1wU+qydOfSBW33Rec6xL5I5pX3tVMDbBAPkAhXd/aJhrKt1KT01ODn4tTALDlU43hjCbCijyhTQ3cmMw199g7YuqB8aXq8LZCZToz441DHMmhKdmZxu8AaKF/H0Dl3kNtv1OocfnuTfXtDN464RL0CigOfLWcYUesnrWbYh/+arC9Qs4CLZlATUUvQhwr236iyiQcpOIyTuwyVcY1wKaUOvucUsmz5cp3ZDXt65tYXgGyRv9f3OzVIA64fDC5Yv2bSMhmuUMhv4AyJSQGWwzVl3RbxeMwnFLFTXRleoovPcKsoTAIPAoW6yyXO42bL0i3i+uH3cls/8SrTC/r2E1IB2qLqFARDdqBQRgWyzXGa86twyA/jaHxwDQo7reWrGw6Ma+5kHsFqnSXojSWfvN4x2VKHMkWS2gONQbPIEMOoWsuNeKizcyxZ44XKRSRui5Rnkg7wh+ze1+hkcgqJ8zLeaMbUrWqqYWrGNl6RVUCiF7TFTTv+tMblX1z+OhgTfbsEGEF0Q4XIaOJhNeaZQUhAAy7rVqEP7hGfAm/nIO9DU8TQ4fooJOud8xyjNxNLh4yo3WppiG2b64iAgSMPygez1QB3u2KT79atNYepF1HMOPIxP+C06DDBGqxRk/fMX+qYgRgB"
+    },
+    {
+     "type": "text",
+     "text": "{\n \"包\": \"J129\",\n \"答案\": [\n  {\n   \"题\": \"题01\",\n   \"最符合\": \"A\",\n   \"排序\": [\n    \"A\",\n    \"B\",\n    \"C\",\n    \"D\"\n   ],\n   \"理由\": {\n    \"A\": \"命宫文武双全、文武官皆可、当将军、当公务员、考试很棒、男命最好，官禄贵人多工作顺利，命宫与田宅皆生有祖业、财帛家财万贯，夫妻宫厚道善良温和，婚姻不容易遇到好的对应晚婚，与陈述的出将入相、公家升迁考试顺利、豪门祖业、好老婆、34岁才结婚几乎全部相符。\",\n    \"B\": \"命宫武官星可当将军、男命最好，夫妻宫厚道温和，父母宫生有祖业，部分相符；但命宫偏重凶灾血光官司、田宅房屋火灾，缺少文官考试与富贵成格之象，不如A。\",\n    \"C\": \"武官星当将军、大富大贵、生有祖业与官禄一考就上有相符处；但婚姻做偏房、聚少散多、六亲不靠、离散父母，配偶想不开、伤身、横祸、要注意安危，与好老婆、豪门祖业明显矛盾。\",\n    \"D\": \"命宫佐才、位高无权、不得重用、半空折翅、帮人做事领薪水，与出将入相、位高权重相反，夫妻宫刚强血光也与温和厚道的配偶不符，仅迁移宫武官星略有关联，最不符。\"\n   }\n  }\n ]\n}"
+    }
+   ],
+   "container": null,
+   "stop_reason": "end_turn",
+   "stop_sequence": null,
+   "stop_details": null,
+   "usage": {
+    "input_tokens": 12888,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 1141,
+    "output_tokens_details": {
+     "thinking_tokens": 591
+    },
+    "service_tier": "batch",
+    "inference_geo": "global"
+   },
+   "diagnostics": null
+  }
+ }
+}

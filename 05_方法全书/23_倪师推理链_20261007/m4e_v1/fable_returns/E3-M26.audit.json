@@ -1,0 +1,31 @@
+{
+ "name": "E3-M26",
+ "id": "E3-M26",
+ "role": null,
+ "rerun": 0,
+ "ok": true,
+ "why_not_ok": [],
+ "custom_id": "E3-M26",
+ "batch_id": "msgbatch_018BBnuCB5Fi2CEugBkDXffX",
+ "model": "claude-fable-5-1",
+ "message_id": "msg_011Cfp49HKPpkqtHNR2GU3QQ",
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 12899,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 0,
+  "cache_creation": {
+   "ephemeral_5m_input_tokens": 0,
+   "ephemeral_1h_input_tokens": 0
+  },
+  "output_tokens": 2361,
+  "output_tokens_details": {
+   "thinking_tokens": 1640
+  },
+  "service_tier": "batch",
+  "inference_geo": "global"
+ },
+ "花费美元": 0.1235,
+ "prompt_sha256": "45fd27fb2127d71822084137fd681591d6cee2038f56587d6d7aa6e89f344644",
+ "material_dir": "m4e_v1/judge_packets_三/M26"
+}

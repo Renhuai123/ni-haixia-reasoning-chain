@@ -1,0 +1,764 @@
+{
+ "kind": "judge",
+ "model": "claude-fable-5-1",
+ "effort": "high",
+ "max_tokens": 48000,
+ "tasks": {
+  "EC-M01": {
+   "name": "EC-M01",
+   "id": "EC-M01",
+   "role": null,
+   "rerun": 0,
+   "dir": "m4e_v1/judge_packets_链/M01",
+   "instructions": "m4e_judge_instructions_链_api_v1.txt",
+   "prompt_sha256": "2e93a63170daa174fad50d2cb02859f4f348352c1a14d04232f4900c8c1ad787"
+  },
+  "EC-M02": {
+   "name": "EC-M02",
+   "id": "EC-M02",
+   "role": null,
+   "rerun": 0,
+   "dir": "m4e_v1/judge_packets_链/M02",
+   "instructions": "m4e_judge_instructions_链_api_v1.txt",
+   "prompt_sha256": "c2038d7392a16f2a622b0fa6767bfe0dd03bbdf75a1cf85ba99329efe83aa35f"
+  },
+  "EC-M03": {
+   "name": "EC-M03",
+   "id": "EC-M03",
+   "role": null,
+   "rerun": 0,
+   "dir": "m4e_v1/judge_packets_链/M03",
+   "instructions": "m4e_judge_instructions_链_api_v1.txt",
+   "prompt_sha256": "48a0b09c5fd365ce3585b78591c30a201bed25ea468ce4925910289b0ef5d5a3"
+  },
+  "EC-M04": {
+   "name": "EC-M04",
+   "id": "EC-M04",
+   "role": null,
+   "rerun": 0,
+   "dir": "m4e_v1/judge_packets_链/M04",
+   "instructions": "m4e_judge_instructions_链_api_v1.txt",
+   "prompt_sha256": "6b82c0fd1e2936bb21b2f85407b73686bb38f1d5de86eb8c0fc99b4ec8884a99"
+  },
+  "EC-M05": {
+   "name": "EC-M05",
+   "id": "EC-M05",
+   "role": null,
+   "rerun": 0,
+   "dir": "m4e_v1/judge_packets_链/M05",
+   "instructions": "m4e_judge_instructions_链_api_v1.txt",
+   "prompt_sha256": "5b521a343de260501ea491f377289201cce5c668ee7b50ce61bf14ca331ddf9d"
+  },
+  "EC-M06": {
+   "name": "EC-M06",
+   "id": "EC-M06",
+   "role": null,
+   "rerun": 0,
+   "dir": "m4e_v1/judge_packets_链/M06",
+   "instructions": "m4e_judge_instructions_链_api_v1.txt",
+   "prompt_sha256": "942ab6865ef494b82eeb406d9b2faf024ac6605e41bdaac4fd4eb39781a78adb"
+  },
+  "EC-M07": {
+   "name": "EC-M07",
+   "id": "EC-M07",
+   "role": null,
+   "rerun": 0,
+   "dir": "m4e_v1/judge_packets_链/M07",
+   "instructions": "m4e_judge_instructions_链_api_v1.txt",
+   "prompt_sha256": "9b317e252903ad5b5ea042783f05b0ea4f5b35b8376bb50cc4e65c4b82f3b68f"
+  },
+  "EC-M08": {
+   "name": "EC-M08",
+   "id": "EC-M08",
+   "role": null,
+   "rerun": 0,
+   "dir": "m4e_v1/judge_packets_链/M08",
+   "instructions": "m4e_judge_instructions_链_api_v1.txt",
+   "prompt_sha256": "0e9983e0012b7d9dc858fe4533e10e872a1ae7a156f609945d5dfd44d4e2d2c9"
+  },
+  "EC-M09": {
+   "name": "EC-M09",
+   "id": "EC-M09",
+   "role": null,
+   "rerun": 0,
+   "dir": "m4e_v1/judge_packets_链/M09",
+   "instructions": "m4e_judge_instructions_链_api_v1.txt",
+   "prompt_sha256": "e1f5cc553a9e1fdfa35ad397ea56c7ddac4eb96d702f9551e703cdd45f28f124"
+  },
+  "EC-M10": {
+   "name": "EC-M10",
+   "id": "EC-M10",
+   "role": null,
+   "rerun": 0,
+   "dir": "m4e_v1/judge_packets_链/M10",
+   "instructions": "m4e_judge_instructions_链_api_v1.txt",
+   "prompt_sha256": "6a955b146c3ab795befa9dfb4ffe6d0042d51f492346afb09c51fee45aa26a6d"
+  },
+  "EC-M11": {
+   "name": "EC-M11",
+   "id": "EC-M11",
+   "role": null,
+   "rerun": 0,
+   "dir": "m4e_v1/judge_packets_链/M11",
+   "instructions": "m4e_judge_instructions_链_api_v1.txt",
+   "prompt_sha256": "d8d97ed67ce60b2d98fda8050411ec7c16e109b77c9ce17102ec93066f7682a8"
+  },
+  "EC-M12": {
+   "name": "EC-M12",
+   "id": "EC-M12",
+   "role": null,
+   "rerun": 0,
+   "dir": "m4e_v1/judge_packets_链/M12",
+   "instructions": "m4e_judge_instructions_链_api_v1.txt",
+   "prompt_sha256": "e7b59b9a7d1c0c849643d148a3e0e3249c53d4408d5299b9ce6981c4dfa5c5bf"
+  },
+  "EC-M13": {
+   "name": "EC-M13",
+   "id": "EC-M13",
+   "role": null,
+   "rerun": 0,
+   "dir": "m4e_v1/judge_packets_链/M13",
+   "instructions": "m4e_judge_instructions_链_api_v1.txt",
+   "prompt_sha256": "cb2c96303c77fc6cfcca1b077570637c2784340d1019f32c3db17136b39ca52d"
+  },
+  "EC-M14": {
+   "name": "EC-M14",
+   "id": "EC-M14",
+   "role": null,
+   "rerun": 0,
+   "dir": "m4e_v1/judge_packets_链/M14",
+   "instructions": "m4e_judge_instructions_链_api_v1.txt",
+   "prompt_sha256": "9772ce6ca7a7fe073a191d4f08830d09205ba9d45d1180a3bcb4003dd6f04eb1"
+  },
+  "EC-M15": {
+   "name": "EC-M15",
+   "id": "EC-M15",
+   "role": null,
+   "rerun": 0,
+   "dir": "m4e_v1/judge_packets_链/M15",
+   "instructions": "m4e_judge_instructions_链_api_v1.txt",
+   "prompt_sha256": "9bd2481c2529d8dbcccf68c5833354f77c0e767f9a217d9c3a895262a2c5224d"
+  },
+  "EC-M16": {
+   "name": "EC-M16",
+   "id": "EC-M16",
+   "role": null,
+   "rerun": 0,
+   "dir": "m4e_v1/judge_packets_链/M16",
+   "instructions": "m4e_judge_instructions_链_api_v1.txt",
+   "prompt_sha256": "bfb970fa3ef4160f09b7bc7f6ecb09c4a302490ceb7ab0b7e888c1160926c2a0"
+  },
+  "EC-M17": {
+   "name": "EC-M17",
+   "id": "EC-M17",
+   "role": null,
+   "rerun": 0,
+   "dir": "m4e_v1/judge_packets_链/M17",
+   "instructions": "m4e_judge_instructions_链_api_v1.txt",
+   "prompt_sha256": "c9f3d635d4fcec8704534e293d95b67aa3ba7aab5dfcffa0e758f03fd64c1c3c"
+  },
+  "EC-M18": {
+   "name": "EC-M18",
+   "id": "EC-M18",
+   "role": null,
+   "rerun": 0,
+   "dir": "m4e_v1/judge_packets_链/M18",
+   "instructions": "m4e_judge_instructions_链_api_v1.txt",
+   "prompt_sha256": "282874fca800732eea4adb0fe681d1f8c389c4415d693775ca41bd39535157fc"
+  },
+  "EC-M19": {
+   "name": "EC-M19",
+   "id": "EC-M19",
+   "role": null,
+   "rerun": 0,
+   "dir": "m4e_v1/judge_packets_链/M19",
+   "instructions": "m4e_judge_instructions_链_api_v1.txt",
+   "prompt_sha256": "747cb96739c3a5c4527ea77c89c9514b7d699143040f9187fb04714c2f27d11a"
+  },
+  "EC-M20": {
+   "name": "EC-M20",
+   "id": "EC-M20",
+   "role": null,
+   "rerun": 0,
+   "dir": "m4e_v1/judge_packets_链/M20",
+   "instructions": "m4e_judge_instructions_链_api_v1.txt",
+   "prompt_sha256": "0d56325b2d3a3b95fd8d8d52cd76d51a9be5aa4930e65fb8abd78ffb3d539a0e"
+  },
+  "EC-M21": {
+   "name": "EC-M21",
+   "id": "EC-M21",
+   "role": null,
+   "rerun": 0,
+   "dir": "m4e_v1/judge_packets_链/M21",
+   "instructions": "m4e_judge_instructions_链_api_v1.txt",
+   "prompt_sha256": "4072aeb55c3957ed156ca32c6af3388dd23903a7ea3195be904f280061398e0a"
+  },
+  "EC-M22": {
+   "name": "EC-M22",
+   "id": "EC-M22",
+   "role": null,
+   "rerun": 0,
+   "dir": "m4e_v1/judge_packets_链/M22",
+   "instructions": "m4e_judge_instructions_链_api_v1.txt",
+   "prompt_sha256": "ea4a5a2be70bbef5c194ea0964d3549c07a06504d80d632e419dd80005733be5"
+  },
+  "EC-M23": {
+   "name": "EC-M23",
+   "id": "EC-M23",
+   "role": null,
+   "rerun": 0,
+   "dir": "m4e_v1/judge_packets_链/M23",
+   "instructions": "m4e_judge_instructions_链_api_v1.txt",
+   "prompt_sha256": "cc04e3ff0e5a65134e07add2a29c1d43c245f41db33b8c0f660a2b97b0a0ff61"
+  },
+  "EC-M24": {
+   "name": "EC-M24",
+   "id": "EC-M24",
+   "role": null,
+   "rerun": 0,
+   "dir": "m4e_v1/judge_packets_链/M24",
+   "instructions": "m4e_judge_instructions_链_api_v1.txt",
+   "prompt_sha256": "3997a7ffebf3738b593164b4fe3c8b20dabb05033372509110be84d23dd338f0"
+  },
+  "EC-M25": {
+   "name": "EC-M25",
+   "id": "EC-M25",
+   "role": null,
+   "rerun": 0,
+   "dir": "m4e_v1/judge_packets_链/M25",
+   "instructions": "m4e_judge_instructions_链_api_v1.txt",
+   "prompt_sha256": "814b5931bb338d7f50bb2ce4f1b739f40e52db5c4fd6ee5b585f05dffe3d05e2"
+  },
+  "EC-M26": {
+   "name": "EC-M26",
+   "id": "EC-M26",
+   "role": null,
+   "rerun": 0,
+   "dir": "m4e_v1/judge_packets_链/M26",
+   "instructions": "m4e_judge_instructions_链_api_v1.txt",
+   "prompt_sha256": "ee054cd437b41f0ed2b45b01f32b2b73d143b97f016ae43efe95245fe49a1bb0"
+  },
+  "EC-M27": {
+   "name": "EC-M27",
+   "id": "EC-M27",
+   "role": null,
+   "rerun": 0,
+   "dir": "m4e_v1/judge_packets_链/M27",
+   "instructions": "m4e_judge_instructions_链_api_v1.txt",
+   "prompt_sha256": "60ab83c5813c7458ad518207f094fa7d329d027e6cec4827cdeb54682038d07e"
+  },
+  "EC-M28": {
+   "name": "EC-M28",
+   "id": "EC-M28",
+   "role": null,
+   "rerun": 0,
+   "dir": "m4e_v1/judge_packets_链/M28",
+   "instructions": "m4e_judge_instructions_链_api_v1.txt",
+   "prompt_sha256": "b4ee3739714bcfb2263c5f02e9d492e1b154d0106a9d70258417ef35bc6dc944"
+  },
+  "EF-M01": {
+   "name": "EF-M01",
+   "id": "EF-M01",
+   "role": null,
+   "rerun": 0,
+   "dir": "m4e_v1/judge_packets_平/M01",
+   "instructions": "m4e_judge_instructions_平_api_v1.txt",
+   "prompt_sha256": "fcb62a9ebf03a6cf548df497f8eb71349b925ccb2132eac380a7085b1528cda4"
+  },
+  "EF-M02": {
+   "name": "EF-M02",
+   "id": "EF-M02",
+   "role": null,
+   "rerun": 0,
+   "dir": "m4e_v1/judge_packets_平/M02",
+   "instructions": "m4e_judge_instructions_平_api_v1.txt",
+   "prompt_sha256": "5d130d553b9a9e0fb4b28addbed028dc4ee8909aaac1e2cf650bcc0e116090b2"
+  },
+  "EF-M03": {
+   "name": "EF-M03",
+   "id": "EF-M03",
+   "role": null,
+   "rerun": 0,
+   "dir": "m4e_v1/judge_packets_平/M03",
+   "instructions": "m4e_judge_instructions_平_api_v1.txt",
+   "prompt_sha256": "50a54a977baa4fe7a3a6bc4f4ca19184a297dd7ba5b174392df90b25427e8d52"
+  },
+  "EF-M04": {
+   "name": "EF-M04",
+   "id": "EF-M04",
+   "role": null,
+   "rerun": 0,
+   "dir": "m4e_v1/judge_packets_平/M04",
+   "instructions": "m4e_judge_instructions_平_api_v1.txt",
+   "prompt_sha256": "3d307401d122b1dd9e725dd4e2e669b91bc33663c99cbceaec09cff4724b4b00"
+  },
+  "EF-M05": {
+   "name": "EF-M05",
+   "id": "EF-M05",
+   "role": null,
+   "rerun": 0,
+   "dir": "m4e_v1/judge_packets_平/M05",
+   "instructions": "m4e_judge_instructions_平_api_v1.txt",
+   "prompt_sha256": "6450cd32300ef1ccdd957f6692336714c7e32aecb8d6801708aee625742538be"
+  },
+  "EF-M06": {
+   "name": "EF-M06",
+   "id": "EF-M06",
+   "role": null,
+   "rerun": 0,
+   "dir": "m4e_v1/judge_packets_平/M06",
+   "instructions": "m4e_judge_instructions_平_api_v1.txt",
+   "prompt_sha256": "9503845d2e7e364a0bb8487efbf8795068940ecbc0e76e67422e9c9d61e39929"
+  },
+  "EF-M07": {
+   "name": "EF-M07",
+   "id": "EF-M07",
+   "role": null,
+   "rerun": 0,
+   "dir": "m4e_v1/judge_packets_平/M07",
+   "instructions": "m4e_judge_instructions_平_api_v1.txt",
+   "prompt_sha256": "67c3211953ba9e1d6c9ea601247356d5dd9dee0b6cd7dead11878f5db0bbfec1"
+  },
+  "EF-M08": {
+   "name": "EF-M08",
+   "id": "EF-M08",
+   "role": null,
+   "rerun": 0,
+   "dir": "m4e_v1/judge_packets_平/M08",
+   "instructions": "m4e_judge_instructions_平_api_v1.txt",
+   "prompt_sha256": "0f759189e436344992836179cc2fbed9a867017d1dfc8d7f87b6ea43ddc4de70"
+  },
+  "EF-M09": {
+   "name": "EF-M09",
+   "id": "EF-M09",
+   "role": null,
+   "rerun": 0,
+   "dir": "m4e_v1/judge_packets_平/M09",
+   "instructions": "m4e_judge_instructions_平_api_v1.txt",
+   "prompt_sha256": "1bef38f64b1bc46a533bf2553dcfd3db0c72e21019081b0e3b5d1280154b11c1"
+  },
+  "EF-M10": {
+   "name": "EF-M10",
+   "id": "EF-M10",
+   "role": null,
+   "rerun": 0,
+   "dir": "m4e_v1/judge_packets_平/M10",
+   "instructions": "m4e_judge_instructions_平_api_v1.txt",
+   "prompt_sha256": "033eb652a348f0a724456bdd87d08861d62b9a7b160e1bf3b6f2bdc1dff000b3"
+  },
+  "EF-M11": {
+   "name": "EF-M11",
+   "id": "EF-M11",
+   "role": null,
+   "rerun": 0,
+   "dir": "m4e_v1/judge_packets_平/M11",
+   "instructions": "m4e_judge_instructions_平_api_v1.txt",
+   "prompt_sha256": "db4e585a8c6e997906eea933196d8ecf9497cbee76825d9a3554496f50e029ab"
+  },
+  "EF-M12": {
+   "name": "EF-M12",
+   "id": "EF-M12",
+   "role": null,
+   "rerun": 0,
+   "dir": "m4e_v1/judge_packets_平/M12",
+   "instructions": "m4e_judge_instructions_平_api_v1.txt",
+   "prompt_sha256": "4fb46e921d5214d785b797307510c68dd0d0a1299b1b0d1b2b436df881a630af"
+  },
+  "EF-M13": {
+   "name": "EF-M13",
+   "id": "EF-M13",
+   "role": null,
+   "rerun": 0,
+   "dir": "m4e_v1/judge_packets_平/M13",
+   "instructions": "m4e_judge_instructions_平_api_v1.txt",
+   "prompt_sha256": "a37be70d4ec9d5df2e4caf2346f14e24756aa3b0321835db144590ceaf6dc6d6"
+  },
+  "EF-M14": {
+   "name": "EF-M14",
+   "id": "EF-M14",
+   "role": null,
+   "rerun": 0,
+   "dir": "m4e_v1/judge_packets_平/M14",
+   "instructions": "m4e_judge_instructions_平_api_v1.txt",
+   "prompt_sha256": "5d704f9330b2ec0c71084058f518c7c62fd85ae0c2b43f70819a93ed29cd5ed7"
+  },
+  "EF-M15": {
+   "name": "EF-M15",
+   "id": "EF-M15",
+   "role": null,
+   "rerun": 0,
+   "dir": "m4e_v1/judge_packets_平/M15",
+   "instructions": "m4e_judge_instructions_平_api_v1.txt",
+   "prompt_sha256": "4a9c5f52a6bd7464a62e830544c1761b7ffd01c2dfbcaaae6dce574240f11157"
+  },
+  "EF-M16": {
+   "name": "EF-M16",
+   "id": "EF-M16",
+   "role": null,
+   "rerun": 0,
+   "dir": "m4e_v1/judge_packets_平/M16",
+   "instructions": "m4e_judge_instructions_平_api_v1.txt",
+   "prompt_sha256": "93d7fc84ebcdca8293504001ccc064b879a4b8f3cc62fcc8f3b127762a941f08"
+  },
+  "EF-M17": {
+   "name": "EF-M17",
+   "id": "EF-M17",
+   "role": null,
+   "rerun": 0,
+   "dir": "m4e_v1/judge_packets_平/M17",
+   "instructions": "m4e_judge_instructions_平_api_v1.txt",
+   "prompt_sha256": "b78856329691ffedda9e37650a9e4fea2d2629395f788b650124a1c60a329cc5"
+  },
+  "EF-M18": {
+   "name": "EF-M18",
+   "id": "EF-M18",
+   "role": null,
+   "rerun": 0,
+   "dir": "m4e_v1/judge_packets_平/M18",
+   "instructions": "m4e_judge_instructions_平_api_v1.txt",
+   "prompt_sha256": "5c0421c691d4acbea679d9f984881317d0d395734cce8cc14b67e74d8e9c7775"
+  },
+  "EF-M19": {
+   "name": "EF-M19",
+   "id": "EF-M19",
+   "role": null,
+   "rerun": 0,
+   "dir": "m4e_v1/judge_packets_平/M19",
+   "instructions": "m4e_judge_instructions_平_api_v1.txt",
+   "prompt_sha256": "5d4a861af267150e9f38de4a8ca8f4ac1ec59d476d24a3b9f62c7502ce712880"
+  },
+  "EF-M20": {
+   "name": "EF-M20",
+   "id": "EF-M20",
+   "role": null,
+   "rerun": 0,
+   "dir": "m4e_v1/judge_packets_平/M20",
+   "instructions": "m4e_judge_instructions_平_api_v1.txt",
+   "prompt_sha256": "1b50c8c843b2625576c998d232d29d75b5da954ae69836643ef0bb254fe6d9b2"
+  },
+  "EF-M21": {
+   "name": "EF-M21",
+   "id": "EF-M21",
+   "role": null,
+   "rerun": 0,
+   "dir": "m4e_v1/judge_packets_平/M21",
+   "instructions": "m4e_judge_instructions_平_api_v1.txt",
+   "prompt_sha256": "110f731ea48b08ea4e1b2c7cce8fc03417750582943e05d13871ac67d01775dd"
+  },
+  "EF-M22": {
+   "name": "EF-M22",
+   "id": "EF-M22",
+   "role": null,
+   "rerun": 0,
+   "dir": "m4e_v1/judge_packets_平/M22",
+   "instructions": "m4e_judge_instructions_平_api_v1.txt",
+   "prompt_sha256": "4908c0801fdffae5428433c7a2ac635a37cf45eaa1188cd8fa8456bb8c871b1a"
+  },
+  "EF-M23": {
+   "name": "EF-M23",
+   "id": "EF-M23",
+   "role": null,
+   "rerun": 0,
+   "dir": "m4e_v1/judge_packets_平/M23",
+   "instructions": "m4e_judge_instructions_平_api_v1.txt",
+   "prompt_sha256": "9e3fcd8f49020e48fc5320eb03870fca3818427aec22b1f274046db2f9743c4c"
+  },
+  "EF-M24": {
+   "name": "EF-M24",
+   "id": "EF-M24",
+   "role": null,
+   "rerun": 0,
+   "dir": "m4e_v1/judge_packets_平/M24",
+   "instructions": "m4e_judge_instructions_平_api_v1.txt",
+   "prompt_sha256": "123d271e8d25b24900204622fae3bf25767af0ebca9d6af1f31203385f567c2c"
+  },
+  "EF-M25": {
+   "name": "EF-M25",
+   "id": "EF-M25",
+   "role": null,
+   "rerun": 0,
+   "dir": "m4e_v1/judge_packets_平/M25",
+   "instructions": "m4e_judge_instructions_平_api_v1.txt",
+   "prompt_sha256": "9d25991dc2ee879f921158832d0b8b7bb0711ec80aaa5063f5c062761fbb268e"
+  },
+  "EF-M26": {
+   "name": "EF-M26",
+   "id": "EF-M26",
+   "role": null,
+   "rerun": 0,
+   "dir": "m4e_v1/judge_packets_平/M26",
+   "instructions": "m4e_judge_instructions_平_api_v1.txt",
+   "prompt_sha256": "83e2209368dde7f515ae940606affd71a1fd77280b95498c8cd5ca9ab91dea05"
+  },
+  "EF-M27": {
+   "name": "EF-M27",
+   "id": "EF-M27",
+   "role": null,
+   "rerun": 0,
+   "dir": "m4e_v1/judge_packets_平/M27",
+   "instructions": "m4e_judge_instructions_平_api_v1.txt",
+   "prompt_sha256": "25aa4c514dc1584e981da3c9dde95f50a03cf53a6964c4197af95e5f8db6153f"
+  },
+  "EF-M28": {
+   "name": "EF-M28",
+   "id": "EF-M28",
+   "role": null,
+   "rerun": 0,
+   "dir": "m4e_v1/judge_packets_平/M28",
+   "instructions": "m4e_judge_instructions_平_api_v1.txt",
+   "prompt_sha256": "4c3dd9de5513fbb178555373bcbf872e315bc5f850161a94033278f10b709c3d"
+  },
+  "E3-M01": {
+   "name": "E3-M01",
+   "id": "E3-M01",
+   "role": null,
+   "rerun": 0,
+   "dir": "m4e_v1/judge_packets_三/M01",
+   "instructions": "m4e_judge_instructions_三_api_v1.txt",
+   "prompt_sha256": "9cbc3d21d797b647f4632633e2b5d88db2d9488c440357371406324222e47592"
+  },
+  "E3-M02": {
+   "name": "E3-M02",
+   "id": "E3-M02",
+   "role": null,
+   "rerun": 0,
+   "dir": "m4e_v1/judge_packets_三/M02",
+   "instructions": "m4e_judge_instructions_三_api_v1.txt",
+   "prompt_sha256": "ec2cb8c07aeb334da1d0301b89347a075041be8cbd39bb873fa1774bac9caf29"
+  },
+  "E3-M03": {
+   "name": "E3-M03",
+   "id": "E3-M03",
+   "role": null,
+   "rerun": 0,
+   "dir": "m4e_v1/judge_packets_三/M03",
+   "instructions": "m4e_judge_instructions_三_api_v1.txt",
+   "prompt_sha256": "84b8d38b70eed2591c92e4f801b6aa37c40d7be7e192ed75cff68d94a82d5e87"
+  },
+  "E3-M04": {
+   "name": "E3-M04",
+   "id": "E3-M04",
+   "role": null,
+   "rerun": 0,
+   "dir": "m4e_v1/judge_packets_三/M04",
+   "instructions": "m4e_judge_instructions_三_api_v1.txt",
+   "prompt_sha256": "8047e0a96de7c1fd0e6b935b38e38fd784f095c5926173091d69ba3655ea6a7c"
+  },
+  "E3-M05": {
+   "name": "E3-M05",
+   "id": "E3-M05",
+   "role": null,
+   "rerun": 0,
+   "dir": "m4e_v1/judge_packets_三/M05",
+   "instructions": "m4e_judge_instructions_三_api_v1.txt",
+   "prompt_sha256": "3313abc1ef5090f68bdf112fe9cd6be7d268bcc3f933b9d300dc4bf9be17e2ff"
+  },
+  "E3-M06": {
+   "name": "E3-M06",
+   "id": "E3-M06",
+   "role": null,
+   "rerun": 0,
+   "dir": "m4e_v1/judge_packets_三/M06",
+   "instructions": "m4e_judge_instructions_三_api_v1.txt",
+   "prompt_sha256": "d63f89d189dfeba252b21f4af5fe23e6fa8a90ad722d5b3cea6a3f784178c16e"
+  },
+  "E3-M07": {
+   "name": "E3-M07",
+   "id": "E3-M07",
+   "role": null,
+   "rerun": 0,
+   "dir": "m4e_v1/judge_packets_三/M07",
+   "instructions": "m4e_judge_instructions_三_api_v1.txt",
+   "prompt_sha256": "0809ee9790d80eee1a4ee1112de7a1ed86d8ec2e6c804de49d93f7af6e621851"
+  },
+  "E3-M08": {
+   "name": "E3-M08",
+   "id": "E3-M08",
+   "role": null,
+   "rerun": 0,
+   "dir": "m4e_v1/judge_packets_三/M08",
+   "instructions": "m4e_judge_instructions_三_api_v1.txt",
+   "prompt_sha256": "c6da0620cfd154300955830deb1b190de962578b6cadbee7918f3a99062dea2f"
+  },
+  "E3-M09": {
+   "name": "E3-M09",
+   "id": "E3-M09",
+   "role": null,
+   "rerun": 0,
+   "dir": "m4e_v1/judge_packets_三/M09",
+   "instructions": "m4e_judge_instructions_三_api_v1.txt",
+   "prompt_sha256": "53f7e6d7320b2f989d200e67a2d620c4e1abd99de02424fa5831a4cc83f46e06"
+  },
+  "E3-M10": {
+   "name": "E3-M10",
+   "id": "E3-M10",
+   "role": null,
+   "rerun": 0,
+   "dir": "m4e_v1/judge_packets_三/M10",
+   "instructions": "m4e_judge_instructions_三_api_v1.txt",
+   "prompt_sha256": "0f7ff7abaa16fcad69e90447f28e1cc3fbc9919b8053ae6d52ea3137065025be"
+  },
+  "E3-M11": {
+   "name": "E3-M11",
+   "id": "E3-M11",
+   "role": null,
+   "rerun": 0,
+   "dir": "m4e_v1/judge_packets_三/M11",
+   "instructions": "m4e_judge_instructions_三_api_v1.txt",
+   "prompt_sha256": "05084b0fab91588bd925a82fbf90603e6528e313c15a041d83a1485589684216"
+  },
+  "E3-M12": {
+   "name": "E3-M12",
+   "id": "E3-M12",
+   "role": null,
+   "rerun": 0,
+   "dir": "m4e_v1/judge_packets_三/M12",
+   "instructions": "m4e_judge_instructions_三_api_v1.txt",
+   "prompt_sha256": "e1e95087e34d6af85c712be99f2459e79eb4e66b4d3750b209f902cf7e3cfdad"
+  },
+  "E3-M13": {
+   "name": "E3-M13",
+   "id": "E3-M13",
+   "role": null,
+   "rerun": 0,
+   "dir": "m4e_v1/judge_packets_三/M13",
+   "instructions": "m4e_judge_instructions_三_api_v1.txt",
+   "prompt_sha256": "807dfce750d596275f6347c378130f1a8be16f8c547ed4445f593e40b6476a4b"
+  },
+  "E3-M14": {
+   "name": "E3-M14",
+   "id": "E3-M14",
+   "role": null,
+   "rerun": 0,
+   "dir": "m4e_v1/judge_packets_三/M14",
+   "instructions": "m4e_judge_instructions_三_api_v1.txt",
+   "prompt_sha256": "baceb248c59be28f7b9b140b8e15b8d630c36a5c5c475c50099d231f0d68e1d6"
+  },
+  "E3-M15": {
+   "name": "E3-M15",
+   "id": "E3-M15",
+   "role": null,
+   "rerun": 0,
+   "dir": "m4e_v1/judge_packets_三/M15",
+   "instructions": "m4e_judge_instructions_三_api_v1.txt",
+   "prompt_sha256": "10e65d4d0a924524474c0c603003e3bf0cfb37a6fb4d75d2d2575435ef0138ad"
+  },
+  "E3-M16": {
+   "name": "E3-M16",
+   "id": "E3-M16",
+   "role": null,
+   "rerun": 0,
+   "dir": "m4e_v1/judge_packets_三/M16",
+   "instructions": "m4e_judge_instructions_三_api_v1.txt",
+   "prompt_sha256": "6cbb5c6ff55ac60ff674a4eb2694ab9cfe910258b9797b771068c428ababb750"
+  },
+  "E3-M17": {
+   "name": "E3-M17",
+   "id": "E3-M17",
+   "role": null,
+   "rerun": 0,
+   "dir": "m4e_v1/judge_packets_三/M17",
+   "instructions": "m4e_judge_instructions_三_api_v1.txt",
+   "prompt_sha256": "7782434b53f7c07fc4584ffe7cab16cd5cedb5f49f90fa34b38f1113d5fd5ed1"
+  },
+  "E3-M18": {
+   "name": "E3-M18",
+   "id": "E3-M18",
+   "role": null,
+   "rerun": 0,
+   "dir": "m4e_v1/judge_packets_三/M18",
+   "instructions": "m4e_judge_instructions_三_api_v1.txt",
+   "prompt_sha256": "1167696e0bbb1c4b8276230e4b216871bd186b0ae77e93cc080a931b048e9f2b"
+  },
+  "E3-M19": {
+   "name": "E3-M19",
+   "id": "E3-M19",
+   "role": null,
+   "rerun": 0,
+   "dir": "m4e_v1/judge_packets_三/M19",
+   "instructions": "m4e_judge_instructions_三_api_v1.txt",
+   "prompt_sha256": "16b256333d90ad56e3ec8efab49f6def4d137d2bf485733900f2a2ab5f30f08a"
+  },
+  "E3-M20": {
+   "name": "E3-M20",
+   "id": "E3-M20",
+   "role": null,
+   "rerun": 0,
+   "dir": "m4e_v1/judge_packets_三/M20",
+   "instructions": "m4e_judge_instructions_三_api_v1.txt",
+   "prompt_sha256": "87b8453bd900bd548786aef0594aa8c3bf4aa6d0dbdace693f4e7fbc972d6506"
+  },
+  "E3-M21": {
+   "name": "E3-M21",
+   "id": "E3-M21",
+   "role": null,
+   "rerun": 0,
+   "dir": "m4e_v1/judge_packets_三/M21",
+   "instructions": "m4e_judge_instructions_三_api_v1.txt",
+   "prompt_sha256": "733bda9d33fef5755bb405e991d73b672bc400e956f2ae4d851805d8b4c7dbcd"
+  },
+  "E3-M22": {
+   "name": "E3-M22",
+   "id": "E3-M22",
+   "role": null,
+   "rerun": 0,
+   "dir": "m4e_v1/judge_packets_三/M22",
+   "instructions": "m4e_judge_instructions_三_api_v1.txt",
+   "prompt_sha256": "1ad1ebaf235a6776a0670b3968634afa8a35ab7636b32767803cad4a92a6d188"
+  },
+  "E3-M23": {
+   "name": "E3-M23",
+   "id": "E3-M23",
+   "role": null,
+   "rerun": 0,
+   "dir": "m4e_v1/judge_packets_三/M23",
+   "instructions": "m4e_judge_instructions_三_api_v1.txt",
+   "prompt_sha256": "01090b0a684bc1e979d8b1a93261f3784886c99fb7442856347253be49a837b5"
+  },
+  "E3-M24": {
+   "name": "E3-M24",
+   "id": "E3-M24",
+   "role": null,
+   "rerun": 0,
+   "dir": "m4e_v1/judge_packets_三/M24",
+   "instructions": "m4e_judge_instructions_三_api_v1.txt",
+   "prompt_sha256": "f9741bce469ca91243faed67ce59f2d25ccae13d6382767e65e21018849c1d26"
+  },
+  "E3-M25": {
+   "name": "E3-M25",
+   "id": "E3-M25",
+   "role": null,
+   "rerun": 0,
+   "dir": "m4e_v1/judge_packets_三/M25",
+   "instructions": "m4e_judge_instructions_三_api_v1.txt",
+   "prompt_sha256": "ee5c2830ed776c98af73ea1d31cf4ee79743526eb1ae017144ca27a144600220"
+  },
+  "E3-M26": {
+   "name": "E3-M26",
+   "id": "E3-M26",
+   "role": null,
+   "rerun": 0,
+   "dir": "m4e_v1/judge_packets_三/M26",
+   "instructions": "m4e_judge_instructions_三_api_v1.txt",
+   "prompt_sha256": "45fd27fb2127d71822084137fd681591d6cee2038f56587d6d7aa6e89f344644"
+  },
+  "E3-M27": {
+   "name": "E3-M27",
+   "id": "E3-M27",
+   "role": null,
+   "rerun": 0,
+   "dir": "m4e_v1/judge_packets_三/M27",
+   "instructions": "m4e_judge_instructions_三_api_v1.txt",
+   "prompt_sha256": "79c0e7993176269ff3a4aabdff10ba3c3fb539c9ce902e5cc909bc3b8a7d1e8b"
+  },
+  "E3-M28": {
+   "name": "E3-M28",
+   "id": "E3-M28",
+   "role": null,
+   "rerun": 0,
+   "dir": "m4e_v1/judge_packets_三/M28",
+   "instructions": "m4e_judge_instructions_三_api_v1.txt",
+   "prompt_sha256": "368f91828a54cb8eae4de4f9b3fac17d247428db722b2585571c62c1c79f26ce"
+  }
+ }
+}

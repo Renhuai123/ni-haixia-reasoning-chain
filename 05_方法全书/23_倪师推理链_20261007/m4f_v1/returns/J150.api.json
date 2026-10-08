@@ -1,0 +1,43 @@
+{
+ "custom_id": "J150",
+ "result": {
+  "type": "succeeded",
+  "message": {
+   "model": "claude-fable-5-1",
+   "id": "msg_011Cfp3CKekasFDmZhBi1SDM",
+   "type": "message",
+   "role": "assistant",
+   "content": [
+    {
+     "type": "thinking",
+     "thinking": "",
+     "signature": "CAQSqhMKEAgSGAI4AUIIdGhpbmtpbmcSDAkryXWzOT7sqn1Q/xoMGzZKesj35vS1YxxAIjBMjHzMDDBdukMMm44anEkmh/Om7amlv0dTe4+z7wNThHYYx1v8hCizulBJ47MuWn8qxxK0dXiO8dv+cwKEWFd7ylAnZm8pFvu6wbgLEAfG10ytihnR1sjwwDEb4hkZHrfO2JxH/iiFhijvilBi2LG0X1b1rVoW02d/3M+GzO2y/UvoNHsmaLHFgl9PSPQCmssvB25xKme9of5bw4H2zen70fqwKkh31R3GNLLAtNF5Z49BjbaYpkh2xZYOxjwjTx2/PtobKTWlviiUnm22moZYKYWvWHywHuC3WCaUDRRbnKjrq3sQMLugeOf1NhywHR83iuK6Rrb+3xockmNopV0HIIqpko2g9DYU0wG1kpyznvoEACJ3Olemm4q6sKLdCF8KPCbBnsAr17HYbio4wWtOadqwQQ+weB09q0fKlvoamnfDVanNxFnNg+K/BDWkkyRT5egaAN9Qyj3VC6d0QbiYYIHXziPKznGf+0tcVAJswhoqU4BR1s6H5wlsugj7/oS3Z8u+VSLXRdAXLJv64q0jmJX6xkRlFvPcnafBzNrbRc4CGza/iDx9RRMUc369mKup47yKS3fN0tZ0kSM7OkEekipsQoLTe2z/+VJBWLFTAEJe3IqLmItin2nZeV/nybbTM2HMe7QT4Du+SxtmEAfWb8k+KY7UivDqYSzMTpy9y186IqOZH4VYXpZUXfrrP6uS0ofC/wjnUJIdl8iOYR+mLPpiyuWw5Nf4dvlPRmRN9CZYnkLqOJbmFyUS8hF7egUq4hpYp0QwulrYk12U8XWnHs5TTPjssDfrs4eWmQ/BOVhndenRDannYeym9lbkP0QqmYvyhTPP9pfO5CJ55JRZfX0rp/Y48+SidV21Ei5/Zf5NmmcbS3HiClQq3jE23qx0cXr4K1BC6Rk4b5J6BhbNkDNx/6q4sfiNALON7lYUfEKEslEO5vmcKZQ9s3nQWMGofNNvQZTqF6EikVD0rk1pV1Ob0I0WFqGJJUKRYe3BNXE0Yy3OxWLBcb971ja9/eXXugWhdIGiLw518ofsKBP9MvjicB88o7zQc56MkfW+5k09kR0PixkmupnrcPp74NysRLDs6dWzJpgJVPlNYh801IBzL2nsCQ8q9U2RncFn95GPuJs2qpVJyUg38uIfBGGGGanCdoQZjIPJ8xtP5ha7ICqN2Sr8iIsNtqhLRX7+y/fv3NpqMOjfRhM1Oky90HkHUeZH6ytU320WjRMgRLqLV6w2uptrf9nfvMJVg6Rxle7G/eolPFFfd4rBAkwi1gdJunb4XxrZp3c/xfSMl7LdTRTS4qTywGnMW2+8o4bCC1etl/losjECpqa+yB+dV+rDuJtFC+oi3JpgTCNSpjyhtwBy+L78EacGvt793i37fQ9QX4eMjYUJnQO/f+8WTEsbd06WXfWEkJTeIrViU/MsevNpaUG+cQKPZjQ3NXyngB1TIcI2cwrq3SMVqxneSmZegaDAJebqsov81J9tVaXo+bQIbBQwxm1SQ/PIXFVVqKdbzoYk419ZPizkZWrQor7PxmP2hXkreZQfxJl0F/rSddRazPFa/Q1SlBzbkJR8OlQfmVydmrX89uenFRGFoRUrVvaT7CYjwA3EAyR4Bxzx0/OQvN1d12X23W0QOArLSvH7izai+EkKJITLkz1tuXYdQYcNJSKP+NNW7ahmcXWc2yf4zCmbjHJyQcsZ4lIS2tJOPGhAIOnFOX2iVRadc6K3va3ELdMwExtW/3FbcS1TDygg8nRzcCdQ5Co1nS8C9ZMItmoOaAPV2+gDEFJS8YwW6BVA6HezP4QmGX3Pw44KEDB6X5fojLPwhWV9it8RBZeaG9Vx0f9g9xtfAY1k97uFkpJiFbZqzpiEAj4q9u4VN0pjdqNw1OTBWWIcVz0XcAlzZBGVwh98rwo2+KAkUJFAIyF4yZn0FQVHvpI2wTWIBdhKc1hDW0f0VDNZ09gmIA67a0GxtFxpuV/L77fPaWibOQfmhFhiOF3vxr+jQ7kusDnjIFc7tOQFeA+E2JWzGgxqiyU1/RHDCP057w2ygF2STGRdrpL6wUzF0XDCOz1bUs7Xig6XH8bKearfTwTHzuuEELqfpocSkzE0wwJF/ty9lUk86nazz2i4t1x5WLXkPiDAF0ovZN8V1557ZoH2zjE8vNCNb8ZUrvF7nfg0qcIVyHVbyD6JjjF19JN5p0oxVgUlsrlfbjf2scYalK38TJ1714EYCVNFNdU20z11neRTYn4KqGQ7oQjqFaMQO7DlI8AWpIL/UsWB0o8c278O6IAKuxRDRvTl8ft2g4EpxggxGVHwBTkiY+NCM5gkTbEN51PBmIGbB+hAerqJ4kAheplVTiHe2M9L5lgb6zyIpUTHeIQdSBxabmEyUqL/m8Y6DTEXAKq01ftDEGbqeu4Jnyo8ZenK77f8P5W57L5Ss4z2Ky48BDEA8b+GOOjRP3gLZYOaVFmKrBnt/Hc37gri/d2cjo65d4BhL0e61rWvWtQSemTyVn0HwIU1+Fah3RlcJD9FAGc74er3ffnGVUQ6FtuKytDwoG9PcAh7vLDqqfnh4kAzRtugNyA8xdLT2QN9OvS8pDJ/n/5ZckKrQYWT8AQM4oXI6qWDu+wrEwhDBVJndmlAb22WYkohbM5zNJNqmQZNnsbUXyVdCnezfv/QdxUP4YiXSV+6H7K889Jowzj1YEYgZZ2+hQ7EVIVgpu+9BLdMp/9Em1k7B4BjmW3aHIYc83zM48hHK61SW7E14qbtgJFX7njuT6fLXLGDJg21MUidkROfPt/sFi5c6hQONmdduloVJf0EJ2tlgvXxWDNurT2zHqrxifg7snc66wV64i2zigyw+SzaeS+pNmI09v1AM6VT8L6EH+g1+aYTmCZ5bgqBr2QSPMjA+YF5GBNDVCwPZBNDJx1YJ0PI+SO5h7OVL/F7xKePZYfYlzF3buFHn/2Gb833ffIAth9B3RWOiHJPVfu9sSjVa55/HRK76Ta/aB8TrzsddB2aP4uHwb/pm+3CDs2eJepmieZuijVHQgM6GiO8B2Xf6W+DxS1WbGcbitzzQ1YfZwtCQbkMO/K2qneCoK+FLZg7Ye5CQwNLK26TBuxQBjvv7ijhn9GE9qrUdJxCdhiQuMwYlq0J8OvEUAOQzZ49exAkKuAzmABohE4oCmLx+wfl3HkPSgbSWsb44ChuAODJN0aMNmYIk/nkQAJ4QUPAb51aKyj6hosIKuaAa/WzNmt03xgB"
+    },
+    {
+     "type": "text",
+     "text": "{\n \"包\": \"J150\",\n \"答案\": [\n  {\n   \"题\": \"题01\",\n   \"最符合\": \"C\",\n   \"排序\": [\n    \"C\",\n    \"A\",\n    \"D\",\n    \"B\"\n   ],\n   \"理由\": {\n    \"A\": \"命宫「白天晚上都忙」「事业做得很大」与陈述2、6相符，但命宫正财推出「帮人做事领薪水、当公务员、在银行界」与自己当老板矛盾，且全盘无小气守财之断，只有「孤单→婚姻难有着落」勉强对应聚少散多。\",\n    \"B\": \"命宫正财推出「帮人做事领薪水」，身宫财帛讲「职业妇女、不做家庭主妇、中年先生有问题」，显为女命打工路线，与自己当老板、小气、年轻有成皆不合，最不相符。\",\n    \"C\": \"财帛宫直接断「守财、小气、善于理财、家财万贯」正合陈述4、5的吝啬相；命宫财星之王、官禄「掌权、做主管、官运最好」、仆役「自己做事业、当老板、合伙大利」合乎做生意当老板且年轻有成；命宫「孤单」合夫妻聚少散多；只有武官星、多婚等未在陈述中印证。\",\n    \"D\": \"身宫迁移「大利外地经商、到外地发展」略合做生意，财帛「善于理财」略近守财，但命宫佐才「位高无权、当助理秘书、不想权位」与自己当老板相反，夫妻宫「先生不好、婚姻不好」偏女命，官禄「停滞、半空折翅」也与年轻有成不符。\"\n   }\n  }\n ]\n}"
+    }
+   ],
+   "container": null,
+   "stop_reason": "end_turn",
+   "stop_sequence": null,
+   "stop_details": null,
+   "usage": {
+    "input_tokens": 16619,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 1403,
+    "output_tokens_details": {
+     "thinking_tokens": 825
+    },
+    "service_tier": "batch",
+    "inference_geo": "global"
+   },
+   "diagnostics": null
+  }
+ }
+}

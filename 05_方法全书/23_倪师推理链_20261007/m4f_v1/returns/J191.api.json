@@ -1,0 +1,43 @@
+{
+ "custom_id": "J191",
+ "result": {
+  "type": "succeeded",
+  "message": {
+   "model": "claude-fable-5-1",
+   "id": "msg_011Cfp3CLKwASMo3cStp4ab3",
+   "type": "message",
+   "role": "assistant",
+   "content": [
+    {
+     "type": "thinking",
+     "thinking": "",
+     "signature": "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"
+    },
+    {
+     "type": "text",
+     "text": "{\n \"包\": \"J191\",\n \"答案\": [\n  {\n   \"题\": \"题01\",\n   \"最符合\": \"D\",\n   \"排序\": [\n    \"D\",\n    \"B\",\n    \"A\",\n    \"C\"\n   ],\n   \"理由\": {\n    \"A\": \"命宫有「害到自己」「女命不行」、福德「婚姻不好」可与陈述6呼应，但命宫同时断「婚姻好」「招贵夫」「旺夫」「让先生无后顾之忧」，与偏房、离婚的陈述直接矛盾，也无眼睛、失父等线索。\",\n    \"B\": \"夫妻宫「少一只眼睛」「宜嫁二婚夫」「嫁同龄初婚者凶」、命宫「专业技术专长」「害到自己」与陈述有部分呼应，但命宫婚姻断「婚姻好」「招贵夫」，父母宫「父母当官」「能解厄制化」「逢凶化吉」与早年失父不合，也没有偏房、离婚的判断。\",\n    \"C\": \"父母宫「要特别注意父母的健康与安全」、迁移「专业技术专长」「出外地读书」可对应失父与后天学专长，但命宫断「旺夫」「一世荣华」「让先生无后顾之忧」、仆役「会结婚、婚姻无事」，与偏房、离婚、害到自己完全相反。\",\n    \"D\": \"命宫直接断「做偏房」「少一只眼睛」「先生比她差」「聚少散多」，夫妻宫断「离婚」「二婚」，命宫又有「六亲不靠」「刚躁、固执、与人处不和、大怒之下犯大错→害到自己」，对应她自己个性造成偏房并死不承认害到自己；「出外地读书」「专业技术专长」对应后天学专长，父母宫为杀星灾星可对应早年失父，整体最相符。\"\n   }\n  }\n ]\n}"
+    }
+   ],
+   "container": null,
+   "stop_reason": "end_turn",
+   "stop_sequence": null,
+   "stop_details": null,
+   "usage": {
+    "input_tokens": 18952,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 1179,
+    "output_tokens_details": {
+     "thinking_tokens": 524
+    },
+    "service_tier": "batch",
+    "inference_geo": "global"
+   },
+   "diagnostics": null
+  }
+ }
+}

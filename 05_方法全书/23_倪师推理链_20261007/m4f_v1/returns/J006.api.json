@@ -1,0 +1,43 @@
+{
+ "custom_id": "J006",
+ "result": {
+  "type": "succeeded",
+  "message": {
+   "model": "claude-fable-5-1",
+   "id": "msg_011Cfp3ChfKz1ZAozqDacPsH",
+   "type": "message",
+   "role": "assistant",
+   "content": [
+    {
+     "type": "thinking",
+     "thinking": "",
+     "signature": "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"
+    },
+    {
+     "type": "text",
+     "text": "{\n \"包\": \"J006\",\n \"答案\": [\n  {\n   \"题\": \"题01\",\n   \"最符合\": \"A\",\n   \"排序\": [\n    \"A\",\n    \"D\",\n    \"B\",\n    \"C\"\n   ],\n   \"理由\": {\n    \"A\": \"命宫直接断孤单→婚姻难有着落，与「注定孤单不结婚」相符；命宫正财帮人做事领薪水、官禄当公务员且官运最好、父母宫文官带公家单位、当老师、金榜题名，与「事业一路顺、考公务员老师一考就上」相符；兄弟宫口舌是非、仆役与人处不和、各宫暗中来阴，可对应心眼多算计人、家中鸡飞狗跳；仅夫妻宫身宫有些配偶描述略为多余，矛盾最少。\",\n    \"D\": \"命宫同样有孤单→婚姻难有着落、官禄官运最好掌权当公务员、子女宫当老师金榜题名，刚烈火爆随发随走也能对应家中闹得鸡飞狗跳；但福德身宫明断多婚、夫妻宫配偶最好，与终身不婚直接矛盾。\",\n    \"B\": \"夫妻宫有孤单、婚姻不好、先生不好，表面上近似婚姻不佳，但仆役宫明断会结婚、受朋友怂恿结婚，且官禄宫停滞、半空折翅、感情纠纷不断，与「不结婚、事业一路顺」都矛盾。\",\n    \"C\": \"命宫婚姻好、财帛身宫中年先生有问题、婆媳不和应在夫妻，都以已婚为前提，与「命中孤单不结婚、没接触过男人」正相反；官禄仅断当老师而当官不容易，与一考就上、事业顺的程度也不够贴合。\"\n   }\n  }\n ]\n}"
+    }
+   ],
+   "container": null,
+   "stop_reason": "end_turn",
+   "stop_sequence": null,
+   "stop_details": null,
+   "usage": {
+    "input_tokens": 17474,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 1489,
+    "output_tokens_details": {
+     "thinking_tokens": 855
+    },
+    "service_tier": "batch",
+    "inference_geo": "global"
+   },
+   "diagnostics": null
+  }
+ }
+}

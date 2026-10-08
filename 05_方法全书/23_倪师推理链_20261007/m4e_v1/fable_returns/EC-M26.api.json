@@ -1,0 +1,43 @@
+{
+ "custom_id": "EC-M26",
+ "result": {
+  "type": "succeeded",
+  "message": {
+   "model": "claude-fable-5-1",
+   "id": "msg_011Cfp49DhbwoWAZenqxdP9Z",
+   "type": "message",
+   "role": "assistant",
+   "content": [
+    {
+     "type": "thinking",
+     "thinking": "",
+     "signature": "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"
+    },
+    {
+     "type": "text",
+     "text": "{\n \"包\": \"M26\",\n \"答案\": [\n  {\n   \"题\": \"题26\",\n   \"最符合\": \"A\",\n   \"排序\": [\n    \"A\",\n    \"C\",\n    \"B\",\n    \"D\"\n   ],\n   \"理由\": {\n    \"A\": \"命宫文官带、正财、不干武官、公家单位/当公务员/在银行界，正合「不可能做生意、一定是公职」；兄弟宫兄弟不和、横祸、半路埋尸、需注意兄弟生死，合兄弟不睦与兄弟夭折、38岁兄弟过世；夫妻宫大财星、禄、婚姻好、钱全给太太、声名远播，合丈夫很好且是财经界高层；父母宫武官杀星可容早年父亲不在；子女温和厚道、父母宫逢凶化吉，合孩子不会出事；仅「做偏房、聚少散多」稍有出入，整体相符最多。\",\n   \"C\": \"兄弟宫兄弟不和、兄弟带来祸害、横祸、车祸并提醒兄弟生死，与兄弟不睦及兄弟夭折相符，夫妻身宫大财星、财星之王、大吉也合丈夫有财有权；但命宫断做生意、当老板、宜嫁生意人，直接违背「一定是公职」，又断先生不好、多婚、婆媳不和，与「丈夫很好」相悖，子女宫无子且需注意子女安全也与「孩子不会出事」相反。\",\n   \"B\": \"夫妻宫吉处藏凶、在劫难逃，可对应丈夫49岁突然倒下身亡，父母宫提醒父母生死可对应14岁丧父；但命宫武官星、军人、男人的命，身宫财帛断私人企业或自己做事业，与「不做生意、担任公职」矛盾，兄弟宫完全没有不和与夭折之象，子女宫无子且需注意子女安全亦与「孩子不会出事」不符。\",\n   \"D\": \"命宫不做生意、当官勉强合公职一面；但兄弟宫大吉、兄弟得利，与兄弟不和及兄弟夭折相反，夫妻宫断离婚、二婚、先生比她差、宜嫁二婚夫，与「丈夫很好、49岁丧夫」不合，自己又有少一只眼、心脏有病、贪官被人干掉等自身凶象，陈述中均无，相符最少。\"\n   }\n  }\n ]\n}"
+    }
+   ],
+   "container": null,
+   "stop_reason": "end_turn",
+   "stop_sequence": null,
+   "stop_details": null,
+   "usage": {
+    "input_tokens": 19291,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 2148,
+    "output_tokens_details": {
+     "thinking_tokens": 1307
+    },
+    "service_tier": "batch",
+    "inference_geo": "global"
+   },
+   "diagnostics": null
+  }
+ }
+}

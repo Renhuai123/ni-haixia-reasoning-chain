@@ -1,0 +1,43 @@
+{
+ "custom_id": "J241",
+ "result": {
+  "type": "succeeded",
+  "message": {
+   "model": "claude-fable-5-1",
+   "id": "msg_011Cfp3CKbn6jsWmyha3YPnY",
+   "type": "message",
+   "role": "assistant",
+   "content": [
+    {
+     "type": "thinking",
+     "thinking": "",
+     "signature": "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"
+    },
+    {
+     "type": "text",
+     "text": "{\n \"包\": \"J241\",\n \"答案\": [\n  {\n   \"题\": \"题01\",\n   \"最符合\": \"B\",\n   \"排序\": [\n    \"B\",\n    \"A\",\n    \"D\",\n    \"C\"\n   ],\n   \"理由\": {\n    \"A\": \"命宫有「白天晚上都忙」「事业做得很大」「巨贾」「一世荣华」，婚姻「孤单、婚姻难有着落」勉强可对聚少离多；但主路线是武官、当官、帮人做事领薪水、不做生意，与自己当老板矛盾，且无小气吝啬之断。\",\n    \"B\": \"财帛宫明断「做生意、当老板、能做事业、守财、小气、善于理财、家财万贯」，命宫「白天晚上都忙」，官禄「没有官带、不会当官」排除做官路线，身宫在迁移「到外地发展、一去不回」可对应夫妻聚少离多，与陈述相符最多。\",\n    \"C\": \"命宫文官带、佐才，路线是公家单位、银行、公务员、领薪水、财帛宫「不做生意、当官」，与自己做生意当老板直接矛盾；斯文温和也不像小气鬼之相，仅仆役宫有当老板一说。\",\n    \"D\": \"财帛宫「帮人做事领薪水、领固定薪水」与当老板矛盾，命宫以是非口舌、唠叨、多婚、牢狱为主，虽有「大利外地经商、巨贾」之断，但整体与陈述的小气老板、年轻有成不合。\"\n   }\n  }\n ]\n}"
+    }
+   ],
+   "container": null,
+   "stop_reason": "end_turn",
+   "stop_sequence": null,
+   "stop_details": null,
+   "usage": {
+    "input_tokens": 18906,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 1101,
+    "output_tokens_details": {
+     "thinking_tokens": 564
+    },
+    "service_tier": "batch",
+    "inference_geo": "global"
+   },
+   "diagnostics": null
+  }
+ }
+}

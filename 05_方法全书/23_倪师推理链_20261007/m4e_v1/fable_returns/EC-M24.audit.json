@@ -1,0 +1,31 @@
+{
+ "name": "EC-M24",
+ "id": "EC-M24",
+ "role": null,
+ "rerun": 0,
+ "ok": true,
+ "why_not_ok": [],
+ "custom_id": "EC-M24",
+ "batch_id": "msgbatch_018BBnuCB5Fi2CEugBkDXffX",
+ "model": "claude-fable-5-1",
+ "message_id": "msg_011Cfp49DTim2iBgLqjYE9vr",
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 19305,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 0,
+  "cache_creation": {
+   "ephemeral_5m_input_tokens": 0,
+   "ephemeral_1h_input_tokens": 0
+  },
+  "output_tokens": 2015,
+  "output_tokens_details": {
+   "thinking_tokens": 1374
+  },
+  "service_tier": "batch",
+  "inference_geo": "global"
+ },
+ "花费美元": 0.1469,
+ "prompt_sha256": "3997a7ffebf3738b593164b4fe3c8b20dabb05033372509110be84d23dd338f0",
+ "material_dir": "m4e_v1/judge_packets_链/M24"
+}

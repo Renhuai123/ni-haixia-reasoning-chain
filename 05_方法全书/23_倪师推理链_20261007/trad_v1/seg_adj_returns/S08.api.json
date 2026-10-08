@@ -1,0 +1,43 @@
+{
+ "custom_id": "S08_ADJ",
+ "result": {
+  "type": "succeeded",
+  "message": {
+   "model": "claude-fable-5-1",
+   "id": "msg_011Cfp1csizxbdTNuvsSc7aM",
+   "type": "message",
+   "role": "assistant",
+   "content": [
+    {
+     "type": "thinking",
+     "thinking": "",
+     "signature": "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"
+    },
+    {
+     "type": "text",
+     "text": "{\n \"批\": \"S08\",\n \"裁定\": [\n  {\n   \"编号\": \"qs-1-4-3:s002\",\n   \"断语\": [\n    {\n     \"条件原文\": \"贪狼天机\",\n     \"判断原文\": \"是庙乐\"\n    },\n    {\n     \"条件原文\": \"得天相水到寅\",\n     \"判断原文\": \"为之旺相\"\n    },\n    {\n     \"条件原文\": \"巨门水得卯\",\n     \"判断原文\": \"为之疏通\"\n    },\n    {\n     \"条件原文\": \"三方更得文曲水破军水相会\",\n     \"判断原文\": \"尤妙\"\n    },\n    {\n     \"条件原文\": \"又加禄存土\",\n     \"判断原文\": \"极美矣\"\n    }\n   ],\n   \"理由\": \"采乙。「是庙乐」是给贪狼天机二星定性的判断，其条件（二星）就在本句，按 codebook 条件在本句的应抄本句的字，不必从整段前文抄「寅乃木之垣」；其余四条两人一致。\"\n  },\n  {\n   \"编号\": \"qs-2-1-151:s001\",\n   \"断语\": [\n    {\n     \"条件原文\": \"化权\",\n     \"判断原文\": \"属木\"\n    },\n    {\n     \"条件原文\": \"化权\",\n     \"判断原文\": \"喜会巨门武曲\"\n    }\n   ],\n   \"理由\": \"采乙。「属木」是给化权星定性之语，属 codebook 所列「给星定名定性」一类断语，不是单讲星名由来，故应单列一条；「喜会巨门武曲」与之同条件、不同判断，各算一条。\"\n  },\n  {\n   \"编号\": \"qs-2-2-428:s001\",\n   \"断语\": [\n    {\n     \"条件原文\": \"铃星一宿\",\n     \"判断原文\": \"不可当\"\n    },\n    {\n     \"条件原文\": \"铃星一宿不可当，守临二限\",\n     \"判断原文\": \"必癫狂\"\n    },\n    {\n     \"条件原文\": \"若无吉曜来相照\",\n     \"判断原文\": \"未免招灾惹祸殃\"\n    }\n   ],\n   \"理由\": \"采甲。「一宿」是指称铃星这颗星的主语成分，不是判断内容，判断自「不可当」起，故条件原文应为「铃星一宿」；后两条两人一致。\"\n  },\n  {\n   \"编号\": \"qs-2-10-16:s001\",\n   \"断语\": [\n    {\n     \"条件原文\": \"七杀庙旺\",\n     \"判断原文\": \"武职峥嵘\"\n    },\n    {\n     \"条件原文\": \"七杀庙旺\",\n     \"判断原文\": \"权贵非小\"\n    },\n    {\n     \"条件原文\": \"七杀庙旺\",\n     \"判断原文\": \"不宜文人\"\n    },\n    {\n     \"条件原文\": \"武曲同\",\n     \"判断原文\": \"权贵\"\n    },\n    {\n     \"条件原文\": \"廉贞同\",\n     \"判断原文\": \"功名显达\"\n    }\n   ],\n   \"理由\": \"采甲。「武职峥嵘」与「权贵非小」是同一条件带出的两个判断（一说职业、一说地位），按 codebook 一个条件带出几个判断的应各算一条；其余三条两人一致。\"\n  },\n  {\n   \"编号\": \"qs-3-20-193:s001\",\n   \"断语\": [\n    {\n     \"条件原文\": \"七杀守照岁限擎羊午生人命安卯西宫\",\n     \"判断原文\": \"主凶亡\"\n    },\n    {\n     \"条件原文\": \"余宫\",\n     \"判断原文\": \"亦忌命限三合杀\"\n    },\n    {\n     \"条件原文\": \"流年羊刃到命\",\n     \"判断原文\": \"即七杀重逢\"\n    },\n    {\n     \"条件原文\": \"申酉宫\",\n     \"判断原文\": \"忌\"\n    },\n    {\n     \"条件原文\": \"申酉宫\",\n     \"判断原文\": \"多忌限\"\n    }\n   ],\n   \"理由\": \"采乙。「申酉宫忌，多忌限」中「忌」与「多忌限」以逗号隔开、各自说完，是同一条件下的两个判断，按 codebook 应分列两条，判断原文不宜跨逗号合抄；前三条两人一致。\"\n  }\n ]\n}"
+    }
+   ],
+   "container": null,
+   "stop_reason": "end_turn",
+   "stop_sequence": null,
+   "stop_details": null,
+   "usage": {
+    "input_tokens": 18371,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 2692,
+    "output_tokens_details": {
+     "thinking_tokens": 1272
+    },
+    "service_tier": "batch",
+    "inference_geo": "global"
+   },
+   "diagnostics": null
+  }
+ }
+}

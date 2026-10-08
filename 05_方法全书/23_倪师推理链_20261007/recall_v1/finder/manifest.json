@@ -1,0 +1,88 @@
+{
+ "packs": {
+  "R01": {
+   "context.txt": "e4d49a649ce97a35c36e9590b4c68af19e0733f8f482aa553ffe03865610a982",
+   "instructions.txt": "06836465000a17813f821353b9bd8dd76152cd583f75e16f708b0cf226309b7b",
+   "output_template.json": "246349e2537d75fd598858d5a715824201103febfcb4f86c59864c327effc715",
+   "pack.json": "13c605884b6c8e848649dc49602b5d148e248dcc200bf9e5ec84414170387a3d",
+   "抽取规矩.txt": "b4ec921643aab1c100de1f904d9df9e600ed74fa5a1cb616afde58de7f292531"
+  },
+  "R02": {
+   "context.txt": "3a250cd1be4290e750a52dc5dec103129d2491387d882ddcd1b6fb321551f6bc",
+   "instructions.txt": "06836465000a17813f821353b9bd8dd76152cd583f75e16f708b0cf226309b7b",
+   "output_template.json": "bf30a96a296249722c2566fc8bb956a4998826aafdac981c9f6416ae614f00e2",
+   "pack.json": "e1c21331ae6515c4b7aefb5c716a121961a6752bf1e90c0a0c1a482e6bbe48c2",
+   "抽取规矩.txt": "b4ec921643aab1c100de1f904d9df9e600ed74fa5a1cb616afde58de7f292531"
+  },
+  "R03": {
+   "context.txt": "fac0cf3e8a03a5ec7b1a83944c7aefee5d3d7f7b69207380bd72f61b8fc24c27",
+   "instructions.txt": "06836465000a17813f821353b9bd8dd76152cd583f75e16f708b0cf226309b7b",
+   "output_template.json": "4db2e3cc8363eb9cfd2f3e2b3cc7cf179f5552e4aef24c998eeeb6f8f298a3eb",
+   "pack.json": "19dbb4251dc3613a10c090fcad6850426265c945dc69a057a588bfe225057ecc",
+   "抽取规矩.txt": "b4ec921643aab1c100de1f904d9df9e600ed74fa5a1cb616afde58de7f292531"
+  },
+  "R04": {
+   "context.txt": "4c1d401c1538b0872d6ab2fbc195991bd7c6e68774ebbf44a5a5d6abdbad9ad8",
+   "instructions.txt": "06836465000a17813f821353b9bd8dd76152cd583f75e16f708b0cf226309b7b",
+   "output_template.json": "1eb8f7559ba30e842c7874b2f146dfcd141c164fde2e6f8e1ad6835bcab5b7e0",
+   "pack.json": "4242d5025735ab2ef5fbed3abbd2317028948092ddbc425574ac514d9e649570",
+   "抽取规矩.txt": "b4ec921643aab1c100de1f904d9df9e600ed74fa5a1cb616afde58de7f292531"
+  },
+  "R05": {
+   "context.txt": "18c517d30b895ea6358e0c00dad94a384bbd4dad843dc577925b1cea46cf39da",
+   "instructions.txt": "06836465000a17813f821353b9bd8dd76152cd583f75e16f708b0cf226309b7b",
+   "output_template.json": "ff72145fa0c187f0cc4d1df34a5cf08257a4e6c0a429ab3a1bf2b00a4e38a753",
+   "pack.json": "7b481bd3de9a8bb1e015bd2058b608f7ad26ea6895bbf236da05a207afb474a5",
+   "抽取规矩.txt": "b4ec921643aab1c100de1f904d9df9e600ed74fa5a1cb616afde58de7f292531"
+  },
+  "R06": {
+   "context.txt": "13bb5f19a99a8cc7aec10cfc130850a74340b3b01b7a5497dedda829bb4a3ff9",
+   "instructions.txt": "06836465000a17813f821353b9bd8dd76152cd583f75e16f708b0cf226309b7b",
+   "output_template.json": "3a2e7730f0d85bfc726c1365006a050f2ca02774b4a97c5e21e5a331ebfb394a",
+   "pack.json": "c08baf086959b9829424d264f93e616abbf2a143d0844e464b9ece3a085f703c",
+   "抽取规矩.txt": "b4ec921643aab1c100de1f904d9df9e600ed74fa5a1cb616afde58de7f292531"
+  },
+  "R07": {
+   "context.txt": "1d7db0fde77178e03f8019b91390478a8b341a1ea75a8640b7798ca942f80cc5",
+   "instructions.txt": "06836465000a17813f821353b9bd8dd76152cd583f75e16f708b0cf226309b7b",
+   "output_template.json": "e76f207efdcf154265a3b482dd1471656c481c0ccbcdd369c8a767735e8cbbb7",
+   "pack.json": "f7e5616f378fb6ae7e1a99716d713e511d123c03c9267116d200bc0d6b835900",
+   "抽取规矩.txt": "b4ec921643aab1c100de1f904d9df9e600ed74fa5a1cb616afde58de7f292531"
+  },
+  "R08": {
+   "context.txt": "a25a73dbc6d834edcb2346496490a23625620811df0fd1ea06dd65ae3065a3b2",
+   "instructions.txt": "06836465000a17813f821353b9bd8dd76152cd583f75e16f708b0cf226309b7b",
+   "output_template.json": "2ec8e9a9bdb247e8f86aeec9e7566b7586e310de339bcea14a590fe26568d82f",
+   "pack.json": "2120f19f545a293c1f897e30d2af71b1363240e8e83acc4610417ec2f1ce5280",
+   "抽取规矩.txt": "b4ec921643aab1c100de1f904d9df9e600ed74fa5a1cb616afde58de7f292531"
+  },
+  "R09": {
+   "context.txt": "6566bc9a3a3abb7b1f364a4810920864cb4a66a8f2d324ee99dae47088edcebb",
+   "instructions.txt": "06836465000a17813f821353b9bd8dd76152cd583f75e16f708b0cf226309b7b",
+   "output_template.json": "1fd7610406e56b4a2f5cdcaa8f0bcf6bf556158a1f8a4380e290c3aedf68c372",
+   "pack.json": "ea5396a0f110f8cf6df611970d9328e3eec366643f419f7e08ea769a862cb1b8",
+   "抽取规矩.txt": "b4ec921643aab1c100de1f904d9df9e600ed74fa5a1cb616afde58de7f292531"
+  },
+  "R10": {
+   "context.txt": "d60cb08b95b9fe3e38aa2c2e27b6dc6595810b4ef4806421fb16ccc7c52b2db6",
+   "instructions.txt": "06836465000a17813f821353b9bd8dd76152cd583f75e16f708b0cf226309b7b",
+   "output_template.json": "57dd20b41f90f2b83702d360d31d17765d9d0354da3781d40e9c5e18449c6050",
+   "pack.json": "1eef7ad25e30034314c9784f24c7ed7ddd69f111445a01555a0f21b7b8899f3e",
+   "抽取规矩.txt": "b4ec921643aab1c100de1f904d9df9e600ed74fa5a1cb616afde58de7f292531"
+  },
+  "R11": {
+   "context.txt": "cbf2697843f6c1590954794297a8ebb44b352140a2c0e9d03253358a2a686fc9",
+   "instructions.txt": "06836465000a17813f821353b9bd8dd76152cd583f75e16f708b0cf226309b7b",
+   "output_template.json": "b5fbde69dbb8cce7d83f38ecaf205f35d999d910dec4601d59277032ac55cc9f",
+   "pack.json": "1592b1e41e9e7fc98a4006ce7e3e3658a71d8387feefcd32d6da29c851d25c1b",
+   "抽取规矩.txt": "b4ec921643aab1c100de1f904d9df9e600ed74fa5a1cb616afde58de7f292531"
+  },
+  "R12": {
+   "context.txt": "c237a5bab4c0987a1b205874c58f40bf965b77ff68648faa486bc5e14de179be",
+   "instructions.txt": "06836465000a17813f821353b9bd8dd76152cd583f75e16f708b0cf226309b7b",
+   "output_template.json": "81adcfe22537d2cace5d49c6253f52400d82adb5ab609686b862a82ae5587627",
+   "pack.json": "ef1527549d7d6b34870af383e2e4d70cbc10bd2c1490d08eb4e90ef1427eb721",
+   "抽取规矩.txt": "b4ec921643aab1c100de1f904d9df9e600ed74fa5a1cb616afde58de7f292531"
+  }
+ }
+}

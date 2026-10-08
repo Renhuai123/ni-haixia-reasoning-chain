@@ -1,0 +1,43 @@
+{
+ "custom_id": "J176",
+ "result": {
+  "type": "succeeded",
+  "message": {
+   "model": "claude-fable-5-1",
+   "id": "msg_011Cfp3CLqSpz9sSbQQ1KFRR",
+   "type": "message",
+   "role": "assistant",
+   "content": [
+    {
+     "type": "thinking",
+     "thinking": "",
+     "signature": "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"
+    },
+    {
+     "type": "text",
+     "text": "{\n \"包\": \"J176\",\n \"答案\": [\n  {\n   \"题\": \"题01\",\n   \"最符合\": \"D\",\n   \"排序\": [\n    \"D\",\n    \"B\",\n    \"A\",\n    \"C\"\n   ],\n   \"理由\": {\n    \"A\": \"命宫重在佐才、武官、军人、位高无权，官禄宫说当官，福德多婚，与陈述的偏房、不当公务员宜教职、兄弟夭折、父母离散都对不上，只有「女命不行、害到自己」略可扯上。\",\n    \"B\": \"命宫与迁移有当老师、与父亲相隔、中年先生有问题，与教职和父母离散略合；但父母宫又说父母会在一起、婚姻好、招贵夫、会结婚，兄弟宫说没有兄弟，和偏房、兄弟夭折相矛盾。\",\n    \"C\": \"兄弟宫虽有当老师，但父母宫说婚姻无事、早婚、母亲待她好，婚姻受父母左右，与偏房、父母离散、自认婚姻不重要的陈述明显相反，命宫几乎没有能对应的个性路线。\",\n    \"D\": \"命宫直接断偏房格、做偏房、先生比她差，命宫代表父亲（像爸爸），官禄没有官带、不会当官（不当公务员），迁移当老师、当校长（教职好），兄弟宫要特别注意兄弟健康安全（夭折），刚强、责任心重的性格也合，相符最多。\"\n   }\n  }\n ]\n}"
+    }
+   ],
+   "container": null,
+   "stop_reason": "end_turn",
+   "stop_sequence": null,
+   "stop_details": null,
+   "usage": {
+    "input_tokens": 14967,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 1062,
+    "output_tokens_details": {
+     "thinking_tokens": 545
+    },
+    "service_tier": "batch",
+    "inference_geo": "global"
+   },
+   "diagnostics": null
+  }
+ }
+}

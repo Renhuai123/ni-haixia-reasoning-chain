@@ -1,0 +1,31 @@
+{
+ "name": "J127",
+ "id": "J127",
+ "role": null,
+ "rerun": 0,
+ "ok": true,
+ "why_not_ok": [],
+ "custom_id": "J127",
+ "batch_id": "msgbatch_01XUZisTMhFtLCgCh4P9VkN7",
+ "model": "claude-fable-5-1",
+ "message_id": "msg_011Cfp3CJvbt79UYooUDoGFz",
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 16358,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 0,
+  "cache_creation": {
+   "ephemeral_5m_input_tokens": 0,
+   "ephemeral_1h_input_tokens": 0
+  },
+  "output_tokens": 1169,
+  "output_tokens_details": {
+   "thinking_tokens": 691
+  },
+  "service_tier": "batch",
+  "inference_geo": "global"
+ },
+ "花费美元": 0.111,
+ "prompt_sha256": "5606ab2607dc43dda971414c007862336843fc3c246adeb5d28a88432eb353b9",
+ "material_dir": "m4f_v1/packets/J127"
+}

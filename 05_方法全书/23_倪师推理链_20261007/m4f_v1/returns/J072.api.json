@@ -1,0 +1,43 @@
+{
+ "custom_id": "J072",
+ "result": {
+  "type": "succeeded",
+  "message": {
+   "model": "claude-fable-5-1",
+   "id": "msg_011Cfp3CJVZ6WrcvdGDnAsw5",
+   "type": "message",
+   "role": "assistant",
+   "content": [
+    {
+     "type": "thinking",
+     "thinking": "",
+     "signature": "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"
+    },
+    {
+     "type": "text",
+     "text": "{\n \"包\": \"J072\",\n \"答案\": [\n  {\n   \"题\": \"题01\",\n   \"最符合\": \"A\",\n   \"排序\": [\n    \"A\",\n    \"C\",\n    \"B\",\n    \"D\"\n   ],\n   \"理由\": {\n    \"A\": \"命宫佐才→当助理秘书、正财→帮人做事领薪水、官禄断私人企业做事，与陈述『适合辅佐别人、领薪水当助手、到私人公司做事』直接吻合；夫妻宫断配偶主见强、领导力强、刚强、狠、妻长，对应『太太能力非常强』；命宫健康最不好、伤身、肾脏有病、意外横祸，与53岁脑中风后半身瘫痪相符；仅夫妻宫武官星、桃花等属泛断，整体相符最多、矛盾最少。\",\n    \"C\": \"命宫有正财→帮人做事领薪水，夫妻宫断配偶主见强、领导力强、配偶最好，与领薪水及太太能干部分相符；但命宫主线为武官星→军人、将军、威震边疆、有生杀之权，财帛家财万贯、官禄当官，与陈述中当助手、在私人公司做事的小职员路线明显不合，本人健康意外也无着落。\",\n    \"B\": \"夫妻宫断配偶主见强、领导力强，命宫有健康最不好、伤身、意外横祸，与太太能干及中风可勉强对应；但命宫主线为武官星→军人、司法官、化将，又断做生意、当老板、巨贾、大富大贵，官禄当公务员当官当老师，与陈述中辅佐他人、领薪水、私人企业路线相悖。\",\n    \"D\": \"财帛宫断不做家庭主妇、做职业妇女、做偏房、中年先生有问题，明显是女命论断；命宫断自己做事业、六亲不靠，夫妻宫断大打出手、配偶形小肥胖，与陈述中男性本人、辅佐他人领薪水、太太能干照顾中风丈夫均不符，仅私人企业做事一条相近，最不相符。\"\n   }\n  }\n ]\n}"
+    }
+   ],
+   "container": null,
+   "stop_reason": "end_turn",
+   "stop_sequence": null,
+   "stop_details": null,
+   "usage": {
+    "input_tokens": 19763,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 1321,
+    "output_tokens_details": {
+     "thinking_tokens": 592
+    },
+    "service_tier": "batch",
+    "inference_geo": "global"
+   },
+   "diagnostics": null
+  }
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "custom_id": "J244",
+ "result": {
+  "type": "succeeded",
+  "message": {
+   "model": "claude-fable-5-1",
+   "id": "msg_011Cfp3CJmRefBcPXYmJzepb",
+   "type": "message",
+   "role": "assistant",
+   "content": [
+    {
+     "type": "thinking",
+     "thinking": "",
+     "signature": "CAQSzwkKEAgSGAI4AUIIdGhpbmtpbmcSDDv6pG6RDtaIqwIRoRoMhbq/J/srCQ8zl4B+IjAJe5e/0VkIj3HD9BhagdViQP/LaDOlnCCNZtLFmSTQjG/8WYVX51J7t1af2uVVqPkq7Ag/0SA9OcMgSObrNzRrTeHIuOehxQ1gB7cNzI6Ec9isNdkKKIppMtbLmwPqhYOlSFwyX7QYlt3MoMgF6/VM446qM565qrD7ok7n++D/IQiyw9b2KbuivJS1L+Ou3yo9PF6TBvsbyS1yknBHqzESO9wju/7wSL0tankKP4+AfXh0PuRnC43MSSpGBO+alJR//zqhUPerX7J1Itq1EMFknNasyKIpQouNfhDhGl65DPN78ynSe1EkzWI9F5+li4DVtFFVCIOfRdl7fQ1/K+1WG7v+ENKMrNwS9jvL0gLS6X5zN+LazxXM/Whk5ij80ipUtumSxGVGx5lAVGol0jXkeisnsioiOjzdeNT8c+y+ml0HMirxVAr29eNEIucYuajz89zche3v/FM5oV8kJLAj6ZtDiJLReYQozrq35xglM4oPYJjqeMybRWrrFqNTbbH+ivulPt7w3NhZzCKnr74JxCg9cnXx3yHVo9A7VQyJFI3/l1e5vOEBYVN8119WnMu0PW2JQorUsJIy3pdGI97p/PufiWNtzwLTo+sr5LogDdV6QFgGqrIw4od5jKSGB4GUgjEmD9lP34X2sQyjJosbjppWjny3S4LmUt/YX2oNIUILYxa+wZ6TLtmlx/wpXpUNo6j16c3mjkNiCpEaoFmhuQ2giZu9ZIAHynRw1Pr7DorXAqYP6bvS/EvmLZWTPXzHN47JPiycJ77lJP2rQsNNiWAUaRZHYT3KFSXTBeyznIuOFrAWIvsUVDcEMPKUrHYVPsM2R/8RylVYVFx5/iu7nIghk0eqrcRwKh+CUNA0a+QFehCJQgFbmu4fGHBd3Sa0fcz0XAF+X3qVyr+wjvmgz5CpnaOmwuKud1vkcJe5uAnd52W+fS31P7Sl6o8LZSZ5UagT/m8i0kQOq/Lboll+It5ras6T3NOVWUNEBnT8iZl/fbfzhzn2yrh+1CeRv1vVBDyTg6Ke0o6fp8CyrCD7fUcaUbt0cceWxlxeVQNTklA3X19BJmXXSc7gywnaAD2+ycUCrQzOcIBYJtyVSTnmThgJj+lYOSPpp3jKBEHNyixjMKsVS3tJK9i30CIcnT72AzEtcGCy1rBQYMADXxnPAlj9YlbXGbYcuDkE93dze6pRrarsRrXT1hHmHjuOIuh6I4WAT6h5g7JsPYDpJ8cnEsQHu+ISceeU/UYgbXbPriMajxi0x9BLf42ZJR+4JP9eGP61SRZLeXYJH9B2vP/aCRBTl6+uNUaOSAU+OhM6gujUKA9EpuBKWAsWzo55mSGZT2YX0aOO+e6Hg6JTiFgxsXGT2e8FUAYF3vkWSVHTFwvns+nE5hVZYOSoTi9r7IXVC74rreksi+1lSMxj1HaPvAesha92FhbRcEyTJARPIjhxgtNnh1WuIPF9zIMgkrTGHt3IcYqcM3331P6HYo/sRL0SFe/HzXHTQUo77rs2VcPiLa6HWDstLw6ljLhzQeEIGyODDBr9GE7DewMlK/xdxIRzqmY2FTCQCqJiNAQHGAE="
+    },
+    {
+     "type": "text",
+     "text": "{\n \"包\": \"J244\",\n \"答案\": [\n  {\n   \"题\": \"题01\",\n   \"最符合\": \"C\",\n   \"排序\": [\n    \"C\",\n    \"D\",\n    \"A\",\n    \"B\"\n   ],\n   \"理由\": {\n    \"A\": \"夫妻宫只断夫妻吵架、大打出手与配偶奔波、武官星（到边疆打仗），勉强沾到聚少散多，但没有离婚、分开之断，与34岁后无夫、33岁前分开不太对得上。\",\n    \"B\": \"夫妻宫断配偶文官带、当公务员、婆媳不和、夫妻吵架，既无离婚分开之断，也无聚少散多，与丈夫做海员之类聚少散多的陈述最不相符。\",\n    \"C\": \"命宫直接断婚姻聚少散多、先生比她差、不靠男人、一个人持家，夫妻宫断离婚、二婚、六亲不靠，与33岁前分开、34岁后无夫、丈夫聚少散多的陈述逐条吻合。\",\n    \"D\": \"夫妻宫断离婚、二婚，与33岁前分开相符，但配偶断为文官带、公务员、在银行界、当老师，与海员式聚少散多不合，且无聚少散多之断，相符程度次于C。\"\n   }\n  }\n ]\n}"
+    }
+   ],
+   "container": null,
+   "stop_reason": "end_turn",
+   "stop_sequence": null,
+   "stop_details": null,
+   "usage": {
+    "input_tokens": 18250,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 774,
+    "output_tokens_details": {
+     "thinking_tokens": 324
+    },
+    "service_tier": "batch",
+    "inference_geo": "global"
+   },
+   "diagnostics": null
+  }
+ }
+}

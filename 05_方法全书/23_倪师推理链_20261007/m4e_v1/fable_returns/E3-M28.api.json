@@ -1,0 +1,43 @@
+{
+ "custom_id": "E3-M28",
+ "result": {
+  "type": "succeeded",
+  "message": {
+   "model": "claude-fable-5-1",
+   "id": "msg_011Cfp49DddqtBXyFc1qU5FN",
+   "type": "message",
+   "role": "assistant",
+   "content": [
+    {
+     "type": "thinking",
+     "thinking": "",
+     "signature": "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"
+    },
+    {
+     "type": "text",
+     "text": "{\n \"包\": \"M28\",\n \"答案\": [\n  {\n   \"题\": \"题28\",\n   \"最符合\": \"D\",\n   \"排序\": [\n    \"D\",\n    \"A\",\n    \"B\",\n    \"C\"\n   ],\n   \"理由\": {\n    \"A\": \"有偏房格、兄弟不和、合伙人即无名分之夫，与陈述的偏房相合；但命宫红光满面、圆脸、很壮、巨富、旺父母孝顺、主二子，与瘦得吓人、六亲靠不上、无子女、遭遇可怜处处矛盾。\",\n    \"B\": \"天梁坐命正派厚道，兄弟斯文当官，夫妻宫虽婚姻不好、巨门吵架，但一子且无偏房、无父母离散之象，与被领养、无子、凶恶泼妇性格不合。\",\n    \"C\": \"廉贞天府坐命，妖艳眯眯眼、温和厚道善良、魁钺夹命主贵、工作顺利，与瘦骨嶙峋、凶恶刚拗、六亲无靠的陈述几乎全不相符。\",\n    \"D\": \"命宫一颗杀星独守、凶中之凶、祸不单行，明断偏房格；父母宫离散父母合被领养见不到父母，兄弟宫化忌不和、劫杀合兄弟靠不上，子女宫多处要注意健康安全合无子女；身在迁移一去不回、个性很强、鼠窃等亦合其孤苦刚拗之遭遇，相符最多。\"\n   }\n  }\n ]\n}"
+    }
+   ],
+   "container": null,
+   "stop_reason": "end_turn",
+   "stop_sequence": null,
+   "stop_details": null,
+   "usage": {
+    "input_tokens": 12141,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 1110,
+    "output_tokens_details": {
+     "thinking_tokens": 580
+    },
+    "service_tier": "batch",
+    "inference_geo": "global"
+   },
+   "diagnostics": null
+  }
+ }
+}

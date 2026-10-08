@@ -1,0 +1,998 @@
+{
+ "kind": "coder",
+ "model": "claude-fable-5-1",
+ "effort": "high",
+ "max_tokens": 100000,
+ "tasks": {
+  "N01_A": {
+   "name": "N01_甲",
+   "id": "N01",
+   "role": "甲",
+   "rerun": 0,
+   "dir": "trad_v1/formal/N01",
+   "instructions": null,
+   "prompt_sha256": "aacf9cc1822fa03aede5c1863b238a04a7789a277a8c890e1f99255569c6b784"
+  },
+  "N01_B": {
+   "name": "N01_乙",
+   "id": "N01",
+   "role": "乙",
+   "rerun": 0,
+   "dir": "trad_v1/formal/N01",
+   "instructions": null,
+   "prompt_sha256": "aacf9cc1822fa03aede5c1863b238a04a7789a277a8c890e1f99255569c6b784"
+  },
+  "N02_A": {
+   "name": "N02_甲",
+   "id": "N02",
+   "role": "甲",
+   "rerun": 0,
+   "dir": "trad_v1/formal/N02",
+   "instructions": null,
+   "prompt_sha256": "026252bedc771609b1fdd1cac8bfdfd28c0771595abe3a22aba18c9f14ca6cd5"
+  },
+  "N02_B": {
+   "name": "N02_乙",
+   "id": "N02",
+   "role": "乙",
+   "rerun": 0,
+   "dir": "trad_v1/formal/N02",
+   "instructions": null,
+   "prompt_sha256": "026252bedc771609b1fdd1cac8bfdfd28c0771595abe3a22aba18c9f14ca6cd5"
+  },
+  "N03_A": {
+   "name": "N03_甲",
+   "id": "N03",
+   "role": "甲",
+   "rerun": 0,
+   "dir": "trad_v1/formal/N03",
+   "instructions": null,
+   "prompt_sha256": "3b1433d7eac684a870d100ef15bdc476bf3ce1f13951dedb9b265791f8320f90"
+  },
+  "N03_B": {
+   "name": "N03_乙",
+   "id": "N03",
+   "role": "乙",
+   "rerun": 0,
+   "dir": "trad_v1/formal/N03",
+   "instructions": null,
+   "prompt_sha256": "3b1433d7eac684a870d100ef15bdc476bf3ce1f13951dedb9b265791f8320f90"
+  },
+  "N04_A": {
+   "name": "N04_甲",
+   "id": "N04",
+   "role": "甲",
+   "rerun": 0,
+   "dir": "trad_v1/formal/N04",
+   "instructions": null,
+   "prompt_sha256": "ddec3c1e852677d1c03dddc8392cf2afb82ad43c825fcefff5eac3ac66526d2b"
+  },
+  "N04_B": {
+   "name": "N04_乙",
+   "id": "N04",
+   "role": "乙",
+   "rerun": 0,
+   "dir": "trad_v1/formal/N04",
+   "instructions": null,
+   "prompt_sha256": "ddec3c1e852677d1c03dddc8392cf2afb82ad43c825fcefff5eac3ac66526d2b"
+  },
+  "N05_A": {
+   "name": "N05_甲",
+   "id": "N05",
+   "role": "甲",
+   "rerun": 0,
+   "dir": "trad_v1/formal/N05",
+   "instructions": null,
+   "prompt_sha256": "99ab9befb913d310618a470c5b19492d70fb4897fa0a7d6b2f6d90099c8a0c6f"
+  },
+  "N05_B": {
+   "name": "N05_乙",
+   "id": "N05",
+   "role": "乙",
+   "rerun": 0,
+   "dir": "trad_v1/formal/N05",
+   "instructions": null,
+   "prompt_sha256": "99ab9befb913d310618a470c5b19492d70fb4897fa0a7d6b2f6d90099c8a0c6f"
+  },
+  "N06_A": {
+   "name": "N06_甲",
+   "id": "N06",
+   "role": "甲",
+   "rerun": 0,
+   "dir": "trad_v1/formal/N06",
+   "instructions": null,
+   "prompt_sha256": "a5fc60a0b78d136baf8a2a6200e3748c9162ce80172e521cfac024ba638a5aee"
+  },
+  "N06_B": {
+   "name": "N06_乙",
+   "id": "N06",
+   "role": "乙",
+   "rerun": 0,
+   "dir": "trad_v1/formal/N06",
+   "instructions": null,
+   "prompt_sha256": "a5fc60a0b78d136baf8a2a6200e3748c9162ce80172e521cfac024ba638a5aee"
+  },
+  "N07_A": {
+   "name": "N07_甲",
+   "id": "N07",
+   "role": "甲",
+   "rerun": 0,
+   "dir": "trad_v1/formal/N07",
+   "instructions": null,
+   "prompt_sha256": "976ab7e31ecb7bc80b12d216d7db211cb7e8c29a9a08623150cd56bfc5ee2a27"
+  },
+  "N07_B": {
+   "name": "N07_乙",
+   "id": "N07",
+   "role": "乙",
+   "rerun": 0,
+   "dir": "trad_v1/formal/N07",
+   "instructions": null,
+   "prompt_sha256": "976ab7e31ecb7bc80b12d216d7db211cb7e8c29a9a08623150cd56bfc5ee2a27"
+  },
+  "N08_A": {
+   "name": "N08_甲",
+   "id": "N08",
+   "role": "甲",
+   "rerun": 0,
+   "dir": "trad_v1/formal/N08",
+   "instructions": null,
+   "prompt_sha256": "3e26a616b60417346ecc04d77a39145115e27f97c075c94bc41d31e460760745"
+  },
+  "N08_B": {
+   "name": "N08_乙",
+   "id": "N08",
+   "role": "乙",
+   "rerun": 0,
+   "dir": "trad_v1/formal/N08",
+   "instructions": null,
+   "prompt_sha256": "3e26a616b60417346ecc04d77a39145115e27f97c075c94bc41d31e460760745"
+  },
+  "N09_A": {
+   "name": "N09_甲",
+   "id": "N09",
+   "role": "甲",
+   "rerun": 0,
+   "dir": "trad_v1/formal/N09",
+   "instructions": null,
+   "prompt_sha256": "f6ffd577492d9c39c94627ed756ef11648dd383d6771933fcae185d850cac142"
+  },
+  "N09_B": {
+   "name": "N09_乙",
+   "id": "N09",
+   "role": "乙",
+   "rerun": 0,
+   "dir": "trad_v1/formal/N09",
+   "instructions": null,
+   "prompt_sha256": "f6ffd577492d9c39c94627ed756ef11648dd383d6771933fcae185d850cac142"
+  },
+  "N10_A": {
+   "name": "N10_甲",
+   "id": "N10",
+   "role": "甲",
+   "rerun": 0,
+   "dir": "trad_v1/formal/N10",
+   "instructions": null,
+   "prompt_sha256": "fad6d132030ef68a6b680de815c87788fb80221fd8d982280a4f8b82a5f95249"
+  },
+  "N10_B": {
+   "name": "N10_乙",
+   "id": "N10",
+   "role": "乙",
+   "rerun": 0,
+   "dir": "trad_v1/formal/N10",
+   "instructions": null,
+   "prompt_sha256": "fad6d132030ef68a6b680de815c87788fb80221fd8d982280a4f8b82a5f95249"
+  },
+  "N11_A": {
+   "name": "N11_甲",
+   "id": "N11",
+   "role": "甲",
+   "rerun": 0,
+   "dir": "trad_v1/formal/N11",
+   "instructions": null,
+   "prompt_sha256": "d84673697e1597bd41b06eeb1d90439db9d6b6034fef8353849cc297e974450b"
+  },
+  "N11_B": {
+   "name": "N11_乙",
+   "id": "N11",
+   "role": "乙",
+   "rerun": 0,
+   "dir": "trad_v1/formal/N11",
+   "instructions": null,
+   "prompt_sha256": "d84673697e1597bd41b06eeb1d90439db9d6b6034fef8353849cc297e974450b"
+  },
+  "N12_A": {
+   "name": "N12_甲",
+   "id": "N12",
+   "role": "甲",
+   "rerun": 0,
+   "dir": "trad_v1/formal/N12",
+   "instructions": null,
+   "prompt_sha256": "5f0074d63bf91f16661d843c6220d9e266687b045cb8a1e83d0dbb1585cd09c8"
+  },
+  "N12_B": {
+   "name": "N12_乙",
+   "id": "N12",
+   "role": "乙",
+   "rerun": 0,
+   "dir": "trad_v1/formal/N12",
+   "instructions": null,
+   "prompt_sha256": "5f0074d63bf91f16661d843c6220d9e266687b045cb8a1e83d0dbb1585cd09c8"
+  },
+  "N13_A": {
+   "name": "N13_甲",
+   "id": "N13",
+   "role": "甲",
+   "rerun": 0,
+   "dir": "trad_v1/formal/N13",
+   "instructions": null,
+   "prompt_sha256": "27a231a9fbcf5102cf9290772ab217065b94c37165d68db57c38ccd0de82bc88"
+  },
+  "N13_B": {
+   "name": "N13_乙",
+   "id": "N13",
+   "role": "乙",
+   "rerun": 0,
+   "dir": "trad_v1/formal/N13",
+   "instructions": null,
+   "prompt_sha256": "27a231a9fbcf5102cf9290772ab217065b94c37165d68db57c38ccd0de82bc88"
+  },
+  "N14_A": {
+   "name": "N14_甲",
+   "id": "N14",
+   "role": "甲",
+   "rerun": 0,
+   "dir": "trad_v1/formal/N14",
+   "instructions": null,
+   "prompt_sha256": "ec2b2cf0565e60a3df7b468950698aeccda9d7b6e0e8c9bb89e27ab59f11db6f"
+  },
+  "N14_B": {
+   "name": "N14_乙",
+   "id": "N14",
+   "role": "乙",
+   "rerun": 0,
+   "dir": "trad_v1/formal/N14",
+   "instructions": null,
+   "prompt_sha256": "ec2b2cf0565e60a3df7b468950698aeccda9d7b6e0e8c9bb89e27ab59f11db6f"
+  },
+  "N15_A": {
+   "name": "N15_甲",
+   "id": "N15",
+   "role": "甲",
+   "rerun": 0,
+   "dir": "trad_v1/formal/N15",
+   "instructions": null,
+   "prompt_sha256": "9f0882347d4ac1af17fd02c8b64ae1f1c0a7ade47b227f7eb634eac6bddcca80"
+  },
+  "N15_B": {
+   "name": "N15_乙",
+   "id": "N15",
+   "role": "乙",
+   "rerun": 0,
+   "dir": "trad_v1/formal/N15",
+   "instructions": null,
+   "prompt_sha256": "9f0882347d4ac1af17fd02c8b64ae1f1c0a7ade47b227f7eb634eac6bddcca80"
+  },
+  "N16_A": {
+   "name": "N16_甲",
+   "id": "N16",
+   "role": "甲",
+   "rerun": 0,
+   "dir": "trad_v1/formal/N16",
+   "instructions": null,
+   "prompt_sha256": "12ac5cf2d2b0a1ab55aad211cb28d9993631cf5399f7b6e0286daec95b45337a"
+  },
+  "N16_B": {
+   "name": "N16_乙",
+   "id": "N16",
+   "role": "乙",
+   "rerun": 0,
+   "dir": "trad_v1/formal/N16",
+   "instructions": null,
+   "prompt_sha256": "12ac5cf2d2b0a1ab55aad211cb28d9993631cf5399f7b6e0286daec95b45337a"
+  },
+  "N17_A": {
+   "name": "N17_甲",
+   "id": "N17",
+   "role": "甲",
+   "rerun": 0,
+   "dir": "trad_v1/formal/N17",
+   "instructions": null,
+   "prompt_sha256": "e1d2354b9a652ddc6dbcce298a9260759738e3cac40498f92b7b5996fe995019"
+  },
+  "N17_B": {
+   "name": "N17_乙",
+   "id": "N17",
+   "role": "乙",
+   "rerun": 0,
+   "dir": "trad_v1/formal/N17",
+   "instructions": null,
+   "prompt_sha256": "e1d2354b9a652ddc6dbcce298a9260759738e3cac40498f92b7b5996fe995019"
+  },
+  "N18_A": {
+   "name": "N18_甲",
+   "id": "N18",
+   "role": "甲",
+   "rerun": 0,
+   "dir": "trad_v1/formal/N18",
+   "instructions": null,
+   "prompt_sha256": "6c4aa904abf24da19fee62a6b386213906cbd6dcc47451f7b843a4c9ba03adfd"
+  },
+  "N18_B": {
+   "name": "N18_乙",
+   "id": "N18",
+   "role": "乙",
+   "rerun": 0,
+   "dir": "trad_v1/formal/N18",
+   "instructions": null,
+   "prompt_sha256": "6c4aa904abf24da19fee62a6b386213906cbd6dcc47451f7b843a4c9ba03adfd"
+  },
+  "N19_A": {
+   "name": "N19_甲",
+   "id": "N19",
+   "role": "甲",
+   "rerun": 0,
+   "dir": "trad_v1/formal/N19",
+   "instructions": null,
+   "prompt_sha256": "095df6e13d5cc3774ac3d90e3d6653f27f656514774a99a78675446505860074"
+  },
+  "N19_B": {
+   "name": "N19_乙",
+   "id": "N19",
+   "role": "乙",
+   "rerun": 0,
+   "dir": "trad_v1/formal/N19",
+   "instructions": null,
+   "prompt_sha256": "095df6e13d5cc3774ac3d90e3d6653f27f656514774a99a78675446505860074"
+  },
+  "N20_A": {
+   "name": "N20_甲",
+   "id": "N20",
+   "role": "甲",
+   "rerun": 0,
+   "dir": "trad_v1/formal/N20",
+   "instructions": null,
+   "prompt_sha256": "ef6f3dd27f3cb78b41f7bf9fc12582924b6689c5c82874634539a0a5cd54c3ee"
+  },
+  "N20_B": {
+   "name": "N20_乙",
+   "id": "N20",
+   "role": "乙",
+   "rerun": 0,
+   "dir": "trad_v1/formal/N20",
+   "instructions": null,
+   "prompt_sha256": "ef6f3dd27f3cb78b41f7bf9fc12582924b6689c5c82874634539a0a5cd54c3ee"
+  },
+  "N21_A": {
+   "name": "N21_甲",
+   "id": "N21",
+   "role": "甲",
+   "rerun": 0,
+   "dir": "trad_v1/formal/N21",
+   "instructions": null,
+   "prompt_sha256": "4cd8de46880f2027997083fcc0de0a054aa64f0fe13fe1584af7ddbc608a8c54"
+  },
+  "N21_B": {
+   "name": "N21_乙",
+   "id": "N21",
+   "role": "乙",
+   "rerun": 0,
+   "dir": "trad_v1/formal/N21",
+   "instructions": null,
+   "prompt_sha256": "4cd8de46880f2027997083fcc0de0a054aa64f0fe13fe1584af7ddbc608a8c54"
+  },
+  "N22_A": {
+   "name": "N22_甲",
+   "id": "N22",
+   "role": "甲",
+   "rerun": 0,
+   "dir": "trad_v1/formal/N22",
+   "instructions": null,
+   "prompt_sha256": "09306062be435eeb6cba4da19aa95c383c3cd0319ad0b525dd6ea027dcf836f3"
+  },
+  "N22_B": {
+   "name": "N22_乙",
+   "id": "N22",
+   "role": "乙",
+   "rerun": 0,
+   "dir": "trad_v1/formal/N22",
+   "instructions": null,
+   "prompt_sha256": "09306062be435eeb6cba4da19aa95c383c3cd0319ad0b525dd6ea027dcf836f3"
+  },
+  "N23_A": {
+   "name": "N23_甲",
+   "id": "N23",
+   "role": "甲",
+   "rerun": 0,
+   "dir": "trad_v1/formal/N23",
+   "instructions": null,
+   "prompt_sha256": "29f4ef2a6dcf523f75698ada5d254c8af93973f3d91a00e5d405d914839261fe"
+  },
+  "N23_B": {
+   "name": "N23_乙",
+   "id": "N23",
+   "role": "乙",
+   "rerun": 0,
+   "dir": "trad_v1/formal/N23",
+   "instructions": null,
+   "prompt_sha256": "29f4ef2a6dcf523f75698ada5d254c8af93973f3d91a00e5d405d914839261fe"
+  },
+  "N24_A": {
+   "name": "N24_甲",
+   "id": "N24",
+   "role": "甲",
+   "rerun": 0,
+   "dir": "trad_v1/formal/N24",
+   "instructions": null,
+   "prompt_sha256": "b50bba45726d8f74f6edf466bd8e0d904154b11d5869ffeb36701545871dff8e"
+  },
+  "N24_B": {
+   "name": "N24_乙",
+   "id": "N24",
+   "role": "乙",
+   "rerun": 0,
+   "dir": "trad_v1/formal/N24",
+   "instructions": null,
+   "prompt_sha256": "b50bba45726d8f74f6edf466bd8e0d904154b11d5869ffeb36701545871dff8e"
+  },
+  "N25_A": {
+   "name": "N25_甲",
+   "id": "N25",
+   "role": "甲",
+   "rerun": 0,
+   "dir": "trad_v1/formal/N25",
+   "instructions": null,
+   "prompt_sha256": "7e2f6b192b330528bd6d65aa515301db608e4a9a668c0e40b0dfeba774f8a0a7"
+  },
+  "N25_B": {
+   "name": "N25_乙",
+   "id": "N25",
+   "role": "乙",
+   "rerun": 0,
+   "dir": "trad_v1/formal/N25",
+   "instructions": null,
+   "prompt_sha256": "7e2f6b192b330528bd6d65aa515301db608e4a9a668c0e40b0dfeba774f8a0a7"
+  },
+  "N26_A": {
+   "name": "N26_甲",
+   "id": "N26",
+   "role": "甲",
+   "rerun": 0,
+   "dir": "trad_v1/formal/N26",
+   "instructions": null,
+   "prompt_sha256": "fb2ad64cd304ebb85e9b2fd1d6a96d229d9aeb4a68bf4719b9452634709ed77b"
+  },
+  "N26_B": {
+   "name": "N26_乙",
+   "id": "N26",
+   "role": "乙",
+   "rerun": 0,
+   "dir": "trad_v1/formal/N26",
+   "instructions": null,
+   "prompt_sha256": "fb2ad64cd304ebb85e9b2fd1d6a96d229d9aeb4a68bf4719b9452634709ed77b"
+  },
+  "N27_A": {
+   "name": "N27_甲",
+   "id": "N27",
+   "role": "甲",
+   "rerun": 0,
+   "dir": "trad_v1/formal/N27",
+   "instructions": null,
+   "prompt_sha256": "d9e099743d7c296dab5f787ea46e70dd36a6c1f3d8da3164be17d24d36814cef"
+  },
+  "N27_B": {
+   "name": "N27_乙",
+   "id": "N27",
+   "role": "乙",
+   "rerun": 0,
+   "dir": "trad_v1/formal/N27",
+   "instructions": null,
+   "prompt_sha256": "d9e099743d7c296dab5f787ea46e70dd36a6c1f3d8da3164be17d24d36814cef"
+  },
+  "N28_A": {
+   "name": "N28_甲",
+   "id": "N28",
+   "role": "甲",
+   "rerun": 0,
+   "dir": "trad_v1/formal/N28",
+   "instructions": null,
+   "prompt_sha256": "f085139079b738de35c7d8d294896e199992974c2f07a642c01d83cace0566ff"
+  },
+  "N28_B": {
+   "name": "N28_乙",
+   "id": "N28",
+   "role": "乙",
+   "rerun": 0,
+   "dir": "trad_v1/formal/N28",
+   "instructions": null,
+   "prompt_sha256": "f085139079b738de35c7d8d294896e199992974c2f07a642c01d83cace0566ff"
+  },
+  "N29_A": {
+   "name": "N29_甲",
+   "id": "N29",
+   "role": "甲",
+   "rerun": 0,
+   "dir": "trad_v1/formal/N29",
+   "instructions": null,
+   "prompt_sha256": "a49d56b837e32f74257780c947ebd5f90861eff9719159175536b430b4c2fdf7"
+  },
+  "N29_B": {
+   "name": "N29_乙",
+   "id": "N29",
+   "role": "乙",
+   "rerun": 0,
+   "dir": "trad_v1/formal/N29",
+   "instructions": null,
+   "prompt_sha256": "a49d56b837e32f74257780c947ebd5f90861eff9719159175536b430b4c2fdf7"
+  },
+  "N30_A": {
+   "name": "N30_甲",
+   "id": "N30",
+   "role": "甲",
+   "rerun": 0,
+   "dir": "trad_v1/formal/N30",
+   "instructions": null,
+   "prompt_sha256": "6860a65ec468c9f3e712dbcbdc09358d50460433d4525f7d1c06adee392da5b2"
+  },
+  "N30_B": {
+   "name": "N30_乙",
+   "id": "N30",
+   "role": "乙",
+   "rerun": 0,
+   "dir": "trad_v1/formal/N30",
+   "instructions": null,
+   "prompt_sha256": "6860a65ec468c9f3e712dbcbdc09358d50460433d4525f7d1c06adee392da5b2"
+  },
+  "N31_A": {
+   "name": "N31_甲",
+   "id": "N31",
+   "role": "甲",
+   "rerun": 0,
+   "dir": "trad_v1/formal/N31",
+   "instructions": null,
+   "prompt_sha256": "ed6410e15227b8fbd6fa2540dcc4a5bedb2b44de5363daf75723a097a1731ece"
+  },
+  "N31_B": {
+   "name": "N31_乙",
+   "id": "N31",
+   "role": "乙",
+   "rerun": 0,
+   "dir": "trad_v1/formal/N31",
+   "instructions": null,
+   "prompt_sha256": "ed6410e15227b8fbd6fa2540dcc4a5bedb2b44de5363daf75723a097a1731ece"
+  },
+  "N32_A": {
+   "name": "N32_甲",
+   "id": "N32",
+   "role": "甲",
+   "rerun": 0,
+   "dir": "trad_v1/formal/N32",
+   "instructions": null,
+   "prompt_sha256": "43078842445bf80a7f798e4994349fa5716f6232962eeaf4eb38af651af00668"
+  },
+  "N32_B": {
+   "name": "N32_乙",
+   "id": "N32",
+   "role": "乙",
+   "rerun": 0,
+   "dir": "trad_v1/formal/N32",
+   "instructions": null,
+   "prompt_sha256": "43078842445bf80a7f798e4994349fa5716f6232962eeaf4eb38af651af00668"
+  },
+  "N33_A": {
+   "name": "N33_甲",
+   "id": "N33",
+   "role": "甲",
+   "rerun": 0,
+   "dir": "trad_v1/formal/N33",
+   "instructions": null,
+   "prompt_sha256": "14bd2a01c74e3cc1cbd7b7c5662db21109920d48f81e0e98352e4d79a3152437"
+  },
+  "N33_B": {
+   "name": "N33_乙",
+   "id": "N33",
+   "role": "乙",
+   "rerun": 0,
+   "dir": "trad_v1/formal/N33",
+   "instructions": null,
+   "prompt_sha256": "14bd2a01c74e3cc1cbd7b7c5662db21109920d48f81e0e98352e4d79a3152437"
+  },
+  "N34_A": {
+   "name": "N34_甲",
+   "id": "N34",
+   "role": "甲",
+   "rerun": 0,
+   "dir": "trad_v1/formal/N34",
+   "instructions": null,
+   "prompt_sha256": "2a9a08955285cab723893fa197e792d654074b39b048b62561ef75868dad88d5"
+  },
+  "N34_B": {
+   "name": "N34_乙",
+   "id": "N34",
+   "role": "乙",
+   "rerun": 0,
+   "dir": "trad_v1/formal/N34",
+   "instructions": null,
+   "prompt_sha256": "2a9a08955285cab723893fa197e792d654074b39b048b62561ef75868dad88d5"
+  },
+  "N35_A": {
+   "name": "N35_甲",
+   "id": "N35",
+   "role": "甲",
+   "rerun": 0,
+   "dir": "trad_v1/formal/N35",
+   "instructions": null,
+   "prompt_sha256": "19010b065706947fc51b31caaf016276a63e4b762916a6463baab13b9d3583d8"
+  },
+  "N35_B": {
+   "name": "N35_乙",
+   "id": "N35",
+   "role": "乙",
+   "rerun": 0,
+   "dir": "trad_v1/formal/N35",
+   "instructions": null,
+   "prompt_sha256": "19010b065706947fc51b31caaf016276a63e4b762916a6463baab13b9d3583d8"
+  },
+  "N36_A": {
+   "name": "N36_甲",
+   "id": "N36",
+   "role": "甲",
+   "rerun": 0,
+   "dir": "trad_v1/formal/N36",
+   "instructions": null,
+   "prompt_sha256": "e61f01d7c57397a666987e42a6684dbc796ac5090d571acb3d1297ca8343dc45"
+  },
+  "N36_B": {
+   "name": "N36_乙",
+   "id": "N36",
+   "role": "乙",
+   "rerun": 0,
+   "dir": "trad_v1/formal/N36",
+   "instructions": null,
+   "prompt_sha256": "e61f01d7c57397a666987e42a6684dbc796ac5090d571acb3d1297ca8343dc45"
+  },
+  "N37_A": {
+   "name": "N37_甲",
+   "id": "N37",
+   "role": "甲",
+   "rerun": 0,
+   "dir": "trad_v1/formal/N37",
+   "instructions": null,
+   "prompt_sha256": "79c361a8431b01867cad4e6f959b2426dd982729298db522e321019b796ff007"
+  },
+  "N37_B": {
+   "name": "N37_乙",
+   "id": "N37",
+   "role": "乙",
+   "rerun": 0,
+   "dir": "trad_v1/formal/N37",
+   "instructions": null,
+   "prompt_sha256": "79c361a8431b01867cad4e6f959b2426dd982729298db522e321019b796ff007"
+  },
+  "Q01_A": {
+   "name": "Q01_甲",
+   "id": "Q01",
+   "role": "甲",
+   "rerun": 0,
+   "dir": "trad_v1/formal/Q01",
+   "instructions": null,
+   "prompt_sha256": "ba487bdcd343cf71dd95843f724f0cfa0b6cc1230e10fd900861006c33facbf1"
+  },
+  "Q01_B": {
+   "name": "Q01_乙",
+   "id": "Q01",
+   "role": "乙",
+   "rerun": 0,
+   "dir": "trad_v1/formal/Q01",
+   "instructions": null,
+   "prompt_sha256": "ba487bdcd343cf71dd95843f724f0cfa0b6cc1230e10fd900861006c33facbf1"
+  },
+  "Q02_A": {
+   "name": "Q02_甲",
+   "id": "Q02",
+   "role": "甲",
+   "rerun": 0,
+   "dir": "trad_v1/formal/Q02",
+   "instructions": null,
+   "prompt_sha256": "f1bfd659df501a6f007029bce74f3d6b266316aa238c862cf5831f0f9414d5bf"
+  },
+  "Q02_B": {
+   "name": "Q02_乙",
+   "id": "Q02",
+   "role": "乙",
+   "rerun": 0,
+   "dir": "trad_v1/formal/Q02",
+   "instructions": null,
+   "prompt_sha256": "f1bfd659df501a6f007029bce74f3d6b266316aa238c862cf5831f0f9414d5bf"
+  },
+  "Q03_A": {
+   "name": "Q03_甲",
+   "id": "Q03",
+   "role": "甲",
+   "rerun": 0,
+   "dir": "trad_v1/formal/Q03",
+   "instructions": null,
+   "prompt_sha256": "c638dc534983fbc5637c860ce8e3c7ecaae2373f809e8cd89430d3563272e53a"
+  },
+  "Q03_B": {
+   "name": "Q03_乙",
+   "id": "Q03",
+   "role": "乙",
+   "rerun": 0,
+   "dir": "trad_v1/formal/Q03",
+   "instructions": null,
+   "prompt_sha256": "c638dc534983fbc5637c860ce8e3c7ecaae2373f809e8cd89430d3563272e53a"
+  },
+  "Q04_A": {
+   "name": "Q04_甲",
+   "id": "Q04",
+   "role": "甲",
+   "rerun": 0,
+   "dir": "trad_v1/formal/Q04",
+   "instructions": null,
+   "prompt_sha256": "abc957c6731102a7aa6c4ee12295b068d985e3352f7e32a548da3cb3a170799e"
+  },
+  "Q04_B": {
+   "name": "Q04_乙",
+   "id": "Q04",
+   "role": "乙",
+   "rerun": 0,
+   "dir": "trad_v1/formal/Q04",
+   "instructions": null,
+   "prompt_sha256": "abc957c6731102a7aa6c4ee12295b068d985e3352f7e32a548da3cb3a170799e"
+  },
+  "Q05_A": {
+   "name": "Q05_甲",
+   "id": "Q05",
+   "role": "甲",
+   "rerun": 0,
+   "dir": "trad_v1/formal/Q05",
+   "instructions": null,
+   "prompt_sha256": "7eec3551eda5927e5904b172d1f9608f1f3712061caf4a54a4d46b994635cc53"
+  },
+  "Q05_B": {
+   "name": "Q05_乙",
+   "id": "Q05",
+   "role": "乙",
+   "rerun": 0,
+   "dir": "trad_v1/formal/Q05",
+   "instructions": null,
+   "prompt_sha256": "7eec3551eda5927e5904b172d1f9608f1f3712061caf4a54a4d46b994635cc53"
+  },
+  "Q06_A": {
+   "name": "Q06_甲",
+   "id": "Q06",
+   "role": "甲",
+   "rerun": 0,
+   "dir": "trad_v1/formal/Q06",
+   "instructions": null,
+   "prompt_sha256": "debf026bfaca4f1053042a2ec07a8b7f54eaabe213ab140232685c6b8a583f05"
+  },
+  "Q06_B": {
+   "name": "Q06_乙",
+   "id": "Q06",
+   "role": "乙",
+   "rerun": 0,
+   "dir": "trad_v1/formal/Q06",
+   "instructions": null,
+   "prompt_sha256": "debf026bfaca4f1053042a2ec07a8b7f54eaabe213ab140232685c6b8a583f05"
+  },
+  "Q07_A": {
+   "name": "Q07_甲",
+   "id": "Q07",
+   "role": "甲",
+   "rerun": 0,
+   "dir": "trad_v1/formal/Q07",
+   "instructions": null,
+   "prompt_sha256": "3993f054bd59c31f314a48d7e0fa4066ce4c817d05877773641bffe8d74c5b37"
+  },
+  "Q07_B": {
+   "name": "Q07_乙",
+   "id": "Q07",
+   "role": "乙",
+   "rerun": 0,
+   "dir": "trad_v1/formal/Q07",
+   "instructions": null,
+   "prompt_sha256": "3993f054bd59c31f314a48d7e0fa4066ce4c817d05877773641bffe8d74c5b37"
+  },
+  "Q08_A": {
+   "name": "Q08_甲",
+   "id": "Q08",
+   "role": "甲",
+   "rerun": 0,
+   "dir": "trad_v1/formal/Q08",
+   "instructions": null,
+   "prompt_sha256": "a187fb841f6bcbecba1de22548aebc3ed84541cbce2ae6b20080558c109e3181"
+  },
+  "Q08_B": {
+   "name": "Q08_乙",
+   "id": "Q08",
+   "role": "乙",
+   "rerun": 0,
+   "dir": "trad_v1/formal/Q08",
+   "instructions": null,
+   "prompt_sha256": "a187fb841f6bcbecba1de22548aebc3ed84541cbce2ae6b20080558c109e3181"
+  },
+  "Q09_A": {
+   "name": "Q09_甲",
+   "id": "Q09",
+   "role": "甲",
+   "rerun": 0,
+   "dir": "trad_v1/formal/Q09",
+   "instructions": null,
+   "prompt_sha256": "d2e2946ac09ee3ea650944e62465942e85883dca2307d54a836cd16e262eb241"
+  },
+  "Q09_B": {
+   "name": "Q09_乙",
+   "id": "Q09",
+   "role": "乙",
+   "rerun": 0,
+   "dir": "trad_v1/formal/Q09",
+   "instructions": null,
+   "prompt_sha256": "d2e2946ac09ee3ea650944e62465942e85883dca2307d54a836cd16e262eb241"
+  },
+  "Q10_A": {
+   "name": "Q10_甲",
+   "id": "Q10",
+   "role": "甲",
+   "rerun": 0,
+   "dir": "trad_v1/formal/Q10",
+   "instructions": null,
+   "prompt_sha256": "105663d29b366658d59a12c870cf1e73f88e515b1186d9882ac893c3480fa0a4"
+  },
+  "Q10_B": {
+   "name": "Q10_乙",
+   "id": "Q10",
+   "role": "乙",
+   "rerun": 0,
+   "dir": "trad_v1/formal/Q10",
+   "instructions": null,
+   "prompt_sha256": "105663d29b366658d59a12c870cf1e73f88e515b1186d9882ac893c3480fa0a4"
+  },
+  "Q11_A": {
+   "name": "Q11_甲",
+   "id": "Q11",
+   "role": "甲",
+   "rerun": 0,
+   "dir": "trad_v1/formal/Q11",
+   "instructions": null,
+   "prompt_sha256": "783619a3b620a8264e054586bc301d1dd74ecc3a057f79f4914e4fb26e51b575"
+  },
+  "Q11_B": {
+   "name": "Q11_乙",
+   "id": "Q11",
+   "role": "乙",
+   "rerun": 0,
+   "dir": "trad_v1/formal/Q11",
+   "instructions": null,
+   "prompt_sha256": "783619a3b620a8264e054586bc301d1dd74ecc3a057f79f4914e4fb26e51b575"
+  },
+  "Q12_A": {
+   "name": "Q12_甲",
+   "id": "Q12",
+   "role": "甲",
+   "rerun": 0,
+   "dir": "trad_v1/formal/Q12",
+   "instructions": null,
+   "prompt_sha256": "9a8c9679d53c9bee48232c32e0ac6d1dfa788d9403b3149cefcb0c699f0ea2a4"
+  },
+  "Q12_B": {
+   "name": "Q12_乙",
+   "id": "Q12",
+   "role": "乙",
+   "rerun": 0,
+   "dir": "trad_v1/formal/Q12",
+   "instructions": null,
+   "prompt_sha256": "9a8c9679d53c9bee48232c32e0ac6d1dfa788d9403b3149cefcb0c699f0ea2a4"
+  },
+  "Q13_A": {
+   "name": "Q13_甲",
+   "id": "Q13",
+   "role": "甲",
+   "rerun": 0,
+   "dir": "trad_v1/formal/Q13",
+   "instructions": null,
+   "prompt_sha256": "27c41b3f3c9d5ae5bcfb945beb2f8ccae387236925e5742fc8239f50ef062def"
+  },
+  "Q13_B": {
+   "name": "Q13_乙",
+   "id": "Q13",
+   "role": "乙",
+   "rerun": 0,
+   "dir": "trad_v1/formal/Q13",
+   "instructions": null,
+   "prompt_sha256": "27c41b3f3c9d5ae5bcfb945beb2f8ccae387236925e5742fc8239f50ef062def"
+  },
+  "Q14_A": {
+   "name": "Q14_甲",
+   "id": "Q14",
+   "role": "甲",
+   "rerun": 0,
+   "dir": "trad_v1/formal/Q14",
+   "instructions": null,
+   "prompt_sha256": "8696433c686ae40a64f8c46243f2fe2e731b0650b26f6535fda6022330937e37"
+  },
+  "Q14_B": {
+   "name": "Q14_乙",
+   "id": "Q14",
+   "role": "乙",
+   "rerun": 0,
+   "dir": "trad_v1/formal/Q14",
+   "instructions": null,
+   "prompt_sha256": "8696433c686ae40a64f8c46243f2fe2e731b0650b26f6535fda6022330937e37"
+  },
+  "Q15_A": {
+   "name": "Q15_甲",
+   "id": "Q15",
+   "role": "甲",
+   "rerun": 0,
+   "dir": "trad_v1/formal/Q15",
+   "instructions": null,
+   "prompt_sha256": "6f1aaa1d23be101d5ae879c5634893725e6f1330e674ae0722666b386218fe69"
+  },
+  "Q15_B": {
+   "name": "Q15_乙",
+   "id": "Q15",
+   "role": "乙",
+   "rerun": 0,
+   "dir": "trad_v1/formal/Q15",
+   "instructions": null,
+   "prompt_sha256": "6f1aaa1d23be101d5ae879c5634893725e6f1330e674ae0722666b386218fe69"
+  },
+  "Q16_A": {
+   "name": "Q16_甲",
+   "id": "Q16",
+   "role": "甲",
+   "rerun": 0,
+   "dir": "trad_v1/formal/Q16",
+   "instructions": null,
+   "prompt_sha256": "4d8d16ef2edc07c57be4713571be9267b8c88b9b117690199a1f1c4682bdd7fa"
+  },
+  "Q16_B": {
+   "name": "Q16_乙",
+   "id": "Q16",
+   "role": "乙",
+   "rerun": 0,
+   "dir": "trad_v1/formal/Q16",
+   "instructions": null,
+   "prompt_sha256": "4d8d16ef2edc07c57be4713571be9267b8c88b9b117690199a1f1c4682bdd7fa"
+  },
+  "Q17_A": {
+   "name": "Q17_甲",
+   "id": "Q17",
+   "role": "甲",
+   "rerun": 0,
+   "dir": "trad_v1/formal/Q17",
+   "instructions": null,
+   "prompt_sha256": "086af104d5c1cf05ceea7a28813626a0939f47812ea30cb628450412607f7930"
+  },
+  "Q17_B": {
+   "name": "Q17_乙",
+   "id": "Q17",
+   "role": "乙",
+   "rerun": 0,
+   "dir": "trad_v1/formal/Q17",
+   "instructions": null,
+   "prompt_sha256": "086af104d5c1cf05ceea7a28813626a0939f47812ea30cb628450412607f7930"
+  },
+  "Q18_A": {
+   "name": "Q18_甲",
+   "id": "Q18",
+   "role": "甲",
+   "rerun": 0,
+   "dir": "trad_v1/formal/Q18",
+   "instructions": null,
+   "prompt_sha256": "fa2e88a257abead39266bc1c5994ff4e63f26974724f6e841aebbe32bd5f9e55"
+  },
+  "Q18_B": {
+   "name": "Q18_乙",
+   "id": "Q18",
+   "role": "乙",
+   "rerun": 0,
+   "dir": "trad_v1/formal/Q18",
+   "instructions": null,
+   "prompt_sha256": "fa2e88a257abead39266bc1c5994ff4e63f26974724f6e841aebbe32bd5f9e55"
+  }
+ }
+}
